@@ -98,29 +98,53 @@
 
     .submit-btn:hover { background: #3d1f80; transform: translateY(-1px); }
 
-    .filters {
+    .filter-bar {
       display: flex;
-      gap: 0.375rem;
       flex-wrap: wrap;
+      gap: 0.75rem;
+      align-items: center;
+    }
+
+    .filter-group {
+      display: flex;
+      align-items: center;
+      gap: 0.25rem;
+      flex-wrap: wrap;
+    }
+
+    .filter-label {
+      font-family: 'Montserrat', sans-serif;
+      font-size: 0.5625rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      color: #9b8fb5;
+      margin-right: 0.125rem;
     }
 
     .filter-btn {
       font-family: 'Montserrat', sans-serif;
       background: #f7f5fa;
       border: 1px solid #e8e4f0;
-      padding: 0.35rem 0.75rem;
+      padding: 0.3rem 0.625rem;
       border-radius: 9999px;
-      font-size: 0.6875rem;
+      font-size: 0.625rem;
       font-weight: 600;
       cursor: pointer;
       color: #6b5b8a;
       transition: all 0.15s;
-      text-transform: uppercase;
-      letter-spacing: 0.03em;
+      letter-spacing: 0.02em;
     }
 
     .filter-btn:hover { border-color: #2d1560; color: #2d1560; background: #f0ebf8; }
     .filter-btn.active { background: #2d1560; color: #fff; border-color: #2d1560; }
+
+    .filter-sep {
+      width: 1px;
+      height: 20px;
+      background: #e8e4f0;
+      margin: 0 0.25rem;
+    }
 
     /* ---- EVENTS ---- */
     .container {
@@ -311,6 +335,8 @@
       .hero .subheader { font-size: 0.9rem; }
       .toolbar { flex-direction: column; align-items: stretch; padding: 1rem 1.25rem; }
       .submit-btn { justify-content: center; }
+      .filter-bar { gap: 0.5rem; }
+      .filter-sep { display: none; }
       .container { padding: 0 1.25rem 3rem; }
       .date-badge { width: 46px; height: 46px; }
       .date-badge .day { font-size: 1.125rem; }
@@ -332,7 +358,7 @@
 
   <div class="toolbar">
     <a class="submit-btn" href="https://tally.so/r/dWA9do" id="submitBtn" target="_blank">+ Submit an Event</a>
-    <div class="filters" id="filters"></div>
+    <div class="filter-bar" id="filterBar"></div>
   </div>
 
   <div class="container">
@@ -351,10 +377,16 @@
 
 <script>
 const MONTHS = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
-const ALL_TAGS = ['Meetup','Conference','Hackathon','Workshop','Networking','Policy'];
+
+const FILTER_DEFS = [
+  { key: 'type',     label: 'Type',     options: ['Meetup','Conference','Hackathon','Workshop','Networking','Policy'], match: (ev, v) => (ev.tags || []).includes(v) },
+  { key: 'language', label: 'Language',  options: ['EN','PL','EN+PL'], match: (ev, v) => ev.language === v },
+  { key: 'audience', label: 'Audience',  options: ['Founders','Developers','Operators','Researchers','Investors','Corporate','Students','General public'], match: (ev, v) => (ev.audience || '').includes(v) },
+  { key: 'price',    label: 'Price',     options: ['Free','Paid'], match: (ev, v) => ev.price === v }
+];
 
 let allEvents = [];
-let activeFilter = null;
+let activeFilters = {};
 
 function today() {
   const d = new Date();
@@ -364,6 +396,20 @@ function today() {
 function parseDate(dateStr) {
   const [y, m, d] = dateStr.split('-').map(Number);
   return new Date(y, m - 1, d);
+}
+
+function applyFilters(events) {
+  return events.filter(ev => {
+    return FILTER_DEFS.every(def => {
+      const val = activeFilters[def.key];
+      if (!val) return true;
+      return def.match(ev, val);
+    });
+  });
+}
+
+function hasActiveFilters() {
+  return Object.values(activeFilters).some(v => v);
 }
 
 function renderCard(ev) {
@@ -376,7 +422,7 @@ function renderCard(ev) {
   const time = ev.time || '';
 
   return `
-    <div class="event-card" data-tags="${(ev.tags||[]).join(',')}">
+    <div class="event-card">
       <div class="date-badge">
         <div class="month">${month}</div>
         <div class="day">${day}</div>
@@ -400,14 +446,10 @@ function renderCard(ev) {
 
 function render() {
   const t = today();
-  let events = allEvents;
+  const filtered = applyFilters(allEvents);
 
-  if (activeFilter) {
-    events = events.filter(e => (e.tags || []).includes(activeFilter));
-  }
-
-  const upcoming = events.filter(e => e.date >= t).sort((a, b) => a.date.localeCompare(b.date));
-  const past = events.filter(e => e.date < t).sort((a, b) => b.date.localeCompare(a.date));
+  const upcoming = filtered.filter(e => e.date >= t).sort((a, b) => a.date.localeCompare(b.date));
+  const past = filtered.filter(e => e.date < t).sort((a, b) => b.date.localeCompare(a.date));
 
   const upEl = document.getElementById('upcoming');
   const pastEl = document.getElementById('past');
@@ -419,7 +461,7 @@ function render() {
     upEl.innerHTML = upcoming.map(renderCard).join('');
   } else {
     upLabel.style.display = 'none';
-    upEl.innerHTML = '<div class="empty-state">No upcoming events' + (activeFilter ? ` matching "${activeFilter}"` : '') + '. <a href="#" id="submitLink">Submit one!</a></div>';
+    upEl.innerHTML = '<div class="empty-state">No upcoming events matching filters. <a href="https://tally.so/r/dWA9do" target="_blank">Submit one!</a></div>';
   }
 
   if (past.length) {
@@ -432,35 +474,56 @@ function render() {
 }
 
 function buildFilters() {
-  const filtersEl = document.getElementById('filters');
-  const allBtn = document.createElement('button');
-  allBtn.className = 'filter-btn active';
-  allBtn.textContent = 'All';
-  allBtn.onclick = () => { activeFilter = null; updateFilterUI(); render(); };
-  filtersEl.appendChild(allBtn);
+  const bar = document.getElementById('filterBar');
 
-  const usedTags = new Set(allEvents.flatMap(e => e.tags || []));
+  FILTER_DEFS.forEach((def, i) => {
+    const usedValues = new Set();
+    allEvents.forEach(ev => {
+      if (def.key === 'type') (ev.tags || []).forEach(t => usedValues.add(t));
+      else if (def.key === 'audience') (ev.audience || '').split(', ').forEach(a => { if (a) usedValues.add(a); });
+      else if (ev[def.key]) usedValues.add(ev[def.key]);
+    });
 
-  ALL_TAGS.filter(t => usedTags.has(t)).forEach(tag => {
-    const btn = document.createElement('button');
-    btn.className = 'filter-btn';
-    btn.textContent = tag;
-    btn.onclick = () => {
-      activeFilter = activeFilter === tag ? null : tag;
-      updateFilterUI();
-      render();
-    };
-    filtersEl.appendChild(btn);
+    const available = def.options.filter(o => usedValues.has(o));
+    if (!available.length) return;
+
+    if (i > 0) {
+      const sep = document.createElement('div');
+      sep.className = 'filter-sep';
+      bar.appendChild(sep);
+    }
+
+    const group = document.createElement('div');
+    group.className = 'filter-group';
+
+    const label = document.createElement('span');
+    label.className = 'filter-label';
+    label.textContent = def.label;
+    group.appendChild(label);
+
+    available.forEach(opt => {
+      const btn = document.createElement('button');
+      btn.className = 'filter-btn';
+      btn.textContent = opt;
+      btn.dataset.filterKey = def.key;
+      btn.dataset.filterVal = opt;
+      btn.onclick = () => {
+        activeFilters[def.key] = activeFilters[def.key] === opt ? null : opt;
+        updateFilterUI();
+        render();
+      };
+      group.appendChild(btn);
+    });
+
+    bar.appendChild(group);
   });
 }
 
 function updateFilterUI() {
   document.querySelectorAll('.filter-btn').forEach(btn => {
-    if (btn.textContent === 'All') {
-      btn.classList.toggle('active', !activeFilter);
-    } else {
-      btn.classList.toggle('active', btn.textContent === activeFilter);
-    }
+    const key = btn.dataset.filterKey;
+    const val = btn.dataset.filterVal;
+    btn.classList.toggle('active', activeFilters[key] === val);
   });
 }
 
