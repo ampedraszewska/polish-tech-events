@@ -30,6 +30,36 @@
     "added": "2026-03-07"
   },
   {
+    "name": "Aula Polska #201",
+    "date": "2026-03-11",
+    "time": "18:00",
+    "city": "Warsaw",
+    "venue": "JJIT Office, Marszalkowska 107",
+    "url": "https://app.evenea.pl/event/aula201/",
+    "description": "Discussion on investment contract clauses - liquidation preference, anti-dilution, drag-along, vesting. How founders can protect themselves during fundraising.",
+    "language": "PL",
+    "tags": ["Meetup", "Networking"],
+    "audience": "Founders, Investors",
+    "organizer": "Aula Polska",
+    "price": "Free",
+    "added": "2026-03-07"
+  },
+  {
+    "name": "Kolektyw3 Office Warming Party",
+    "date": "2026-03-12",
+    "time": "18:00",
+    "city": "Warsaw",
+    "venue": "Koszykowa 54",
+    "url": "https://luma.com/k3officewarming",
+    "description": "Kolektyw3 celebrates their new HQ - networking, music, and space tour.",
+    "language": "EN",
+    "tags": ["Networking"],
+    "audience": "Developers, Founders",
+    "organizer": "ETHWarsaw / Kolektyw3",
+    "price": "Free",
+    "added": "2026-03-07"
+  },
+  {
     "name": "Sniadania AI Warszawa #44",
     "date": "2026-03-17",
     "time": "08:30",
