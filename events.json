@@ -75,6 +75,21 @@
     "added": "2026-03-07"
   },
   {
+    "name": "CEE VC Summit 2026",
+    "date": "2026-03-24",
+    "time": "09:00",
+    "city": "Warsaw",
+    "venue": "",
+    "url": "https://www.vestbee.com/cee-vc-summit",
+    "description": "Invitation-only 2-day event for 200+ VC fund managers (GPs) and selected LPs in Central & Eastern Europe.",
+    "language": "EN",
+    "tags": ["Conference", "Networking"],
+    "audience": "Investors",
+    "organizer": "Vestbee",
+    "price": "Paid",
+    "added": "2026-03-07"
+  },
+  {
     "name": "Google DeepMind x AI Tinkerers Hackathon",
     "date": "2026-03-28",
     "time": "08:00",
