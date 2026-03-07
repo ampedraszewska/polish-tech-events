@@ -1,0 +1,485 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>What's Up, Polish Tech Community</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&family=Space+Grotesk:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, sans-serif;
+      background: #ffffff;
+      color: #1a1a1a;
+      line-height: 1.6;
+    }
+
+    /* ---- HERO ---- */
+    .hero {
+      background: #1c004c;
+      color: #ffffff;
+      padding: 3.5rem 2rem 3rem;
+      text-align: center;
+    }
+
+    .hero h1 {
+      font-family: 'Space Grotesk', sans-serif;
+      font-size: 2.75rem;
+      font-weight: 700;
+      letter-spacing: -0.03em;
+      line-height: 1.15;
+      margin-bottom: 0.75rem;
+    }
+
+    .hero .subheader {
+      font-family: 'Montserrat', sans-serif;
+      font-size: 1.05rem;
+      font-weight: 400;
+      opacity: 0.75;
+      max-width: 520px;
+      margin: 0 auto 2rem;
+      line-height: 1.5;
+    }
+
+    .hero .powered-by {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      font-size: 0.8125rem;
+      font-weight: 500;
+      opacity: 0.65;
+      flex-wrap: wrap;
+    }
+
+    .hero .powered-by img {
+      height: 22px;
+      object-fit: contain;
+      vertical-align: middle;
+    }
+
+    .hero .powered-by .separator {
+      margin: 0 0.25rem;
+      opacity: 0.5;
+    }
+
+    /* ---- TOOLBAR ---- */
+    .toolbar {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      gap: 0.75rem;
+      max-width: 960px;
+      margin: 0 auto;
+      padding: 1.25rem 2rem;
+      border-bottom: 1px solid #eee;
+    }
+
+    .submit-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.4rem;
+      background: #2d1560;
+      color: #fff;
+      border: none;
+      padding: 0.6rem 1.4rem;
+      border-radius: 9999px;
+      font-family: 'Montserrat', sans-serif;
+      font-size: 0.8125rem;
+      font-weight: 600;
+      cursor: pointer;
+      text-decoration: none;
+      transition: background 0.15s, transform 0.1s;
+    }
+
+    .submit-btn:hover { background: #3d1f80; transform: translateY(-1px); }
+
+    .filters {
+      display: flex;
+      gap: 0.375rem;
+      flex-wrap: wrap;
+    }
+
+    .filter-btn {
+      font-family: 'Montserrat', sans-serif;
+      background: #f7f5fa;
+      border: 1px solid #e8e4f0;
+      padding: 0.35rem 0.75rem;
+      border-radius: 9999px;
+      font-size: 0.6875rem;
+      font-weight: 600;
+      cursor: pointer;
+      color: #6b5b8a;
+      transition: all 0.15s;
+      text-transform: uppercase;
+      letter-spacing: 0.03em;
+    }
+
+    .filter-btn:hover { border-color: #2d1560; color: #2d1560; background: #f0ebf8; }
+    .filter-btn.active { background: #2d1560; color: #fff; border-color: #2d1560; }
+
+    /* ---- EVENTS ---- */
+    .container {
+      max-width: 960px;
+      margin: 0 auto;
+      padding: 0 2rem 4rem;
+    }
+
+    .section-label {
+      font-family: 'Space Grotesk', sans-serif;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: #9b8fb5;
+      padding: 1.75rem 0 0.75rem;
+    }
+
+    .event-card {
+      display: flex;
+      gap: 1.25rem;
+      padding: 1.125rem 0;
+      border-bottom: 1px solid #f0edf5;
+      transition: opacity 0.2s;
+    }
+
+    .event-card:last-child { border-bottom: none; }
+
+    .date-badge {
+      flex-shrink: 0;
+      width: 54px;
+      height: 54px;
+      background: #f7f5fa;
+      border-radius: 10px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 0.25rem;
+    }
+
+    .date-badge .month {
+      font-family: 'Montserrat', sans-serif;
+      font-size: 0.5625rem;
+      font-weight: 600;
+      text-transform: uppercase;
+      color: #2d1560;
+      letter-spacing: 0.06em;
+      line-height: 1;
+    }
+
+    .date-badge .day {
+      font-family: 'Space Grotesk', sans-serif;
+      font-size: 1.375rem;
+      font-weight: 700;
+      color: #2d1560;
+      line-height: 1.1;
+    }
+
+    .event-info { flex: 1; min-width: 0; }
+
+    .event-name {
+      font-family: 'Space Grotesk', sans-serif;
+      font-size: 1rem;
+      font-weight: 700;
+      color: #1a1a1a;
+      text-decoration: none;
+      transition: color 0.15s;
+    }
+
+    .event-name:hover { color: #2d1560; }
+
+    .event-meta {
+      display: flex;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 0.5rem;
+      margin-top: 0.2rem;
+      font-size: 0.8rem;
+      color: #777;
+    }
+
+    .event-meta .sep { color: #d4cde0; }
+
+    .lang-pill {
+      display: inline-block;
+      background: #f0ebf8;
+      color: #2d1560;
+      font-size: 0.625rem;
+      font-weight: 700;
+      padding: 0.1rem 0.45rem;
+      border-radius: 4px;
+      letter-spacing: 0.03em;
+    }
+
+    .price-pill {
+      display: inline-block;
+      font-size: 0.625rem;
+      font-weight: 700;
+      padding: 0.1rem 0.45rem;
+      border-radius: 4px;
+      letter-spacing: 0.03em;
+    }
+
+    .price-pill.free { background: #e8f5e9; color: #2e7d32; }
+    .price-pill.paid { background: #fff3e0; color: #e65100; }
+
+    .event-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.25rem;
+      margin-top: 0.35rem;
+    }
+
+    .tag {
+      font-size: 0.625rem;
+      font-weight: 600;
+      padding: 0.125rem 0.5rem;
+      border-radius: 9999px;
+      background: #f7f5fa;
+      color: #6b5b8a;
+      letter-spacing: 0.02em;
+    }
+
+    .event-desc {
+      font-size: 0.8rem;
+      color: #999;
+      margin-top: 0.35rem;
+      line-height: 1.5;
+    }
+
+    /* ---- PAST EVENTS ---- */
+    .past-toggle {
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      cursor: pointer;
+      background: none;
+      border: none;
+      font-family: 'Space Grotesk', sans-serif;
+      font-size: 0.75rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: #9b8fb5;
+      padding: 1.75rem 0 0.75rem;
+    }
+
+    .past-toggle .arrow {
+      transition: transform 0.2s;
+      font-size: 0.625rem;
+    }
+
+    .past-toggle.open .arrow { transform: rotate(90deg); }
+
+    .past-events { display: none; }
+    .past-events.open { display: block; }
+
+    .past-events .event-card { opacity: 0.35; }
+    .past-events .event-card:hover { opacity: 0.65; }
+
+    /* ---- EMPTY STATE ---- */
+    .empty-state {
+      text-align: center;
+      padding: 3rem 1rem;
+      color: #9b8fb5;
+      font-size: 0.875rem;
+    }
+
+    .empty-state a { color: #2d1560; }
+
+    /* ---- FOOTER ---- */
+    .footer {
+      text-align: center;
+      padding: 2rem 2rem;
+      font-size: 0.75rem;
+      color: #b0a8c4;
+      border-top: 1px solid #f0edf5;
+    }
+
+    .footer a { color: #2d1560; text-decoration: none; font-weight: 500; }
+    .footer a:hover { text-decoration: underline; }
+
+    /* ---- RESPONSIVE ---- */
+    @media (max-width: 640px) {
+      .hero { padding: 2.5rem 1.25rem 2rem; }
+      .hero h1 { font-size: 1.75rem; }
+      .hero .subheader { font-size: 0.9rem; }
+      .toolbar { flex-direction: column; align-items: stretch; padding: 1rem 1.25rem; }
+      .submit-btn { justify-content: center; }
+      .container { padding: 0 1.25rem 3rem; }
+      .date-badge { width: 46px; height: 46px; }
+      .date-badge .day { font-size: 1.125rem; }
+      .event-name { font-size: 0.9375rem; }
+    }
+  </style>
+</head>
+<body>
+
+  <div class="hero">
+    <h1>What's up, Polish<br>tech community</h1>
+    <div class="subheader">Live directory of tech / start-up / science events and meetups in Poland</div>
+    <div class="powered-by">
+      Powered by <img src="assets/sp-logo-white.svg" alt="Startup Poland" style="height: 18px; margin: 0 2px;">
+      <span class="separator">|</span>
+      Curated by <img src="assets/vp-logo.svg" alt="vastpoint" style="height: 16px; margin: 0 2px;">
+    </div>
+  </div>
+
+  <div class="toolbar">
+    <a class="submit-btn" href="https://tally.so/r/dWA9do" id="submitBtn" target="_blank">+ Submit an Event</a>
+    <div class="filters" id="filters"></div>
+  </div>
+
+  <div class="container">
+    <div class="section-label" id="upcomingLabel">Upcoming</div>
+    <div id="upcoming"></div>
+
+    <button class="past-toggle" id="pastToggle" style="display:none">
+      <span class="arrow">&#9654;</span> Past Events
+    </button>
+    <div class="past-events" id="past"></div>
+  </div>
+
+  <div class="footer">
+    &copy; 2026 <a href="https://vastpoint.vc">Vastpoint</a> &amp; <a href="https://startuppoland.org">Startup Poland</a>
+  </div>
+
+<script>
+const MONTHS = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+const ALL_TAGS = ['Meetup','Conference','Hackathon','Workshop','Networking','Policy'];
+
+let allEvents = [];
+let activeFilter = null;
+
+function today() {
+  const d = new Date();
+  return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;
+}
+
+function parseDate(dateStr) {
+  const [y, m, d] = dateStr.split('-').map(Number);
+  return new Date(y, m - 1, d);
+}
+
+function renderCard(ev) {
+  const d = parseDate(ev.date);
+  const month = MONTHS[d.getMonth()];
+  const day = d.getDate();
+
+  const tags = (ev.tags || []).map(t => `<span class="tag">${t}</span>`).join('');
+  const venue = ev.venue ? `${ev.venue}, ` : '';
+  const time = ev.time || '';
+
+  return `
+    <div class="event-card" data-tags="${(ev.tags||[]).join(',')}">
+      <div class="date-badge">
+        <div class="month">${month}</div>
+        <div class="day">${day}</div>
+      </div>
+      <div class="event-info">
+        <a class="event-name" href="${ev.url}" target="_blank" rel="noopener">${ev.name}</a>
+        <div class="event-meta">
+          <span>${venue}${ev.city}</span>
+          ${time ? `<span class="sep">&middot;</span><span>${time}</span>` : ''}
+          <span class="sep">&middot;</span>
+          <span class="lang-pill">${ev.language}</span>
+          ${ev.price ? `<span class="sep">&middot;</span><span class="price-pill ${ev.price.toLowerCase() === 'free' ? 'free' : 'paid'}">${ev.price}</span>` : ''}
+          ${ev.audience ? `<span class="sep">&middot;</span><span>${ev.audience}</span>` : ''}
+        </div>
+        <div class="event-tags">${tags}</div>
+        ${ev.description ? `<div class="event-desc">${ev.description}</div>` : ''}
+      </div>
+    </div>
+  `;
+}
+
+function render() {
+  const t = today();
+  let events = allEvents;
+
+  if (activeFilter) {
+    events = events.filter(e => (e.tags || []).includes(activeFilter));
+  }
+
+  const upcoming = events.filter(e => e.date >= t).sort((a, b) => a.date.localeCompare(b.date));
+  const past = events.filter(e => e.date < t).sort((a, b) => b.date.localeCompare(a.date));
+
+  const upEl = document.getElementById('upcoming');
+  const pastEl = document.getElementById('past');
+  const pastToggle = document.getElementById('pastToggle');
+  const upLabel = document.getElementById('upcomingLabel');
+
+  if (upcoming.length) {
+    upLabel.style.display = '';
+    upEl.innerHTML = upcoming.map(renderCard).join('');
+  } else {
+    upLabel.style.display = 'none';
+    upEl.innerHTML = '<div class="empty-state">No upcoming events' + (activeFilter ? ` matching "${activeFilter}"` : '') + '. <a href="#" id="submitLink">Submit one!</a></div>';
+  }
+
+  if (past.length) {
+    pastToggle.style.display = '';
+    pastEl.innerHTML = past.map(renderCard).join('');
+  } else {
+    pastToggle.style.display = 'none';
+    pastEl.innerHTML = '';
+  }
+}
+
+function buildFilters() {
+  const filtersEl = document.getElementById('filters');
+  const allBtn = document.createElement('button');
+  allBtn.className = 'filter-btn active';
+  allBtn.textContent = 'All';
+  allBtn.onclick = () => { activeFilter = null; updateFilterUI(); render(); };
+  filtersEl.appendChild(allBtn);
+
+  const usedTags = new Set(allEvents.flatMap(e => e.tags || []));
+
+  ALL_TAGS.filter(t => usedTags.has(t)).forEach(tag => {
+    const btn = document.createElement('button');
+    btn.className = 'filter-btn';
+    btn.textContent = tag;
+    btn.onclick = () => {
+      activeFilter = activeFilter === tag ? null : tag;
+      updateFilterUI();
+      render();
+    };
+    filtersEl.appendChild(btn);
+  });
+}
+
+function updateFilterUI() {
+  document.querySelectorAll('.filter-btn').forEach(btn => {
+    if (btn.textContent === 'All') {
+      btn.classList.toggle('active', !activeFilter);
+    } else {
+      btn.classList.toggle('active', btn.textContent === activeFilter);
+    }
+  });
+}
+
+document.getElementById('pastToggle').addEventListener('click', function() {
+  this.classList.toggle('open');
+  document.getElementById('past').classList.toggle('open');
+});
+
+fetch('events.json')
+  .then(r => r.json())
+  .then(data => {
+    allEvents = data;
+    buildFilters();
+    render();
+  })
+  .catch(() => {
+    document.getElementById('upcoming').innerHTML = '<div class="empty-state">Could not load events.</div>';
+  });
+</script>
+
+</body>
+</html>
