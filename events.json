@@ -135,6 +135,21 @@
     "added": "2026-03-07"
   },
   {
+    "name": "CASSINI Hackathon @ Wrocław",
+    "date": "2026-04-24",
+    "time": "09:00",
+    "city": "Wrocław",
+    "venue": "Strefa Kultury Studenckiej, Wrocław University of Science and Technology",
+    "url": "https://www.cassini.eu/hackathons/poland",
+    "description": "Develop solutions addressing water challenges using EU space data from Copernicus, EGNOS, and Galileo. Three themed tracks: equitable water access, pollution prevention, and disaster monitoring.",
+    "language": "EN",
+    "tags": ["Hackathon"],
+    "audience": "Students, Founders, Developers",
+    "organizer": "Startup Wroclaw x ChallengeRocket",
+    "price": "Free",
+    "added": "2026-03-09"
+  },
+  {
     "name": "Sniadania AI Warszawa #46",
     "date": "2026-04-28",
     "time": "08:30",
