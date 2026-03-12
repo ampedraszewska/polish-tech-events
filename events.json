@@ -8,7 +8,10 @@
     "url": "https://luma.com/spyb551m",
     "description": "Build with AI and ship a real app in a day using Lovable. Free credits provided, no coding experience needed.",
     "language": "EN",
-    "tags": ["Workshop", "Hackathon"],
+    "tags": [
+      "Workshop",
+      "Hackathon"
+    ],
     "audience": "General public",
     "organizer": "Imaguru x SheBuilds",
     "price": "Free",
@@ -23,7 +26,9 @@
     "url": "https://luma.com/yxpdz8ib",
     "description": "Women's Day celebration for women in VC. Three-course dinner and drinks included.",
     "language": "EN",
-    "tags": ["Networking"],
+    "tags": [
+      "Networking"
+    ],
     "audience": "Investors",
     "organizer": "Elena Mazhuha & community",
     "price": "Paid",
@@ -38,7 +43,10 @@
     "url": "https://app.evenea.pl/event/aula201/",
     "description": "Discussion on investment contract clauses - liquidation preference, anti-dilution, drag-along, vesting. How founders can protect themselves during fundraising.",
     "language": "PL",
-    "tags": ["Meetup", "Networking"],
+    "tags": [
+      "Meetup",
+      "Networking"
+    ],
     "audience": "Founders, Investors",
     "organizer": "Aula Polska",
     "price": "Free",
@@ -53,7 +61,9 @@
     "url": "https://www.semi.org/eu/connect/events/industry-strategy-symposium-europe",
     "description": "European semiconductor industry strategy symposium bringing together leaders to discuss trends, challenges, and opportunities in chip manufacturing.",
     "language": "EN",
-    "tags": ["Conference"],
+    "tags": [
+      "Conference"
+    ],
     "audience": "Corporate, Investors",
     "organizer": "SEMI",
     "price": "Paid",
@@ -68,7 +78,10 @@
     "url": "https://luma.com/l50o2lgm",
     "description": "15 high-potential Ukrainian startups pitch after 12 weeks of intensive preparation. Investor feedback panels and networking.",
     "language": "EN",
-    "tags": ["Meetup", "Networking"],
+    "tags": [
+      "Meetup",
+      "Networking"
+    ],
     "audience": "Founders, Investors",
     "organizer": "1991 Accelerator & EBRD",
     "price": "Free",
@@ -83,7 +96,9 @@
     "url": "https://luma.com/k3officewarming",
     "description": "Kolektyw3 celebrates their new HQ - networking, music, and space tour.",
     "language": "EN",
-    "tags": ["Networking"],
+    "tags": [
+      "Networking"
+    ],
     "audience": "Developers, Founders",
     "organizer": "ETHWarsaw / Kolektyw3",
     "price": "Free",
@@ -98,7 +113,9 @@
     "url": "https://app.evenea.pl/event/soda-open-wroclaw2/",
     "description": "Evening networking for IT industry leaders with speed networking and thematic discussions in a relaxed atmosphere.",
     "language": "PL",
-    "tags": ["Networking"],
+    "tags": [
+      "Networking"
+    ],
     "audience": "Corporate, Operators",
     "organizer": "SoDA",
     "price": "Paid",
@@ -113,7 +130,10 @@
     "url": "https://luma.com/dwa4l043",
     "description": "Morning AI breakfast meetup - practitioners share insights over coffee.",
     "language": "PL",
-    "tags": ["Meetup", "Networking"],
+    "tags": [
+      "Meetup",
+      "Networking"
+    ],
     "audience": "Developers, Operators",
     "organizer": "Sniadania AI",
     "price": "Paid",
@@ -128,7 +148,9 @@
     "url": "https://startup-playbook-x-scanway.gridaly.com/",
     "description": "Startup playbook session exploring the Scanway journey - lessons from building a space-tech startup in Wroclaw.",
     "language": "PL",
-    "tags": ["Meetup"],
+    "tags": [
+      "Meetup"
+    ],
     "audience": "Founders, Students",
     "organizer": "Lowercap x Scanway",
     "price": "Free",
@@ -143,7 +165,10 @@
     "url": "https://snip.silesianstartups.com/",
     "description": "Silesian startup networking and innovation platform connecting founders, investors, and tech professionals.",
     "language": "PL",
-    "tags": ["Meetup", "Networking"],
+    "tags": [
+      "Meetup",
+      "Networking"
+    ],
     "audience": "Founders, Investors",
     "organizer": "Silesian Startups",
     "price": "Free",
@@ -158,7 +183,9 @@
     "url": "https://wroclaw.tekday.pl/",
     "description": "Full-day electronics industry event with 200+ exhibitor booths, technical lectures, and networking. Special focus on space and aviation technologies.",
     "language": "EN+PL",
-    "tags": ["Conference"],
+    "tags": [
+      "Conference"
+    ],
     "audience": "Developers, Corporate",
     "organizer": "TEK.day",
     "price": "Free",
@@ -173,7 +200,9 @@
     "url": "https://uaisummit.mit.edu/",
     "description": "MIT-organized summit on universal AI, bridging academic research and industry applications.",
     "language": "EN+PL",
-    "tags": ["Conference"],
+    "tags": [
+      "Conference"
+    ],
     "audience": "Researchers, Developers, Corporate",
     "organizer": "MIT",
     "price": "Paid",
@@ -188,7 +217,10 @@
     "url": "https://www.vestbee.com/cee-vc-summit",
     "description": "Invitation-only 2-day event for 200+ VC fund managers (GPs) and selected LPs in Central & Eastern Europe.",
     "language": "EN",
-    "tags": ["Conference", "Networking"],
+    "tags": [
+      "Conference",
+      "Networking"
+    ],
     "audience": "Investors",
     "organizer": "Vestbee",
     "price": "Paid",
@@ -203,7 +235,9 @@
     "url": "https://university.swps.pl/bigdemoday",
     "description": "Student and startup project showcase organized by SWPS University and Concordia Design, supported by PARP and EU funds.",
     "language": "EN",
-    "tags": ["Meetup"],
+    "tags": [
+      "Meetup"
+    ],
     "audience": "Founders, Students",
     "organizer": "SWPS University x Concordia Design",
     "price": "Free",
@@ -218,11 +252,31 @@
     "url": "https://meetup.legnica.pl/meetups/legnicki-meetup-technologiczny-5",
     "description": "Cyclical tech meetup with talks on software engineering and AI. Open to all levels - from senior devs to students and hobbyists.",
     "language": "PL",
-    "tags": ["Meetup"],
+    "tags": [
+      "Meetup"
+    ],
     "audience": "Developers, Students",
     "organizer": "Meetup Legnica",
     "price": "Free",
     "added": "2026-03-09"
+  },
+  {
+    "name": "Startup Grind Warsaw: Open Pitch Session - Mar 2026",
+    "date": "2026-03-26",
+    "time": "17:00",
+    "city": "Warsaw",
+    "venue": "Venture Cafe Warsaw, Chmielna 73",
+    "url": "https://www.startupgrind.com/warsaw/",
+    "description": "Monthly open pitch session by Startup Grind Warsaw. Founders pitch to the community, get feedback, and network with other entrepreneurs and investors.",
+    "language": "EN",
+    "tags": [
+      "Meetup",
+      "Networking"
+    ],
+    "audience": "Founders, Investors",
+    "organizer": "Startup Grind Warsaw",
+    "price": "Free",
+    "added": "2026-03-12"
   },
   {
     "name": "Google DeepMind x AI Tinkerers Hackathon",
@@ -233,7 +287,9 @@
     "url": "https://poland.aitinkerers.org/p/google-deepmind-x-ai-tinkerers-hackathon-warsaw",
     "description": "Full-day hackathon co-organized by Google DeepMind and AI Tinkerers Poland.",
     "language": "EN",
-    "tags": ["Hackathon"],
+    "tags": [
+      "Hackathon"
+    ],
     "audience": "Developers, Researchers",
     "organizer": "AI Tinkerers Poland",
     "price": "Free",
@@ -248,7 +304,10 @@
     "url": "https://luma.com/oqrh82i5",
     "description": "Morning AI breakfast meetup - practitioners share insights over coffee.",
     "language": "PL",
-    "tags": ["Meetup", "Networking"],
+    "tags": [
+      "Meetup",
+      "Networking"
+    ],
     "audience": "Developers, Operators",
     "organizer": "Sniadania AI",
     "price": "Paid",
@@ -263,7 +322,10 @@
     "url": "https://wolvessummit.com",
     "description": "CEE startup & investor summit with curated matchmaking and pitch competitions.",
     "language": "EN",
-    "tags": ["Conference", "Networking"],
+    "tags": [
+      "Conference",
+      "Networking"
+    ],
     "audience": "Founders, Investors, Corporate",
     "organizer": "Wolves Summit",
     "price": "Paid",
@@ -278,7 +340,10 @@
     "url": "https://startupwro.meetingapplication.com/event/startup-wro-meetup-2026",
     "description": "Regular Wroclaw startup community meetup with pitches, talks, and networking.",
     "language": "EN+PL",
-    "tags": ["Meetup", "Networking"],
+    "tags": [
+      "Meetup",
+      "Networking"
+    ],
     "audience": "Founders, Developers",
     "organizer": "Startup Wroclaw",
     "price": "Free",
@@ -293,7 +358,10 @@
     "url": "https://inqube.pl/inqube-ai-camp-2026-warsztaty-dla-studentow/",
     "description": "Intensive one-day workshop for students - team work on a real social challenge using AI. No programming experience required.",
     "language": "PL",
-    "tags": ["Workshop", "Hackathon"],
+    "tags": [
+      "Workshop",
+      "Hackathon"
+    ],
     "audience": "Students",
     "organizer": "inQUBE",
     "price": "Free",
@@ -308,7 +376,9 @@
     "url": "https://evenea.pl/pl/wydarzenie/DataVibes2026",
     "description": "Full-day AI summit turning theoretical visions into working solutions. Case studies on AI budgeting, Design Thinking, and the Polish LLM Bielik.",
     "language": "PL",
-    "tags": ["Conference"],
+    "tags": [
+      "Conference"
+    ],
     "audience": "Developers, Operators, Corporate",
     "organizer": "Women in Big Data Poland",
     "price": "Paid",
@@ -323,7 +393,10 @@
     "url": "https://hugething.vc/poznan-startup-contest/",
     "description": "Startup competition for women entrepreneurs seeking to develop fundraising skills and prepare to scale their businesses.",
     "language": "EN+PL",
-    "tags": ["Conference", "Networking"],
+    "tags": [
+      "Conference",
+      "Networking"
+    ],
     "audience": "Founders",
     "organizer": "Huge Thing VC",
     "price": "Free",
@@ -338,7 +411,9 @@
     "url": "https://conference.sodapl.com/",
     "description": "Annual conference by SoDA (Software Development Association Poland) for IT industry leaders and decision-makers.",
     "language": "EN+PL",
-    "tags": ["Conference"],
+    "tags": [
+      "Conference"
+    ],
     "audience": "Corporate, Operators",
     "organizer": "SoDA",
     "price": "Paid",
@@ -353,7 +428,9 @@
     "url": "https://efni.pl/wiosenna-edycja-efni/",
     "description": "Spring edition focused on building Poland's international image through arts, sports, digitalization, media, and innovation.",
     "language": "PL",
-    "tags": ["Conference"],
+    "tags": [
+      "Conference"
+    ],
     "audience": "Corporate, Founders",
     "organizer": "EFNI",
     "price": "Free",
@@ -368,7 +445,9 @@
     "url": "https://www.cassini.eu/hackathons/poland",
     "description": "Develop solutions addressing water challenges using EU space data from Copernicus, EGNOS, and Galileo. Three themed tracks: equitable water access, pollution prevention, and disaster monitoring.",
     "language": "EN",
-    "tags": ["Hackathon"],
+    "tags": [
+      "Hackathon"
+    ],
     "audience": "Students, Founders, Developers",
     "organizer": "Startup Wroclaw x ChallengeRocket",
     "price": "Free",
@@ -383,7 +462,10 @@
     "url": "https://luma.com/zp0nv9em",
     "description": "Morning AI breakfast meetup - practitioners share insights over coffee.",
     "language": "PL",
-    "tags": ["Meetup", "Networking"],
+    "tags": [
+      "Meetup",
+      "Networking"
+    ],
     "audience": "Developers, Operators",
     "organizer": "Sniadania AI",
     "price": "Paid",
@@ -398,7 +480,10 @@
     "url": "https://infoshare.pl",
     "description": "Central Europe's largest tech conference. Startups, investors, and tech leaders.",
     "language": "EN",
-    "tags": ["Conference", "Networking"],
+    "tags": [
+      "Conference",
+      "Networking"
+    ],
     "audience": "Founders, Investors, Developers",
     "organizer": "infoShare",
     "price": "Paid",
@@ -409,11 +494,13 @@
     "date": "2026-05-21",
     "time": "10:00",
     "city": "Wroclaw",
-    "venue": "Politechnika Wroclawska, Wybrze\u017ce Wyspianskiego 27",
+    "venue": "Politechnika Wroclawska, Wybrzeże Wyspianskiego 27",
     "url": "",
     "description": "Demo day showcasing student startup projects incubated at Wroclaw University of Science and Technology.",
     "language": "EN+PL",
-    "tags": ["Meetup"],
+    "tags": [
+      "Meetup"
+    ],
     "audience": "Founders, Students, Investors",
     "organizer": "Politechnika Wroclawska",
     "price": "Free",
@@ -428,7 +515,10 @@
     "url": "https://evolutions.startupwroclaw.pl/",
     "description": "The biggest regional startup event bringing together SMEs, innovators, investors, and tech professionals. Workshops, startup showcase contest, and networking.",
     "language": "EN+PL",
-    "tags": ["Conference", "Networking"],
+    "tags": [
+      "Conference",
+      "Networking"
+    ],
     "audience": "Founders, Investors, Corporate",
     "organizer": "Startup Wroclaw",
     "price": "Free",
@@ -443,7 +533,10 @@
     "url": "",
     "description": "Major summit celebrating and empowering women in technology across Central Europe.",
     "language": "EN+PL",
-    "tags": ["Conference", "Networking"],
+    "tags": [
+      "Conference",
+      "Networking"
+    ],
     "audience": "Developers, Founders, Corporate",
     "organizer": "Perspektywy",
     "price": "Paid",
@@ -458,7 +551,11 @@
     "url": "https://impactcee.com",
     "description": "Leading CEE economy & tech congress with government, business, and startup tracks.",
     "language": "EN+PL",
-    "tags": ["Conference", "Policy", "Networking"],
+    "tags": [
+      "Conference",
+      "Policy",
+      "Networking"
+    ],
     "audience": "Founders, Investors, Corporate",
     "organizer": "Impact",
     "price": "Paid",
@@ -473,7 +570,9 @@
     "url": "https://www.cybersecforum.eu/2026/en/",
     "description": "Leading European cybersecurity conference and expo. Knowledge exchange and business connections for the security industry.",
     "language": "EN+PL",
-    "tags": ["Conference"],
+    "tags": [
+      "Conference"
+    ],
     "audience": "Developers, Corporate",
     "organizer": "Cybersec",
     "price": "Paid",
@@ -488,7 +587,9 @@
     "url": "https://abslsummit.com/",
     "description": "\"Know the Unknown\" - exploring how uncertainty unlocks growth, with a focus on talent, technology, and transformation in business services. Keynote by Geoffrey Hinton.",
     "language": "EN+PL",
-    "tags": ["Conference"],
+    "tags": [
+      "Conference"
+    ],
     "audience": "Corporate, Operators",
     "organizer": "ABSL",
     "price": "Paid",
@@ -503,7 +604,10 @@
     "url": "https://carpathianfest.pl/",
     "description": "Regional startup festival in southeastern Poland connecting founders, investors, and the local tech ecosystem.",
     "language": "PL",
-    "tags": ["Conference", "Networking"],
+    "tags": [
+      "Conference",
+      "Networking"
+    ],
     "audience": "Founders, Investors, Students",
     "organizer": "Carpathian Startup Fest",
     "price": "Free",
@@ -518,7 +622,9 @@
     "url": "",
     "description": "Conference and awards gala recognizing outstanding IT leaders and managers driving digital transformation.",
     "language": "EN+PL",
-    "tags": ["Conference"],
+    "tags": [
+      "Conference"
+    ],
     "audience": "Corporate, Operators",
     "organizer": "IT Manager of Tomorrow",
     "price": "Paid",
@@ -533,7 +639,10 @@
     "url": "https://pitchmeetup.pl/",
     "description": "Inspiring talks, workshops, and panels with founders, tech innovators, and investors. Includes a startup pitch competition.",
     "language": "PL",
-    "tags": ["Conference", "Networking"],
+    "tags": [
+      "Conference",
+      "Networking"
+    ],
     "audience": "Founders, Investors, Students",
     "organizer": "PitchMeetUp",
     "price": "Free",
@@ -548,7 +657,9 @@
     "url": "https://cybertrust.org.pl/",
     "description": "Cybersecurity congress focused on building resilience against technological and social changes in the digital world.",
     "language": "EN+PL",
-    "tags": ["Conference"],
+    "tags": [
+      "Conference"
+    ],
     "audience": "Developers, Corporate, Researchers",
     "organizer": "Cybertrust",
     "price": "Free",
@@ -563,7 +674,10 @@
     "url": "https://www.made-in-wroclaw.pl/",
     "description": "10th edition combining conference, expo, tech gala & contest, and VC demo day. Business, science, technology, and innovation on one stage.",
     "language": "PL",
-    "tags": ["Conference", "Networking"],
+    "tags": [
+      "Conference",
+      "Networking"
+    ],
     "audience": "Founders, Investors, Corporate",
     "organizer": "Made in Wroclaw",
     "price": "Paid",
