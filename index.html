@@ -252,6 +252,17 @@
     .price-pill.free { background: #e8f5e9; color: #2e7d32; }
     .price-pill.paid { background: #fff3e0; color: #e65100; }
 
+    .city-pill {
+      display: inline-block;
+      font-size: 0.625rem;
+      font-weight: 700;
+      padding: 0.1rem 0.45rem;
+      border-radius: 4px;
+      letter-spacing: 0.03em;
+      background: #e3f2fd;
+      color: #1565c0;
+    }
+
     .event-tags {
       display: flex;
       flex-wrap: wrap;
@@ -379,10 +390,11 @@
 const MONTHS = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
 
 const FILTER_DEFS = [
-  { key: 'type',     label: 'Type',     options: ['Meetup','Conference','Hackathon','Workshop','Networking','Policy'], match: (ev, v) => (ev.tags || []).includes(v) },
-  { key: 'language', label: 'Language',  options: ['EN','PL','EN+PL'], match: (ev, v) => ev.language === v },
-  { key: 'audience', label: 'Audience',  options: ['Founders','Developers','Operators','Researchers','Investors','Corporate','Students','General public'], match: (ev, v) => (ev.audience || '').includes(v) },
-  { key: 'price',    label: 'Price',     options: ['Free','Paid'], match: (ev, v) => ev.price === v }
+  { key: 'city',     label: 'City',      options: null, match: (ev, v) => ev.city === v },
+  { key: 'type',     label: 'Type',      options: ['Meetup','Conference','Hackathon','Workshop','Networking','Policy'], match: (ev, v) => (ev.tags || []).includes(v) },
+  { key: 'language', label: 'Language',   options: ['EN','PL','EN+PL'], match: (ev, v) => ev.language === v },
+  { key: 'audience', label: 'Audience',   options: ['Founders','Developers','Operators','Researchers','Investors','Corporate','Students','General public'], match: (ev, v) => (ev.audience || '').includes(v) },
+  { key: 'price',    label: 'Price',      options: ['Free','Paid'], match: (ev, v) => ev.price === v }
 ];
 
 let allEvents = [];
@@ -418,7 +430,6 @@ function renderCard(ev) {
   const day = d.getDate();
 
   const tags = (ev.tags || []).map(t => `<span class="tag">${t}</span>`).join('');
-  const venue = ev.venue ? `${ev.venue}, ` : '';
   const time = ev.time || '';
 
   return `
@@ -430,7 +441,8 @@ function renderCard(ev) {
       <div class="event-info">
         <a class="event-name" href="${ev.url}" target="_blank" rel="noopener">${ev.name}</a>
         <div class="event-meta">
-          <span>${venue}${ev.city}</span>
+          ${ev.city ? `<span class="city-pill">${ev.city}</span>` : ''}
+          ${ev.venue ? `<span>${ev.venue}</span>` : ''}
           ${time ? `<span class="sep">&middot;</span><span>${time}</span>` : ''}
           <span class="sep">&middot;</span>
           <span class="lang-pill">${ev.language}</span>
@@ -484,7 +496,9 @@ function buildFilters() {
       else if (ev[def.key]) usedValues.add(ev[def.key]);
     });
 
-    const available = def.options.filter(o => usedValues.has(o));
+    const available = def.options
+      ? def.options.filter(o => usedValues.has(o))
+      : [...usedValues].sort((a, b) => a.localeCompare(b, 'pl'));
     if (!available.length) return;
 
     if (i > 0) {
