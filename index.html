@@ -160,6 +160,21 @@
     .filter-btn:focus { outline: none; }
     .filter-btn.active { background: #2d1560; color: #fff; border-color: #2d1560; }
 
+    .clear-filters-btn {
+      font-family: 'Montserrat', sans-serif;
+      background: none;
+      border: none;
+      padding: 0.3rem 0.5rem;
+      font-size: 0.625rem;
+      font-weight: 600;
+      cursor: pointer;
+      color: #9b8fb5;
+      transition: color 0.15s;
+      display: none;
+    }
+    .clear-filters-btn:hover { color: #2d1560; }
+    .clear-filters-btn:focus { outline: none; }
+
     .filter-sep {
       width: 1px;
       height: 20px;
@@ -391,6 +406,7 @@
   <div class="toolbar">
     <a class="submit-btn" href="https://tally.so/r/dWA9do" id="submitBtn" target="_blank">+ Submit an Event</a>
     <div class="filter-bar" id="filterBar"></div>
+    <button class="clear-filters-btn" id="clearFilters">Clear all</button>
   </div>
 
   <div class="container">
@@ -564,7 +580,16 @@ function updateFilterUI() {
     if (isActive) btn.classList.add('active');
     else btn.classList.remove('active');
   });
+  const clearBtn = document.getElementById('clearFilters');
+  clearBtn.style.display = hasActiveFilters() ? '' : 'none';
 }
+
+document.getElementById('clearFilters').addEventListener('click', function() {
+  FILTER_DEFS.forEach(def => activeFilters[def.key].clear());
+  this.blur();
+  updateFilterUI();
+  render();
+});
 
 document.getElementById('pastToggle').addEventListener('click', function() {
   this.classList.toggle('open');
