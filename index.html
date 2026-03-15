@@ -413,15 +413,15 @@ function parseDate(dateStr) {
 function applyFilters(events) {
   return events.filter(ev => {
     return FILTER_DEFS.every(def => {
-      const val = activeFilters[def.key];
-      if (!val) return true;
-      return def.match(ev, val);
+      const vals = activeFilters[def.key];
+      if (!vals || !vals.size) return true;
+      return [...vals].some(v => def.match(ev, v));
     });
   });
 }
 
 function hasActiveFilters() {
-  return Object.values(activeFilters).some(v => v);
+  return Object.values(activeFilters).some(v => v && v.size);
 }
 
 function renderCard(ev) {
@@ -522,7 +522,9 @@ function buildFilters() {
       btn.dataset.filterKey = def.key;
       btn.dataset.filterVal = opt;
       btn.onclick = () => {
-        activeFilters[def.key] = activeFilters[def.key] === opt ? null : opt;
+        if (!activeFilters[def.key]) activeFilters[def.key] = new Set();
+        const s = activeFilters[def.key];
+        if (s.has(opt)) s.delete(opt); else s.add(opt);
         updateFilterUI();
         render();
       };
@@ -537,7 +539,7 @@ function updateFilterUI() {
   document.querySelectorAll('.filter-btn').forEach(btn => {
     const key = btn.dataset.filterKey;
     const val = btn.dataset.filterVal;
-    btn.classList.toggle('active', activeFilters[key] === val);
+    btn.classList.toggle('active', activeFilters[key] && activeFilters[key].has(val));
   });
 }
 
