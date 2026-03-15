@@ -437,6 +437,42 @@
     "added": "2026-03-09"
   },
   {
+    "name": "AI Tinkerers Poland - Meetup in Poznań #1",
+    "date": "2026-04-15",
+    "time": "16:00",
+    "city": "Poznań",
+    "venue": "Jana Pawła II 10",
+    "url": "https://poland.aitinkerers.org/p/ai-tinkerers-poland-meetup-in-poznan-1",
+    "description": "Technical practitioners explore foundation models and generative AI with live demos, fostering collaboration for solving complex engineering challenges.",
+    "language": "EN",
+    "tags": [
+      "Meetup",
+      "Networking"
+    ],
+    "audience": "Developers, Researchers",
+    "organizer": "AI Tinkerers Poland",
+    "price": "Free",
+    "added": "2026-03-15"
+  },
+  {
+    "name": "AI Tinkerers Poland - Meetup in Gdańsk #1",
+    "date": "2026-04-23",
+    "time": "15:30",
+    "city": "Gdańsk",
+    "venue": "",
+    "url": "https://poland.aitinkerers.org/p/ai-tinkerers-poland-meetup-in-gdansk-1",
+    "description": "Community meetup featuring live demos and networking with other active AI builders.",
+    "language": "EN",
+    "tags": [
+      "Meetup",
+      "Networking"
+    ],
+    "audience": "Developers, Researchers",
+    "organizer": "AI Tinkerers Poland",
+    "price": "Free",
+    "added": "2026-03-15"
+  },
+  {
     "name": "CASSINI Hackathon @ Wroclaw",
     "date": "2026-04-24",
     "time": "09:00",
