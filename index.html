@@ -157,6 +157,7 @@
     }
 
     .filter-btn:hover { border-color: #2d1560; color: #2d1560; background: #f0ebf8; }
+    .filter-btn:focus { outline: none; }
     .filter-btn.active { background: #2d1560; color: #fff; border-color: #2d1560; }
 
     .filter-sep {
@@ -418,7 +419,7 @@ const FILTER_DEFS = [
 ];
 
 let allEvents = [];
-let activeFilters = {};
+let activeFilters = Object.fromEntries(FILTER_DEFS.map(d => [d.key, new Set()]));
 
 function today() {
   const d = new Date();
@@ -434,14 +435,14 @@ function applyFilters(events) {
   return events.filter(ev => {
     return FILTER_DEFS.every(def => {
       const vals = activeFilters[def.key];
-      if (!vals || !vals.size) return true;
+      if (vals.size === 0) return true;
       return [...vals].some(v => def.match(ev, v));
     });
   });
 }
 
 function hasActiveFilters() {
-  return Object.values(activeFilters).some(v => v && v.size);
+  return FILTER_DEFS.some(def => activeFilters[def.key].size > 0);
 }
 
 function renderCard(ev) {
@@ -542,9 +543,9 @@ function buildFilters() {
       btn.dataset.filterKey = def.key;
       btn.dataset.filterVal = opt;
       btn.onclick = () => {
-        if (!activeFilters[def.key]) activeFilters[def.key] = new Set();
         const s = activeFilters[def.key];
         if (s.has(opt)) s.delete(opt); else s.add(opt);
+        btn.blur();
         updateFilterUI();
         render();
       };
@@ -559,7 +560,9 @@ function updateFilterUI() {
   document.querySelectorAll('.filter-btn').forEach(btn => {
     const key = btn.dataset.filterKey;
     const val = btn.dataset.filterVal;
-    btn.classList.toggle('active', activeFilters[key] && activeFilters[key].has(val));
+    const isActive = activeFilters[key].has(val);
+    if (isActive) btn.classList.add('active');
+    else btn.classList.remove('active');
   });
 }
 
