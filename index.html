@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" id="htmlRoot">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -375,8 +375,45 @@
     .footer a { color: #2d1560; text-decoration: none; font-weight: 500; }
     .footer a:hover { text-decoration: underline; }
 
+    /* ---- LANG TOGGLE ---- */
+    .hero { position: relative; }
+
+    .lang-toggle {
+      position: absolute;
+      top: 1.25rem;
+      right: 1.5rem;
+      display: flex;
+      background: rgba(255,255,255,0.12);
+      border-radius: 9999px;
+      overflow: hidden;
+      border: 1px solid rgba(255,255,255,0.2);
+    }
+
+    .lang-toggle button {
+      font-family: 'Montserrat', sans-serif;
+      font-size: 0.75rem;
+      font-weight: 600;
+      letter-spacing: 0.04em;
+      padding: 0.35rem 0.75rem;
+      border: none;
+      cursor: pointer;
+      background: transparent;
+      color: rgba(255,255,255,0.55);
+      transition: all 0.15s;
+    }
+
+    .lang-toggle button.active {
+      background: rgba(255,255,255,0.2);
+      color: #fff;
+    }
+
+    .lang-toggle button:hover:not(.active) {
+      color: rgba(255,255,255,0.85);
+    }
+
     /* ---- RESPONSIVE ---- */
     @media (max-width: 640px) {
+      .lang-toggle { top: 0.75rem; right: 0.75rem; }
       .hero { padding: 2.5rem 1.25rem 2rem; }
       .hero h1 { font-size: 1.75rem; }
       .hero .subheader { font-size: 0.9rem; }
@@ -394,27 +431,31 @@
 <body>
 
   <div class="hero">
-    <h1>What's up, Polish<br>tech community</h1>
-    <div class="subheader">Live directory of tech / start-up / science events and meetups in Poland</div>
+    <div class="lang-toggle" id="langToggle">
+      <button data-lang="en" class="active">EN</button>
+      <button data-lang="pl">PL</button>
+    </div>
+    <h1 data-i18n="title">What's up, Polish<br>tech community</h1>
+    <div class="subheader" data-i18n="subtitle">Live directory of tech / start-up / science events and meetups in Poland</div>
     <div class="powered-by">
-      Powered by <a href="https://startuppoland.org" target="_blank" rel="noopener"><img src="assets/sp-logo-white.svg" alt="Startup Poland" style="height: 18px; margin: 0 2px;"></a>
+      <span data-i18n="poweredBy">Powered by</span> <a href="https://startuppoland.org" target="_blank" rel="noopener"><img src="assets/sp-logo-white.svg" alt="Startup Poland" style="height: 18px; margin: 0 2px;"></a>
       <span class="separator">|</span>
-      Curated by <a href="https://vastpoint.vc" target="_blank" rel="noopener"><img src="assets/vp-logo.svg" alt="vastpoint" style="height: 16px; margin: 0 2px;"></a>
+      <span data-i18n="curatedBy">Curated by</span> <a href="https://vastpoint.vc" target="_blank" rel="noopener"><img src="assets/vp-logo.svg" alt="vastpoint" style="height: 16px; margin: 0 2px;"></a>
     </div>
   </div>
 
   <div class="toolbar">
-    <a class="submit-btn" href="https://tally.so/r/dWA9do" id="submitBtn" target="_blank">+ Submit an Event</a>
+    <a class="submit-btn" href="https://tally.so/r/dWA9do" id="submitBtn" target="_blank" data-i18n="submitBtn">+ Submit an Event</a>
     <div class="filter-bar" id="filterBar"></div>
-    <button class="clear-filters-btn" id="clearFilters">Clear all</button>
+    <button class="clear-filters-btn" id="clearFilters" data-i18n="clearAll">Clear all</button>
   </div>
 
   <div class="container">
-    <div class="section-label" id="upcomingLabel">Upcoming</div>
+    <div class="section-label" id="upcomingLabel" data-i18n="upcoming">Upcoming</div>
     <div id="upcoming"></div>
 
     <button class="past-toggle" id="pastToggle" style="display:none">
-      <span class="arrow">&#9654;</span> Past Events
+      <span class="arrow">&#9654;</span> <span data-i18n="pastEvents">Past Events</span>
     </button>
     <div class="past-events" id="past"></div>
   </div>
@@ -424,7 +465,49 @@
   </div>
 
 <script>
-const MONTHS = ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+const I18N = {
+  en: {
+    title: "What's up, Polish<br>tech community",
+    subtitle: "Live directory of tech / start-up / science events and meetups in Poland",
+    poweredBy: "Powered by",
+    curatedBy: "Curated by",
+    submitBtn: "+ Submit an Event",
+    clearAll: "Clear all",
+    upcoming: "Upcoming",
+    pastEvents: "Past Events",
+    emptyUpcoming: 'No upcoming events matching filters. <a href="https://tally.so/r/dWA9do" target="_blank">Submit one!</a>',
+    emptyLoad: "Could not load events.",
+    months: ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'],
+    filterLabels: { city: 'City', type: 'Type', language: 'Language', audience: 'Audience', price: 'Price' }
+  },
+  pl: {
+    title: "Co słychać w polskim<br>tech community",
+    subtitle: "Katalog wydarzeń technologicznych, startupowych i naukowych w Polsce",
+    poweredBy: "Przy wsparciu",
+    curatedBy: "Prowadzony przez",
+    submitBtn: "+ Zgłoś wydarzenie",
+    clearAll: "Wyczyść",
+    upcoming: "Nadchodzące",
+    pastEvents: "Minione wydarzenia",
+    emptyUpcoming: 'Brak nadchodzących wydarzeń pasujących do filtrów. <a href="https://tally.so/r/dWA9do" target="_blank">Zgłoś swoje!</a>',
+    emptyLoad: "Nie udało się załadować wydarzeń.",
+    months: ['Sty','Lut','Mar','Kwi','Maj','Cze','Lip','Sie','Wrz','Paź','Lis','Gru'],
+    filterLabels: { city: 'Miasto', type: 'Typ', language: 'Język', audience: 'Odbiorcy', price: 'Cena' },
+    values: {
+      'Meetup': 'Meetup', 'Conference': 'Konferencja', 'Hackathon': 'Hackathon',
+      'Workshop': 'Warsztaty', 'Networking': 'Networking', 'Policy': 'Polityka',
+      'Founders': 'Założyciele', 'Developers': 'Programiści', 'Operators': 'Operatorzy',
+      'Researchers': 'Naukowcy', 'Investors': 'Inwestorzy', 'Corporate': 'Korporacje',
+      'Students': 'Studenci', 'General public': 'Publiczność',
+      'Free': 'Bezpłatne', 'Paid': 'Płatne'
+    }
+  }
+};
+
+let currentLang = localStorage.getItem('events-lang') || 'en';
+
+function t(key) { return I18N[currentLang][key]; }
+function tv(val) { return (I18N[currentLang].values && I18N[currentLang].values[val]) || val; }
 
 const FILTER_DEFS = [
   { key: 'city',     label: 'City',      options: null, match: (ev, v) => ev.city === v },
@@ -463,11 +546,16 @@ function hasActiveFilters() {
 
 function renderCard(ev) {
   const d = parseDate(ev.date);
-  const month = MONTHS[d.getMonth()];
+  const month = I18N[currentLang].months[d.getMonth()];
   const day = d.getDate();
 
-  const tags = (ev.tags || []).map(t => `<span class="tag">${t}</span>`).join('');
+  const tags = (ev.tags || []).map(tag => `<span class="tag">${tv(tag)}</span>`).join('');
   const time = ev.time || '';
+  const desc = (currentLang === 'pl' && ev.description_pl) ? ev.description_pl : ev.description;
+  const price = ev.price ? tv(ev.price) : '';
+  const audience = ev.audience
+    ? ev.audience.split(', ').map(a => tv(a)).join(', ')
+    : '';
 
   return `
     <div class="event-card">
@@ -483,22 +571,22 @@ function renderCard(ev) {
           ${time ? `<span class="sep">&middot;</span><span>${time}</span>` : ''}
           <span class="sep">&middot;</span>
           <span class="lang-pill">${ev.language}</span>
-          ${ev.price ? `<span class="sep">&middot;</span><span class="price-pill ${ev.price.toLowerCase() === 'free' ? 'free' : 'paid'}">${ev.price}</span>` : ''}
-          ${ev.audience ? `<span class="sep">&middot;</span><span>${ev.audience}</span>` : ''}
+          ${price ? `<span class="sep">&middot;</span><span class="price-pill ${ev.price.toLowerCase() === 'free' ? 'free' : 'paid'}">${price}</span>` : ''}
+          ${audience ? `<span class="sep">&middot;</span><span>${audience}</span>` : ''}
         </div>
         <div class="event-tags">${tags}</div>
-        ${ev.description ? `<div class="event-desc">${ev.description}</div>` : ''}
+        ${desc ? `<div class="event-desc">${desc}</div>` : ''}
       </div>
     </div>
   `;
 }
 
 function render() {
-  const t = today();
+  const now = today();
   const filtered = applyFilters(allEvents);
 
-  const upcoming = filtered.filter(e => e.date >= t).sort((a, b) => a.date.localeCompare(b.date));
-  const past = filtered.filter(e => e.date < t).sort((a, b) => b.date.localeCompare(a.date));
+  const upcoming = filtered.filter(e => e.date >= now).sort((a, b) => a.date.localeCompare(b.date));
+  const past = filtered.filter(e => e.date < now).sort((a, b) => b.date.localeCompare(a.date));
 
   const upEl = document.getElementById('upcoming');
   const pastEl = document.getElementById('past');
@@ -510,7 +598,7 @@ function render() {
     upEl.innerHTML = upcoming.map(renderCard).join('');
   } else {
     upLabel.style.display = 'none';
-    upEl.innerHTML = '<div class="empty-state">No upcoming events matching filters. <a href="https://tally.so/r/dWA9do" target="_blank">Submit one!</a></div>';
+    upEl.innerHTML = `<div class="empty-state">${t('emptyUpcoming')}</div>`;
   }
 
   if (past.length) {
@@ -528,7 +616,7 @@ function buildFilters() {
   FILTER_DEFS.forEach((def, i) => {
     const usedValues = new Set();
     allEvents.forEach(ev => {
-      if (def.key === 'type') (ev.tags || []).forEach(t => usedValues.add(t));
+      if (def.key === 'type') (ev.tags || []).forEach(tag => usedValues.add(tag));
       else if (def.key === 'audience') (ev.audience || '').split(', ').forEach(a => { if (a) usedValues.add(a); });
       else if (ev[def.key]) usedValues.add(ev[def.key]);
     });
@@ -549,13 +637,14 @@ function buildFilters() {
 
     const label = document.createElement('span');
     label.className = 'filter-label';
-    label.textContent = def.label;
+    label.textContent = I18N[currentLang].filterLabels[def.key] || def.label;
+    label.dataset.filterLabelKey = def.key;
     group.appendChild(label);
 
     available.forEach(opt => {
       const btn = document.createElement('button');
       btn.className = 'filter-btn';
-      btn.textContent = opt;
+      btn.textContent = tv(opt);
       btn.dataset.filterKey = def.key;
       btn.dataset.filterVal = opt;
       btn.onclick = () => {
@@ -604,8 +693,42 @@ fetch('events.json')
     render();
   })
   .catch(() => {
-    document.getElementById('upcoming').innerHTML = '<div class="empty-state">Could not load events.</div>';
+    document.getElementById('upcoming').innerHTML = `<div class="empty-state">${t('emptyLoad')}</div>`;
   });
+
+/* ---- LANGUAGE TOGGLE ---- */
+function applyI18n() {
+  document.getElementById('htmlRoot').lang = currentLang;
+  document.title = currentLang === 'pl'
+    ? "Co słychać w polskim tech community"
+    : "What's Up, Polish Tech Community";
+  document.querySelectorAll('[data-i18n]').forEach(el => {
+    const key = el.dataset.i18n;
+    if (I18N[currentLang][key]) el.innerHTML = I18N[currentLang][key];
+  });
+  document.querySelectorAll('[data-filter-label-key]').forEach(el => {
+    const key = el.dataset.filterLabelKey;
+    el.textContent = I18N[currentLang].filterLabels[key] || key;
+  });
+  document.querySelectorAll('.filter-btn').forEach(btn => {
+    btn.textContent = tv(btn.dataset.filterVal);
+  });
+  document.querySelectorAll('#langToggle button').forEach(btn => {
+    btn.classList.toggle('active', btn.dataset.lang === currentLang);
+  });
+}
+
+document.getElementById('langToggle').addEventListener('click', function(e) {
+  const btn = e.target.closest('button[data-lang]');
+  if (!btn || btn.dataset.lang === currentLang) return;
+  currentLang = btn.dataset.lang;
+  localStorage.setItem('events-lang', currentLang);
+  applyI18n();
+  render();
+});
+
+// Apply saved language on load
+applyI18n();
 </script>
 
 </body>

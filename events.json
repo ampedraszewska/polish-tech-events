@@ -7,6 +7,7 @@
     "venue": "Imaguru Startup HUB",
     "url": "https://luma.com/spyb551m",
     "description": "Build with AI and ship a real app in a day using Lovable. Free credits provided, no coding experience needed.",
+    "description_pl": "Buduj z AI i wystartuj prawdziwą aplikację w jeden dzień z Lovable. Darmowe kredyty, nie trzeba umieć programować.",
     "language": "EN",
     "tags": [
       "Workshop",
@@ -25,6 +26,7 @@
     "venue": "Pod Gigantami, Al. Ujazdowskie 24",
     "url": "https://luma.com/yxpdz8ib",
     "description": "Women's Day celebration for women in VC. Three-course dinner and drinks included.",
+    "description_pl": "Celebracja Dnia Kobiet dla kobiet z branży VC. Kolacja trzydaniowa i drinki w cenie.",
     "language": "EN",
     "tags": [
       "Networking"
@@ -42,6 +44,7 @@
     "venue": "JJIT Office, Marszalkowska 107",
     "url": "https://app.evenea.pl/event/aula201/",
     "description": "Discussion on investment contract clauses - liquidation preference, anti-dilution, drag-along, vesting. How founders can protect themselves during fundraising.",
+    "description_pl": "Dyskusja o klauzulach umów inwestycyjnych - liquidation preference, anti-dilution, drag-along, vesting. Jak założyciele mogą się chronić podczas pozyskiwania finansowania.",
     "language": "PL",
     "tags": [
       "Meetup",
@@ -60,6 +63,7 @@
     "venue": "Sheraton Sopot Hotel, Powstancow Warszawy 10",
     "url": "https://www.semi.org/eu/connect/events/industry-strategy-symposium-europe",
     "description": "European semiconductor industry strategy symposium bringing together leaders to discuss trends, challenges, and opportunities in chip manufacturing.",
+    "description_pl": "Europejskie sympozjum strategiczne branży półprzewodników. Liderzy dyskutują o trendach, wyzwaniach i szansach w produkcji chipów.",
     "language": "EN",
     "tags": [
       "Conference"
@@ -77,6 +81,7 @@
     "venue": "Venture Cafe, Chmielna 73",
     "url": "https://luma.com/l50o2lgm",
     "description": "15 high-potential Ukrainian startups pitch after 12 weeks of intensive preparation. Investor feedback panels and networking.",
+    "description_pl": "15 ukraińskich startupów o dużym potencjale prezentuje się po 12 tygodniach intensywnych przygotowań. Panele z feedbackiem inwestorów i networking.",
     "language": "EN",
     "tags": [
       "Meetup",
@@ -95,6 +100,7 @@
     "venue": "Koszykowa 54",
     "url": "https://luma.com/k3officewarming",
     "description": "Kolektyw3 celebrates their new HQ - networking, music, and space tour.",
+    "description_pl": "Kolektyw3 świętuje nową siedzibę - networking, muzyka i zwiedzanie przestrzeni.",
     "language": "EN",
     "tags": [
       "Networking"
@@ -112,6 +118,7 @@
     "venue": "Ace of Space, Renoma, Swidnicka 40",
     "url": "https://app.evenea.pl/event/soda-open-wroclaw2/",
     "description": "Evening networking for IT industry leaders with speed networking and thematic discussions in a relaxed atmosphere.",
+    "description_pl": "Wieczorny networking dla liderów branży IT ze speed networkingiem i dyskusjami tematycznymi w luźnej atmosferze.",
     "language": "PL",
     "tags": [
       "Networking"
@@ -129,6 +136,7 @@
     "venue": "",
     "url": "https://luma.com/dwa4l043",
     "description": "Morning AI breakfast meetup - practitioners share insights over coffee.",
+    "description_pl": "Poranny meetup śniadaniowy o AI - praktycy dzielą się wiedzą przy kawie.",
     "language": "PL",
     "tags": [
       "Meetup",
@@ -147,6 +155,7 @@
     "venue": "inQUBE, Wielka 67",
     "url": "https://startup-playbook-x-scanway.gridaly.com/",
     "description": "Startup playbook session exploring the Scanway journey - lessons from building a space-tech startup in Wroclaw.",
+    "description_pl": "Sesja startup playbook o historii Scanway - lekcje z budowania startupu kosmicznego we Wrocławiu.",
     "language": "PL",
     "tags": [
       "Meetup"
@@ -164,6 +173,7 @@
     "venue": "COBU DESIGN, Porcelanowa 23",
     "url": "https://snip.silesianstartups.com/",
     "description": "Silesian startup networking and innovation platform connecting founders, investors, and tech professionals.",
+    "description_pl": "Śląska platforma networkingowa i innowacyjna łącząca założycieli, inwestorów i specjalistów IT.",
     "language": "PL",
     "tags": [
       "Meetup",
@@ -182,6 +192,7 @@
     "venue": "Tarczynski Arena, al. Slaska 1",
     "url": "https://wroclaw.tekday.pl/",
     "description": "Full-day electronics industry event with 200+ exhibitor booths, technical lectures, and networking. Special focus on space and aviation technologies.",
+    "description_pl": "Całodniowe wydarzenie branży elektronicznej z ponad 200 stoiskami wystawców, wykładami technicznymi i networkingiem. Szczególny nacisk na technologie kosmiczne i lotnicze.",
     "language": "EN+PL",
     "tags": [
       "Conference"
@@ -199,6 +210,7 @@
     "venue": "Muzeum Historii Polski",
     "url": "https://uaisummit.mit.edu/",
     "description": "MIT-organized summit on universal AI, bridging academic research and industry applications.",
+    "description_pl": "Szczyt organizowany przez MIT poświęcony uniwersalnej AI, łączący badania akademickie z zastosowaniami przemysłowymi.",
     "language": "EN+PL",
     "tags": [
       "Conference"
@@ -216,6 +228,7 @@
     "venue": "",
     "url": "https://www.vestbee.com/cee-vc-summit",
     "description": "Invitation-only 2-day event for 200+ VC fund managers (GPs) and selected LPs in Central & Eastern Europe.",
+    "description_pl": "Dwudniowe wydarzenie tylko na zaproszenie dla ponad 200 zarządzających funduszami VC (GP) i wybranych LP z Europy Środkowo-Wschodniej.",
     "language": "EN",
     "tags": [
       "Conference",
@@ -234,6 +247,7 @@
     "venue": "Concordia Design, wyspa Slodowa 7",
     "url": "https://university.swps.pl/bigdemoday",
     "description": "Student and startup project showcase organized by SWPS University and Concordia Design, supported by PARP and EU funds.",
+    "description_pl": "Pokaz projektów studenckich i startupowych organizowany przez Uniwersytet SWPS i Concordia Design, wspierany przez PARP i fundusze UE.",
     "language": "EN",
     "tags": [
       "Meetup"
@@ -251,6 +265,7 @@
     "venue": "Centrum Konferencyjne LSSE",
     "url": "https://meetup.legnica.pl/meetups/legnicki-meetup-technologiczny-5",
     "description": "Cyclical tech meetup with talks on software engineering and AI. Open to all levels - from senior devs to students and hobbyists.",
+    "description_pl": "Cykliczny meetup technologiczny z prelekcjami o inżynierii oprogramowania i AI. Otwarty dla wszystkich poziomów - od seniorów po studentów i hobbystów.",
     "language": "PL",
     "tags": [
       "Meetup"
@@ -268,6 +283,7 @@
     "venue": "Venture Cafe, Chmielna 73",
     "url": "https://www.startupgrind.com/warsaw/",
     "description": "Monthly open pitch session by Startup Grind Warsaw. Founders pitch to the community, get feedback, and network with other entrepreneurs and investors.",
+    "description_pl": "Comiesięczna otwarta sesja pitchowa Startup Grind Warsaw. Założyciele prezentują się społeczności, otrzymują feedback i nawiązują kontakty z innymi przedsiębiorcami i inwestorami.",
     "language": "EN",
     "tags": [
       "Meetup",
@@ -286,6 +302,7 @@
     "venue": "",
     "url": "https://poland.aitinkerers.org/p/google-deepmind-x-ai-tinkerers-hackathon-warsaw",
     "description": "Full-day hackathon co-organized by Google DeepMind and AI Tinkerers Poland.",
+    "description_pl": "Całodniowy hackathon współorganizowany przez Google DeepMind i AI Tinkerers Poland.",
     "language": "EN",
     "tags": [
       "Hackathon"
@@ -303,6 +320,7 @@
     "venue": "",
     "url": "https://luma.com/oqrh82i5",
     "description": "Morning AI breakfast meetup - practitioners share insights over coffee.",
+    "description_pl": "Poranny meetup śniadaniowy o AI - praktycy dzielą się wiedzą przy kawie.",
     "language": "PL",
     "tags": [
       "Meetup",
@@ -321,6 +339,7 @@
     "venue": "EXPO XXI",
     "url": "https://wolvessummit.com",
     "description": "CEE startup & investor summit with curated matchmaking and pitch competitions.",
+    "description_pl": "Szczyt startupów i inwestorów CEE z dopasowywaniem uczestników i konkursami pitchowymi.",
     "language": "EN",
     "tags": [
       "Conference",
@@ -339,6 +358,7 @@
     "venue": "BULVARY, Ksiecia Witolda 11",
     "url": "https://startupwro.meetingapplication.com/event/startup-wro-meetup-2026",
     "description": "Regular Wroclaw startup community meetup with pitches, talks, and networking.",
+    "description_pl": "Regularny wrocławski meetup społeczności startupowej z pitchami, prelekcjami i networkingiem.",
     "language": "EN+PL",
     "tags": [
       "Meetup",
@@ -357,6 +377,7 @@
     "venue": "inQUBE, Wielka 67",
     "url": "https://inqube.pl/inqube-ai-camp-2026-warsztaty-dla-studentow/",
     "description": "Intensive one-day workshop for students - team work on a real social challenge using AI. No programming experience required.",
+    "description_pl": "Intensywne jednodniowe warsztaty dla studentów - praca zespołowa nad realnym wyzwaniem społecznym z użyciem AI. Nie wymaga doświadczenia w programowaniu.",
     "language": "PL",
     "tags": [
       "Workshop",
@@ -375,6 +396,7 @@
     "venue": "Concordia Design, wyspa Slodowa 7",
     "url": "https://evenea.pl/pl/wydarzenie/DataVibes2026",
     "description": "Full-day AI summit turning theoretical visions into working solutions. Case studies on AI budgeting, Design Thinking, and the Polish LLM Bielik.",
+    "description_pl": "Całodniowy szczyt AI zamieniający teoretyczne wizje w działające rozwiązania. Case studies o budżetowaniu AI, Design Thinking i polskim LLM Bielik.",
     "language": "PL",
     "tags": [
       "Conference"
@@ -392,6 +414,7 @@
     "venue": "Św. Marcin 11",
     "url": "https://hugething.vc/poznan-startup-contest/",
     "description": "Startup competition for women entrepreneurs seeking to develop fundraising skills and prepare to scale their businesses.",
+    "description_pl": "Konkurs startupowy dla kobiet-przedsiębiorczyń chcących rozwinąć umiejętności pozyskiwania finansowania i przygotować się do skalowania biznesu.",
     "language": "EN+PL",
     "tags": [
       "Conference",
@@ -410,6 +433,7 @@
     "venue": "",
     "url": "https://conference.sodapl.com/",
     "description": "Annual conference by SoDA (Software Development Association Poland) for IT industry leaders and decision-makers.",
+    "description_pl": "Coroczna konferencja SoDA (Software Development Association Poland) dla liderów i decydentów branży IT.",
     "language": "EN+PL",
     "tags": [
       "Conference"
@@ -427,6 +451,7 @@
     "venue": "",
     "url": "https://efni.pl/wiosenna-edycja-efni/",
     "description": "Spring edition focused on building Poland's international image through arts, sports, digitalization, media, and innovation.",
+    "description_pl": "Wiosenna edycja poświęcona budowaniu międzynarodowego wizerunku Polski poprzez sztukę, sport, cyfryzację, media i innowacje.",
     "language": "PL",
     "tags": [
       "Conference"
@@ -444,6 +469,7 @@
     "venue": "Jana Pawła II 10",
     "url": "https://poland.aitinkerers.org/p/ai-tinkerers-poland-meetup-in-poznan-1",
     "description": "Technical practitioners explore foundation models and generative AI with live demos, fostering collaboration for solving complex engineering challenges.",
+    "description_pl": "Praktycy techniczni eksplorują modele fundamentalne i generatywne AI z demo na żywo, wspierając współpracę przy rozwiązywaniu złożonych wyzwań inżynierskich.",
     "language": "EN",
     "tags": [
       "Meetup",
@@ -462,6 +488,7 @@
     "venue": "",
     "url": "https://poland.aitinkerers.org/p/ai-tinkerers-poland-meetup-in-gdansk-1",
     "description": "Community meetup featuring live demos and networking with other active AI builders.",
+    "description_pl": "Meetup społecznościowy z demo na żywo i networkingiem z innymi aktywnymi twórcami AI.",
     "language": "EN",
     "tags": [
       "Meetup",
@@ -480,6 +507,7 @@
     "venue": "Strefa Kultury Studenckiej, Politechnika Wrocławska",
     "url": "https://www.cassini.eu/hackathons/poland",
     "description": "Develop solutions addressing water challenges using EU space data from Copernicus, EGNOS, and Galileo. Three themed tracks: equitable water access, pollution prevention, and disaster monitoring.",
+    "description_pl": "Twórz rozwiązania dotyczące wyzwań wodnych z wykorzystaniem danych kosmicznych UE z Copernicus, EGNOS i Galileo. Trzy ścieżki tematyczne: równy dostęp do wody, zapobieganie zanieczyszczeniom i monitoring katastrof.",
     "language": "EN",
     "tags": [
       "Hackathon"
@@ -497,6 +525,7 @@
     "venue": "",
     "url": "https://luma.com/zp0nv9em",
     "description": "Morning AI breakfast meetup - practitioners share insights over coffee.",
+    "description_pl": "Poranny meetup śniadaniowy o AI - praktycy dzielą się wiedzą przy kawie.",
     "language": "PL",
     "tags": [
       "Meetup",
@@ -515,6 +544,7 @@
     "venue": "AmberExpo",
     "url": "https://infoshare.pl",
     "description": "Central Europe's largest tech conference. Startups, investors, and tech leaders.",
+    "description_pl": "Największa konferencja technologiczna Europy Środkowej. Startupy, inwestorzy i liderzy technologii.",
     "language": "EN",
     "tags": [
       "Conference",
@@ -533,6 +563,7 @@
     "venue": "Politechnika Wrocławska, Wybrzeże Wyspianskiego 27",
     "url": "",
     "description": "Demo day showcasing student startup projects incubated at Wroclaw University of Science and Technology.",
+    "description_pl": "Demo day prezentujący studenckie projekty startupowe inkubowane na Politechnice Wrocławskiej.",
     "language": "EN+PL",
     "tags": [
       "Meetup"
@@ -550,6 +581,7 @@
     "venue": "",
     "url": "https://evolutions.startupwroclaw.pl/",
     "description": "The biggest regional startup event bringing together SMEs, innovators, investors, and tech professionals. Workshops, startup showcase contest, and networking.",
+    "description_pl": "Największe regionalne wydarzenie startupowe łączące MŚP, innowatorów, inwestorów i specjalistów IT. Warsztaty, konkurs startupowy i networking.",
     "language": "EN+PL",
     "tags": [
       "Conference",
@@ -568,6 +600,7 @@
     "venue": "",
     "url": "",
     "description": "Major summit celebrating and empowering women in technology across Central Europe.",
+    "description_pl": "Duży szczyt celebrujący i wzmacniający kobiety w technologii w Europie Środkowej.",
     "language": "EN+PL",
     "tags": [
       "Conference",
@@ -586,6 +619,7 @@
     "venue": "MTP Expo",
     "url": "https://impactcee.com",
     "description": "Leading CEE economy & tech congress with government, business, and startup tracks.",
+    "description_pl": "Wiodący kongres gospodarczy i technologiczny CEE ze ścieżkami rządowymi, biznesowymi i startupowymi.",
     "language": "EN+PL",
     "tags": [
       "Conference",
@@ -605,6 +639,7 @@
     "venue": "Miedzynarodowe Centrum Kongresowe, pl. Slawika i Antalla 1",
     "url": "https://www.cybersecforum.eu/2026/en/",
     "description": "Leading European cybersecurity conference and expo. Knowledge exchange and business connections for the security industry.",
+    "description_pl": "Wiodąca europejska konferencja i targi cyberbezpieczeństwa. Wymiana wiedzy i kontakty biznesowe dla branży bezpieczeństwa.",
     "language": "EN+PL",
     "tags": [
       "Conference"
@@ -622,6 +657,7 @@
     "venue": "",
     "url": "https://abslsummit.com/",
     "description": "\"Know the Unknown\" - exploring how uncertainty unlocks growth, with a focus on talent, technology, and transformation in business services. Keynote by Geoffrey Hinton.",
+    "description_pl": "\"Know the Unknown\" - jak niepewność napędza wzrost, z naciskiem na talenty, technologię i transformację w usługach biznesowych. Keynote Geoffrey'a Hintona.",
     "language": "EN+PL",
     "tags": [
       "Conference"
@@ -639,6 +675,7 @@
     "venue": "",
     "url": "https://carpathianfest.pl/",
     "description": "Regional startup festival in southeastern Poland connecting founders, investors, and the local tech ecosystem.",
+    "description_pl": "Regionalny festiwal startupowy w południowo-wschodniej Polsce łączący założycieli, inwestorów i lokalny ekosystem technologiczny.",
     "language": "PL",
     "tags": [
       "Conference",
@@ -657,6 +694,7 @@
     "venue": "Teatr Muzyczny, pl. Grunwaldzki 1",
     "url": "",
     "description": "Conference and awards gala recognizing outstanding IT leaders and managers driving digital transformation.",
+    "description_pl": "Konferencja i gala nagród wyróżniająca wybitnych liderów IT i menedżerów napędzających transformację cyfrową.",
     "language": "EN+PL",
     "tags": [
       "Conference"
@@ -674,6 +712,7 @@
     "venue": "Uniwersytet Ekonomiczny",
     "url": "https://pitchmeetup.pl/",
     "description": "Inspiring talks, workshops, and panels with founders, tech innovators, and investors. Includes a startup pitch competition.",
+    "description_pl": "Inspirujące prelekcje, warsztaty i panele z założycielami, innowatorami i inwestorami. Zawiera konkurs pitchowy startupów.",
     "language": "PL",
     "tags": [
       "Conference",
@@ -692,6 +731,7 @@
     "venue": "Centrum Kongresowe Politechniki Wrocławskiej, Janiszewskiego 8",
     "url": "https://cybertrust.org.pl/",
     "description": "Cybersecurity congress focused on building resilience against technological and social changes in the digital world.",
+    "description_pl": "Kongres cyberbezpieczeństwa skupiony na budowaniu odporności na zmiany technologiczne i społeczne w świecie cyfrowym.",
     "language": "EN+PL",
     "tags": [
       "Conference"
@@ -709,6 +749,7 @@
     "venue": "",
     "url": "https://www.made-in-wroclaw.pl/",
     "description": "10th edition combining conference, expo, tech gala & contest, and VC demo day. Business, science, technology, and innovation on one stage.",
+    "description_pl": "10. edycja łącząca konferencję, targi, galę technologiczną i konkurs oraz VC demo day. Biznes, nauka, technologia i innowacje na jednej scenie.",
     "language": "PL",
     "tags": [
       "Conference",
