@@ -759,20 +759,5 @@
     "organizer": "Made in Wroclaw",
     "price": "Paid",
     "added": "2026-03-09"
-  },
-  {
-    "name": "Test Webhook Event",
-    "date": "2026-04-15",
-    "status": "pending",
-    "added": "2026-03-19",
-    "city": "Warszawa",
-    "url": "https://example.com/test-event",
-    "organizer": "Test Org",
-    "language": "EN",
-    "price": "Free",
-    "tags": [
-      "Meetup",
-      "Networking"
-    ]
   }
 ]
