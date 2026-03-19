@@ -1,0 +1,1031 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Events Admin — Startup Poland</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&family=Space+Grotesk:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+
+    body {
+      font-family: 'Montserrat', -apple-system, sans-serif;
+      background: #f5f3fa;
+      color: #1a1a1a;
+      font-size: 0.875rem;
+    }
+
+    /* ---- TOPBAR ---- */
+    .topbar {
+      background: #1c004c;
+      color: #fff;
+      padding: 0.875rem 2rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .topbar h1 {
+      font-family: 'Space Grotesk', sans-serif;
+      font-size: 1.1rem;
+      font-weight: 700;
+    }
+
+    .topbar .back-link {
+      color: rgba(255,255,255,0.65);
+      text-decoration: none;
+      font-size: 0.8125rem;
+    }
+
+    .topbar .back-link:hover { color: #fff; }
+
+    .logout-btn {
+      background: rgba(255,255,255,0.12);
+      border: 1px solid rgba(255,255,255,0.2);
+      color: #fff;
+      padding: 0.35rem 0.875rem;
+      border-radius: 9999px;
+      font-family: 'Montserrat', sans-serif;
+      font-size: 0.75rem;
+      font-weight: 600;
+      cursor: pointer;
+    }
+
+    .logout-btn:hover { background: rgba(255,255,255,0.2); }
+
+    /* ---- LOGIN SCREEN ---- */
+    #loginScreen {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: calc(100vh - 50px);
+    }
+
+    .login-box {
+      background: #fff;
+      border-radius: 12px;
+      padding: 2.5rem 2rem;
+      width: 100%;
+      max-width: 360px;
+      box-shadow: 0 4px 24px rgba(0,0,0,0.08);
+    }
+
+    .login-box h2 {
+      font-family: 'Space Grotesk', sans-serif;
+      font-size: 1.25rem;
+      margin-bottom: 0.5rem;
+    }
+
+    .login-box p {
+      color: #777;
+      font-size: 0.8rem;
+      margin-bottom: 1.5rem;
+    }
+
+    .field-group {
+      margin-bottom: 1rem;
+    }
+
+    .field-group label {
+      display: block;
+      font-size: 0.75rem;
+      font-weight: 600;
+      color: #555;
+      margin-bottom: 0.35rem;
+    }
+
+    .field-group input,
+    .field-group select,
+    .field-group textarea {
+      width: 100%;
+      padding: 0.55rem 0.75rem;
+      border: 1.5px solid #e0dcea;
+      border-radius: 7px;
+      font-family: 'Montserrat', sans-serif;
+      font-size: 0.8125rem;
+      background: #fff;
+      color: #1a1a1a;
+      transition: border-color 0.15s;
+    }
+
+    .field-group input:focus,
+    .field-group select:focus,
+    .field-group textarea:focus {
+      outline: none;
+      border-color: #2d1560;
+    }
+
+    .field-group textarea { resize: vertical; min-height: 72px; }
+
+    .error-msg {
+      color: #c62828;
+      font-size: 0.775rem;
+      margin-top: 0.5rem;
+      display: none;
+    }
+
+    /* ---- BUTTONS ---- */
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.35rem;
+      padding: 0.55rem 1.1rem;
+      border-radius: 7px;
+      font-family: 'Montserrat', sans-serif;
+      font-size: 0.8rem;
+      font-weight: 600;
+      cursor: pointer;
+      border: none;
+      transition: opacity 0.15s, transform 0.1s;
+    }
+
+    .btn:hover { opacity: 0.85; transform: translateY(-1px); }
+    .btn:active { transform: translateY(0); }
+    .btn:disabled { opacity: 0.45; cursor: not-allowed; transform: none; }
+
+    .btn-primary { background: #2d1560; color: #fff; }
+    .btn-success { background: #2e7d32; color: #fff; }
+    .btn-warning { background: #e65100; color: #fff; }
+    .btn-danger  { background: #c62828; color: #fff; }
+    .btn-ghost   { background: #f0ebf8; color: #2d1560; }
+    .btn-sm      { padding: 0.3rem 0.65rem; font-size: 0.7rem; border-radius: 5px; }
+    .btn-full    { width: 100%; justify-content: center; }
+
+    /* ---- MAIN PANEL ---- */
+    #adminPanel { display: none; }
+
+    .main-content {
+      max-width: 1100px;
+      margin: 0 auto;
+      padding: 1.5rem 2rem 4rem;
+    }
+
+    /* ---- TABS ---- */
+    .tabs {
+      display: flex;
+      gap: 0.25rem;
+      border-bottom: 2px solid #e8e4f0;
+      margin-bottom: 1.5rem;
+    }
+
+    .tab-btn {
+      background: none;
+      border: none;
+      padding: 0.75rem 1.25rem;
+      font-family: 'Montserrat', sans-serif;
+      font-size: 0.8125rem;
+      font-weight: 600;
+      color: #9b8fb5;
+      cursor: pointer;
+      border-bottom: 2px solid transparent;
+      margin-bottom: -2px;
+      transition: color 0.15s;
+    }
+
+    .tab-btn:hover { color: #2d1560; }
+    .tab-btn.active { color: #2d1560; border-bottom-color: #2d1560; }
+
+    .tab-content { display: none; }
+    .tab-content.active { display: block; }
+
+    /* ---- PENDING BADGE ---- */
+    .pending-count {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      background: #e65100;
+      color: #fff;
+      font-size: 0.625rem;
+      font-weight: 700;
+      min-width: 18px;
+      height: 18px;
+      border-radius: 9999px;
+      padding: 0 4px;
+      margin-left: 0.35rem;
+    }
+
+    /* ---- TABLE ---- */
+    .events-table-wrap {
+      overflow-x: auto;
+      border-radius: 10px;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.06);
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      background: #fff;
+      font-size: 0.8rem;
+    }
+
+    th {
+      text-align: left;
+      padding: 0.65rem 0.875rem;
+      font-size: 0.675rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.06em;
+      color: #9b8fb5;
+      border-bottom: 1.5px solid #f0edf5;
+      white-space: nowrap;
+    }
+
+    td {
+      padding: 0.6rem 0.875rem;
+      border-bottom: 1px solid #f7f5fa;
+      vertical-align: middle;
+    }
+
+    tr:last-child td { border-bottom: none; }
+    tr:hover td { background: #faf8ff; }
+
+    .td-actions {
+      display: flex;
+      gap: 0.35rem;
+      align-items: center;
+      flex-wrap: wrap;
+    }
+
+    .badge-pill {
+      display: inline-block;
+      font-size: 0.625rem;
+      font-weight: 700;
+      padding: 0.15rem 0.5rem;
+      border-radius: 9999px;
+    }
+
+    .badge-pill.recommended { background: #ede7f6; color: #4527a0; }
+    .badge-pill.partner { background: #fff8e1; color: #e65100; }
+    .badge-pill.none { background: #f0edf5; color: #9b8fb5; }
+    .badge-pill.pending { background: #fff3e0; color: #e65100; }
+    .badge-pill.approved { background: #e8f5e9; color: #2e7d32; }
+
+    .event-name-cell {
+      font-weight: 600;
+      max-width: 220px;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+
+    /* ---- ADD EVENT FORM ---- */
+    .form-card {
+      background: #fff;
+      border-radius: 10px;
+      padding: 1.75rem;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.06);
+      max-width: 720px;
+    }
+
+    .form-card h3 {
+      font-family: 'Space Grotesk', sans-serif;
+      font-size: 1rem;
+      margin-bottom: 1.25rem;
+    }
+
+    .form-row {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 0.875rem;
+    }
+
+    @media (max-width: 640px) { .form-row { grid-template-columns: 1fr; } }
+
+    .form-actions {
+      display: flex;
+      gap: 0.75rem;
+      margin-top: 1.25rem;
+      align-items: center;
+    }
+
+    /* ---- MODAL OVERLAY ---- */
+    .modal-overlay {
+      display: none;
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,0.45);
+      z-index: 100;
+      align-items: center;
+      justify-content: center;
+      padding: 1rem;
+    }
+
+    .modal-overlay.open { display: flex; }
+
+    .modal-box {
+      background: #fff;
+      border-radius: 12px;
+      padding: 2rem;
+      width: 100%;
+      max-width: 680px;
+      max-height: 90vh;
+      overflow-y: auto;
+      box-shadow: 0 8px 40px rgba(0,0,0,0.18);
+    }
+
+    .modal-box h3 {
+      font-family: 'Space Grotesk', sans-serif;
+      font-size: 1rem;
+      margin-bottom: 1.25rem;
+    }
+
+    .modal-actions {
+      display: flex;
+      gap: 0.75rem;
+      margin-top: 1.25rem;
+      justify-content: flex-end;
+    }
+
+    /* ---- TOAST ---- */
+    #toast {
+      position: fixed;
+      bottom: 1.5rem;
+      right: 1.5rem;
+      background: #1c004c;
+      color: #fff;
+      padding: 0.75rem 1.25rem;
+      border-radius: 9px;
+      font-size: 0.8125rem;
+      font-weight: 600;
+      box-shadow: 0 4px 16px rgba(0,0,0,0.18);
+      opacity: 0;
+      transform: translateY(8px);
+      transition: opacity 0.25s, transform 0.25s;
+      pointer-events: none;
+      z-index: 200;
+      max-width: 340px;
+    }
+
+    #toast.show { opacity: 1; transform: translateY(0); }
+    #toast.error { background: #c62828; }
+
+    /* ---- SECTION HEADER ---- */
+    .section-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-bottom: 1rem;
+      flex-wrap: wrap;
+      gap: 0.75rem;
+    }
+
+    .section-header h2 {
+      font-family: 'Space Grotesk', sans-serif;
+      font-size: 0.9375rem;
+    }
+
+    /* ---- EMPTY STATE ---- */
+    .empty { text-align: center; padding: 3rem; color: #9b8fb5; font-size: 0.8125rem; }
+  </style>
+</head>
+<body>
+
+  <div class="topbar">
+    <h1>Events Admin</h1>
+    <div style="display:flex; gap:1rem; align-items:center;">
+      <a class="back-link" href="index.html">← Back to calendar</a>
+      <button class="logout-btn" id="logoutBtn" style="display:none" onclick="logout()">Log out</button>
+    </div>
+  </div>
+
+  <!-- LOGIN SCREEN -->
+  <div id="loginScreen">
+    <div class="login-box">
+      <h2>Admin Login</h2>
+      <p>Enter the shared password to manage events.</p>
+      <div class="field-group">
+        <label for="passwordInput">Password</label>
+        <input type="password" id="passwordInput" placeholder="••••••••" autocomplete="current-password">
+      </div>
+      <div class="error-msg" id="loginError">Incorrect password. Try again.</div>
+      <button class="btn btn-primary btn-full" id="loginBtn" onclick="doLogin()" style="margin-top:0.5rem;">Sign in</button>
+    </div>
+  </div>
+
+  <!-- ADMIN PANEL -->
+  <div id="adminPanel">
+    <div class="main-content">
+
+      <div class="tabs">
+        <button class="tab-btn active" onclick="switchTab('pending', this)">
+          Pending <span class="pending-count" id="pendingCount" style="display:none">0</span>
+        </button>
+        <button class="tab-btn" onclick="switchTab('all', this)">All Events</button>
+        <button class="tab-btn" onclick="switchTab('add', this)">+ Add Event</button>
+      </div>
+
+      <!-- TAB: PENDING -->
+      <div class="tab-content active" id="tab-pending">
+        <div class="section-header">
+          <h2>Pending submissions</h2>
+        </div>
+        <div class="events-table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Event</th>
+                <th>Date</th>
+                <th>City</th>
+                <th>Organizer</th>
+                <th>Submitted</th>
+                <th>Actions</th>
+              </tr>
+            </thead>
+            <tbody id="pendingTableBody">
+              <tr><td colspan="6" class="empty">Loading…</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <!-- TAB: ALL EVENTS -->
+      <div class="tab-content" id="tab-all">
+        <div class="section-header">
+          <h2>All events</h2>
+          <input type="search" placeholder="Search…" id="allSearch" style="padding:0.45rem 0.75rem; border:1.5px solid #e0dcea; border-radius:7px; font-family:inherit; font-size:0.8rem; width:200px;" oninput="renderAllTable()">
+        </div>
+        <div class="events-table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>Event</th>
+                <th>Date</th>
+                <th>City</th>
+                <th>Status</th>
+                <th>Badge</th>
+                <th>Actions</th>
+              </tr>
+            </thead>
+            <tbody id="allTableBody">
+              <tr><td colspan="6" class="empty">Loading…</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <!-- TAB: ADD EVENT -->
+      <div class="tab-content" id="tab-add">
+        <div class="form-card">
+          <h3>Add new event</h3>
+          <div class="form-row">
+            <div class="field-group">
+              <label>Event name *</label>
+              <input type="text" id="add-name" placeholder="e.g. Startup Summit Warsaw">
+            </div>
+            <div class="field-group">
+              <label>Organizer</label>
+              <input type="text" id="add-organizer" placeholder="e.g. Startup Poland">
+            </div>
+          </div>
+          <div class="form-row">
+            <div class="field-group">
+              <label>Date *</label>
+              <input type="date" id="add-date">
+            </div>
+            <div class="field-group">
+              <label>Time</label>
+              <input type="time" id="add-time">
+            </div>
+          </div>
+          <div class="form-row">
+            <div class="field-group">
+              <label>City *</label>
+              <input type="text" id="add-city" placeholder="e.g. Warszawa">
+            </div>
+            <div class="field-group">
+              <label>Venue</label>
+              <input type="text" id="add-venue" placeholder="e.g. Campus Warsaw">
+            </div>
+          </div>
+          <div class="field-group">
+            <label>URL *</label>
+            <input type="url" id="add-url" placeholder="https://…">
+          </div>
+          <div class="field-group">
+            <label>Description (EN)</label>
+            <textarea id="add-description" placeholder="Short description in English…"></textarea>
+          </div>
+          <div class="field-group">
+            <label>Description (PL)</label>
+            <textarea id="add-description-pl" placeholder="Krótki opis po polsku…"></textarea>
+          </div>
+          <div class="form-row">
+            <div class="field-group">
+              <label>Language</label>
+              <select id="add-language">
+                <option value="EN">EN</option>
+                <option value="PL">PL</option>
+                <option value="EN+PL">EN+PL</option>
+              </select>
+            </div>
+            <div class="field-group">
+              <label>Price</label>
+              <select id="add-price">
+                <option value="Free">Free</option>
+                <option value="Paid">Paid</option>
+              </select>
+            </div>
+          </div>
+          <div class="form-row">
+            <div class="field-group">
+              <label>Tags (comma-separated)</label>
+              <input type="text" id="add-tags" placeholder="Meetup, Networking">
+            </div>
+            <div class="field-group">
+              <label>Audience (comma-separated)</label>
+              <input type="text" id="add-audience" placeholder="Founders, Developers">
+            </div>
+          </div>
+          <div class="form-row">
+            <div class="field-group">
+              <label>Badge</label>
+              <select id="add-badge">
+                <option value="">None</option>
+                <option value="recommended">★ Recommended</option>
+                <option value="partner">Partner</option>
+              </select>
+            </div>
+            <div class="field-group">
+              <label>Partner name (if badge = Partner)</label>
+              <input type="text" id="add-partner-name" placeholder="e.g. Startup Poland">
+            </div>
+          </div>
+          <div class="form-actions">
+            <button class="btn btn-primary" id="addSubmitBtn" onclick="submitAdd()">Add event</button>
+            <button class="btn btn-ghost" onclick="clearAddForm()">Clear</button>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- EDIT MODAL -->
+  <div class="modal-overlay" id="editModal">
+    <div class="modal-box">
+      <h3>Edit event</h3>
+      <div class="form-row">
+        <div class="field-group">
+          <label>Event name *</label>
+          <input type="text" id="edit-name">
+        </div>
+        <div class="field-group">
+          <label>Organizer</label>
+          <input type="text" id="edit-organizer">
+        </div>
+      </div>
+      <div class="form-row">
+        <div class="field-group">
+          <label>Date *</label>
+          <input type="date" id="edit-date">
+        </div>
+        <div class="field-group">
+          <label>Time</label>
+          <input type="time" id="edit-time">
+        </div>
+      </div>
+      <div class="form-row">
+        <div class="field-group">
+          <label>City *</label>
+          <input type="text" id="edit-city">
+        </div>
+        <div class="field-group">
+          <label>Venue</label>
+          <input type="text" id="edit-venue">
+        </div>
+      </div>
+      <div class="field-group">
+        <label>URL *</label>
+        <input type="url" id="edit-url">
+      </div>
+      <div class="field-group">
+        <label>Description (EN)</label>
+        <textarea id="edit-description"></textarea>
+      </div>
+      <div class="field-group">
+        <label>Description (PL)</label>
+        <textarea id="edit-description-pl"></textarea>
+      </div>
+      <div class="form-row">
+        <div class="field-group">
+          <label>Language</label>
+          <select id="edit-language">
+            <option value="EN">EN</option>
+            <option value="PL">PL</option>
+            <option value="EN+PL">EN+PL</option>
+          </select>
+        </div>
+        <div class="field-group">
+          <label>Price</label>
+          <select id="edit-price">
+            <option value="Free">Free</option>
+            <option value="Paid">Paid</option>
+          </select>
+        </div>
+      </div>
+      <div class="form-row">
+        <div class="field-group">
+          <label>Tags (comma-separated)</label>
+          <input type="text" id="edit-tags">
+        </div>
+        <div class="field-group">
+          <label>Audience (comma-separated)</label>
+          <input type="text" id="edit-audience">
+        </div>
+      </div>
+      <div class="form-row">
+        <div class="field-group">
+          <label>Badge</label>
+          <select id="edit-badge">
+            <option value="">None</option>
+            <option value="recommended">★ Recommended</option>
+            <option value="partner">Partner</option>
+          </select>
+        </div>
+        <div class="field-group">
+          <label>Partner name (if badge = Partner)</label>
+          <input type="text" id="edit-partner-name">
+        </div>
+      </div>
+      <div class="form-row">
+        <div class="field-group">
+          <label>Status</label>
+          <select id="edit-status">
+            <option value="approved">Approved</option>
+            <option value="pending">Pending</option>
+          </select>
+        </div>
+      </div>
+      <div class="modal-actions">
+        <button class="btn btn-ghost" onclick="closeModal()">Cancel</button>
+        <button class="btn btn-primary" id="editSaveBtn" onclick="saveEdit()">Save changes</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- TOAST -->
+  <div id="toast"></div>
+
+<script>
+  // ---- CONFIG ----
+  // Replace with your deployed Cloudflare Worker URL after running `wrangler deploy`
+  const WORKER_URL = 'https://polish-events-admin.aleksandra-964.workers.dev';
+
+  // Raw GitHub URL for reading events (public, no auth needed)
+  const EVENTS_RAW_URL = 'https://raw.githubusercontent.com/ampedraszewska/polish-tech-events/main/events.json';
+
+  // ---- STATE ----
+  let sessionToken = sessionStorage.getItem('admin-token') || '';
+  let allEvents = [];
+  let editingIndex = -1;
+
+  // ---- INIT ----
+  if (sessionToken) {
+    showAdmin();
+  }
+
+  // ---- AUTH ----
+  async function doLogin() {
+    const pw = document.getElementById('passwordInput').value;
+    const btn = document.getElementById('loginBtn');
+    const err = document.getElementById('loginError');
+    if (!pw) return;
+
+    btn.disabled = true;
+    btn.textContent = 'Signing in…';
+    err.style.display = 'none';
+
+    try {
+      const res = await fetch(`${WORKER_URL}/auth`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ password: pw })
+      });
+
+      if (!res.ok) throw new Error('auth_failed');
+      const { token } = await res.json();
+      sessionToken = token;
+      sessionStorage.setItem('admin-token', token);
+      showAdmin();
+    } catch {
+      err.style.display = 'block';
+      btn.disabled = false;
+      btn.textContent = 'Sign in';
+    }
+  }
+
+  document.getElementById('passwordInput').addEventListener('keydown', e => {
+    if (e.key === 'Enter') doLogin();
+  });
+
+  function logout() {
+    sessionToken = '';
+    sessionStorage.removeItem('admin-token');
+    document.getElementById('adminPanel').style.display = 'none';
+    document.getElementById('loginScreen').style.display = 'flex';
+    document.getElementById('logoutBtn').style.display = 'none';
+    document.getElementById('passwordInput').value = '';
+  }
+
+  function showAdmin() {
+    document.getElementById('loginScreen').style.display = 'none';
+    document.getElementById('adminPanel').style.display = 'block';
+    document.getElementById('logoutBtn').style.display = '';
+    loadEvents();
+  }
+
+  // ---- LOAD EVENTS ----
+  async function loadEvents() {
+    try {
+      const res = await fetch(`${EVENTS_RAW_URL}?t=${Date.now()}`);
+      allEvents = await res.json();
+      renderPendingTable();
+      renderAllTable();
+      updatePendingCount();
+    } catch (e) {
+      showToast('Failed to load events.json — check console.', true);
+    }
+  }
+
+  function updatePendingCount() {
+    const n = allEvents.filter(e => e.status === 'pending').length;
+    const badge = document.getElementById('pendingCount');
+    badge.textContent = n;
+    badge.style.display = n > 0 ? '' : 'none';
+  }
+
+  // ---- TABS ----
+  function switchTab(name, el) {
+    document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+    document.querySelectorAll('.tab-content').forEach(t => t.classList.remove('active'));
+    el.classList.add('active');
+    document.getElementById(`tab-${name}`).classList.add('active');
+  }
+
+  // ---- PENDING TABLE ----
+  function renderPendingTable() {
+    const pending = allEvents
+      .map((ev, i) => ({ ev, i }))
+      .filter(({ ev }) => ev.status === 'pending');
+
+    const tbody = document.getElementById('pendingTableBody');
+    if (!pending.length) {
+      tbody.innerHTML = '<tr><td colspan="6" class="empty">No pending submissions.</td></tr>';
+      return;
+    }
+
+    tbody.innerHTML = pending.map(({ ev, i }) => `
+      <tr>
+        <td class="event-name-cell" title="${esc(ev.name)}">${esc(ev.name)}</td>
+        <td>${ev.date || ''}</td>
+        <td>${esc(ev.city || '')}</td>
+        <td>${esc(ev.organizer || '')}</td>
+        <td>${esc(ev.added || '')}</td>
+        <td>
+          <div class="td-actions">
+            <button class="btn btn-success btn-sm" onclick="approveEvent(${i})">Approve</button>
+            <button class="btn btn-ghost btn-sm" onclick="openEdit(${i})">Edit</button>
+            <button class="btn btn-danger btn-sm" onclick="rejectEvent(${i})">Reject</button>
+          </div>
+        </td>
+      </tr>
+    `).join('');
+  }
+
+  // ---- ALL EVENTS TABLE ----
+  function renderAllTable() {
+    const q = (document.getElementById('allSearch')?.value || '').toLowerCase();
+    const filtered = allEvents
+      .map((ev, i) => ({ ev, i }))
+      .filter(({ ev }) => !q || ev.name?.toLowerCase().includes(q) || ev.city?.toLowerCase().includes(q));
+
+    const badgePill = ev => {
+      if (!ev.badge) return `<span class="badge-pill none">–</span>`;
+      if (ev.badge === 'recommended') return `<span class="badge-pill recommended">★ Recommended</span>`;
+      if (ev.badge === 'partner') return `<span class="badge-pill partner">Partner</span>`;
+    };
+
+    const statusPill = ev => {
+      const s = ev.status || 'approved';
+      return `<span class="badge-pill ${s}">${s}</span>`;
+    };
+
+    const tbody = document.getElementById('allTableBody');
+    if (!filtered.length) {
+      tbody.innerHTML = '<tr><td colspan="6" class="empty">No events found.</td></tr>';
+      return;
+    }
+
+    tbody.innerHTML = filtered.map(({ ev, i }) => `
+      <tr>
+        <td class="event-name-cell" title="${esc(ev.name)}">${esc(ev.name)}</td>
+        <td>${ev.date || ''}</td>
+        <td>${esc(ev.city || '')}</td>
+        <td>${statusPill(ev)}</td>
+        <td>${badgePill(ev)}</td>
+        <td>
+          <div class="td-actions">
+            <button class="btn btn-ghost btn-sm" onclick="openEdit(${i})">Edit</button>
+            <button class="btn btn-sm" style="background:#ede7f6;color:#4527a0" onclick="toggleBadge(${i})">Badge</button>
+            <button class="btn btn-danger btn-sm" onclick="deleteEvent(${i})">Delete</button>
+          </div>
+        </td>
+      </tr>
+    `).join('');
+  }
+
+  // ---- ACTIONS: APPROVE / REJECT / DELETE ----
+  async function approveEvent(i) {
+    const ev = { ...allEvents[i], status: 'approved' };
+    await patchEvent(i, ev, 'Approved. Site updates in ~1 minute.');
+  }
+
+  async function rejectEvent(i) {
+    if (!confirm(`Delete "${allEvents[i].name}" from the list? This cannot be undone.`)) return;
+    const updated = allEvents.filter((_, j) => j !== i);
+    await commitEvents(updated, `Reject pending event: ${allEvents[i].name}`, 'Rejected and removed.');
+  }
+
+  async function deleteEvent(i) {
+    if (!confirm(`Delete "${allEvents[i].name}"? This cannot be undone.`)) return;
+    const updated = allEvents.filter((_, j) => j !== i);
+    await commitEvents(updated, `Delete event: ${allEvents[i].name}`, 'Deleted. Site updates in ~1 minute.');
+  }
+
+  // ---- BADGE TOGGLE ----
+  async function toggleBadge(i) {
+    const ev = { ...allEvents[i] };
+    const cycle = [undefined, 'recommended', 'partner'];
+    const current = cycle.indexOf(ev.badge);
+    const next = cycle[(current + 1) % cycle.length];
+    if (next === undefined) delete ev.badge; else ev.badge = next;
+    await patchEvent(i, ev, `Badge set to: ${next || 'none'}. Site updates in ~1 minute.`);
+  }
+
+  // ---- EDIT MODAL ----
+  function openEdit(i) {
+    editingIndex = i;
+    const ev = allEvents[i];
+    document.getElementById('edit-name').value = ev.name || '';
+    document.getElementById('edit-organizer').value = ev.organizer || '';
+    document.getElementById('edit-date').value = ev.date || '';
+    document.getElementById('edit-time').value = ev.time || '';
+    document.getElementById('edit-city').value = ev.city || '';
+    document.getElementById('edit-venue').value = ev.venue || '';
+    document.getElementById('edit-url').value = ev.url || '';
+    document.getElementById('edit-description').value = ev.description || '';
+    document.getElementById('edit-description-pl').value = ev.description_pl || '';
+    document.getElementById('edit-language').value = ev.language || 'EN';
+    document.getElementById('edit-price').value = ev.price || 'Free';
+    document.getElementById('edit-tags').value = (ev.tags || []).join(', ');
+    document.getElementById('edit-audience').value = ev.audience || '';
+    document.getElementById('edit-badge').value = ev.badge || '';
+    document.getElementById('edit-partner-name').value = ev.partner_name || '';
+    document.getElementById('edit-status').value = ev.status || 'approved';
+    document.getElementById('editModal').classList.add('open');
+  }
+
+  function closeModal() {
+    document.getElementById('editModal').classList.remove('open');
+    editingIndex = -1;
+  }
+
+  async function saveEdit() {
+    if (editingIndex < 0) return;
+    const ev = buildEventFromForm('edit');
+    if (!ev) return;
+    ev.added = allEvents[editingIndex].added || today();
+    await patchEvent(editingIndex, ev, 'Saved. Site updates in ~1 minute.');
+    closeModal();
+  }
+
+  // ---- ADD EVENT ----
+  async function submitAdd() {
+    const ev = buildEventFromForm('add');
+    if (!ev) return;
+    ev.added = today();
+    ev.status = 'approved';
+    const updated = [...allEvents, ev];
+    await commitEvents(updated, `Add event: ${ev.name}`, 'Added. Site updates in ~1 minute.');
+    clearAddForm();
+  }
+
+  function clearAddForm() {
+    ['name','organizer','city','venue','url','tags','audience','description','description-pl','partner-name']
+      .forEach(id => { const el = document.getElementById(`add-${id}`); if (el) el.value = ''; });
+    document.getElementById('add-date').value = '';
+    document.getElementById('add-time').value = '';
+    document.getElementById('add-language').value = 'EN';
+    document.getElementById('add-price').value = 'Free';
+    document.getElementById('add-badge').value = '';
+  }
+
+  // ---- FORM BUILDER ----
+  function buildEventFromForm(prefix) {
+    const g = id => document.getElementById(`${prefix}-${id}`)?.value?.trim() || '';
+    const name = g('name');
+    const date = g('date');
+    const city = g('city');
+    const url = g('url');
+    if (!name || !date || !city || !url) {
+      showToast('Name, date, city, and URL are required.', true);
+      return null;
+    }
+    const badge = g('badge');
+    const ev = {
+      name,
+      date,
+      city,
+      url,
+    };
+    if (g('time')) ev.time = g('time');
+    if (g('venue')) ev.venue = g('venue');
+    if (g('organizer')) ev.organizer = g('organizer');
+    if (g('description')) ev.description = g('description');
+    if (g('description-pl')) ev.description_pl = g('description-pl');
+    ev.language = g('language') || 'EN';
+    ev.price = g('price') || 'Free';
+    const tags = g('tags').split(',').map(t => t.trim()).filter(Boolean);
+    if (tags.length) ev.tags = tags;
+    if (g('audience')) ev.audience = g('audience');
+    if (badge) {
+      ev.badge = badge;
+      if (badge === 'partner' && g('partner-name')) ev.partner_name = g('partner-name');
+    }
+    if (prefix === 'edit') {
+      ev.status = g('status') || 'approved';
+    }
+    return ev;
+  }
+
+  // ---- CORE: PATCH ONE EVENT ----
+  async function patchEvent(index, updatedEvent, successMsg) {
+    const updated = allEvents.map((ev, i) => i === index ? updatedEvent : ev);
+    const name = allEvents[index].name;
+    const action = updatedEvent.status === 'approved' && allEvents[index].status === 'pending'
+      ? `Approve event: ${name}`
+      : `Update event: ${name}`;
+    await commitEvents(updated, action, successMsg);
+  }
+
+  // ---- CORE: COMMIT TO GITHUB VIA WORKER ----
+  async function commitEvents(events, commitMessage, successMsg) {
+    const btn = document.activeElement;
+    if (btn && btn.tagName === 'BUTTON') btn.disabled = true;
+
+    try {
+      const res = await fetch(`${WORKER_URL}/events`, {
+        method: 'PATCH',
+        headers: {
+          'Content-Type': 'application/json',
+          'Authorization': `Bearer ${sessionToken}`
+        },
+        body: JSON.stringify({ events, commitMessage })
+      });
+
+      if (res.status === 401) { logout(); return; }
+      if (res.status === 409) throw new Error('Conflict — events.json changed while you were editing. Refreshing…');
+      if (!res.ok) throw new Error(`Worker error ${res.status}`);
+
+      allEvents = events;
+      renderPendingTable();
+      renderAllTable();
+      updatePendingCount();
+      showToast(successMsg);
+    } catch (e) {
+      showToast(e.message || 'Save failed. Check console.', true);
+      if (e.message?.includes('Refreshing')) loadEvents();
+    } finally {
+      if (btn && btn.tagName === 'BUTTON') btn.disabled = false;
+    }
+  }
+
+  // ---- HELPERS ----
+  function today() {
+    const d = new Date();
+    return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;
+  }
+
+  function esc(str) {
+    return String(str || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  }
+
+  let toastTimer;
+  function showToast(msg, isError = false) {
+    const el = document.getElementById('toast');
+    el.textContent = msg;
+    el.className = 'show' + (isError ? ' error' : '');
+    clearTimeout(toastTimer);
+    toastTimer = setTimeout(() => { el.className = ''; }, 4000);
+  }
+
+  // Close modal on backdrop click
+  document.getElementById('editModal').addEventListener('click', function(e) {
+    if (e.target === this) closeModal();
+  });
+</script>
+
+</body>
+</html>

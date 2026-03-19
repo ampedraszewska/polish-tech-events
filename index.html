@@ -411,6 +411,92 @@
       color: rgba(255,255,255,0.85);
     }
 
+    /* ---- BADGE PILLS ---- */
+    .badge-recommended {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.2rem;
+      background: #ede7f6;
+      color: #4527a0;
+      font-size: 0.5625rem;
+      font-weight: 700;
+      padding: 0.15rem 0.5rem;
+      border-radius: 9999px;
+      letter-spacing: 0.02em;
+      margin-left: 0.4rem;
+      vertical-align: middle;
+      white-space: nowrap;
+    }
+
+    .badge-partner {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.2rem;
+      background: #fff8e1;
+      color: #e65100;
+      font-size: 0.5625rem;
+      font-weight: 700;
+      padding: 0.15rem 0.5rem;
+      border-radius: 9999px;
+      letter-spacing: 0.02em;
+      margin-left: 0.4rem;
+      vertical-align: middle;
+      white-space: nowrap;
+    }
+
+    /* ---- FOUNDERS CALL CARD ---- */
+    .founders-call {
+      border: 2px solid #2d1560;
+      border-radius: 12px;
+      padding: 1.125rem 1.375rem;
+      margin: 1.75rem 0 0.25rem;
+      display: flex;
+      align-items: center;
+      gap: 1.25rem;
+      background: #faf8ff;
+    }
+
+    .founders-call-icon {
+      flex-shrink: 0;
+      font-size: 1.75rem;
+      line-height: 1;
+    }
+
+    .founders-call-body { flex: 1; min-width: 0; }
+
+    .founders-call-title {
+      font-family: 'Space Grotesk', sans-serif;
+      font-size: 0.9375rem;
+      font-weight: 700;
+      color: #1a1a1a;
+      margin-bottom: 0.2rem;
+    }
+
+    .founders-call-desc {
+      font-size: 0.775rem;
+      color: #777;
+      line-height: 1.5;
+    }
+
+    .founders-call-cta {
+      flex-shrink: 0;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.4rem;
+      background: #2d1560;
+      color: #fff;
+      text-decoration: none;
+      padding: 0.55rem 1.1rem;
+      border-radius: 9999px;
+      font-family: 'Montserrat', sans-serif;
+      font-size: 0.8125rem;
+      font-weight: 600;
+      transition: background 0.15s, transform 0.1s;
+      white-space: nowrap;
+    }
+
+    .founders-call-cta:hover { background: #3d1f80; transform: translateY(-1px); }
+
     /* ---- RESPONSIVE ---- */
     @media (max-width: 640px) {
       .lang-toggle { top: 0.75rem; right: 0.75rem; }
@@ -425,6 +511,8 @@
       .date-badge { width: 46px; height: 46px; }
       .date-badge .day { font-size: 1.125rem; }
       .event-name { font-size: 0.9375rem; }
+      .founders-call { flex-direction: column; gap: 0.875rem; align-items: flex-start; }
+      .founders-call-cta { width: 100%; justify-content: center; }
     }
   </style>
 </head>
@@ -451,6 +539,16 @@
   </div>
 
   <div class="container">
+    <!-- FOUNDERS CALL — update href once Luma series URL is created -->
+    <div class="founders-call">
+      <div class="founders-call-icon">📅</div>
+      <div class="founders-call-body">
+        <div class="founders-call-title" data-i18n="foundersCallTitle">Weekly Founders Call</div>
+        <div class="founders-call-desc" data-i18n="foundersCallDesc">Open weekly session for startup founders — peer exchange, deal flow, and Q&A. Max 25 seats, waitlist available.</div>
+      </div>
+      <a class="founders-call-cta" href="https://lu.ma/sp-founders-call" target="_blank" rel="noopener" data-i18n="foundersCallCta">Sign up on Luma →</a>
+    </div>
+
     <div class="section-label" id="upcomingLabel" data-i18n="upcoming">Upcoming</div>
     <div id="upcoming"></div>
 
@@ -462,6 +560,7 @@
 
   <div class="footer">
     &copy; 2026 <a href="https://vastpoint.vc">Vastpoint</a> &amp; <a href="https://startuppoland.org">Startup Poland</a>
+    &nbsp;&middot;&nbsp; <a href="admin.html">Admin</a>
   </div>
 
 <script>
@@ -478,7 +577,10 @@ const I18N = {
     emptyUpcoming: 'No upcoming events matching filters. <a href="https://tally.so/r/dWA9do" target="_blank">Submit one!</a>',
     emptyLoad: "Could not load events.",
     months: ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'],
-    filterLabels: { city: 'City', type: 'Type', language: 'Language', audience: 'Audience', price: 'Price' }
+    filterLabels: { city: 'City', type: 'Type', language: 'Language', audience: 'Audience', price: 'Price', badge: 'Curated' },
+    foundersCallTitle: 'Weekly Founders Call',
+    foundersCallDesc: 'Open weekly session for startup founders — peer exchange, deal flow, and Q&A. Max 25 seats, waitlist available.',
+    foundersCallCta: 'Sign up on Luma →'
   },
   pl: {
     title: "Co słychać w polskim<br>tech community",
@@ -492,14 +594,18 @@ const I18N = {
     emptyUpcoming: 'Brak nadchodzących wydarzeń pasujących do filtrów. <a href="https://tally.so/r/dWA9do" target="_blank">Zgłoś swoje!</a>',
     emptyLoad: "Nie udało się załadować wydarzeń.",
     months: ['Sty','Lut','Mar','Kwi','Maj','Cze','Lip','Sie','Wrz','Paź','Lis','Gru'],
-    filterLabels: { city: 'Miasto', type: 'Typ', language: 'Język', audience: 'Odbiorcy', price: 'Cena' },
+    filterLabels: { city: 'Miasto', type: 'Typ', language: 'Język', audience: 'Odbiorcy', price: 'Cena', badge: 'Polecane' },
+    foundersCallTitle: 'Tygodniowe spotkanie założycieli',
+    foundersCallDesc: 'Otwarte tygodniowe spotkanie dla założycieli startupów — wymiana doświadczeń, deal flow, Q&A. Max 25 miejsc, lista oczekujących dostępna.',
+    foundersCallCta: 'Zapisz się na Luma →',
     values: {
       'Meetup': 'Meetup', 'Conference': 'Konferencja', 'Hackathon': 'Hackathon',
       'Workshop': 'Warsztaty', 'Networking': 'Networking', 'Policy': 'Polityka',
       'Founders': 'Założyciele', 'Developers': 'Programiści', 'Operators': 'Operatorzy',
       'Researchers': 'Naukowcy', 'Investors': 'Inwestorzy', 'Corporate': 'Korporacje',
       'Students': 'Studenci', 'General public': 'Publiczność',
-      'Free': 'Bezpłatne', 'Paid': 'Płatne'
+      'Free': 'Bezpłatne', 'Paid': 'Płatne',
+      'recommended': '★ Polecane', 'partner': 'Partner'
     }
   }
 };
@@ -514,7 +620,8 @@ const FILTER_DEFS = [
   { key: 'type',     label: 'Type',      options: ['Meetup','Conference','Hackathon','Workshop','Networking','Policy'], match: (ev, v) => (ev.tags || []).includes(v) },
   { key: 'language', label: 'Language',   options: ['EN','PL','EN+PL'], match: (ev, v) => ev.language === v },
   { key: 'audience', label: 'Audience',   options: ['Founders','Developers','Operators','Researchers','Investors','Corporate','Students','General public'], match: (ev, v) => (ev.audience || '').includes(v) },
-  { key: 'price',    label: 'Price',      options: ['Free','Paid'], match: (ev, v) => ev.price === v }
+  { key: 'price',    label: 'Price',      options: ['Free','Paid'], match: (ev, v) => ev.price === v },
+  { key: 'badge',    label: 'Curated',    options: ['recommended','partner'], match: (ev, v) => ev.badge === v }
 ];
 
 let allEvents = [];
@@ -556,6 +663,11 @@ function renderCard(ev) {
   const audience = ev.audience
     ? ev.audience.split(', ').map(a => tv(a)).join(', ')
     : '';
+  const badgeHtml = ev.badge === 'recommended'
+    ? `<span class="badge-recommended">★ ${currentLang === 'pl' ? 'Polecane' : 'Recommended'}</span>`
+    : ev.badge === 'partner'
+    ? `<span class="badge-partner">🤝 ${ev.partner_name || 'Partner'}</span>`
+    : '';
 
   return `
     <div class="event-card">
@@ -564,7 +676,7 @@ function renderCard(ev) {
         <div class="day">${day}</div>
       </div>
       <div class="event-info">
-        <a class="event-name" href="${ev.url}" target="_blank" rel="noopener">${ev.name}</a>
+        <a class="event-name" href="${ev.url}" target="_blank" rel="noopener">${ev.name}</a>${badgeHtml}
         <div class="event-meta">
           ${ev.city ? `<span class="city-pill">${ev.city}</span>` : ''}
           ${ev.venue ? `<span>${ev.venue}</span>` : ''}
@@ -688,7 +800,7 @@ document.getElementById('pastToggle').addEventListener('click', function() {
 fetch('events.json')
   .then(r => r.json())
   .then(data => {
-    allEvents = data;
+    allEvents = data.filter(ev => !ev.status || ev.status === 'approved');
     buildFilters();
     render();
   })
