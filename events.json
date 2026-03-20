@@ -411,19 +411,19 @@
   {
     "name": "SoDA Conference 2026",
     "date": "2026-04-14",
-    "time": "09:00",
-    "city": "",
-    "venue": "",
+    "city": "Łódź",
     "url": "https://conference.sodapl.com/",
+    "time": "09:00",
+    "organizer": "SoDA",
     "description": "Annual conference by SoDA (Software Development Association Poland) for IT industry leaders and decision-makers.",
     "description_pl": "Coroczna konferencja SoDA (Software Development Association Poland) dla liderów i decydentów branży IT.",
     "language": "EN+PL",
+    "price": "Paid",
     "tags": [
       "Conference"
     ],
     "audience": "Corporate, Operators",
-    "organizer": "SoDA",
-    "price": "Paid",
+    "status": "approved",
     "added": "2026-03-09"
   },
   {
