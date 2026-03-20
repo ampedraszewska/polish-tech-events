@@ -469,76 +469,19 @@
       <div class="tab-content" id="tab-add">
         <div class="form-card">
           <h3>Add new event</h3>
-          <div class="form-row">
-            <div class="field-group">
-              <label>Event name *</label>
-              <input type="text" id="add-name" placeholder="e.g. Startup Summit Warsaw">
-            </div>
-            <div class="field-group">
-              <label>Organizer</label>
-              <input type="text" id="add-organizer" placeholder="e.g. Startup Poland">
-            </div>
-          </div>
-          <div class="form-row">
-            <div class="field-group">
-              <label>Date *</label>
-              <input type="date" id="add-date">
-            </div>
-            <div class="field-group">
-              <label>Time</label>
-              <input type="time" id="add-time">
-            </div>
-          </div>
-          <div class="form-row">
-            <div class="field-group">
-              <label>City *</label>
-              <input type="text" id="add-city" placeholder="e.g. Warszawa">
-            </div>
-            <div class="field-group">
-              <label>Venue</label>
-              <input type="text" id="add-venue" placeholder="e.g. Campus Warsaw">
-            </div>
-          </div>
+
+          <!-- Step 1: URL fetch -->
           <div class="field-group">
-            <label>URL *</label>
-            <input type="url" id="add-url" placeholder="https://…">
-          </div>
-          <div class="field-group">
-            <label>Description (EN)</label>
-            <textarea id="add-description" placeholder="Short description in English…"></textarea>
-          </div>
-          <div class="field-group">
-            <label>Description (PL)</label>
-            <textarea id="add-description-pl" placeholder="Krótki opis po polsku…"></textarea>
-          </div>
-          <div class="form-row">
-            <div class="field-group">
-              <label>Language</label>
-              <select id="add-language">
-                <option value="EN">EN</option>
-                <option value="PL">PL</option>
-                <option value="EN+PL">EN+PL</option>
-              </select>
+            <label>Event URL *</label>
+            <div style="display:flex; gap:0.5rem;">
+              <input type="url" id="add-url" placeholder="https://lu.ma/… or any event page" style="flex:1">
+              <button class="btn btn-ghost" id="fetchBtn" onclick="fetchEventDetails()">Fetch details →</button>
             </div>
-            <div class="field-group">
-              <label>Price</label>
-              <select id="add-price">
-                <option value="Free">Free</option>
-                <option value="Paid">Paid</option>
-              </select>
-            </div>
+            <div id="fetchStatus" style="font-size:0.75rem; margin-top:0.35rem; color:#9b8fb5; display:none;"></div>
           </div>
-          <div class="form-row">
-            <div class="field-group">
-              <label>Tags (comma-separated)</label>
-              <input type="text" id="add-tags" placeholder="Meetup, Networking">
-            </div>
-            <div class="field-group">
-              <label>Audience (comma-separated)</label>
-              <input type="text" id="add-audience" placeholder="Founders, Developers">
-            </div>
-          </div>
-          <div class="form-row">
+
+          <!-- Badge fields (always shown — admin-only) -->
+          <div class="form-row" style="margin-top:0.875rem;">
             <div class="field-group">
               <label>Badge</label>
               <select id="add-badge">
@@ -552,9 +495,79 @@
               <input type="text" id="add-partner-name" placeholder="e.g. Startup Poland">
             </div>
           </div>
-          <div class="form-actions">
-            <button class="btn btn-primary" id="addSubmitBtn" onclick="submitAdd()">Add event</button>
-            <button class="btn btn-ghost" onclick="clearAddForm()">Clear</button>
+
+          <!-- Step 2: prefilled fields (hidden until fetch) -->
+          <div id="addFormFields" style="display:none; margin-top:1rem; border-top:1.5px solid #f0edf5; padding-top:1rem;">
+            <p style="font-size:0.75rem; color:#9b8fb5; margin-bottom:1rem;">Review and edit the auto-filled details below:</p>
+            <div class="form-row">
+              <div class="field-group">
+                <label>Event name *</label>
+                <input type="text" id="add-name" placeholder="e.g. Startup Summit Warsaw">
+              </div>
+              <div class="field-group">
+                <label>Organizer</label>
+                <input type="text" id="add-organizer" placeholder="e.g. Startup Poland">
+              </div>
+            </div>
+            <div class="form-row">
+              <div class="field-group">
+                <label>Date *</label>
+                <input type="date" id="add-date">
+              </div>
+              <div class="field-group">
+                <label>Time</label>
+                <input type="time" id="add-time">
+              </div>
+            </div>
+            <div class="form-row">
+              <div class="field-group">
+                <label>City *</label>
+                <input type="text" id="add-city" placeholder="e.g. Warszawa">
+              </div>
+              <div class="field-group">
+                <label>Venue</label>
+                <input type="text" id="add-venue" placeholder="e.g. Campus Warsaw">
+              </div>
+            </div>
+            <div class="field-group">
+              <label>Description (EN)</label>
+              <textarea id="add-description" placeholder="Short description in English…"></textarea>
+            </div>
+            <div class="field-group">
+              <label>Description (PL)</label>
+              <textarea id="add-description-pl" placeholder="Krótki opis po polsku…"></textarea>
+            </div>
+            <div class="form-row">
+              <div class="field-group">
+                <label>Language</label>
+                <select id="add-language">
+                  <option value="EN">EN</option>
+                  <option value="PL">PL</option>
+                  <option value="EN+PL">EN+PL</option>
+                </select>
+              </div>
+              <div class="field-group">
+                <label>Price</label>
+                <select id="add-price">
+                  <option value="Free">Free</option>
+                  <option value="Paid">Paid</option>
+                </select>
+              </div>
+            </div>
+            <div class="form-row">
+              <div class="field-group">
+                <label>Tags (comma-separated)</label>
+                <input type="text" id="add-tags" placeholder="Meetup, Networking">
+              </div>
+              <div class="field-group">
+                <label>Audience (comma-separated)</label>
+                <input type="text" id="add-audience" placeholder="Founders, Developers">
+              </div>
+            </div>
+            <div class="form-actions">
+              <button class="btn btn-primary" id="addSubmitBtn" onclick="submitAdd()">Add event</button>
+              <button class="btn btn-ghost" onclick="clearAddForm()">Clear</button>
+            </div>
           </div>
         </div>
       </div>
@@ -901,6 +914,66 @@
     closeModal();
   }
 
+  // ---- FETCH EVENT DETAILS ----
+  async function fetchEventDetails() {
+    const url = document.getElementById('add-url').value.trim();
+    if (!url) { showToast('Enter a URL first.', true); return; }
+
+    const btn = document.getElementById('fetchBtn');
+    const status = document.getElementById('fetchStatus');
+    btn.disabled = true;
+    btn.textContent = 'Fetching…';
+    status.style.display = '';
+    status.textContent = 'Fetching event details…';
+
+    try {
+      const res = await fetch(`${WORKER_URL}/scrape-event`, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          'Authorization': `Bearer ${sessionToken}`
+        },
+        body: JSON.stringify({ url })
+      });
+
+      if (res.status === 401) { logout(); return; }
+      if (!res.ok) throw new Error(`Scrape failed: ${res.status}`);
+
+      const { event: ev } = await res.json();
+
+      // Prefill form fields
+      document.getElementById('add-name').value         = ev.name         || '';
+      document.getElementById('add-organizer').value    = ev.organizer     || '';
+      document.getElementById('add-date').value         = ev.date          || '';
+      document.getElementById('add-time').value         = ev.time          || '';
+      document.getElementById('add-city').value         = ev.city          || '';
+      document.getElementById('add-venue').value        = ev.venue         || '';
+      document.getElementById('add-description').value  = ev.description   || '';
+      document.getElementById('add-description-pl').value = ev.description_pl || '';
+      if (ev.language) document.getElementById('add-language').value = ev.language;
+      if (ev.price)    document.getElementById('add-price').value    = ev.price;
+
+      // Show fields
+      document.getElementById('addFormFields').style.display = '';
+
+      // Status: show what was and wasn't found
+      const found    = ['name','date','city','venue','organizer','description'].filter(k => ev[k]);
+      const missing  = ['name','date','city'].filter(k => !ev[k]);
+      status.style.color = missing.length ? '#e65100' : '#2e7d32';
+      status.textContent = missing.length
+        ? `Fetched. Missing: ${missing.join(', ')} — fill in manually.`
+        : `Details fetched. Review and save.`;
+
+    } catch(e) {
+      status.style.color = '#c62828';
+      status.textContent = 'Could not fetch — fill in manually.';
+      document.getElementById('addFormFields').style.display = '';
+    } finally {
+      btn.disabled = false;
+      btn.textContent = 'Fetch details →';
+    }
+  }
+
   // ---- ADD EVENT ----
   async function submitAdd() {
     const ev = buildEventFromForm('add');
@@ -920,6 +993,10 @@
     document.getElementById('add-language').value = 'EN';
     document.getElementById('add-price').value = 'Free';
     document.getElementById('add-badge').value = '';
+    document.getElementById('addFormFields').style.display = 'none';
+    const status = document.getElementById('fetchStatus');
+    status.style.display = 'none';
+    status.textContent = '';
   }
 
   // ---- FORM BUILDER ----
