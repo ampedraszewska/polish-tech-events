@@ -334,25 +334,6 @@
     "added": "2026-03-07"
   },
   {
-    "name": "Wolves Summit 2026",
-    "date": "2026-04-09",
-    "time": "09:00",
-    "city": "Warszawa",
-    "venue": "EXPO XXI",
-    "url": "https://wolvessummit.com",
-    "description": "CEE startup & investor summit with curated matchmaking and pitch competitions.",
-    "description_pl": "Szczyt startupów i inwestorów CEE z dopasowywaniem uczestników i konkursami pitchowymi.",
-    "language": "EN",
-    "tags": [
-      "Conference",
-      "Networking"
-    ],
-    "audience": "Founders, Investors, Corporate",
-    "organizer": "Wolves Summit",
-    "price": "Paid",
-    "added": "2026-03-07"
-  },
-  {
     "name": "Startup WRO Meetup #14",
     "date": "2026-04-09",
     "time": "16:30",
