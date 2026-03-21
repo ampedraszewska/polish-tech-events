@@ -516,29 +516,29 @@
     }
 
     /* ---- SP HEADER ---- */
-    .sp-header { background: #fff; position: sticky; top: 0; z-index: 100; box-shadow: 0 1px 3px rgba(0,0,0,.08); }
+    .sp-header { background: #220554; position: sticky; top: 0; z-index: 100; }
     .sp-header-inner { max-width: 1200px; margin: 0 auto; display: flex; align-items: center; gap: 1.5rem; padding: 0 1.5rem; height: 72px; }
     .sp-logo img { height: 36px; display: block; }
     .sp-nav { flex: 1; }
     .sp-nav ul { list-style: none; display: flex; gap: 1.5rem; flex-wrap: wrap; }
-    .sp-nav a { font-size: .875rem; font-weight: 600; color: #1c004c; text-decoration: none; position: relative; padding: 4px 0; transition: opacity .3s; }
+    .sp-nav a { font-size: 1rem; font-weight: 500; color: #fff; text-decoration: none; position: relative; padding: 4px 0; transition: opacity .3s; letter-spacing: .05em; }
     .sp-nav a:hover { opacity: .7; }
     .sp-nav a::after { content: ''; position: absolute; left: -5px; bottom: -2px; width: 0; height: 9px; background: #150238; opacity: 0; transition: all .5s; z-index: -1; }
     .sp-nav a:hover::after, .sp-nav-active > a::after { width: calc(100% + 10px); opacity: 1; }
     .sp-nav-active > a { color: #fff; position: relative; z-index: 1; }
-    .sp-dropdown { position: absolute; top: 100%; left: 0; background: #fff; box-shadow: 0 4px 12px rgba(0,0,0,.1); min-width: 200px; padding: .5rem 0; display: none; flex-direction: column; border-radius: 4px; }
-    .sp-dropdown a { display: block; padding: .5rem 1rem; color: #1c004c; font-size: .8125rem; }
+    .sp-dropdown { position: absolute; top: 100%; left: 0; background: #fff; box-shadow: 0 4px 12px rgba(0,0,0,.15); min-width: 200px; padding: .5rem 0; display: none; flex-direction: column; border-radius: 4px; }
+    .sp-dropdown a { display: block; padding: .5rem 1rem; color: #220554; font-size: .8125rem; font-weight: 500; }
     .sp-dropdown a::after { display: none; }
     .has-dropdown { position: relative; }
     .has-dropdown:hover .sp-dropdown { display: flex; }
     .sp-header-lang { display: flex; gap: 2px; flex-shrink: 0; }
-    .sp-header-lang button { background: none; border: 1px solid #1c004c; color: #1c004c; font-size: .75rem; font-weight: 600; padding: 3px 8px; cursor: pointer; transition: all .2s; font-family: 'Montserrat', sans-serif; }
+    .sp-header-lang button { background: none; border: 1px solid rgba(255,255,255,.5); color: #fff; font-size: .75rem; font-weight: 600; padding: 3px 8px; cursor: pointer; transition: all .2s; font-family: 'Montserrat', sans-serif; }
     .sp-header-lang button:first-child { border-radius: 4px 0 0 4px; }
     .sp-header-lang button:last-child { border-radius: 0 4px 4px 0; }
-    .sp-header-lang button.active { background: #1c004c; color: #fff; }
-    .sp-hamburger { display: none; background: none; border: none; font-size: 1.5rem; color: #1c004c; cursor: pointer; margin-left: auto; padding: 0.25rem; }
+    .sp-header-lang button.active { background: rgba(255,255,255,.2); border-color: rgba(255,255,255,.8); }
+    .sp-hamburger { display: none; background: none; border: none; font-size: 1.5rem; color: #fff; cursor: pointer; margin-left: auto; padding: 0.25rem; }
     @media (max-width: 768px) {
-      .sp-nav { display: none; position: absolute; top: 72px; left: 0; right: 0; background: #fff; padding: 1rem 1.5rem; box-shadow: 0 4px 8px rgba(0,0,0,.08); z-index: 99; }
+      .sp-nav { display: none; position: absolute; top: 72px; left: 0; right: 0; background: #220554; padding: 1rem 1.5rem; box-shadow: 0 4px 8px rgba(0,0,0,.3); z-index: 99; }
       .sp-nav.open { display: block; }
       .sp-nav ul { flex-direction: column; gap: .75rem; }
       .sp-hamburger { display: block; }
@@ -577,7 +577,7 @@
   <header class="sp-header">
     <div class="sp-header-inner">
       <a class="sp-logo" href="https://startuppoland.org/" target="_blank" rel="noopener">
-        <img src="https://startuppoland.org/wp-content/uploads/2021/02/logo-Startup-Poland-rgb.svg" alt="Startup Poland">
+        <img src="https://startuppoland.org/wp-content/uploads/2021/02/logo-Startup-Poland-rgb-1.svg" alt="Startup Poland">
       </a>
       <nav class="sp-nav" id="spNav">
         <ul>
