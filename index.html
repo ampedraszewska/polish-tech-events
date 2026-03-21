@@ -576,24 +576,24 @@
 
   <header class="sp-header">
     <div class="sp-header-inner">
-      <a class="sp-logo" href="https://startuppoland.org/" target="_blank" rel="noopener">
+      <a class="sp-logo" href="https://startuppoland.org/" data-href-pl="https://startuppoland.org/" data-href-en="https://startuppoland.org/en/" target="_blank" rel="noopener">
         <img src="https://startuppoland.org/wp-content/uploads/2021/02/logo-Startup-Poland-rgb-1.svg" alt="Startup Poland">
       </a>
       <nav class="sp-nav" id="spNav">
         <ul>
-          <li><a href="https://startuppoland.org/aktualnosci/">Aktualności</a></li>
-          <li><a href="https://standardy.startuppoland.org/">Standardy</a></li>
-          <li><a href="https://startuppoland.org/raporty/">Raporty</a></li>
+          <li><a href="https://startuppoland.org/aktualnosci/" data-i18n="navNews" data-href-pl="https://startuppoland.org/aktualnosci/" data-href-en="https://startuppoland.org/en/news/">Aktualności</a></li>
+          <li><a href="https://standardy.startuppoland.org/" data-i18n="navStandards">Standardy</a></li>
+          <li><a href="https://startuppoland.org/raporty/" data-i18n="navReports" data-href-pl="https://startuppoland.org/raporty/" data-href-en="https://startuppoland.org/en/reports/">Raporty</a></li>
           <li class="sp-nav-active"><a href="#" data-i18n="navEvents">Wydarzenia</a></li>
           <li class="has-dropdown">
-            <a href="#">O nas ▾</a>
+            <a href="#" data-i18n="navAbout">O nas ▾</a>
             <div class="sp-dropdown">
-              <a href="https://startuppoland.org/zarzad-i-rada-fundacji/">Zarząd i Rada</a>
-              <a href="https://startuppoland.org/historia/">Historia</a>
-              <a href="https://startuppoland.org/dokumenty/">Dokumenty</a>
+              <a href="https://startuppoland.org/zarzad-i-rada-fundacji/" data-i18n="navAboutBoard" data-href-pl="https://startuppoland.org/zarzad-i-rada-fundacji/" data-href-en="https://startuppoland.org/en/management-board-and-foundation-council/">Zarząd i Rada Fundacji</a>
+              <a href="https://startuppoland.org/historia/" data-i18n="navAboutHistory" data-href-pl="https://startuppoland.org/historia/" data-href-en="https://startuppoland.org/en/history/">Historia</a>
+              <a href="https://startuppoland.org/dokumenty/" data-i18n="navAboutDocs" data-href-pl="https://startuppoland.org/dokumenty/" data-href-en="https://startuppoland.org/en/documents/">Dokumenty</a>
             </div>
           </li>
-          <li><a href="https://startuppoland.org/#kontakt">Kontakt</a></li>
+          <li><a href="https://startuppoland.org/#kontakt" data-i18n="navContact" data-href-pl="https://startuppoland.org/#kontakt" data-href-en="https://startuppoland.org/en/#kontakt">Kontakt</a></li>
         </ul>
       </nav>
       <div class="sp-header-lang">
@@ -643,9 +643,9 @@
       <div>
         <p class="sp-footer-label">MENU</p>
         <nav class="sp-footer-menu">
-          <a href="https://startuppoland.org/">Strona główna</a>
-          <a href="https://startuppoland.org/aktualnosci/">Aktualności</a>
-          <a href="https://startuppoland.org/raporty/">Raporty</a>
+          <a href="https://startuppoland.org/" data-i18n="navHome" data-href-pl="https://startuppoland.org/" data-href-en="https://startuppoland.org/en/">Strona główna</a>
+          <a href="https://startuppoland.org/aktualnosci/" data-i18n="navNews" data-href-pl="https://startuppoland.org/aktualnosci/" data-href-en="https://startuppoland.org/en/news/">Aktualności</a>
+          <a href="https://startuppoland.org/raporty/" data-i18n="navReports" data-href-pl="https://startuppoland.org/raporty/" data-href-en="https://startuppoland.org/en/reports/">Raporty</a>
           <a href="#" data-i18n="navEvents">Wydarzenia</a>
         </nav>
       </div>
@@ -690,10 +690,10 @@
     <!-- Bottom legal bar -->
     <div class="sp-footer-bottom">
       <div class="sp-footer-bottom-left">
-        <a href="https://startuppoland.org/polityka-prywatnosci/" target="_blank" rel="noopener">Polityka prywatności</a>
+        <a href="https://startuppoland.org/polityka-prywatnosci/" data-i18n="navPrivacy" data-href-pl="https://startuppoland.org/polityka-prywatnosci/" data-href-en="https://startuppoland.org/en/privacy-policy/" target="_blank" rel="noopener">Polityka prywatności</a>
         <span class="sp-footer-copyright">All rights reserved &copy; 2015&ndash;2026 Startup Poland &nbsp;&middot;&nbsp; <a class="sp-footer-admin" href="admin.html">Admin</a></span>
       </div>
-      <a href="https://vastpoint.vc" target="_blank" rel="noopener" class="sp-footer-admin" style="font-style:italic;">Vibecoded by vastpoint</a>
+      <a href="https://vastpoint.vc" target="_blank" rel="noopener" class="sp-footer-admin">Vibecoded by <img src="assets/vp-logo.svg" alt="vastpoint" style="height:12px; vertical-align:middle; margin-left:3px; opacity:.6;"></a>
     </div>
   </footer>
 
@@ -713,7 +713,17 @@ const I18N = {
     months: ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'],
     filterLabels: { city: 'City', type: 'Type', language: 'Language', audience: 'Audience', price: 'Price', badge: 'Curated' },
     values: { 'recommended': 'Recommended', 'partner': 'Partner' },
+    navNews: 'News',
+    navStandards: 'Standards',
+    navReports: 'Reports',
     navEvents: 'Events',
+    navAbout: 'About us ▾',
+    navContact: 'Contact',
+    navAboutBoard: 'Management Board and Council',
+    navAboutHistory: 'History',
+    navAboutDocs: 'Documents',
+    navHome: 'Home',
+    navPrivacy: 'Privacy policy',
     foundersCallTitle: 'Weekly Founders Call',
     foundersCallDesc: 'Open weekly session for startup founders — peer exchange, deal flow, and Q&A. Max 25 seats, waitlist available.',
     foundersCallCta: 'Sign up on Luma →'
@@ -731,7 +741,17 @@ const I18N = {
     emptyLoad: "Nie udało się załadować wydarzeń.",
     months: ['Sty','Lut','Mar','Kwi','Maj','Cze','Lip','Sie','Wrz','Paź','Lis','Gru'],
     filterLabels: { city: 'Miasto', type: 'Typ', language: 'Język', audience: 'Odbiorcy', price: 'Cena', badge: 'Polecane' },
+    navNews: 'Aktualności',
+    navStandards: 'Standardy',
+    navReports: 'Raporty',
     navEvents: 'Wydarzenia',
+    navAbout: 'O nas ▾',
+    navContact: 'Kontakt',
+    navAboutBoard: 'Zarząd i Rada Fundacji',
+    navAboutHistory: 'Historia',
+    navAboutDocs: 'Dokumenty',
+    navHome: 'Strona główna',
+    navPrivacy: 'Polityka prywatności',
     foundersCallTitle: 'Tygodniowe spotkanie założycieli',
     foundersCallDesc: 'Otwarte tygodniowe spotkanie dla założycieli startupów — wymiana doświadczeń, deal flow, Q&A. Max 25 miejsc, lista oczekujących dostępna.',
     foundersCallCta: 'Zapisz się na Luma →',
@@ -964,6 +984,9 @@ function applyI18n() {
   });
   document.querySelectorAll('.sp-header-lang button').forEach(btn => {
     btn.classList.toggle('active', btn.dataset.lang === currentLang);
+  });
+  document.querySelectorAll('[data-href-pl]').forEach(el => {
+    el.href = currentLang === 'pl' ? el.dataset.hrefPl : el.dataset.hrefEn;
   });
 }
 
