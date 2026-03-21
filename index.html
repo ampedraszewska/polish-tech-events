@@ -41,7 +41,7 @@
     .hero {
       background: #1c004c;
       color: #ffffff;
-      padding: 3.5rem 2rem 3rem;
+      padding: 2.5rem 2rem 2.5rem;
       text-align: center;
     }
 
@@ -514,22 +514,88 @@
       .founders-call { flex-direction: column; gap: 0.875rem; align-items: flex-start; }
       .founders-call-cta { width: 100%; justify-content: center; }
     }
+
+    /* ---- SP HEADER ---- */
+    .sp-header { background: #fff; position: sticky; top: 0; z-index: 100; box-shadow: 0 1px 3px rgba(0,0,0,.08); }
+    .sp-header-inner { max-width: 1200px; margin: 0 auto; display: flex; align-items: center; gap: 1.5rem; padding: 0 1.5rem; height: 72px; }
+    .sp-logo img { height: 36px; display: block; }
+    .sp-nav { flex: 1; }
+    .sp-nav ul { list-style: none; display: flex; gap: 1.5rem; flex-wrap: wrap; }
+    .sp-nav a { font-size: .875rem; font-weight: 600; color: #1c004c; text-decoration: none; position: relative; padding: 4px 0; transition: opacity .3s; }
+    .sp-nav a:hover { opacity: .7; }
+    .sp-nav a::after { content: ''; position: absolute; left: -5px; bottom: -2px; width: 0; height: 9px; background: #150238; opacity: 0; transition: all .5s; z-index: -1; }
+    .sp-nav a:hover::after, .sp-nav-active > a::after { width: calc(100% + 10px); opacity: 1; }
+    .sp-nav-active > a { color: #fff; position: relative; z-index: 1; }
+    .sp-dropdown { position: absolute; top: 100%; left: 0; background: #fff; box-shadow: 0 4px 12px rgba(0,0,0,.1); min-width: 200px; padding: .5rem 0; display: none; flex-direction: column; border-radius: 4px; }
+    .sp-dropdown a { display: block; padding: .5rem 1rem; color: #1c004c; font-size: .8125rem; }
+    .sp-dropdown a::after { display: none; }
+    .has-dropdown { position: relative; }
+    .has-dropdown:hover .sp-dropdown { display: flex; }
+    .sp-header-lang { display: flex; gap: 2px; flex-shrink: 0; }
+    .sp-header-lang button { background: none; border: 1px solid #1c004c; color: #1c004c; font-size: .75rem; font-weight: 600; padding: 3px 8px; cursor: pointer; transition: all .2s; font-family: 'Montserrat', sans-serif; }
+    .sp-header-lang button:first-child { border-radius: 4px 0 0 4px; }
+    .sp-header-lang button:last-child { border-radius: 0 4px 4px 0; }
+    .sp-header-lang button.active { background: #1c004c; color: #fff; }
+    .sp-hamburger { display: none; background: none; border: none; font-size: 1.5rem; color: #1c004c; cursor: pointer; margin-left: auto; padding: 0.25rem; }
+    @media (max-width: 768px) {
+      .sp-nav { display: none; position: absolute; top: 72px; left: 0; right: 0; background: #fff; padding: 1rem 1.5rem; box-shadow: 0 4px 8px rgba(0,0,0,.08); z-index: 99; }
+      .sp-nav.open { display: block; }
+      .sp-nav ul { flex-direction: column; gap: .75rem; }
+      .sp-hamburger { display: block; }
+      .sp-header-lang { display: none; }
+    }
+
+    /* ---- SP FOOTER ---- */
+    .sp-footer { background: #19161e; color: #fff; padding: 3rem 1.5rem 2rem; margin-top: 4rem; }
+    .sp-footer-inner { max-width: 1200px; margin: 0 auto; display: grid; grid-template-columns: 1.5fr 1fr 1fr 1fr; gap: 2rem; }
+    @media (max-width: 768px) { .sp-footer-inner { grid-template-columns: 1fr 1fr; } }
+    @media (max-width: 480px) { .sp-footer-inner { grid-template-columns: 1fr; } }
+    .sp-footer-logo { height: 30px; filter: brightness(0) invert(1); display: block; }
+    .sp-footer h4 { font-size: .75rem; font-weight: 600; letter-spacing: .08em; text-transform: uppercase; opacity: .5; margin-bottom: .75rem; }
+    .sp-footer a { color: #fff; text-decoration: none; opacity: .7; transition: opacity .2s; font-size: .875rem; }
+    .sp-footer a:hover { opacity: 1; }
+    .sp-footer-nav { display: flex; flex-direction: column; gap: .5rem; }
+    .sp-footer-nav a.active { opacity: 1; font-weight: 600; }
+    .sp-footer-address { margin-top: 1rem; font-size: .8rem; opacity: .5; line-height: 1.7; }
+    .sp-footer-legal { border-top: 1px solid #2c2733; margin-top: 2rem; padding-top: 1.5rem; display: flex; gap: 1.5rem; flex-wrap: wrap; align-items: center; font-size: .75rem; opacity: .5; max-width: 1200px; margin-left: auto; margin-right: auto; }
+    .sp-footer-legal-copy { margin-left: auto; }
   </style>
 </head>
 <body>
 
-  <div class="hero">
-    <div class="lang-toggle" id="langToggle">
-      <button data-lang="en" class="active">EN</button>
-      <button data-lang="pl">PL</button>
+  <header class="sp-header">
+    <div class="sp-header-inner">
+      <a class="sp-logo" href="https://startuppoland.org/" target="_blank" rel="noopener">
+        <img src="https://startuppoland.org/wp-content/uploads/2021/02/logo-Startup-Poland-rgb.svg" alt="Startup Poland">
+      </a>
+      <nav class="sp-nav" id="spNav">
+        <ul>
+          <li><a href="https://startuppoland.org/aktualnosci/">Aktualności</a></li>
+          <li><a href="https://standardy.startuppoland.org/">Standardy</a></li>
+          <li><a href="https://startuppoland.org/raporty/">Raporty</a></li>
+          <li class="sp-nav-active"><a href="#">Wydarzenia</a></li>
+          <li class="has-dropdown">
+            <a href="#">O nas ▾</a>
+            <div class="sp-dropdown">
+              <a href="https://startuppoland.org/zarzad-i-rada-fundacji/">Zarząd i Rada</a>
+              <a href="https://startuppoland.org/historia/">Historia</a>
+              <a href="https://startuppoland.org/dokumenty/">Dokumenty</a>
+            </div>
+          </li>
+          <li><a href="https://startuppoland.org/#kontakt">Kontakt</a></li>
+        </ul>
+      </nav>
+      <div class="sp-header-lang">
+        <button data-lang="en">EN</button>
+        <button data-lang="pl">PL</button>
+      </div>
+      <button class="sp-hamburger" id="spHamburger" aria-label="Menu">&#9776;</button>
     </div>
+  </header>
+
+  <div class="hero">
     <h1 data-i18n="title">What's up, Polish<br>tech community</h1>
     <div class="subheader" data-i18n="subtitle">Live directory of tech / start-up / science events and meetups in Poland</div>
-    <div class="powered-by">
-      <span data-i18n="poweredBy">Powered by</span> <a href="https://startuppoland.org" target="_blank" rel="noopener"><img src="assets/sp-logo-white.svg" alt="Startup Poland" style="height: 18px; margin: 0 2px;"></a>
-      <span class="separator">|</span>
-      <span data-i18n="curatedBy">Curated by</span> <a href="https://vastpoint.vc" target="_blank" rel="noopener"><img src="assets/vp-logo.svg" alt="vastpoint" style="height: 16px; margin: 0 2px;"></a>
-    </div>
   </div>
 
   <div class="toolbar">
@@ -559,10 +625,46 @@
     <div class="past-events" id="past"></div>
   </div>
 
-  <div class="footer">
-    &copy; 2026 <a href="https://vastpoint.vc">Vastpoint</a> &amp; <a href="https://startuppoland.org">Startup Poland</a>
-    &nbsp;&middot;&nbsp; <a href="admin.html">Admin</a>
-  </div>
+  <footer class="sp-footer">
+    <div class="sp-footer-inner">
+      <div>
+        <a href="https://startuppoland.org/" target="_blank" rel="noopener">
+          <img class="sp-footer-logo" src="https://startuppoland.org/wp-content/uploads/2021/02/logo-Startup-Poland-rgb.svg" alt="Startup Poland">
+        </a>
+        <p class="sp-footer-address">pl. Jana Nowaka Jeziorańskiego 3<br>31-154 Kraków, Poland<br>NIP: 5252616364<br><br><a href="mailto:kontakt@startuppoland.org">kontakt@startuppoland.org</a></p>
+      </div>
+      <div>
+        <h4>Nawigacja</h4>
+        <nav class="sp-footer-nav">
+          <a href="https://startuppoland.org/">Strona główna</a>
+          <a href="https://startuppoland.org/aktualnosci/">Aktualności</a>
+          <a href="https://standardy.startuppoland.org/">Standardy</a>
+          <a href="#" class="active">Wydarzenia</a>
+          <a href="https://startuppoland.org/raporty/">Raporty</a>
+        </nav>
+      </div>
+      <div>
+        <h4>Social</h4>
+        <nav class="sp-footer-nav">
+          <a href="https://www.linkedin.com/company/startup-poland/" target="_blank" rel="noopener">LinkedIn</a>
+          <a href="https://www.facebook.com/startuppoland" target="_blank" rel="noopener">Facebook</a>
+          <a href="https://www.youtube.com/@StartupPolandorg" target="_blank" rel="noopener">YouTube</a>
+        </nav>
+      </div>
+      <div>
+        <h4>Powered by</h4>
+        <nav class="sp-footer-nav">
+          <a href="https://vastpoint.vc" target="_blank" rel="noopener">Vastpoint VC</a>
+        </nav>
+      </div>
+    </div>
+    <div class="sp-footer-legal">
+      <a href="https://startuppoland.org/polityka-prywatnosci/" target="_blank" rel="noopener">Polityka prywatności</a>
+      <span>|</span>
+      <a href="admin.html">Admin</a>
+      <span class="sp-footer-legal-copy">&copy; 2015–2026 Startup Poland</span>
+    </div>
+  </footer>
 
 <script>
 const I18N = {
@@ -827,18 +929,23 @@ function applyI18n() {
   document.querySelectorAll('.filter-btn').forEach(btn => {
     btn.textContent = tv(btn.dataset.filterVal);
   });
-  document.querySelectorAll('#langToggle button').forEach(btn => {
+  document.querySelectorAll('.sp-header-lang button').forEach(btn => {
     btn.classList.toggle('active', btn.dataset.lang === currentLang);
   });
 }
 
-document.getElementById('langToggle').addEventListener('click', function(e) {
-  const btn = e.target.closest('button[data-lang]');
-  if (!btn || btn.dataset.lang === currentLang) return;
-  currentLang = btn.dataset.lang;
-  localStorage.setItem('events-lang', currentLang);
-  applyI18n();
-  render();
+document.querySelectorAll('.sp-header-lang button').forEach(btn => {
+  btn.addEventListener('click', () => {
+    if (btn.dataset.lang === currentLang) return;
+    currentLang = btn.dataset.lang;
+    localStorage.setItem('events-lang', currentLang);
+    applyI18n();
+    render();
+  });
+});
+
+document.getElementById('spHamburger').addEventListener('click', () => {
+  document.getElementById('spNav').classList.toggle('open');
 });
 
 // Apply saved language on load
