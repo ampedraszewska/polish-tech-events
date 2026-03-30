@@ -202,10 +202,16 @@
     .event-card {
       display: flex;
       gap: 1.25rem;
-      padding: 1.125rem 0;
+      padding: 1.125rem 0.5rem;
       border-bottom: 1px solid #f0edf5;
-      transition: opacity 0.2s;
+      transition: background 0.15s, opacity 0.2s;
+      text-decoration: none;
+      color: inherit;
+      border-radius: 8px;
+      cursor: pointer;
     }
+
+    .event-card:hover { background: #f7f5fa; }
 
     .event-card:last-child { border-bottom: none; }
 
@@ -827,13 +833,13 @@ function renderCard(ev) {
     : '';
 
   return `
-    <div class="event-card">
+    <a class="event-card" href="${ev.url}" target="_blank" rel="noopener">
       <div class="date-badge">
         <div class="month">${month}</div>
         <div class="day">${day}</div>
       </div>
       <div class="event-info">
-        <a class="event-name" href="${ev.url}" target="_blank" rel="noopener">${ev.name}</a>${badgeHtml}
+        <span class="event-name">${ev.name}</span>${badgeHtml}
         <div class="event-meta">
           ${ev.city ? `<span class="city-pill">${ev.city}</span>` : ''}
           ${ev.venue ? `<span>${ev.venue}</span>` : ''}
@@ -846,7 +852,7 @@ function renderCard(ev) {
         <div class="event-tags">${tags}</div>
         ${desc ? `<div class="event-desc">${desc}</div>` : ''}
       </div>
-    </div>
+    </a>
   `;
 }
 
