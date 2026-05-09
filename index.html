@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" id="htmlRoot">
+<html lang="pl" id="htmlRoot">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -777,7 +777,7 @@ const I18N = {
   }
 };
 
-let currentLang = localStorage.getItem('events-lang') || 'en';
+let currentLang = localStorage.getItem('events-lang') || 'pl';
 
 function t(key) { return I18N[currentLang][key]; }
 function tv(val) { return (I18N[currentLang].values && I18N[currentLang].values[val]) || val; }
