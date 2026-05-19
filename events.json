@@ -37,6 +37,24 @@
     "added": "2026-03-07"
   },
   {
+    "name": "SEMI Industry Strategy Symposium Europe",
+    "date": "2026-03-11",
+    "time": "09:00",
+    "city": "Sopot",
+    "venue": "Sheraton Sopot Hotel, Powstancow Warszawy 10",
+    "url": "https://www.semi.org/eu/connect/events/industry-strategy-symposium-europe",
+    "description": "European semiconductor industry strategy symposium bringing together leaders to discuss trends, challenges, and opportunities in chip manufacturing.",
+    "description_pl": "Europejskie sympozjum strategiczne branży półprzewodników. Liderzy dyskutują o trendach, wyzwaniach i szansach w produkcji chipów.",
+    "language": "EN",
+    "tags": [
+      "Conference"
+    ],
+    "audience": "Corporate, Investors",
+    "organizer": "SEMI",
+    "price": "Paid",
+    "added": "2026-03-09"
+  },
+  {
     "name": "Aula Polska #201",
     "date": "2026-03-11",
     "time": "18:00",
@@ -56,20 +74,20 @@
     "added": "2026-03-07"
   },
   {
-    "name": "SEMI Industry Strategy Symposium Europe",
-    "date": "2026-03-11",
-    "time": "09:00",
-    "city": "Sopot",
-    "venue": "Sheraton Sopot Hotel, Powstancow Warszawy 10",
-    "url": "https://www.semi.org/eu/connect/events/industry-strategy-symposium-europe",
-    "description": "European semiconductor industry strategy symposium bringing together leaders to discuss trends, challenges, and opportunities in chip manufacturing.",
-    "description_pl": "Europejskie sympozjum strategiczne branży półprzewodników. Liderzy dyskutują o trendach, wyzwaniach i szansach w produkcji chipów.",
-    "language": "EN",
+    "name": "SoDA Open: Wroclaw",
+    "date": "2026-03-12",
+    "time": "16:30",
+    "city": "Wrocław",
+    "venue": "Ace of Space, Renoma, Swidnicka 40",
+    "url": "https://app.evenea.pl/event/soda-open-wroclaw2/",
+    "description": "Evening networking for IT industry leaders with speed networking and thematic discussions in a relaxed atmosphere.",
+    "description_pl": "Wieczorny networking dla liderów branży IT ze speed networkingiem i dyskusjami tematycznymi w luźnej atmosferze.",
+    "language": "PL",
     "tags": [
-      "Conference"
+      "Networking"
     ],
-    "audience": "Corporate, Investors",
-    "organizer": "SEMI",
+    "audience": "Corporate, Operators",
+    "organizer": "SoDA",
     "price": "Paid",
     "added": "2026-03-09"
   },
@@ -111,21 +129,21 @@
     "added": "2026-03-07"
   },
   {
-    "name": "SoDA Open: Wroclaw",
-    "date": "2026-03-12",
-    "time": "16:30",
+    "name": "Startup Playbook by Lowercap x Scanway",
+    "date": "2026-03-17",
+    "time": "",
     "city": "Wrocław",
-    "venue": "Ace of Space, Renoma, Swidnicka 40",
-    "url": "https://app.evenea.pl/event/soda-open-wroclaw2/",
-    "description": "Evening networking for IT industry leaders with speed networking and thematic discussions in a relaxed atmosphere.",
-    "description_pl": "Wieczorny networking dla liderów branży IT ze speed networkingiem i dyskusjami tematycznymi w luźnej atmosferze.",
+    "venue": "inQUBE, Wielka 67",
+    "url": "https://startup-playbook-x-scanway.gridaly.com/",
+    "description": "Startup playbook session exploring the Scanway journey - lessons from building a space-tech startup in Wroclaw.",
+    "description_pl": "Sesja startup playbook o historii Scanway - lekcje z budowania startupu kosmicznego we Wrocławiu.",
     "language": "PL",
     "tags": [
-      "Networking"
+      "Meetup"
     ],
-    "audience": "Corporate, Operators",
-    "organizer": "SoDA",
-    "price": "Paid",
+    "audience": "Founders, Students",
+    "organizer": "Lowercap x Scanway",
+    "price": "Free",
     "added": "2026-03-09"
   },
   {
@@ -146,24 +164,6 @@
     "organizer": "Sniadania AI",
     "price": "Paid",
     "added": "2026-03-07"
-  },
-  {
-    "name": "Startup Playbook by Lowercap x Scanway",
-    "date": "2026-03-17",
-    "time": "",
-    "city": "Wrocław",
-    "venue": "inQUBE, Wielka 67",
-    "url": "https://startup-playbook-x-scanway.gridaly.com/",
-    "description": "Startup playbook session exploring the Scanway journey - lessons from building a space-tech startup in Wroclaw.",
-    "description_pl": "Sesja startup playbook o historii Scanway - lekcje z budowania startupu kosmicznego we Wrocławiu.",
-    "language": "PL",
-    "tags": [
-      "Meetup"
-    ],
-    "audience": "Founders, Students",
-    "organizer": "Lowercap x Scanway",
-    "price": "Free",
-    "added": "2026-03-09"
   },
   {
     "name": "SNIP: Startups Networking & Innovations Platform",
@@ -258,24 +258,6 @@
     "added": "2026-03-09"
   },
   {
-    "name": "Legnicki Meetup Technologiczny #5",
-    "date": "2026-03-26",
-    "time": "18:00",
-    "city": "Legnica",
-    "venue": "Centrum Konferencyjne LSSE",
-    "url": "https://meetup.legnica.pl/meetups/legnicki-meetup-technologiczny-5",
-    "description": "Cyclical tech meetup with talks on software engineering and AI. Open to all levels - from senior devs to students and hobbyists.",
-    "description_pl": "Cykliczny meetup technologiczny z prelekcjami o inżynierii oprogramowania i AI. Otwarty dla wszystkich poziomów - od seniorów po studentów i hobbystów.",
-    "language": "PL",
-    "tags": [
-      "Meetup"
-    ],
-    "audience": "Developers, Students",
-    "organizer": "Meetup Legnica",
-    "price": "Free",
-    "added": "2026-03-09"
-  },
-  {
     "name": "Startup Grind Warsaw: Open Pitch Session - Mar 2026",
     "date": "2026-03-26",
     "time": "17:00",
@@ -293,6 +275,24 @@
     "organizer": "Startup Grind Warsaw",
     "price": "Free",
     "added": "2026-03-12"
+  },
+  {
+    "name": "Legnicki Meetup Technologiczny #5",
+    "date": "2026-03-26",
+    "time": "18:00",
+    "city": "Legnica",
+    "venue": "Centrum Konferencyjne LSSE",
+    "url": "https://meetup.legnica.pl/meetups/legnicki-meetup-technologiczny-5",
+    "description": "Cyclical tech meetup with talks on software engineering and AI. Open to all levels - from senior devs to students and hobbyists.",
+    "description_pl": "Cykliczny meetup technologiczny z prelekcjami o inżynierii oprogramowania i AI. Otwarty dla wszystkich poziomów - od seniorów po studentów i hobbystów.",
+    "language": "PL",
+    "tags": [
+      "Meetup"
+    ],
+    "audience": "Developers, Students",
+    "organizer": "Meetup Legnica",
+    "price": "Free",
+    "added": "2026-03-09"
   },
   {
     "name": "Google DeepMind x AI Tinkerers Hackathon",
@@ -389,25 +389,6 @@
     "added": "2026-03-07"
   },
   {
-    "name": "Startup WRO Meetup #14",
-    "date": "2026-04-09",
-    "time": "16:30",
-    "city": "Wrocław",
-    "venue": "BULVARY, Ksiecia Witolda 11",
-    "url": "https://startupwro.meetingapplication.com/event/startup-wro-meetup-2026",
-    "description": "Regular Wroclaw startup community meetup with pitches, talks, and networking.",
-    "description_pl": "Regularny wrocławski meetup społeczności startupowej z pitchami, prelekcjami i networkingiem.",
-    "language": "EN+PL",
-    "tags": [
-      "Meetup",
-      "Networking"
-    ],
-    "audience": "Founders, Developers",
-    "organizer": "Startup Wroclaw",
-    "price": "Free",
-    "added": "2026-03-09"
-  },
-  {
     "name": "inQUBE AI Camp",
     "date": "2026-04-09",
     "time": "09:00",
@@ -423,6 +404,25 @@
     ],
     "audience": "Students",
     "organizer": "inQUBE",
+    "price": "Free",
+    "added": "2026-03-09"
+  },
+  {
+    "name": "Startup WRO Meetup #14",
+    "date": "2026-04-09",
+    "time": "16:30",
+    "city": "Wrocław",
+    "venue": "BULVARY, Ksiecia Witolda 11",
+    "url": "https://startupwro.meetingapplication.com/event/startup-wro-meetup-2026",
+    "description": "Regular Wroclaw startup community meetup with pitches, talks, and networking.",
+    "description_pl": "Regularny wrocławski meetup społeczności startupowej z pitchami, prelekcjami i networkingiem.",
+    "language": "EN+PL",
+    "tags": [
+      "Meetup",
+      "Networking"
+    ],
+    "audience": "Founders, Developers",
+    "organizer": "Startup Wroclaw",
     "price": "Free",
     "added": "2026-03-09"
   },
@@ -615,6 +615,26 @@
     "added": "2026-03-07"
   },
   {
+    "name": "Impact'26",
+    "date": "2026-05-13",
+    "time": "09:00",
+    "city": "Poznań",
+    "venue": "MTP Expo",
+    "url": "https://impactcee.com",
+    "description": "Leading CEE economy & tech congress with government, business, and startup tracks.",
+    "description_pl": "Wiodący kongres gospodarczy i technologiczny CEE ze ścieżkami rządowymi, biznesowymi i startupowymi.",
+    "language": "EN+PL",
+    "tags": [
+      "Conference",
+      "Policy",
+      "Networking"
+    ],
+    "audience": "Founders, Investors, Corporate",
+    "organizer": "Impact",
+    "price": "Paid",
+    "added": "2026-03-07"
+  },
+  {
     "name": "infoShare 2026",
     "date": "2026-05-20",
     "time": "09:00",
@@ -634,6 +654,25 @@
     "added": "2026-03-07"
   },
   {
+    "name": "AI at Scale: Lessons from the Front Lines",
+    "date": "2026-05-20",
+    "time": "18:00",
+    "city": "Warszawa",
+    "venue": "Mindspace Koszyki, Koszykowa 61",
+    "url": "https://luma.com/dqqvdew2",
+    "description": "Panel and networking on the practical challenges of deploying and operating AI systems inside large organisations.",
+    "description_pl": "Panel i networking o praktycznych wyzwaniach wdrażania i utrzymania systemów AI w dużych organizacjach.",
+    "language": "EN",
+    "tags": [
+      "Meetup",
+      "Networking"
+    ],
+    "audience": "Operators, Developers, Corporate",
+    "organizer": "Tech Leaders Collective: Warsaw",
+    "price": "Free",
+    "added": "2026-05-14"
+  },
+  {
     "name": "PWr Grow Up Tech #7 Demo Day",
     "date": "2026-05-21",
     "time": "10:00",
@@ -650,6 +689,62 @@
     "organizer": "Politechnika Wroclawska",
     "price": "Free",
     "added": "2026-03-09"
+  },
+  {
+    "name": "Founders Ride - Majowa Szosa 2026",
+    "date": "2026-05-23",
+    "time": "09:00",
+    "city": "Warszawa",
+    "venue": "Cook Story by Samsung, Franciszka Klimczaka 1",
+    "url": "https://luma.com/majowa-szosa",
+    "description": "70km road cycling ride combining founder networking with fitness, plus live cooking and coffee workshops at the finish.",
+    "description_pl": "70 km szosy łączące networking founderski z aktywnością fizyczną; na mecie live cooking i warsztaty kawowe.",
+    "language": "PL",
+    "tags": [
+      "Networking"
+    ],
+    "audience": "Founders",
+    "organizer": "Founders Ride",
+    "price": "Paid",
+    "added": "2026-05-14"
+  },
+  {
+    "name": "Warsaw Tech Forum",
+    "date": "2026-05-25",
+    "time": "17:00",
+    "city": "Warszawa",
+    "venue": "Butelkownia - Centrum eventowe, Korkownia Room",
+    "url": "https://luma.com/eazmwixj",
+    "description": "Panel and networking on how EU regulatory frameworks shape startup growth, capital flow and cross-border expansion.",
+    "description_pl": "Panel i networking o tym, jak unijne ramy regulacyjne wpływają na rozwój startupów, przepływ kapitału i ekspansję zagraniczną.",
+    "language": "EN",
+    "tags": [
+      "Networking",
+      "Policy"
+    ],
+    "audience": "Founders, Investors, Operators",
+    "organizer": "Association for Competitive Technology (ACT)",
+    "price": "Free",
+    "added": "2026-05-14"
+  },
+  {
+    "name": "K3 Sessions: Prompt to produkt - Mini hackathon designerski",
+    "date": "2026-05-26",
+    "time": "18:30",
+    "city": "Warszawa",
+    "venue": "Kolektyw3, Koszykowa 54",
+    "url": "https://luma.com/ethwarsaw-pe22",
+    "description": "4-hour design hackathon: three rapid rounds of product design using AI prompts, judged on structure, visuals and delight.",
+    "description_pl": "4-godzinny hackathon designerski: trzy szybkie rundy projektowania produktu przy pomocy promptów AI, oceniane za strukturę, design i delight.",
+    "language": "EN+PL",
+    "tags": [
+      "Hackathon",
+      "Workshop"
+    ],
+    "audience": "Developers, Operators",
+    "organizer": "ETHWarsaw / Kolektyw3",
+    "price": "Paid",
+    "added": "2026-05-14"
   },
   {
     "name": "Evolutions: Meetup & Showcase",
@@ -671,6 +766,81 @@
     "added": "2026-03-09"
   },
   {
+    "name": "AI Sync",
+    "date": "2026-05-27",
+    "time": "16:30",
+    "city": "Warszawa",
+    "venue": "BEC Financial Technologies, Emilii Plater 53",
+    "url": "https://luma.com/yzofpe3a",
+    "description": "Intimate gathering capped at 100 attendees with four talks from founders and builders scaling AI companies, plus panel and networking.",
+    "description_pl": "Kameralne spotkanie do 100 osób z czterema talkami od founderów i builderów skalujących firmy AI, panelem i networkingiem.",
+    "language": "EN",
+    "tags": [
+      "Meetup",
+      "Networking"
+    ],
+    "audience": "Founders, Developers, Operators",
+    "organizer": "AI Sync (Michal Stybowski)",
+    "price": "Paid",
+    "added": "2026-05-14"
+  },
+  {
+    "name": "Pitch Me Baby, Warsaw vol. 36",
+    "date": "2026-05-27",
+    "time": "18:00",
+    "city": "Warszawa",
+    "venue": "PKO Bank Polski, Marszałkowska 100/102",
+    "url": "https://luma.com/PMBWAW36",
+    "description": "Selected founders pitch to investors and mentors who give immediate feedback to sharpen the pitch.",
+    "description_pl": "Wybrani founderzy pitchują do inwestorów i mentorów, którzy dają feedback na żywo do dopracowania pitchu.",
+    "language": "EN",
+    "tags": [
+      "Networking",
+      "Meetup"
+    ],
+    "audience": "Founders, Investors",
+    "organizer": "Pitch Me Baby",
+    "price": "Free",
+    "added": "2026-05-14"
+  },
+  {
+    "name": "StartupyPoSąsiedzku - Warszawa #4",
+    "date": "2026-05-30",
+    "time": "10:00",
+    "city": "Warszawa",
+    "venue": "aleja Wojska Polskiego 7",
+    "url": "https://luma.com/z0q28wd4",
+    "description": "Saturday neighbourhood breakfast for startups, investors and bankers - food from around the world, families and pets welcome.",
+    "description_pl": "Sobotnie śniadanie sąsiedzkie w gronie startupów, inwestorów i bankierów - jedzenie z różnych stron świata, dzieci i zwierzęta mile widziane.",
+    "language": "PL",
+    "tags": [
+      "Networking",
+      "Meetup"
+    ],
+    "audience": "Founders, Investors",
+    "organizer": "StartupyPoSąsiedzku (Przemek Jurgiel-Żyła, Magdalena Miecielica)",
+    "price": "Free",
+    "added": "2026-05-14"
+  },
+  {
+    "name": "START Warsaw Demo Day - Batch Alpha",
+    "date": "2026-05-30",
+    "time": "12:00",
+    "city": "Warszawa",
+    "venue": "Rotunda, PKO Bank Polski, Marszałkowska 100/102",
+    "url": "https://luma.com/na2nxob0",
+    "description": "Five student startup teams pitch to investors and industry experts after an intensive 3-week build sprint.",
+    "description_pl": "Pięć studenckich zespołów startupowych pitchuje do inwestorów i ekspertów branżowych po intensywnym 3-tygodniowym sprincie.",
+    "language": "EN",
+    "tags": [
+      "Meetup"
+    ],
+    "audience": "Founders, Investors, Students",
+    "organizer": "START Warsaw",
+    "price": "Free",
+    "added": "2026-05-14"
+  },
+  {
     "name": "Perspektywy Women in Tech Summit 2026",
     "date": "2026-06-10",
     "time": "09:00",
@@ -690,26 +860,6 @@
     "added": "2026-03-09"
   },
   {
-    "name": "Impact'26",
-    "date": "2026-06-11",
-    "time": "09:00",
-    "city": "Poznań",
-    "venue": "MTP Expo",
-    "url": "https://impactcee.com",
-    "description": "Leading CEE economy & tech congress with government, business, and startup tracks.",
-    "description_pl": "Wiodący kongres gospodarczy i technologiczny CEE ze ścieżkami rządowymi, biznesowymi i startupowymi.",
-    "language": "EN+PL",
-    "tags": [
-      "Conference",
-      "Policy",
-      "Networking"
-    ],
-    "audience": "Founders, Investors, Corporate",
-    "organizer": "Impact",
-    "price": "Paid",
-    "added": "2026-03-07"
-  },
-  {
     "name": "Cybersec Expo & Forum 2026",
     "date": "2026-06-15",
     "time": "09:00",
@@ -726,6 +876,25 @@
     "organizer": "Cybersec",
     "price": "Paid",
     "added": "2026-03-09"
+  },
+  {
+    "name": "StartupyPoSąsiedzku - Rzeszów #1",
+    "date": "2026-06-16",
+    "time": "18:00",
+    "city": "Rzeszów",
+    "venue": "Rzeszów (TBA)",
+    "url": "https://luma.com/bcrmcy6k",
+    "description": "Informal neighbourhood gathering for startups, investors and bankers in Rzeszów - the southeastern edge of Poland.",
+    "description_pl": "Niecykliczne spotkanie sąsiedzkie w gronie startupów, inwestorów i bankierów - na krańcach Polski w Rzeszowie.",
+    "language": "PL",
+    "tags": [
+      "Networking",
+      "Meetup"
+    ],
+    "audience": "Founders, Investors",
+    "organizer": "StartupyPoSąsiedzku (Przemek Jurgiel-Żyła, Magdalena Miecielica)",
+    "price": "Free",
+    "added": "2026-05-14"
   },
   {
     "name": "ABSL Summit Wroclaw",
@@ -765,6 +934,24 @@
     "added": "2026-03-09"
   },
   {
+    "name": "AI Tinkerers Poland #8 - Meetup in Warsaw (18th June)",
+    "date": "2026-06-18",
+    "time": "18:00",
+    "city": "Warszawa",
+    "venue": "Warsaw (revealed on RSVP)",
+    "url": "https://poland.aitinkerers.org/p/ai-tinkerers-poland-8-meetup-in-warsaw-18th-june",
+    "description": "Eighth in-person AI Tinkerers meetup in Warsaw - live demos and expert talks for AI engineers and builders. Runs 18:00-22:00.",
+    "description_pl": "Ósmy meetup AI Tinkerers w Warszawie - live demos i eksperckie talki dla inżynierów i builderów AI. 18:00-22:00.",
+    "language": "EN",
+    "tags": [
+      "Meetup"
+    ],
+    "audience": "Developers, Founders",
+    "organizer": "AI Tinkerers Poland",
+    "price": "Free",
+    "added": "2026-05-14"
+  },
+  {
     "name": "IT Manager of Tomorrow",
     "date": "2026-06-23",
     "time": "09:00",
@@ -781,6 +968,25 @@
     "organizer": "IT Manager of Tomorrow",
     "price": "Paid",
     "added": "2026-03-09"
+  },
+  {
+    "name": "Aula Polska #204 - Aula Wakacje (19 urodziny)",
+    "date": "2026-07-14",
+    "time": "18:00",
+    "city": "Warszawa",
+    "venue": "River Cafe / River Club, Nabrzeże vis a vis Parku Fontann",
+    "url": "https://app.evenea.pl/event/aula204/",
+    "description": "Aula Polska community's 19th anniversary - networking, pizza and drinks by the Vistula River.",
+    "description_pl": "Obchody 19-lecia społeczności Aula Polska - networking, pizza i napoje nad Wisłą w River Cafe.",
+    "language": "PL",
+    "tags": [
+      "Networking",
+      "Meetup"
+    ],
+    "audience": "Founders, Operators",
+    "organizer": "Aula Polska",
+    "price": "Paid",
+    "added": "2026-05-14"
   },
   {
     "name": "PitchMeetUp",
