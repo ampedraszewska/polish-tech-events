@@ -1081,92 +1081,62 @@
     "added": "2026-05-21"
   },
   {
-    "name": "Next Frontier AI – WARSAW",
-    "date": "2026-04-22",
-    "time": "17:00",
-    "city": "Warszawa",
-    "venue": "",
-    "url": "https://luma.com/nfai-warsaw",
-    "description": "Next Frontier AI is Europe's most radical initiative for genuine technological independence in AI. Creating the conditions for Europe to discover and define the next frontier in AI.",
-    "language": "EN",
-    "tags": [],
-    "audience": "",
-    "organizer": "Next Frontier AI – ROADSHOW",
-    "price": "",
-    "status": "pending",
-    "added": "2026-05-21"
-  },
-  {
-    "name": "Women's (in VC) Day Celebration",
-    "date": "2026-03-09",
-    "city": "Warszawa",
-    "venue": "",
-    "url": "https://luma.com/yxpdz8ib",
-    "description": "⚠ Past event imported from backlog. Dear Ladies — breaking news: women exist in Polish VC. Since spotting another woman at VC events feels like a [rare occurrence]…",
-    "language": "EN",
-    "tags": [],
-    "audience": "",
-    "organizer": "",
-    "price": "",
-    "status": "pending",
-    "added": "2026-05-21"
-  },
-  {
     "name": "Warsaw.AI - Episode 31",
-    "date": "",
+    "date": "2026-07-02",
     "status": "pending",
     "added": "2026-05-21",
     "url": "http://warsaw.ai",
     "organizer": "Fundacja Quantum AI",
     "submitter_email": "contact@qaif.org",
-    "description": "⚠ Date not provided in submission — please complete before approving.",
-    "price": "Paid",
+    "description": "Warsaw.AI community meetup, episode 31. Talks and networking for the Warsaw AI community.",
+    "price": "Free",
     "tags": [
-      "d7d787e6-182b-428f-9a6a-028e81cc7c5b"
+      "Meetup"
     ],
-    "audience": "b9921caa-871b-4139-8b6c-3bc0d308e962,7c64ed41-b665-4b1e-a2c6-c1236bf73d65"
-  },
-  {
-    "name": "AIntern 2026",
-    "date": "",
-    "status": "pending",
-    "added": "2026-05-21",
-    "url": "https://www.qaif.org/events/aintern/aintern-2026",
-    "organizer": "Fundacja Quantum AI",
-    "submitter_email": "contact@qaif.org",
-    "description": "⚠ Date not provided in submission — please complete before approving.",
-    "price": "Paid",
-    "audience": "22937af6-f697-453d-b2f8-e22522ca4c02,c1979076-b3ca-43f3-aed0-a330ae18879c,2b64847a-5059-47b8-873e-c5494be32b8a,b9921caa-871b-4139-8b6c-3bc0d308e962,7c64ed41-b665-4b1e-a2c6-c1236bf73d65"
+    "audience": "Developers, Founders, Researchers",
+    "time": "18:00",
+    "city": "Warszawa",
+    "language": "EN"
   },
   {
     "name": "Pitch Day - Creative Tech",
-    "date": "",
+    "date": "2026-05-28",
     "status": "pending",
     "added": "2026-05-21",
     "url": "https://luma.com/n2g69zh9",
-    "organizer": "Creative Industries Institute",
+    "organizer": "Instytut Przemysłów Kreatywnych",
     "submitter_email": "agnicichocka@gmail.com",
-    "description": "⚠ Date not provided in submission — please complete before approving.",
-    "price": "Paid",
+    "description": "Pitch Day at which selected creative tech startups present their projects. An opportunity to meet creators and learn about the latest projects in the creative tech sector.",
+    "price": "Free",
     "tags": [
-      "1bd77c4d-c74c-4765-a195-d12ec4bd80b1"
+      "Pitch",
+      "Networking"
     ],
-    "audience": "71e6ea00-329b-4017-a920-44b4cbc66efe,22937af6-f697-453d-b2f8-e22522ca4c02"
+    "audience": "Founders, Investors, Operators",
+    "time": "10:00",
+    "city": "Warszawa",
+    "venue": "",
+    "language": "PL",
+    "description_pl": "Pitch Day - wydarzenie, podczas którego wyselekcjonowane startupy z obszaru creative tech zaprezentują swoje projekty. To okazja, aby w jednym miejscu poznać twórców i ich projekty."
   },
   {
-    "name": "Spotkanie networkingowe Kobiet w Creative Tech",
-    "date": "",
+    "name": "#3 Spotkanie networkingowe Kobiet w Creative Tech",
+    "date": "2026-06-23",
     "status": "pending",
     "added": "2026-05-21",
     "url": "https://luma.com/h0f93ujq",
     "organizer": "CreativeTech Poland",
     "submitter_email": "agni@creativetechpoland.com",
-    "description": "⚠ Date not provided in submission — please complete before approving.",
-    "price": "Paid",
+    "description": "Women in Creative Tech networking meetup — a space for women working at the intersection of technology and creativity to exchange experience and build valuable connections.",
+    "price": "Free",
     "tags": [
-      "d7d787e6-182b-428f-9a6a-028e81cc7c5b",
-      "1bd77c4d-c74c-4765-a195-d12ec4bd80b1"
+      "Networking"
     ],
-    "audience": "c1979076-b3ca-43f3-aed0-a330ae18879c,71e6ea00-329b-4017-a920-44b4cbc66efe,22937af6-f697-453d-b2f8-e22522ca4c02,2b64847a-5059-47b8-873e-c5494be32b8a,7b6466d5-1c97-43ea-b228-a6a83c33d125,b9921caa-871b-4139-8b6c-3bc0d308e962"
+    "audience": "Founders, Operators, Developers",
+    "time": "18:00",
+    "city": "Warszawa",
+    "venue": "Prześwit - Kolektywna Instytucja Kultury",
+    "language": "PL",
+    "description_pl": "Women in Creative Tech (Kobiety w Creative Tech) to spotkanie networkingowe dla kobiet działających na styku technologii i kreatywności. Przestrzeń do wymiany doświadczeń i nawiązywania wartościowych kontaktów."
   }
 ]
