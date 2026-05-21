@@ -1043,5 +1043,41 @@
     "organizer": "Made in Wroclaw",
     "price": "Paid",
     "added": "2026-03-09"
+  },
+  {
+    "name": "Vibecoding Games – Mother's Day Edition",
+    "date": "2026-05-26",
+    "time": "18:30",
+    "city": "Warszawa",
+    "venue": "Imaguru Startup HUB, Twarda 14/16",
+    "url": "https://luma.com/wnzfrmzp",
+    "description": "Mother's Day edition of Vibecoding Games — build something meaningful for mothers using AI tools like Lovable. Open to creators, developers, founders, students, designers.",
+    "language": "EN",
+    "tags": [
+      "Hackathon"
+    ],
+    "audience": "General public, Founders, Students",
+    "organizer": "Ayoub Morghati",
+    "price": "Free",
+    "status": "pending",
+    "added": "2026-05-21"
+  },
+  {
+    "name": "Unicorn Ski Cup 2026",
+    "date": "2026-02-28",
+    "city": "Czarna Góra",
+    "venue": "",
+    "url": "https://unicornski.org",
+    "description": "Prestigious event combining competitive skiing with networking among top entrepreneurs, investors, and tech leaders in Poland.",
+    "description_pl": "Prestiżowe wydarzenie łączące sportową rywalizację narciarską z networkingiem wśród czołowych przedsiębiorców, inwestorów i liderów technologii w Polsce.",
+    "language": "PL",
+    "tags": [
+      "Networking"
+    ],
+    "audience": "Founders, Operators, Investors",
+    "organizer": "Michal Rokosz, Aron Nowosad, Magda Przelaskowska",
+    "price": "Paid",
+    "status": "pending",
+    "added": "2026-05-21"
   }
 ]
