@@ -1138,5 +1138,19 @@
     "venue": "Prześwit - Kolektywna Instytucja Kultury",
     "language": "PL",
     "description_pl": "Women in Creative Tech (Kobiety w Creative Tech) to spotkanie networkingowe dla kobiet działających na styku technologii i kreatywności. Przestrzeń do wymiany doświadczeń i nawiązywania wartościowych kontaktów."
+  },
+  {
+    "name": "Unicorn Ski",
+    "date": "",
+    "status": "pending",
+    "added": "2026-05-22",
+    "url": "unicornski.org",
+    "organizer": "Michal Rokosz, Aron Nowosad, Magda Przelaskowska",
+    "description": "⚠ Date not provided in submission — please complete before approving.",
+    "price": "Paid",
+    "tags": [
+      "1bd77c4d-c74c-4765-a195-d12ec4bd80b1"
+    ],
+    "audience": "c1979076-b3ca-43f3-aed0-a330ae18879c,2b9f90e8-98e8-483b-8d06-dda239326895,71e6ea00-329b-4017-a920-44b4cbc66efe"
   }
 ]
