@@ -1,5 +1,23 @@
 [
   {
+    "name": "Unicorn Ski Cup 2026",
+    "date": "2026-02-28",
+    "city": "Czarna Góra",
+    "venue": "",
+    "url": "https://unicornski.org",
+    "description": "Prestigious event combining competitive skiing with networking among top entrepreneurs, investors, and tech leaders in Poland.",
+    "description_pl": "Prestiżowe wydarzenie łączące sportową rywalizację narciarską z networkingiem wśród czołowych przedsiębiorców, inwestorów i liderów technologii w Polsce.",
+    "language": "PL",
+    "tags": [
+      "Networking"
+    ],
+    "audience": "Founders, Operators, Investors",
+    "organizer": "Michal Rokosz, Aron Nowosad, Magda Przelaskowska",
+    "price": "Paid",
+    "status": "pending",
+    "added": "2026-05-21"
+  },
+  {
     "name": "Imaguru x SheBuilds on Lovable",
     "date": "2026-03-08",
     "time": "12:00",
@@ -747,6 +765,24 @@
     "added": "2026-05-14"
   },
   {
+    "name": "Vibecoding Games – Mother's Day Edition",
+    "date": "2026-05-26",
+    "time": "18:30",
+    "city": "Warszawa",
+    "venue": "Imaguru Startup HUB, Twarda 14/16",
+    "url": "https://luma.com/wnzfrmzp",
+    "description": "Mother's Day edition of Vibecoding Games — build something meaningful for mothers using AI tools like Lovable. Open to creators, developers, founders, students, designers.",
+    "language": "EN",
+    "tags": [
+      "Hackathon"
+    ],
+    "audience": "General public, Founders, Students",
+    "organizer": "Ayoub Morghati",
+    "price": "Free",
+    "status": "pending",
+    "added": "2026-05-21"
+  },
+  {
     "name": "Evolutions Partner Network Festival",
     "date": "2026-05-27",
     "time": "09:00",
@@ -804,6 +840,27 @@
     "added": "2026-05-14"
   },
   {
+    "name": "Pitch Day - Creative Tech",
+    "date": "2026-05-28",
+    "status": "pending",
+    "added": "2026-05-21",
+    "url": "https://luma.com/n2g69zh9",
+    "organizer": "Instytut Przemysłów Kreatywnych",
+    "submitter_email": "agnicichocka@gmail.com",
+    "description": "Pitch Day at which selected creative tech startups present their projects. An opportunity to meet creators and learn about the latest projects in the creative tech sector.",
+    "price": "Free",
+    "tags": [
+      "Pitch",
+      "Networking"
+    ],
+    "audience": "Founders, Investors, Operators",
+    "time": "10:00",
+    "city": "Warszawa",
+    "venue": "",
+    "language": "PL",
+    "description_pl": "Pitch Day - wydarzenie, podczas którego wyselekcjonowane startupy z obszaru creative tech zaprezentują swoje projekty. To okazja, aby w jednym miejscu poznać twórców i ich projekty."
+  },
+  {
     "name": "StartupyPoSąsiedzku - Warszawa #4",
     "date": "2026-05-30",
     "time": "10:00",
@@ -841,6 +898,44 @@
     "added": "2026-05-14"
   },
   {
+    "name": "The AI Collective Poland: Humans in AI Week (Kraków)",
+    "date": "2026-06-01",
+    "time": "17:30",
+    "city": "Kraków",
+    "venue": "Business Link, Kraków city center (address upon registration)",
+    "url": "https://luma.com/aic-po-6-1",
+    "description": "Evening exploring how to move AI prototypes into trusted, real-world products — keynotes on AI product development and panel on adoption, responsibility, organisational readiness. Wieczór o przejściu prototypów AI do zaufanych produktów.",
+    "language": "EN",
+    "tags": [
+      "Meetup",
+      "Networking"
+    ],
+    "audience": "Founders, Developers, Operators, Researchers, General public, Students, Investors, Corporate",
+    "organizer": "The AI Collective Poland (Wiktor Mijal)",
+    "price": "Free",
+    "status": "pending",
+    "added": "2026-05-25"
+  },
+  {
+    "name": "The AI Collective Poland: Humans in AI Week — Edu Breakfast w/ EdTech Dots (Kraków #10)",
+    "date": "2026-06-02",
+    "time": "09:00",
+    "city": "Kraków",
+    "venue": "Address upon registration",
+    "url": "https://luma.com/aic-po-6-2",
+    "description": "Curated breakfast roundtable on how AI is transforming learning in schools, universities and EdTech products — focus on the human perspective. Kameralne śniadanie i konkretna rozmowa o wpływie AI na edukatorów, studentów i organizacje edukacyjne.",
+    "language": "PL",
+    "tags": [
+      "Meetup",
+      "Networking"
+    ],
+    "audience": "Founders, Developers, Operators, Researchers, Corporate, General public",
+    "organizer": "The AI Collective Poland (Wiktor Mijal)",
+    "price": "Free",
+    "status": "pending",
+    "added": "2026-05-25"
+  },
+  {
     "name": "Perspektywy Women in Tech Summit 2026",
     "date": "2026-06-10",
     "time": "09:00",
@@ -860,6 +955,25 @@
     "added": "2026-03-09"
   },
   {
+    "name": "OpenCoffeeKRK #309",
+    "date": "2026-06-11",
+    "time": "08:30",
+    "city": "Kraków",
+    "venue": "Yolk Workspace & Community, Józefa Sarego 5",
+    "url": "https://www.meetup.com/pl-pl/opencoffekrakow/",
+    "description": "Morning networking event — entrepreneurs and professionals do 1-2 minute self-intros (who they are, what they do, what they need). Structured part ends 9:30, informal chats till 10:00.",
+    "language": "EN",
+    "tags": [
+      "Meetup",
+      "Networking"
+    ],
+    "audience": "Founders, Developers, Operators, General public, Corporate, Investors, Students, Researchers",
+    "organizer": "Max Burgess, Vladyslav Muzhylivskyi",
+    "price": "Free",
+    "status": "pending",
+    "added": "2026-05-25"
+  },
+  {
     "name": "Cybersec Expo & Forum 2026",
     "date": "2026-06-15",
     "time": "09:00",
@@ -876,6 +990,25 @@
     "organizer": "Cybersec",
     "price": "Paid",
     "added": "2026-03-09"
+  },
+  {
+    "name": "Kraków Enterprise Mondays #41",
+    "date": "2026-06-15",
+    "time": "18:00",
+    "city": "Kraków",
+    "venue": "Klaster Innowacji Społeczno-Gospodarczych, Zabłocie 20.22",
+    "url": "https://kms.org.pl/wydarzenie/kem41/",
+    "description": "Free networking series for entrepreneurs and founders — inspiring talks, 60-second pitch session, structured networking, afterparty. Bezpłatna seria networkingowa: wykłady, sesja pitchów, afterparty.",
+    "language": "EN+PL",
+    "tags": [
+      "Networking",
+      "Meetup"
+    ],
+    "audience": "Founders, Investors, General public",
+    "organizer": "Fundacja Kraków Miastem Startupów",
+    "price": "Free",
+    "status": "pending",
+    "added": "2026-05-25"
   },
   {
     "name": "StartupyPoSąsiedzku - Rzeszów #1",
@@ -970,6 +1103,44 @@
     "added": "2026-03-09"
   },
   {
+    "name": "#3 Spotkanie networkingowe Kobiet w Creative Tech",
+    "date": "2026-06-23",
+    "status": "pending",
+    "added": "2026-05-21",
+    "url": "https://luma.com/h0f93ujq",
+    "organizer": "CreativeTech Poland",
+    "submitter_email": "agni@creativetechpoland.com",
+    "description": "Women in Creative Tech networking meetup — a space for women working at the intersection of technology and creativity to exchange experience and build valuable connections.",
+    "price": "Free",
+    "tags": [
+      "Networking"
+    ],
+    "audience": "Founders, Operators, Developers",
+    "time": "18:00",
+    "city": "Warszawa",
+    "venue": "Prześwit - Kolektywna Instytucja Kultury",
+    "language": "PL",
+    "description_pl": "Women in Creative Tech (Kobiety w Creative Tech) to spotkanie networkingowe dla kobiet działających na styku technologii i kreatywności. Przestrzeń do wymiany doświadczeń i nawiązywania wartościowych kontaktów."
+  },
+  {
+    "name": "Warsaw.AI - Episode 31",
+    "date": "2026-07-02",
+    "status": "pending",
+    "added": "2026-05-21",
+    "url": "http://warsaw.ai",
+    "organizer": "Fundacja Quantum AI",
+    "submitter_email": "contact@qaif.org",
+    "description": "Warsaw.AI community meetup, episode 31. Talks and networking for the Warsaw AI community.",
+    "price": "Free",
+    "tags": [
+      "Meetup"
+    ],
+    "audience": "Developers, Founders, Researchers",
+    "time": "18:00",
+    "city": "Warszawa",
+    "language": "EN"
+  },
+  {
     "name": "Aula Polska #204 - Aula Wakacje (19 urodziny)",
     "date": "2026-07-14",
     "time": "18:00",
@@ -1043,148 +1214,5 @@
     "organizer": "Made in Wroclaw",
     "price": "Paid",
     "added": "2026-03-09"
-  },
-  {
-    "name": "Vibecoding Games – Mother's Day Edition",
-    "date": "2026-05-26",
-    "time": "18:30",
-    "city": "Warszawa",
-    "venue": "Imaguru Startup HUB, Twarda 14/16",
-    "url": "https://luma.com/wnzfrmzp",
-    "description": "Mother's Day edition of Vibecoding Games — build something meaningful for mothers using AI tools like Lovable. Open to creators, developers, founders, students, designers.",
-    "language": "EN",
-    "tags": [
-      "Hackathon"
-    ],
-    "audience": "General public, Founders, Students",
-    "organizer": "Ayoub Morghati",
-    "price": "Free",
-    "status": "approved",
-    "added": "2026-05-21"
-  },
-  {
-    "name": "Unicorn Ski Cup 2026",
-    "date": "2026-02-28",
-    "city": "Czarna Góra",
-    "venue": "",
-    "url": "https://unicornski.org",
-    "description": "Prestigious event combining competitive skiing with networking among top entrepreneurs, investors, and tech leaders in Poland.",
-    "description_pl": "Prestiżowe wydarzenie łączące sportową rywalizację narciarską z networkingiem wśród czołowych przedsiębiorców, inwestorów i liderów technologii w Polsce.",
-    "language": "PL",
-    "tags": [
-      "Networking"
-    ],
-    "audience": "Founders, Operators, Investors",
-    "organizer": "Michal Rokosz, Aron Nowosad, Magda Przelaskowska",
-    "price": "Paid",
-    "status": "approved",
-    "added": "2026-05-21"
-  },
-  {
-    "name": "Warsaw.AI - Episode 31",
-    "date": "2026-07-02",
-    "status": "approved",
-    "added": "2026-05-21",
-    "url": "http://warsaw.ai",
-    "organizer": "Fundacja Quantum AI",
-    "submitter_email": "contact@qaif.org",
-    "description": "Warsaw.AI community meetup, episode 31. Talks and networking for the Warsaw AI community.",
-    "price": "Free",
-    "tags": [
-      "Meetup"
-    ],
-    "audience": "Developers, Founders, Researchers",
-    "time": "18:00",
-    "city": "Warszawa",
-    "language": "EN"
-  },
-  {
-    "name": "Pitch Day - Creative Tech",
-    "date": "2026-05-28",
-    "status": "approved",
-    "added": "2026-05-21",
-    "url": "https://luma.com/n2g69zh9",
-    "organizer": "Instytut Przemysłów Kreatywnych",
-    "submitter_email": "agnicichocka@gmail.com",
-    "description": "Pitch Day at which selected creative tech startups present their projects. An opportunity to meet creators and learn about the latest projects in the creative tech sector.",
-    "price": "Free",
-    "tags": [
-      "Pitch",
-      "Networking"
-    ],
-    "audience": "Founders, Investors, Operators",
-    "time": "10:00",
-    "city": "Warszawa",
-    "venue": "",
-    "language": "PL",
-    "description_pl": "Pitch Day - wydarzenie, podczas którego wyselekcjonowane startupy z obszaru creative tech zaprezentują swoje projekty. To okazja, aby w jednym miejscu poznać twórców i ich projekty."
-  },
-  {
-    "name": "#3 Spotkanie networkingowe Kobiet w Creative Tech",
-    "date": "2026-06-23",
-    "status": "approved",
-    "added": "2026-05-21",
-    "url": "https://luma.com/h0f93ujq",
-    "organizer": "CreativeTech Poland",
-    "submitter_email": "agni@creativetechpoland.com",
-    "description": "Women in Creative Tech networking meetup — a space for women working at the intersection of technology and creativity to exchange experience and build valuable connections.",
-    "price": "Free",
-    "tags": [
-      "Networking"
-    ],
-    "audience": "Founders, Operators, Developers",
-    "time": "18:00",
-    "city": "Warszawa",
-    "venue": "Prześwit - Kolektywna Instytucja Kultury",
-    "language": "PL",
-    "description_pl": "Women in Creative Tech (Kobiety w Creative Tech) to spotkanie networkingowe dla kobiet działających na styku technologii i kreatywności. Przestrzeń do wymiany doświadczeń i nawiązywania wartościowych kontaktów."
-  },
-  {
-    "name": "Kraków Enterprise Mondays",
-    "date": "",
-    "status": "pending",
-    "added": "2026-05-25",
-    "url": "https://kms.org.pl/wydarzenie/kem41/",
-    "organizer": "Fundacja Kraków Miastem Startupów",
-    "submitter_email": "aleksandra.pazdzio@kms.org.pl",
-    "description": "⚠ Date not provided in submission — please complete before approving.",
-    "price": "Paid",
-    "tags": [
-      "1bd77c4d-c74c-4765-a195-d12ec4bd80b1",
-      "d7d787e6-182b-428f-9a6a-028e81cc7c5b"
-    ],
-    "audience": "c1979076-b3ca-43f3-aed0-a330ae18879c,71e6ea00-329b-4017-a920-44b4cbc66efe,7b6466d5-1c97-43ea-b228-a6a83c33d125"
-  },
-  {
-    "name": "OpenCoffeeKraków",
-    "date": "",
-    "status": "pending",
-    "added": "2026-05-25",
-    "url": "https://www.meetup.com/pl-pl/opencoffekrakow/",
-    "organizer": "Max Burgess, Vladyslav Muzhylivskyi",
-    "submitter_email": "vlad@itentio.com",
-    "description": "⚠ Date not provided in submission — please complete before approving.",
-    "price": "Paid",
-    "tags": [
-      "d7d787e6-182b-428f-9a6a-028e81cc7c5b",
-      "1bd77c4d-c74c-4765-a195-d12ec4bd80b1"
-    ],
-    "audience": "c1979076-b3ca-43f3-aed0-a330ae18879c,7c64ed41-b665-4b1e-a2c6-c1236bf73d65,2b9f90e8-98e8-483b-8d06-dda239326895,7b6466d5-1c97-43ea-b228-a6a83c33d125,22937af6-f697-453d-b2f8-e22522ca4c02,71e6ea00-329b-4017-a920-44b4cbc66efe,2b64847a-5059-47b8-873e-c5494be32b8a,b9921caa-871b-4139-8b6c-3bc0d308e962"
-  },
-  {
-    "name": "The AI Collective Poland",
-    "date": "",
-    "status": "pending",
-    "added": "2026-05-25",
-    "url": "https://www.aicollective.com/chapters/poland",
-    "organizer": "Wiktor Mijal",
-    "submitter_email": "wiktor@1000i.pl",
-    "description": "⚠ Date not provided in submission — please complete before approving.",
-    "price": "Paid",
-    "tags": [
-      "d7d787e6-182b-428f-9a6a-028e81cc7c5b",
-      "1bd77c4d-c74c-4765-a195-d12ec4bd80b1"
-    ],
-    "audience": "c1979076-b3ca-43f3-aed0-a330ae18879c,7c64ed41-b665-4b1e-a2c6-c1236bf73d65,2b9f90e8-98e8-483b-8d06-dda239326895,b9921caa-871b-4139-8b6c-3bc0d308e962,7b6466d5-1c97-43ea-b228-a6a83c33d125,2b64847a-5059-47b8-873e-c5494be32b8a,71e6ea00-329b-4017-a920-44b4cbc66efe,22937af6-f697-453d-b2f8-e22522ca4c02"
   }
 ]
