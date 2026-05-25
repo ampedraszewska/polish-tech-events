@@ -14,7 +14,7 @@
     "audience": "Founders, Operators, Investors",
     "organizer": "Michal Rokosz, Aron Nowosad, Magda Przelaskowska",
     "price": "Paid",
-    "status": "pending",
+    "status": "approved",
     "added": "2026-05-21"
   },
   {
@@ -779,7 +779,7 @@
     "audience": "General public, Founders, Students",
     "organizer": "Ayoub Morghati",
     "price": "Free",
-    "status": "pending",
+    "status": "approved",
     "added": "2026-05-21"
   },
   {
@@ -842,7 +842,7 @@
   {
     "name": "Pitch Day - Creative Tech",
     "date": "2026-05-28",
-    "status": "pending",
+    "status": "approved",
     "added": "2026-05-21",
     "url": "https://luma.com/n2g69zh9",
     "organizer": "Instytut Przemysłów Kreatywnych",
@@ -913,7 +913,7 @@
     "audience": "Founders, Developers, Operators, Researchers, General public, Students, Investors, Corporate",
     "organizer": "The AI Collective Poland (Wiktor Mijal)",
     "price": "Free",
-    "status": "pending",
+    "status": "approved",
     "added": "2026-05-25"
   },
   {
@@ -932,7 +932,7 @@
     "audience": "Founders, Developers, Operators, Researchers, Corporate, General public",
     "organizer": "The AI Collective Poland (Wiktor Mijal)",
     "price": "Free",
-    "status": "pending",
+    "status": "approved",
     "added": "2026-05-25"
   },
   {
@@ -970,7 +970,7 @@
     "audience": "Founders, Developers, Operators, General public, Corporate, Investors, Students, Researchers",
     "organizer": "Max Burgess, Vladyslav Muzhylivskyi",
     "price": "Free",
-    "status": "pending",
+    "status": "approved",
     "added": "2026-05-25"
   },
   {
@@ -1007,7 +1007,7 @@
     "audience": "Founders, Investors, General public",
     "organizer": "Fundacja Kraków Miastem Startupów",
     "price": "Free",
-    "status": "pending",
+    "status": "approved",
     "added": "2026-05-25"
   },
   {
@@ -1105,7 +1105,7 @@
   {
     "name": "#3 Spotkanie networkingowe Kobiet w Creative Tech",
     "date": "2026-06-23",
-    "status": "pending",
+    "status": "approved",
     "added": "2026-05-21",
     "url": "https://luma.com/h0f93ujq",
     "organizer": "CreativeTech Poland",
@@ -1125,7 +1125,7 @@
   {
     "name": "Warsaw.AI - Episode 31",
     "date": "2026-07-02",
-    "status": "pending",
+    "status": "approved",
     "added": "2026-05-21",
     "url": "http://warsaw.ai",
     "organizer": "Fundacja Quantum AI",
