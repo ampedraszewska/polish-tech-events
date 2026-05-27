@@ -1214,5 +1214,21 @@
     "organizer": "Made in Wroclaw",
     "price": "Paid",
     "added": "2026-03-09"
+  },
+  {
+    "name": "Zabłocie Morning Pitch",
+    "date": "",
+    "status": "pending",
+    "added": "2026-05-27",
+    "url": "https://kms.org.pl/wydarzenie/zablocie-morning-pitch-2/",
+    "organizer": "Fundacja Kraków Miastem Startupów",
+    "submitter_email": "aleksandra.pazdzio@kms.org.pl",
+    "description": "⚠ Date not provided in submission — please complete before approving.",
+    "price": "Paid",
+    "tags": [
+      "d7d787e6-182b-428f-9a6a-028e81cc7c5b",
+      "1bd77c4d-c74c-4765-a195-d12ec4bd80b1"
+    ],
+    "audience": "c1979076-b3ca-43f3-aed0-a330ae18879c,b9921caa-871b-4139-8b6c-3bc0d308e962,71e6ea00-329b-4017-a920-44b4cbc66efe,22937af6-f697-453d-b2f8-e22522ca4c02,2b64847a-5059-47b8-873e-c5494be32b8a,7c64ed41-b665-4b1e-a2c6-c1236bf73d65,2b9f90e8-98e8-483b-8d06-dda239326895"
   }
 ]
