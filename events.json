@@ -861,6 +861,25 @@
     "description_pl": "Pitch Day - wydarzenie, podczas którego wyselekcjonowane startupy z obszaru creative tech zaprezentują swoje projekty. To okazja, aby w jednym miejscu poznać twórców i ich projekty."
   },
   {
+    "name": "Zabłocie Morning Pitch (2026-05-28)",
+    "date": "2026-05-28",
+    "time": "10:00",
+    "city": "Kraków",
+    "venue": "Klaster Innowacji Społeczno-Gospodarczych, Zabłocie 20.22 (sala 203)",
+    "url": "https://kms.org.pl/wydarzenie/zablocie-morning-pitch-2/",
+    "description": "Cykliczny networking dla twórców i przedsiębiorców (każdy 2. i 4. czwartek miesiąca, 10:00–12:00). Krótka prezentacja gościa, rundy zapoznawcze, kawa. Recurring networking meetup with guest talk + intro rounds + coffee. Nie trzeba zaproszenia.",
+    "language": "PL",
+    "tags": [
+      "Meetup",
+      "Networking"
+    ],
+    "audience": "Founders, Researchers, Investors, Corporate, Students, Developers, Operators",
+    "organizer": "Fundacja Kraków Miastem Startupów",
+    "price": "Free",
+    "status": "approved",
+    "added": "2026-05-27"
+  },
+  {
     "name": "StartupyPoSąsiedzku - Warszawa #4",
     "date": "2026-05-30",
     "time": "10:00",
@@ -972,6 +991,25 @@
     "price": "Free",
     "status": "approved",
     "added": "2026-05-25"
+  },
+  {
+    "name": "Zabłocie Morning Pitch (2026-06-11)",
+    "date": "2026-06-11",
+    "time": "10:00",
+    "city": "Kraków",
+    "venue": "Klaster Innowacji Społeczno-Gospodarczych, Zabłocie 20.22 (sala 203)",
+    "url": "https://kms.org.pl/wydarzenie/zablocie-morning-pitch-2/",
+    "description": "Cykliczny networking dla twórców i przedsiębiorców (każdy 2. i 4. czwartek miesiąca, 10:00–12:00). Krótka prezentacja gościa, rundy zapoznawcze, kawa. Recurring networking meetup with guest talk + intro rounds + coffee. Nie trzeba zaproszenia.",
+    "language": "PL",
+    "tags": [
+      "Meetup",
+      "Networking"
+    ],
+    "audience": "Founders, Researchers, Investors, Corporate, Students, Developers, Operators",
+    "organizer": "Fundacja Kraków Miastem Startupów",
+    "price": "Free",
+    "status": "approved",
+    "added": "2026-05-27"
   },
   {
     "name": "Cybersec Expo & Forum 2026",
@@ -1123,6 +1161,45 @@
     "description_pl": "Women in Creative Tech (Kobiety w Creative Tech) to spotkanie networkingowe dla kobiet działających na styku technologii i kreatywności. Przestrzeń do wymiany doświadczeń i nawiązywania wartościowych kontaktów."
   },
   {
+    "name": "Demo Day — KRK InnoTech Starter & Hub Innowacji Małopolska",
+    "date": "2026-06-25",
+    "time": "18:00",
+    "city": "Kraków",
+    "venue": "Klaster Innowacji Społeczno-Gospodarczych, Zabłocie 20.22",
+    "url": "https://kms.org.pl/wydarzenie/demo-day/",
+    "description": "Wielki finał sześciomiesięcznego cyklu akceleracyjnego — 8 zespołów startupowych pitchuje przed jury inwestorów i publicznością, pula nagród 24,000 PLN, głosowanie publiczności. Grand finale of KRK InnoTech Starter & Hub Innowacji Małopolska — 8 startups pitch to investors, 24k PLN prize pool.",
+    "language": "EN+PL",
+    "tags": [
+      "Conference",
+      "Meetup",
+      "Networking"
+    ],
+    "audience": "Investors, General public, Founders, Developers, Operators, Researchers, Students, Corporate",
+    "organizer": "Fundacja Kraków Miastem Startupów",
+    "price": "Free",
+    "status": "approved",
+    "added": "2026-05-27"
+  },
+  {
+    "name": "Zabłocie Morning Pitch (2026-06-25)",
+    "date": "2026-06-25",
+    "time": "10:00",
+    "city": "Kraków",
+    "venue": "Klaster Innowacji Społeczno-Gospodarczych, Zabłocie 20.22 (sala 203)",
+    "url": "https://kms.org.pl/wydarzenie/zablocie-morning-pitch-2/",
+    "description": "Cykliczny networking dla twórców i przedsiębiorców (każdy 2. i 4. czwartek miesiąca, 10:00–12:00). Krótka prezentacja gościa, rundy zapoznawcze, kawa. Recurring networking meetup with guest talk + intro rounds + coffee. Nie trzeba zaproszenia.",
+    "language": "PL",
+    "tags": [
+      "Meetup",
+      "Networking"
+    ],
+    "audience": "Founders, Researchers, Investors, Corporate, Students, Developers, Operators",
+    "organizer": "Fundacja Kraków Miastem Startupów",
+    "price": "Free",
+    "status": "approved",
+    "added": "2026-05-27"
+  },
+  {
     "name": "Warsaw.AI - Episode 31",
     "date": "2026-07-02",
     "status": "approved",
@@ -1214,38 +1291,5 @@
     "organizer": "Made in Wroclaw",
     "price": "Paid",
     "added": "2026-03-09"
-  },
-  {
-    "name": "Zabłocie Morning Pitch",
-    "date": "",
-    "status": "pending",
-    "added": "2026-05-27",
-    "url": "https://kms.org.pl/wydarzenie/zablocie-morning-pitch-2/",
-    "organizer": "Fundacja Kraków Miastem Startupów",
-    "submitter_email": "aleksandra.pazdzio@kms.org.pl",
-    "description": "⚠ Date not provided in submission — please complete before approving.",
-    "price": "Paid",
-    "tags": [
-      "d7d787e6-182b-428f-9a6a-028e81cc7c5b",
-      "1bd77c4d-c74c-4765-a195-d12ec4bd80b1"
-    ],
-    "audience": "c1979076-b3ca-43f3-aed0-a330ae18879c,b9921caa-871b-4139-8b6c-3bc0d308e962,71e6ea00-329b-4017-a920-44b4cbc66efe,22937af6-f697-453d-b2f8-e22522ca4c02,2b64847a-5059-47b8-873e-c5494be32b8a,7c64ed41-b665-4b1e-a2c6-c1236bf73d65,2b9f90e8-98e8-483b-8d06-dda239326895"
-  },
-  {
-    "name": "Demo Day",
-    "date": "",
-    "status": "pending",
-    "added": "2026-05-27",
-    "url": "https://kms.org.pl/wydarzenie/demo-day/",
-    "organizer": "Fundacja Kraków Miastem Startupów",
-    "submitter_email": "aleksandra.pazdzio@kms.org.pl",
-    "description": "⚠ Date not provided in submission — please complete before approving.",
-    "price": "Paid",
-    "tags": [
-      "12897338-5897-4b98-bba9-469515186125",
-      "d7d787e6-182b-428f-9a6a-028e81cc7c5b",
-      "1bd77c4d-c74c-4765-a195-d12ec4bd80b1"
-    ],
-    "audience": "71e6ea00-329b-4017-a920-44b4cbc66efe,7b6466d5-1c97-43ea-b228-a6a83c33d125,c1979076-b3ca-43f3-aed0-a330ae18879c,7c64ed41-b665-4b1e-a2c6-c1236bf73d65,2b9f90e8-98e8-483b-8d06-dda239326895,b9921caa-871b-4139-8b6c-3bc0d308e962,2b64847a-5059-47b8-873e-c5494be32b8a,22937af6-f697-453d-b2f8-e22522ca4c02"
   }
 ]
