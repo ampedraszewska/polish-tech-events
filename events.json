@@ -1288,5 +1288,20 @@
     "organizer": "Made in Wroclaw",
     "price": "Paid",
     "added": "2026-03-09"
+  },
+  {
+    "name": "Premiera Raportu \"Matki jako test rezyliencji rynku pracy\" - Warszawa",
+    "date": "",
+    "status": "pending",
+    "added": "2026-06-10",
+    "url": "https://raport-mamo-pracuj-event.subscribepage.io/",
+    "organizer": "MamoPracuj.pl",
+    "submitter_email": "kontakt@mamopracuj.pl",
+    "description": "⚠ Date not provided in submission — please complete before approving.",
+    "price": "Paid",
+    "tags": [
+      "1bd77c4d-c74c-4765-a195-d12ec4bd80b1"
+    ],
+    "audience": "22937af6-f697-453d-b2f8-e22522ca4c02,c1979076-b3ca-43f3-aed0-a330ae18879c,b9921caa-871b-4139-8b6c-3bc0d308e962"
   }
 ]
