@@ -1303,5 +1303,20 @@
       "1bd77c4d-c74c-4765-a195-d12ec4bd80b1"
     ],
     "audience": "22937af6-f697-453d-b2f8-e22522ca4c02,c1979076-b3ca-43f3-aed0-a330ae18879c,b9921caa-871b-4139-8b6c-3bc0d308e962"
+  },
+  {
+    "name": "The Founder’s Story Kraków",
+    "date": "",
+    "status": "pending",
+    "added": "2026-06-10",
+    "url": "https://cloud.google.com/events/the-founders-story-krakow?e=0",
+    "organizer": "OMGKRK",
+    "submitter_email": "karolina@omgkrk.com",
+    "description": "⚠ Date not provided in submission — please complete before approving.",
+    "price": "Paid",
+    "tags": [
+      "1bd77c4d-c74c-4765-a195-d12ec4bd80b1"
+    ],
+    "audience": "c1979076-b3ca-43f3-aed0-a330ae18879c"
   }
 ]
