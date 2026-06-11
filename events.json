@@ -1198,6 +1198,25 @@
     "added": "2026-05-27"
   },
   {
+    "name": "The Founder's Story Kraków",
+    "date": "2026-06-25",
+    "time": "18:00",
+    "city": "Kraków",
+    "venue": "Tertium Business Park (Building A), Lublańska 34",
+    "url": "https://cloud.google.com/events/the-founders-story-krakow",
+    "description": "Part of Google's 'The Founder's Story' series: a panel of founders and tech-community leaders sharing entrepreneurial stories and practical advice, marking the opening of Google's new Kraków office. Includes a keynote and networking. Registration required, limited spots.",
+    "description_pl": "Część serii Google 'The Founder's Story': panel founderów i liderów społeczności tech, którzy dzielą się historiami i praktycznymi radami z budowania firm, z okazji otwarcia nowego biura Google w Krakowie. W programie keynote i networking. Wymagana rejestracja, liczba miejsc ograniczona.",
+    "language": "EN+PL",
+    "tags": [
+      "Networking"
+    ],
+    "audience": "Founders",
+    "organizer": "OMGKRK",
+    "price": "Free",
+    "status": "approved",
+    "added": "2026-06-10"
+  },
+  {
     "name": "Warsaw.AI - Episode 31",
     "date": "2026-07-02",
     "status": "approved",
@@ -1288,35 +1307,5 @@
     "organizer": "Made in Wroclaw",
     "price": "Paid",
     "added": "2026-03-09"
-  },
-  {
-    "name": "Premiera Raportu \"Matki jako test rezyliencji rynku pracy\" - Warszawa",
-    "date": "",
-    "status": "pending",
-    "added": "2026-06-10",
-    "url": "https://raport-mamo-pracuj-event.subscribepage.io/",
-    "organizer": "MamoPracuj.pl",
-    "submitter_email": "kontakt@mamopracuj.pl",
-    "description": "⚠ Date not provided in submission — please complete before approving.",
-    "price": "Paid",
-    "tags": [
-      "1bd77c4d-c74c-4765-a195-d12ec4bd80b1"
-    ],
-    "audience": "22937af6-f697-453d-b2f8-e22522ca4c02,c1979076-b3ca-43f3-aed0-a330ae18879c,b9921caa-871b-4139-8b6c-3bc0d308e962"
-  },
-  {
-    "name": "The Founder’s Story Kraków",
-    "date": "",
-    "status": "pending",
-    "added": "2026-06-10",
-    "url": "https://cloud.google.com/events/the-founders-story-krakow?e=0",
-    "organizer": "OMGKRK",
-    "submitter_email": "karolina@omgkrk.com",
-    "description": "⚠ Date not provided in submission — please complete before approving.",
-    "price": "Paid",
-    "tags": [
-      "1bd77c4d-c74c-4765-a195-d12ec4bd80b1"
-    ],
-    "audience": "c1979076-b3ca-43f3-aed0-a330ae18879c"
   }
 ]
