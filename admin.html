@@ -420,6 +420,7 @@
       <div class="tab-content active" id="tab-pending">
         <div class="section-header">
           <h2>Pending submissions</h2>
+          <button class="btn btn-sm" id="syncTallyBtn" onclick="syncFromTally(this)" title="Pull the authoritative list from Tally and backfill anything the webhook missed">&#8635; Sync from Tally</button>
         </div>
         <div class="events-table-wrap">
           <table>
@@ -849,6 +850,31 @@
     `).join('');
   }
 
+  // ---- SYNC FROM TALLY (reconcile against the authoritative source) ----
+  async function syncFromTally(btn) {
+    const orig = btn ? btn.innerHTML : '';
+    if (btn) { btn.disabled = true; btn.innerHTML = 'Syncing&hellip;'; }
+    try {
+      const res = await fetch(`${WORKER_URL}/reconcile`, {
+        method: 'POST',
+        headers: { 'Authorization': `Bearer ${sessionToken}` },
+      });
+      if (res.status === 401) { logout(); return; }
+      if (!res.ok) throw new Error(`Reconcile failed: ${res.status}`);
+      const d = await res.json();
+      if (d.added > 0) {
+        alert(`Tally has ${d.tally_total} submissions. Backfilled ${d.added} the webhook had missed:\n\n- ${d.added_names.join('\n- ')}\n\nThey are now in Pending.`);
+      } else {
+        alert(`In sync. Tally has ${d.tally_total} submissions and all are already accounted for — nothing missing.`);
+      }
+      loadEvents();
+    } catch (e) {
+      alert(`Sync failed: ${e.message}`);
+    } finally {
+      if (btn) { btn.disabled = false; btn.innerHTML = orig; }
+    }
+  }
+
   // ---- ACTIONS: APPROVE / REJECT / DELETE ----
   async function approveEvent(i) {
     const ev = { ...allEvents[i], status: 'approved' };
@@ -856,9 +882,9 @@
   }
 
   async function rejectEvent(i) {
-    if (!confirm(`Delete "${allEvents[i].name}" from the list? This cannot be undone.`)) return;
-    const updated = allEvents.filter((_, j) => j !== i);
-    await commitEvents(updated, `Reject pending event: ${allEvents[i].name}`, 'Rejected and removed.');
+    if (!confirm(`Reject "${allEvents[i].name}"? It will be hidden from the directory and kept as a tombstone so the Tally sync won't re-import it.`)) return;
+    const updated = allEvents.map((ev, j) => j === i ? { ...ev, status: 'rejected' } : ev);
+    await commitEvents(updated, `Reject submission: ${allEvents[i].name}`, 'Rejected (hidden; kept so the Tally sync skips it).');
   }
 
   async function deleteEvent(i) {
