@@ -1104,6 +1104,15 @@
     "added": "2026-03-09"
   },
   {
+    "name": "Premiera Raportu \"Matki jako test rezyliencji rynku pracy\" - Warszawa",
+    "date": "2026-06-17",
+    "url": "https://raport-mamo-pracuj-event.subscribepage.io/",
+    "organizer": "MamoPracuj.pl",
+    "status": "rejected",
+    "added": "2026-06-12",
+    "reject_reason": "Not tech-focused enough"
+  },
+  {
     "name": "AI Tinkerers Poland #8 - Meetup in Warsaw (18th June)",
     "date": "2026-06-18",
     "time": "18:00",
@@ -1120,6 +1129,15 @@
     "organizer": "AI Tinkerers Poland",
     "price": "Free",
     "added": "2026-05-14"
+  },
+  {
+    "name": "Premiera Raportu \"Matki jako test rezyliencji rynku pracy\" - Kraków",
+    "date": "2026-06-18",
+    "url": "https://raport-mamo-pracuj-event.subscribepage.io/",
+    "organizer": "MamoPracuj.pl",
+    "status": "rejected",
+    "added": "2026-06-12",
+    "reject_reason": "Not tech-focused enough"
   },
   {
     "name": "IT Manager of Tomorrow",
@@ -1307,5 +1325,23 @@
     "organizer": "Made in Wroclaw",
     "price": "Paid",
     "added": "2026-03-09"
+  },
+  {
+    "name": "AIntern 2026",
+    "date": "",
+    "url": "https://www.qaif.org/events/aintern/aintern-2026",
+    "organizer": "Fundacja Quantum AI",
+    "status": "rejected",
+    "added": "2026-06-12",
+    "reject_reason": "Research programme, not a single dated event"
+  },
+  {
+    "name": "The AI Collective Poland",
+    "date": "",
+    "url": "https://www.aicollective.com/chapters/poland",
+    "organizer": "Wiktor Mijal",
+    "status": "rejected",
+    "added": "2026-06-12",
+    "reject_reason": "Chapter landing page, not a single dated event"
   }
 ]
