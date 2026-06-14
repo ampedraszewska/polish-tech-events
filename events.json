@@ -1343,5 +1343,19 @@
     "status": "rejected",
     "added": "2026-06-12",
     "reject_reason": "Chapter landing page, not a single dated event"
+  },
+  {
+    "name": "Quantum Machine Learning Conference",
+    "date": "",
+    "status": "pending",
+    "added": "2026-06-14",
+    "url": "https://www.qaif.org/events/conferences/quantum-machine-learning-conference-2026",
+    "organizer": "Fundacja Quantum AI",
+    "description": "⚠ Date not provided in submission — please complete before approving.",
+    "price": "Paid",
+    "tags": [
+      "12897338-5897-4b98-bba9-469515186125"
+    ],
+    "audience": "b9921caa-871b-4139-8b6c-3bc0d308e962,2b64847a-5059-47b8-873e-c5494be32b8a"
   }
 ]
