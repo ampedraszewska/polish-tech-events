@@ -1140,6 +1140,26 @@
     "reject_reason": "Not tech-focused enough"
   },
   {
+    "name": "The AI Collective Poland & AGH University | AI in Healthcare: AI in Diagnostics",
+    "date": "2026-06-22",
+    "time": "17:30",
+    "city": "Kraków",
+    "venue": "AGH University, Kraków",
+    "url": "https://luma.com/aic-po-6-22",
+    "description": "AI in healthcare diagnostics: from CT imaging to clinical decision support. Co-organized with AGH University.",
+    "description_pl": "AI w diagnostyce medycznej: od obrazowania CT do wsparcia decyzji klinicznych. Współorganizator: AGH.",
+    "language": "PL",
+    "tags": [
+      "Meetup",
+      "Networking"
+    ],
+    "audience": "Founders, Developers, Researchers, Corporate",
+    "organizer": "The AI Collective Poland & AGH University (Wiktor Mijal, Łukasz Bargieł)",
+    "price": "Free",
+    "status": "approved",
+    "added": "2026-06-21"
+  },
+  {
     "name": "IT Manager of Tomorrow",
     "date": "2026-06-23",
     "time": "09:00",
@@ -1175,6 +1195,26 @@
     "venue": "Prześwit - Kolektywna Instytucja Kultury",
     "language": "PL",
     "description_pl": "Women in Creative Tech (Kobiety w Creative Tech) to spotkanie networkingowe dla kobiet działających na styku technologii i kreatywności. Przestrzeń do wymiany doświadczeń i nawiązywania wartościowych kontaktów."
+  },
+  {
+    "name": "The AI Collective Poland: AI-Human Synergy (Wrocław)",
+    "date": "2026-06-24",
+    "time": "16:30",
+    "city": "Wrocław",
+    "venue": "Address upon registration",
+    "url": "https://luma.com/aic-po-6-24",
+    "description": "AI in education: end of the traditional teacher role, self-directed learning with AI, EdTech transformation. Held in Polish.",
+    "description_pl": "AI w edukacji: koniec roli nauczyciela?, samodzielne uczenie się z AI, transformacja EdTechu. Wydarzenie po polsku.",
+    "language": "PL",
+    "tags": [
+      "Meetup",
+      "Networking"
+    ],
+    "audience": "Founders, Developers, Researchers, Operators, Students",
+    "organizer": "The AI Collective Poland & EdTech Dots (Wiktor Mijal, Przemysław Skrzek, Maciej Gawlik)",
+    "price": "Free",
+    "status": "approved",
+    "added": "2026-06-21"
   },
   {
     "name": "Demo Day — KRK InnoTech Starter & Hub Innowacji Małopolska",
@@ -1233,6 +1273,24 @@
     "price": "Free",
     "status": "approved",
     "added": "2026-06-10"
+  },
+  {
+    "name": "Quantum Machine Learning Conference 2026",
+    "date": "2026-06-27",
+    "city": "Online",
+    "venue": "Online event (Zoom)",
+    "url": "https://www.qaif.org/events/conferences/quantum-machine-learning-conference-2026",
+    "description": "Annual conference on quantum machine learning organized by Fundacja Quantum AI. Online event.",
+    "description_pl": "Doroczna konferencja poświęcona kwantowemu uczeniu maszynowemu, organizowana przez Fundację Quantum AI. Wydarzenie online.",
+    "language": "EN",
+    "tags": [
+      "Conference"
+    ],
+    "audience": "Researchers, Developers, Students",
+    "organizer": "Fundacja Quantum AI",
+    "price": "Free",
+    "status": "approved",
+    "added": "2026-06-21"
   },
   {
     "name": "Warsaw.AI - Episode 31",
@@ -1343,47 +1401,5 @@
     "status": "rejected",
     "added": "2026-06-12",
     "reject_reason": "Chapter landing page, not a single dated event"
-  },
-  {
-    "name": "Quantum Machine Learning Conference",
-    "date": "",
-    "status": "pending",
-    "added": "2026-06-14",
-    "url": "https://www.qaif.org/events/conferences/quantum-machine-learning-conference-2026",
-    "organizer": "Fundacja Quantum AI",
-    "description": "⚠ Date not provided in submission — please complete before approving.",
-    "price": "Paid",
-    "tags": [
-      "12897338-5897-4b98-bba9-469515186125"
-    ],
-    "audience": "b9921caa-871b-4139-8b6c-3bc0d308e962,2b64847a-5059-47b8-873e-c5494be32b8a"
-  },
-  {
-    "name": "Warsaw.AI - Episode 31",
-    "date": "",
-    "status": "pending",
-    "added": "2026-06-21",
-    "url": "https://warsaw.ai",
-    "organizer": "Fundacja Quantum AI",
-    "description": "⚠ Date not provided in submission — please complete before approving.",
-    "price": "Paid",
-    "tags": [
-      "d7d787e6-182b-428f-9a6a-028e81cc7c5b"
-    ],
-    "audience": "7c64ed41-b665-4b1e-a2c6-c1236bf73d65,b9921caa-871b-4139-8b6c-3bc0d308e962,2b64847a-5059-47b8-873e-c5494be32b8a"
-  },
-  {
-    "name": "Quantum Machine Learning Conference 2026",
-    "date": "",
-    "status": "pending",
-    "added": "2026-06-21",
-    "url": "https://www.qaif.org/events/conferences/quantum-machine-learning-conference-2026",
-    "organizer": "Fundacja Quantum AI",
-    "description": "⚠ Date not provided in submission — please complete before approving.",
-    "price": "Paid",
-    "tags": [
-      "12897338-5897-4b98-bba9-469515186125"
-    ],
-    "audience": "b9921caa-871b-4139-8b6c-3bc0d308e962,7c64ed41-b665-4b1e-a2c6-c1236bf73d65,2b64847a-5059-47b8-873e-c5494be32b8a"
   }
 ]
