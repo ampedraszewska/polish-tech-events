@@ -1293,6 +1293,45 @@
     "added": "2026-06-21"
   },
   {
+    "name": "MD Fellowship Demo Day",
+    "date": "2026-06-29",
+    "time": "14:00",
+    "city": "Warszawa",
+    "venue": "JustJoinIT, Marszałkowska 107",
+    "url": "https://luma.com/b4px154s?tk=FTbdwW",
+    "description": "Retrospective demo day celebrating four editions of the MD Fellowship mentoring programme — mentee success stories, lessons from the mentoring process, and networking. Investors from the Warsaw ecosystem attend.",
+    "description_pl": "Demo day podsumowujący cztery edycje programu mentoringowego MD Fellowship — historie sukcesu podopiecznych, lekcje z procesu mentoringu i networking. W gronie gości inwestorzy z warszawskiego ekosystemu.",
+    "language": "PL",
+    "tags": [
+      "Meetup",
+      "Networking"
+    ],
+    "audience": "Founders, Investors, Students",
+    "organizer": "MD Fellowship",
+    "price": "Free",
+    "status": "approved",
+    "added": "2026-06-29"
+  },
+  {
+    "name": "Eskadra Bielika – Warszawa",
+    "date": "2026-06-29",
+    "time": "17:00",
+    "city": "Warszawa",
+    "venue": "Akademia WIT (PAN), Newelska 6",
+    "url": "https://luma.com/dsuepdwk",
+    "description": "Hands-on workshop on building retrieval-augmented generation (RAG) systems with the Polish Bielik language model and Google Cloud — data preparation, embeddings, AI agent design, and real-world implementation.",
+    "description_pl": "Praktyczne warsztaty z budowy systemów RAG na polskim modelu Bielik i Google Cloud — przygotowanie danych, embeddingi, projektowanie agentów AI i wdrożenia w praktyce.",
+    "language": "PL",
+    "tags": [
+      "Workshop"
+    ],
+    "audience": "Developers, Researchers",
+    "organizer": "Eskadra Bielika",
+    "price": "Free",
+    "status": "approved",
+    "added": "2026-06-29"
+  },
+  {
     "name": "Warsaw.AI - Episode 31",
     "date": "2026-07-02",
     "status": "approved",
@@ -1308,6 +1347,46 @@
     "time": "18:00",
     "city": "Warszawa",
     "language": "EN"
+  },
+  {
+    "name": "AI Shift Meetup",
+    "date": "2026-07-02",
+    "time": "17:00",
+    "city": "Warszawa",
+    "venue": "Google for Startups Campus, Plac Konesera 10",
+    "url": "https://luma.com/9ft4ka2h",
+    "description": "Three panel discussions on how AI is transforming work, investment and creation, bringing together professionals from engineering, venture capital, marketing and content.",
+    "description_pl": "Trzy panele dyskusyjne o tym, jak AI zmienia pracę, inwestycje i tworzenie — z udziałem ekspertów z inżynierii, venture capital, marketingu i contentu.",
+    "language": "EN",
+    "tags": [
+      "Meetup",
+      "Networking"
+    ],
+    "audience": "Developers, Investors, Operators, Founders",
+    "organizer": "Fundacja Ū Hub",
+    "price": "Free",
+    "status": "approved",
+    "added": "2026-06-29"
+  },
+  {
+    "name": "DEMO NIGHTS by How to Web #4 [Warsaw Edition]",
+    "date": "2026-07-07",
+    "time": "18:30",
+    "city": "Warszawa",
+    "venue": "Imaguru Startup HUB, Twarda 14/16",
+    "url": "https://luma.com/Demo-Nights-4",
+    "description": "Startup founders pitch and demo live in 5 minutes followed by jury Q&A; winning teams get tickets and booth space at How to Web Conference 2026. Founders, investors and operators networking.",
+    "description_pl": "Founderzy prezentują produkt na żywo w 5 minut, po czym następuje sesja pytań jury; zwycięskie zespoły otrzymują bilety i stoisko na How to Web Conference 2026. Networking founderów, inwestorów i operatorów.",
+    "language": "EN",
+    "tags": [
+      "Meetup",
+      "Networking"
+    ],
+    "audience": "Founders, Investors, Operators",
+    "organizer": "How to Web",
+    "price": "Free",
+    "status": "approved",
+    "added": "2026-06-29"
   },
   {
     "name": "Aula Polska #204 - Aula Wakacje (19 urodziny)",
@@ -1327,6 +1406,47 @@
     "organizer": "Aula Polska",
     "price": "Paid",
     "added": "2026-05-14"
+  },
+  {
+    "name": "CreativeTech Poland Meetup_02",
+    "date": "2026-07-22",
+    "time": "18:00",
+    "city": "Warszawa",
+    "venue": "Prześwit - Kolektywna Instytucja Kultury, Freta 39",
+    "url": "https://luma.com/8ikqwqz1",
+    "description": "Meetup at the intersection of technology, design, art and business — talks, discussion and networking on AI's creative applications, generative aesthetics and digital innovation.",
+    "description_pl": "Meetup na styku technologii, designu, sztuki i biznesu — prelekcje, dyskusja i networking o kreatywnych zastosowaniach AI, estetyce generatywnej i cyfrowej innowacji.",
+    "language": "PL",
+    "tags": [
+      "Meetup",
+      "Networking"
+    ],
+    "audience": "Founders, Operators, Developers",
+    "organizer": "CreativeTech Poland",
+    "price": "Free",
+    "status": "approved",
+    "added": "2026-06-29"
+  },
+  {
+    "name": "PARP Future Camp 2026",
+    "date": "2026-08-24",
+    "time": "",
+    "city": "Ryn",
+    "venue": "Ryn (TBA)",
+    "url": "https://www.parp.gov.pl/component/site/site/parp-future-camp",
+    "description": "Two-day summit (24-25 Aug) for young innovators and entrepreneurs — workshops, mentorship and networking with startup founders, technology experts and the support ecosystem.",
+    "description_pl": "Dwudniowy zlot (24-25 sierpnia) dla młodych innowatorów i przedsiębiorców — warsztaty, mentoring i networking z founderami, ekspertami technologicznymi i przedstawicielami ekosystemu wsparcia.",
+    "language": "PL",
+    "tags": [
+      "Conference",
+      "Workshop",
+      "Networking"
+    ],
+    "audience": "Founders, Students",
+    "organizer": "PARP",
+    "price": "Free",
+    "status": "approved",
+    "added": "2026-06-29"
   },
   {
     "name": "PitchMeetUp",
