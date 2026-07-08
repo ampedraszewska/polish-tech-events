@@ -1,5 +1,23 @@
 [
   {
+    "name": "AIntern 2026",
+    "date": "",
+    "url": "https://www.qaif.org/events/aintern/aintern-2026",
+    "organizer": "Fundacja Quantum AI",
+    "status": "rejected",
+    "added": "2026-06-12",
+    "reject_reason": "Research programme, not a single dated event"
+  },
+  {
+    "name": "The AI Collective Poland",
+    "date": "",
+    "url": "https://www.aicollective.com/chapters/poland",
+    "organizer": "Wiktor Mijal",
+    "status": "rejected",
+    "added": "2026-06-12",
+    "reject_reason": "Chapter landing page, not a single dated event"
+  },
+  {
     "name": "Unicorn Ski Cup 2026",
     "date": "2026-02-28",
     "city": "Czarna Góra",
@@ -1389,6 +1407,25 @@
     "added": "2026-06-29"
   },
   {
+    "name": "OpenAI x START Warsaw Hackathon",
+    "date": "2026-07-11",
+    "time": "08:00",
+    "city": "Warszawa",
+    "venue": "SKELAR, al. Solidarności 171",
+    "url": "https://luma.com/2awu6fuu",
+    "description": "Seven-hour hackathon with 100+ builders working on real-world case-partner problems using OpenAI tools. Teams of 3-4 build from concept to pitch-ready demo, with mentors, meals and Codex credits provided.",
+    "description_pl": "Siedmiogodzinny hackathon dla ponad 100 builderów pracujących nad realnymi problemami partnerów z użyciem narzędzi OpenAI. Zespoły 3-4-osobowe budują od pomysłu do gotowego demo, na miejscu mentorzy, posiłki i kredyty Codex.",
+    "language": "EN",
+    "tags": [
+      "Hackathon"
+    ],
+    "audience": "Students, Developers, Founders",
+    "organizer": "START Warsaw",
+    "price": "Free",
+    "status": "approved",
+    "added": "2026-07-07"
+  },
+  {
     "name": "Aula Polska #204 - Aula Wakacje (19 urodziny)",
     "date": "2026-07-14",
     "time": "18:00",
@@ -1426,6 +1463,26 @@
     "price": "Free",
     "status": "approved",
     "added": "2026-06-29"
+  },
+  {
+    "name": "build:mode by visux - edition 01",
+    "date": "2026-08-05",
+    "time": "17:00",
+    "city": "Warszawa",
+    "venue": "NINE's Restaurant, Haberbuscha i Schielego 6",
+    "url": "https://luma.com/x7e00v6q",
+    "description": "Event series for web professionals. Edition 01 features Bryant Chou, co-founder and former CTO of Webflow, presenting his new project Ploy, plus discussions on design and development tools.",
+    "description_pl": "Cykl wydarzeń dla profesjonalistów webowych. W pierwszej edycji Bryant Chou, współzałożyciel i były CTO Webflow, zaprezentuje swój nowy projekt Ploy, a do tego rozmowy o narzędziach do designu i developmentu.",
+    "language": "EN",
+    "tags": [
+      "Meetup",
+      "Networking"
+    ],
+    "audience": "Developers, Founders, Operators",
+    "organizer": "build:mode by visux",
+    "price": "Free",
+    "status": "approved",
+    "added": "2026-07-07"
   },
   {
     "name": "PARP Future Camp 2026",
@@ -1503,23 +1560,5 @@
     "organizer": "Made in Wroclaw",
     "price": "Paid",
     "added": "2026-03-09"
-  },
-  {
-    "name": "AIntern 2026",
-    "date": "",
-    "url": "https://www.qaif.org/events/aintern/aintern-2026",
-    "organizer": "Fundacja Quantum AI",
-    "status": "rejected",
-    "added": "2026-06-12",
-    "reject_reason": "Research programme, not a single dated event"
-  },
-  {
-    "name": "The AI Collective Poland",
-    "date": "",
-    "url": "https://www.aicollective.com/chapters/poland",
-    "organizer": "Wiktor Mijal",
-    "status": "rejected",
-    "added": "2026-06-12",
-    "reject_reason": "Chapter landing page, not a single dated event"
   }
 ]
