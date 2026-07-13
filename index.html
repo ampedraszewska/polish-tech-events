@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>What's Up, Polish Tech Community</title>
+  <title>SP Events Radar | What's Up, Polish Tech Community</title>
 
   <!-- Favicon -->
   <link rel="icon" type="image/svg+xml" href="assets/favicon.svg">
@@ -11,7 +11,7 @@
 
   <!-- Open Graph / WhatsApp / Social -->
   <meta property="og:type" content="website">
-  <meta property="og:title" content="What's up, Polish tech community">
+  <meta property="og:title" content="SP Events Radar | What's up, Polish tech community">
   <meta property="og:description" content="Live directory of tech, start-up & science events and meetups in Poland. Powered by Startup Poland, curated by Vastpoint.">
   <meta property="og:image" content="https://ampedraszewska.github.io/polish-tech-events/assets/og-image.png">
   <meta property="og:image:width" content="1200">
@@ -20,7 +20,7 @@
 
   <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="What's up, Polish tech community">
+  <meta name="twitter:title" content="SP Events Radar | What's up, Polish tech community">
   <meta name="twitter:description" content="Live directory of tech, start-up & science events and meetups in Poland.">
   <meta name="twitter:image" content="https://ampedraszewska.github.io/polish-tech-events/assets/og-image.png">
 
@@ -612,8 +612,8 @@
   </header>
 
   <div class="hero">
-    <h1 data-i18n="title">What's up, Polish<br>tech community</h1>
-    <div class="subheader" data-i18n="subtitle">Live directory of tech / start-up / science events and meetups in Poland</div>
+    <h1 data-i18n="title">SP Events Radar</h1>
+    <div class="subheader" data-i18n="subtitle">What's up, Polish tech community: live directory of tech / start-up / science events and meetups in Poland</div>
   </div>
 
   <div class="toolbar">
@@ -708,8 +708,8 @@
 <script>
 const I18N = {
   en: {
-    title: "What's up, Polish<br>tech community",
-    subtitle: "Live directory of tech / start-up / science events and meetups in Poland",
+    title: "SP Events Radar",
+    subtitle: "What's up, Polish tech community: live directory of tech / start-up / science events and meetups in Poland",
     poweredBy: "Powered by",
     curatedBy: "Curated by",
     submitBtn: "+ Submit an Event",
@@ -738,8 +738,8 @@ const I18N = {
     foundersCallCta: 'Sign up on Luma →'
   },
   pl: {
-    title: "Co słychać w polskim<br>tech community",
-    subtitle: "Katalog wydarzeń technologicznych, startupowych i naukowych w Polsce",
+    title: "SP Events Radar",
+    subtitle: "Co słychać w polskim tech community, czyli katalog wydarzeń technologicznych, startupowych i naukowych w Polsce",
     poweredBy: "Przy wsparciu",
     curatedBy: "Prowadzony przez",
     submitBtn: "+ Zgłoś wydarzenie",
@@ -979,8 +979,8 @@ fetch('events.json')
 function applyI18n() {
   document.getElementById('htmlRoot').lang = currentLang;
   document.title = currentLang === 'pl'
-    ? "Co słychać w polskim tech community"
-    : "What's Up, Polish Tech Community";
+    ? "SP Events Radar | Co słychać w polskim tech community"
+    : "SP Events Radar | What's Up, Polish Tech Community";
   document.querySelectorAll('[data-i18n]').forEach(el => {
     const key = el.dataset.i18n;
     if (I18N[currentLang][key]) el.innerHTML = I18N[currentLang][key];
