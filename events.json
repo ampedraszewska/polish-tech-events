@@ -1579,5 +1579,21 @@
     "organizer": "Made in Wroclaw",
     "price": "Paid",
     "added": "2026-03-09"
+  },
+  {
+    "name": "Startup Community Summit",
+    "date": "",
+    "status": "pending",
+    "added": "2026-07-15",
+    "url": "https://www.startupcommunitysummit.com/",
+    "organizer": "Startup Community Poznań",
+    "description": "⚠ Date not provided in submission — please complete before approving.",
+    "price": "Paid",
+    "tags": [
+      "d7d787e6-182b-428f-9a6a-028e81cc7c5b",
+      "12897338-5897-4b98-bba9-469515186125",
+      "c1fec3ff-981a-4873-a5e4-0c97072a07c0"
+    ],
+    "audience": "c1979076-b3ca-43f3-aed0-a330ae18879c,71e6ea00-329b-4017-a920-44b4cbc66efe,2b9f90e8-98e8-483b-8d06-dda239326895,22937af6-f697-453d-b2f8-e22522ca4c02"
   }
 ]
