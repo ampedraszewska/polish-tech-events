@@ -1,23 +1,5 @@
 [
   {
-    "name": "AIntern 2026",
-    "date": "",
-    "url": "https://www.qaif.org/events/aintern/aintern-2026",
-    "organizer": "Fundacja Quantum AI",
-    "status": "rejected",
-    "added": "2026-06-12",
-    "reject_reason": "Research programme, not a single dated event"
-  },
-  {
-    "name": "The AI Collective Poland",
-    "date": "",
-    "url": "https://www.aicollective.com/chapters/poland",
-    "organizer": "Wiktor Mijal",
-    "status": "rejected",
-    "added": "2026-06-12",
-    "reject_reason": "Chapter landing page, not a single dated event"
-  },
-  {
     "name": "Unicorn Ski Cup 2026",
     "date": "2026-02-28",
     "city": "Czarna Góra",
@@ -1445,6 +1427,26 @@
     "added": "2026-05-14"
   },
   {
+    "name": "Serial networkers Business Mixer",
+    "date": "2026-07-16",
+    "time": "16:00",
+    "city": "Katowice",
+    "venue": "Ace of Space, Supersam, Piotra Skargi 6",
+    "url": "https://app.evenea.pl/event/snbm/",
+    "description": "Summer edition of the Serial networkers business mixer — a structured matchmaking format for founders, operators and investors, run as an alternative to formal conference networking.",
+    "description_pl": "Wakacyjna edycja Serial networkers Business Mixer — zorganizowany matchmaking dla founderów, operatorów i inwestorów, jako alternatywa dla sztywnego networkingu konferencyjnego.",
+    "language": "PL",
+    "tags": [
+      "Meetup",
+      "Networking"
+    ],
+    "audience": "Founders, Operators, Investors, Researchers, Corporate, General public",
+    "organizer": "Serial networkers",
+    "price": "Paid",
+    "status": "approved",
+    "added": "2026-07-16"
+  },
+  {
     "name": "CreativeTech Poland Meetup_02",
     "date": "2026-07-22",
     "time": "18:00",
@@ -1502,6 +1504,25 @@
     "price": "Free",
     "status": "approved",
     "added": "2026-07-07"
+  },
+  {
+    "name": "Pionierzy AI #2 Meetup - Medycyna",
+    "date": "2026-08-20",
+    "time": "17:30",
+    "city": "Gdańsk",
+    "venue": "Kainos, Jana z Kolna 11",
+    "url": "https://luma.com/m0t4ttw8",
+    "description": "Second Pionierzy AI meetup, themed on AI in medicine. Six practitioners share real implementation experience, followed by pizza and networking. Free admission.",
+    "description_pl": "Drugi meetup Pionierzy AI, tym razem o AI w medycynie. Sześciu praktyków opowiada o realnych wdrożeniach, a potem pizza i networking. Wstęp wolny.",
+    "language": "PL",
+    "tags": [
+      "Meetup"
+    ],
+    "audience": "Founders, Developers, Corporate, General public",
+    "organizer": "Pionierzy AI & Personit",
+    "price": "Free",
+    "status": "approved",
+    "added": "2026-07-16"
   },
   {
     "name": "PARP Future Camp 2026",
@@ -1562,6 +1583,27 @@
     "added": "2026-03-09"
   },
   {
+    "name": "Startup Community Summit",
+    "date": "2026-10-21",
+    "time": "",
+    "city": "Poznań",
+    "venue": "Concordia Design, ul. Zwierzyniecka 3",
+    "url": "https://www.startupcommunitysummit.com/",
+    "description": "One-day summit gathering 350 curated attendees — founders, investors, operators and ecosystem builders from across the Polish startup community.",
+    "description_pl": "Jednodniowy summit dla 350 wyselekcjonowanych uczestników — founderów, inwestorów, operatorów i budowniczych ekosystemu polskiej społeczności startupowej.",
+    "language": "PL",
+    "tags": [
+      "Meetup",
+      "Conference",
+      "Workshop"
+    ],
+    "audience": "Founders, Operators, Investors, Corporate",
+    "organizer": "Startup Community Poznań",
+    "price": "Paid",
+    "status": "approved",
+    "added": "2026-07-16"
+  },
+  {
     "name": "Made in Wroclaw 2026",
     "date": "2026-10-27",
     "time": "09:00",
@@ -1581,56 +1623,30 @@
     "added": "2026-03-09"
   },
   {
-    "name": "Startup Community Summit",
+    "name": "AIntern 2026",
     "date": "",
-    "status": "pending",
-    "added": "2026-07-15",
-    "url": "https://www.startupcommunitysummit.com/",
-    "organizer": "Startup Community Poznań",
-    "description": "⚠ Date not provided in submission — please complete before approving.",
-    "price": "Paid",
-    "tags": [
-      "d7d787e6-182b-428f-9a6a-028e81cc7c5b",
-      "12897338-5897-4b98-bba9-469515186125",
-      "c1fec3ff-981a-4873-a5e4-0c97072a07c0"
-    ],
-    "audience": "c1979076-b3ca-43f3-aed0-a330ae18879c,71e6ea00-329b-4017-a920-44b4cbc66efe,2b9f90e8-98e8-483b-8d06-dda239326895,22937af6-f697-453d-b2f8-e22522ca4c02"
+    "url": "https://www.qaif.org/events/aintern/aintern-2026",
+    "organizer": "Fundacja Quantum AI",
+    "status": "rejected",
+    "added": "2026-06-12",
+    "reject_reason": "Research programme, not a single dated event"
   },
   {
-    "url": "https://app.evenea.pl/event/snbm/",
+    "name": "The AI Collective Poland",
+    "date": "",
+    "url": "https://www.aicollective.com/chapters/poland",
+    "organizer": "Wiktor Mijal",
+    "status": "rejected",
+    "added": "2026-06-12",
+    "reject_reason": "Chapter landing page, not a single dated event"
+  },
+  {
     "name": "Serial networkers Business Mixer - Konferencje w Katowicach, 16.07.2026",
-    "description": "⚠ Date not exposed on event page — please complete before approving. Robimy spontaniczną, wakacyjną edycję! Będzie dynamicznie, konkretnie i w fajnym klimacie. Jeśli masz dość sztywnych konferencji, nasza formuła zorganizowanego matchmakingu na pewno Ci się spodoba. Gdzie się widzimy? Spotykamy się w",
-    "price": "Paid",
-    "status": "pending",
-    "added": "2026-07-15"
-  },
-  {
-    "name": "Serial networkers Business Mixer",
     "date": "",
-    "status": "pending",
-    "added": "2026-07-15",
     "url": "https://app.evenea.pl/event/snbm/",
     "organizer": "Serial networkers",
-    "description": "⚠ Date not provided in submission — please complete before approving.",
-    "price": "Paid",
-    "tags": [
-      "d7d787e6-182b-428f-9a6a-028e81cc7c5b",
-      "1bd77c4d-c74c-4765-a195-d12ec4bd80b1"
-    ],
-    "audience": "c1979076-b3ca-43f3-aed0-a330ae18879c,22937af6-f697-453d-b2f8-e22522ca4c02,71e6ea00-329b-4017-a920-44b4cbc66efe,b9921caa-871b-4139-8b6c-3bc0d308e962,2b9f90e8-98e8-483b-8d06-dda239326895,7b6466d5-1c97-43ea-b228-a6a83c33d125"
-  },
-  {
-    "name": "Pionierzy AI #2 Meetup - Medycyna",
-    "date": "",
-    "status": "pending",
+    "status": "rejected",
     "added": "2026-07-16",
-    "url": "https://luma.com/m0t4ttw8",
-    "organizer": "Pionierzy AI & Personit",
-    "description": "⚠ Date not provided in submission — please complete before approving.",
-    "price": "Paid",
-    "tags": [
-      "d7d787e6-182b-428f-9a6a-028e81cc7c5b"
-    ],
-    "audience": "22937af6-f697-453d-b2f8-e22522ca4c02,7b6466d5-1c97-43ea-b228-a6a83c33d125,c1979076-b3ca-43f3-aed0-a330ae18879c,7c64ed41-b665-4b1e-a2c6-c1236bf73d65"
+    "reject_reason": "Duplicate submission (name field left blank, resubmitted 75s later) — approved under 'Serial networkers Business Mixer'"
   }
 ]
