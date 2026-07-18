@@ -1709,5 +1709,22 @@
       "2dd8fed2-3914-400c-8a3e-6a80559cdf90"
     ],
     "audience": "2b9f90e8-98e8-483b-8d06-dda239326895,b9921caa-871b-4139-8b6c-3bc0d308e962,22937af6-f697-453d-b2f8-e22522ca4c02,71e6ea00-329b-4017-a920-44b4cbc66efe,c1979076-b3ca-43f3-aed0-a330ae18879c"
+  },
+  {
+    "name": "Hello Game Dev Conference 2026 (HGDC)",
+    "date": "",
+    "status": "pending",
+    "added": "2026-07-18",
+    "url": "https://www.hellogamedev.pl/",
+    "organizer": "HELLO GAMEDEV",
+    "description": "⚠ Date not provided in submission — please complete before approving.",
+    "price": "Paid",
+    "tags": [
+      "d7d787e6-182b-428f-9a6a-028e81cc7c5b",
+      "12897338-5897-4b98-bba9-469515186125",
+      "1bd77c4d-c74c-4765-a195-d12ec4bd80b1",
+      "c1fec3ff-981a-4873-a5e4-0c97072a07c0"
+    ],
+    "audience": "c1979076-b3ca-43f3-aed0-a330ae18879c,7c64ed41-b665-4b1e-a2c6-c1236bf73d65,2b9f90e8-98e8-483b-8d06-dda239326895,71e6ea00-329b-4017-a920-44b4cbc66efe,22937af6-f697-453d-b2f8-e22522ca4c02,2b64847a-5059-47b8-873e-c5494be32b8a"
   }
 ]
