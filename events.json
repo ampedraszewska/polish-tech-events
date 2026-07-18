@@ -1677,5 +1677,21 @@
       "1bd77c4d-c74c-4765-a195-d12ec4bd80b1"
     ],
     "audience": "c1979076-b3ca-43f3-aed0-a330ae18879c,7c64ed41-b665-4b1e-a2c6-c1236bf73d65,22937af6-f697-453d-b2f8-e22522ca4c02"
+  },
+  {
+    "name": "At Work",
+    "date": "",
+    "status": "pending",
+    "added": "2026-07-18",
+    "url": "https://atwork.org.pl/",
+    "organizer": "Zonifero",
+    "description": "⚠ Date not provided in submission — please complete before approving.",
+    "price": "Paid",
+    "tags": [
+      "d7d787e6-182b-428f-9a6a-028e81cc7c5b",
+      "c1fec3ff-981a-4873-a5e4-0c97072a07c0",
+      "1bd77c4d-c74c-4765-a195-d12ec4bd80b1"
+    ],
+    "audience": "2b9f90e8-98e8-483b-8d06-dda239326895,71e6ea00-329b-4017-a920-44b4cbc66efe,22937af6-f697-453d-b2f8-e22522ca4c02,c1979076-b3ca-43f3-aed0-a330ae18879c"
   }
 ]
