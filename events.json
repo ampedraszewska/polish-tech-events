@@ -1486,6 +1486,24 @@
     "added": "2026-07-14"
   },
   {
+    "name": "Spotkanie Przedsiębiorców SLOW #40",
+    "date": "2026-07-30",
+    "city": "Wrocław",
+    "venue": "",
+    "url": "https://app.evenea.pl/event/slow-40/",
+    "description": "The 40th SLOW entrepreneurs' meetup - networking and knowledge-sharing for the local business community.",
+    "description_pl": "40. spotkanie przedsiębiorców SLOW - networking i wymiana wiedzy dla lokalnej społeczności biznesowej.",
+    "language": "PL",
+    "tags": [
+      "Meetup",
+      "Networking"
+    ],
+    "audience": "Founders, Operators",
+    "organizer": "",
+    "status": "approved",
+    "added": "2026-07-20"
+  },
+  {
     "name": "build:mode by visux - edition 01",
     "date": "2026-08-05",
     "time": "17:00",
@@ -1504,6 +1522,26 @@
     "price": "Free",
     "status": "approved",
     "added": "2026-07-07"
+  },
+  {
+    "name": "Velo Ventures #5",
+    "date": "2026-08-15",
+    "time": "09:00",
+    "city": "Wrocław",
+    "venue": "",
+    "url": "https://startupwro.meetingapplication.com/event/startup-wro-smth2806",
+    "description": "A casual group bike ride for the Wrocław startup community - networking on wheels with founders, builders and ecosystem friends.",
+    "description_pl": "Luźny wspólny przejazd rowerowy dla wrocławskiej społeczności startupowej - networking w ruchu z founderami, builderami i znajomymi z ekosystemu.",
+    "language": "EN",
+    "tags": [
+      "Meetup",
+      "Networking"
+    ],
+    "audience": "Founders, Operators",
+    "organizer": "Startup Wro",
+    "price": "Free",
+    "status": "approved",
+    "added": "2026-07-20"
   },
   {
     "name": "Pionierzy AI #2 Meetup - Medycyna",
@@ -1546,6 +1584,43 @@
     "added": "2026-06-29"
   },
   {
+    "name": "At Work – Workplace Inspiration Day",
+    "date": "2026-09-02",
+    "city": "Wrocław",
+    "venue": "MidPoint71",
+    "url": "https://atwork.org.pl/",
+    "description": "A full-day gathering on the future of work and change management - keynotes, panels, workshops and networking, marking Zonifero's 5th anniversary.",
+    "description_pl": "Całodniowe spotkanie o przyszłości pracy i zarządzaniu zmianą - keynote'y, panele, warsztaty i networking, z okazji 5-lecia Zonifero.",
+    "language": "PL",
+    "tags": [
+      "Conference",
+      "Networking"
+    ],
+    "audience": "Operators, Corporate, Founders",
+    "organizer": "Zonifero",
+    "status": "approved",
+    "added": "2026-07-20"
+  },
+  {
+    "name": "XXXV Forum Ekonomiczne w Karpaczu",
+    "date": "2026-09-08",
+    "city": "Karpacz",
+    "venue": "",
+    "url": "https://www.forum-ekonomiczne.pl/",
+    "description": "Central Europe's largest socio-economic conference - 6000+ guests from 60 countries, 500+ sessions across politics, business, science and culture, including an AI Forum and Cybersecurity Forum.",
+    "description_pl": "Największa konferencja społeczno-gospodarcza Europy Środkowej - ponad 6000 gości z 60 krajów, 500+ wydarzeń z polityki, biznesu, nauki i kultury, w tym Forum AI i Forum Cyberbezpieczeństwa.",
+    "language": "EN+PL",
+    "tags": [
+      "Conference",
+      "Networking",
+      "Policy"
+    ],
+    "audience": "Founders, Investors, Corporate, General public",
+    "organizer": "Fundacja Instytut Studiów Wschodnich",
+    "status": "approved",
+    "added": "2026-07-20"
+  },
+  {
     "name": "Hello Game Dev Conference 2026 (HGDC)",
     "date": "2026-09-12",
     "city": "Wrocław",
@@ -1585,6 +1660,44 @@
     "added": "2026-07-20"
   },
   {
+    "name": "THE MOAT",
+    "date": "2026-09-23",
+    "city": "Warszawa",
+    "venue": "Cedet",
+    "url": "https://themoat.hard2beat.vc/startups",
+    "description": "A curated deep tech contest where Poland's most defensible startups pitch to leading international VC funds. Free to apply.",
+    "description_pl": "Wyselekcjonowany konkurs deep tech, w którym najbardziej defensywne polskie startupy prezentują się czołowym międzynarodowym funduszom VC. Zgłoszenie bezpłatne.",
+    "language": "EN",
+    "tags": [
+      "Conference",
+      "Networking"
+    ],
+    "audience": "Founders, Investors",
+    "organizer": "Hard2beat",
+    "price": "Free",
+    "status": "approved",
+    "added": "2026-07-20"
+  },
+  {
+    "name": "Kongres MŚP 2026 (II edycja)",
+    "date": "2026-10-08",
+    "city": "Wrocław",
+    "venue": "Q Hotel Bielany Wrocławskie",
+    "url": "https://kongresmsp.dolnyslask.pl/",
+    "description": "The 2nd Lower Silesia SME Congress - a day of debates and inspiration for entrepreneurs across business, resilience and lifestyle tracks. Free entry.",
+    "description_pl": "II Kongres MŚP Dolnego Śląska - dzień debat i inspiracji dla przedsiębiorców na ścieżkach Biznes, Odporność i Lifestyle. Wstęp bezpłatny.",
+    "language": "PL",
+    "tags": [
+      "Conference",
+      "Networking"
+    ],
+    "audience": "Founders, Operators, Corporate",
+    "organizer": "Dolnośląski Fundusz Rozwoju",
+    "price": "Free",
+    "status": "approved",
+    "added": "2026-07-20"
+  },
+  {
     "name": "PitchMeetUp",
     "date": "2026-10-14",
     "time": "09:00",
@@ -1602,6 +1715,25 @@
     "organizer": "PitchMeetUp",
     "price": "Free",
     "added": "2026-03-09"
+  },
+  {
+    "name": "Wrocław Bridge: Energy & Industry Dialogue 2026",
+    "date": "2026-10-14",
+    "time": "08:30",
+    "city": "Wrocław",
+    "venue": "",
+    "url": "https://dise.org.pl/kongres2026/",
+    "description": "An expert conference building consensus on Poland's energy security and industrial competitiveness - 2026 theme: Energy in Times of Uncertainty.",
+    "description_pl": "Ekspercka konferencja budująca konsensus wokół bezpieczeństwa energetycznego i konkurencyjności przemysłu Polski - motyw 2026: Energetyka w czasach niepewności.",
+    "language": "EN+PL",
+    "tags": [
+      "Conference",
+      "Policy"
+    ],
+    "audience": "Corporate, Operators, General public",
+    "organizer": "Dolnośląski Instytut Studiów Energetycznych",
+    "status": "approved",
+    "added": "2026-07-20"
   },
   {
     "name": "Cybertrust 2026",
@@ -1708,144 +1840,19 @@
     "reject_reason": "Duplicate submission (name field left blank, resubmitted 75s later) — approved under 'Serial networkers Business Mixer'"
   },
   {
-    "name": "Velo Ventures #5",
-    "date": "",
-    "status": "pending",
-    "added": "2026-07-18",
-    "url": "https://startupwro.meetingapplication.com/event/startup-wro-smth2806",
-    "organizer": "Startup Wroclaw",
-    "description": "⚠ Date not provided in submission — please complete before approving.",
-    "price": "Paid",
-    "tags": [
-      "1bd77c4d-c74c-4765-a195-d12ec4bd80b1"
-    ],
-    "audience": "c1979076-b3ca-43f3-aed0-a330ae18879c,7c64ed41-b665-4b1e-a2c6-c1236bf73d65,2b9f90e8-98e8-483b-8d06-dda239326895,b9921caa-871b-4139-8b6c-3bc0d308e962,71e6ea00-329b-4017-a920-44b4cbc66efe,22937af6-f697-453d-b2f8-e22522ca4c02,2b64847a-5059-47b8-873e-c5494be32b8a,7b6466d5-1c97-43ea-b228-a6a83c33d125"
-  },
-  {
-    "name": "Spotkanie Przedsiębiorców SLOW #40 - Od lokalej firmy do globalnej marki",
-    "date": "",
-    "status": "pending",
-    "added": "2026-07-18",
-    "url": "https://app.evenea.pl/event/slow-40/",
-    "organizer": "Spotkania Przedsiębiorców SLOW",
-    "description": "⚠ Date not provided in submission — please complete before approving.",
-    "price": "Paid",
-    "tags": [
-      "d7d787e6-182b-428f-9a6a-028e81cc7c5b",
-      "1bd77c4d-c74c-4765-a195-d12ec4bd80b1"
-    ],
-    "audience": "c1979076-b3ca-43f3-aed0-a330ae18879c,7c64ed41-b665-4b1e-a2c6-c1236bf73d65,22937af6-f697-453d-b2f8-e22522ca4c02"
-  },
-  {
-    "name": "At Work",
-    "date": "",
-    "status": "pending",
-    "added": "2026-07-18",
-    "url": "https://atwork.org.pl/",
-    "organizer": "Zonifero",
-    "description": "⚠ Date not provided in submission — please complete before approving.",
-    "price": "Paid",
-    "tags": [
-      "d7d787e6-182b-428f-9a6a-028e81cc7c5b",
-      "c1fec3ff-981a-4873-a5e4-0c97072a07c0",
-      "1bd77c4d-c74c-4765-a195-d12ec4bd80b1"
-    ],
-    "audience": "2b9f90e8-98e8-483b-8d06-dda239326895,71e6ea00-329b-4017-a920-44b4cbc66efe,22937af6-f697-453d-b2f8-e22522ca4c02,c1979076-b3ca-43f3-aed0-a330ae18879c"
-  },
-  {
-    "name": "XXXIV Forum Ekonomiczne Karpacz",
-    "date": "",
-    "status": "pending",
-    "added": "2026-07-18",
-    "url": "https://www.forum-ekonomiczne.pl/pl/wydarzenia/xxxiv-forum-ekonomiczne",
-    "organizer": "Fundacja Instytut Studiów Wschodnich",
-    "description": "⚠ Date not provided in submission — please complete before approving.",
-    "price": "Paid",
-    "tags": [
-      "12897338-5897-4b98-bba9-469515186125",
-      "1bd77c4d-c74c-4765-a195-d12ec4bd80b1",
-      "2dd8fed2-3914-400c-8a3e-6a80559cdf90"
-    ],
-    "audience": "2b9f90e8-98e8-483b-8d06-dda239326895,b9921caa-871b-4139-8b6c-3bc0d308e962,22937af6-f697-453d-b2f8-e22522ca4c02,71e6ea00-329b-4017-a920-44b4cbc66efe,c1979076-b3ca-43f3-aed0-a330ae18879c"
-  },
-  {
-    "name": "Placemaking Week Europe @ Wrocław",
-    "date": "",
-    "status": "pending",
-    "added": "2026-07-18",
+    "name": "Placemaking Week Europe Wrocław 2026",
     "url": "https://placemaking-europe.eu/pwe/wroclaw-2026/",
     "organizer": "Placemaking Europe",
-    "description": "⚠ Date not provided in submission — please complete before approving.",
-    "price": "Paid",
-    "tags": [
-      "12897338-5897-4b98-bba9-469515186125",
-      "2dd8fed2-3914-400c-8a3e-6a80559cdf90",
-      "c1fec3ff-981a-4873-a5e4-0c97072a07c0",
-      "1bd77c4d-c74c-4765-a195-d12ec4bd80b1"
-    ],
-    "audience": "2b9f90e8-98e8-483b-8d06-dda239326895,22937af6-f697-453d-b2f8-e22522ca4c02,b9921caa-871b-4139-8b6c-3bc0d308e962"
+    "status": "rejected",
+    "reject_reason": "Poza zakresem - festiwal urbanistyki, nie tech/startup/biznes",
+    "added": "2026-07-20"
   },
   {
     "name": "Kongres Nowej Mobilności",
-    "date": "",
-    "status": "pending",
-    "added": "2026-07-18",
     "url": "https://kongresnowejmobilnosci.pl/",
-    "organizer": "Polskie Stowarzyszenie Nowej Mobilności",
-    "description": "⚠ Date not provided in submission — please complete before approving.",
-    "price": "Paid",
-    "tags": [
-      "12897338-5897-4b98-bba9-469515186125",
-      "c1fec3ff-981a-4873-a5e4-0c97072a07c0",
-      "1bd77c4d-c74c-4765-a195-d12ec4bd80b1",
-      "2dd8fed2-3914-400c-8a3e-6a80559cdf90"
-    ],
-    "audience": "c1979076-b3ca-43f3-aed0-a330ae18879c,2b9f90e8-98e8-483b-8d06-dda239326895,b9921caa-871b-4139-8b6c-3bc0d308e962,71e6ea00-329b-4017-a920-44b4cbc66efe,22937af6-f697-453d-b2f8-e22522ca4c02,2b64847a-5059-47b8-873e-c5494be32b8a"
-  },
-  {
-    "name": "THE MOAT",
-    "date": "",
-    "status": "pending",
-    "added": "2026-07-18",
-    "url": "https://themoat.hard2beat.vc/startups",
-    "organizer": "Hard2beat",
-    "description": "⚠ Date not provided in submission — please complete before approving.",
-    "price": "Paid",
-    "tags": [
-      "d7d787e6-182b-428f-9a6a-028e81cc7c5b",
-      "12897338-5897-4b98-bba9-469515186125",
-      "1bd77c4d-c74c-4765-a195-d12ec4bd80b1"
-    ],
-    "audience": "c1979076-b3ca-43f3-aed0-a330ae18879c,71e6ea00-329b-4017-a920-44b4cbc66efe"
-  },
-  {
-    "name": "Kongres MŚP",
-    "date": "",
-    "status": "pending",
-    "added": "2026-07-18",
-    "url": "https://kongresmsp.dolnyslask.pl/",
-    "organizer": "DFR",
-    "description": "⚠ Date not provided in submission — please complete before approving.",
-    "price": "Paid",
-    "tags": [
-      "2dd8fed2-3914-400c-8a3e-6a80559cdf90",
-      "1bd77c4d-c74c-4765-a195-d12ec4bd80b1",
-      "12897338-5897-4b98-bba9-469515186125"
-    ],
-    "audience": "c1979076-b3ca-43f3-aed0-a330ae18879c,2b9f90e8-98e8-483b-8d06-dda239326895,b9921caa-871b-4139-8b6c-3bc0d308e962,71e6ea00-329b-4017-a920-44b4cbc66efe,22937af6-f697-453d-b2f8-e22522ca4c02,2b64847a-5059-47b8-873e-c5494be32b8a"
-  },
-  {
-    "name": "WROCŁAW BRIDGE – Energy & Industry Dialogue - DISE Energy",
-    "date": "",
-    "status": "pending",
-    "added": "2026-07-18",
-    "url": "https://dise.org.pl/kongres2026/",
-    "organizer": "Dolnośląski Instytut Studiów Energetycznych",
-    "description": "⚠ Date not provided in submission — please complete before approving.",
-    "price": "Paid",
-    "tags": [
-      "12897338-5897-4b98-bba9-469515186125"
-    ],
-    "audience": "2b9f90e8-98e8-483b-8d06-dda239326895,b9921caa-871b-4139-8b6c-3bc0d308e962,22937af6-f697-453d-b2f8-e22522ca4c02"
+    "organizer": "PSPA",
+    "status": "rejected",
+    "reject_reason": "Poza zakresem - kongres polityki mobilności",
+    "added": "2026-07-20"
   }
 ]
