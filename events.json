@@ -1854,5 +1854,19 @@
     "status": "rejected",
     "reject_reason": "Poza zakresem - kongres polityki mobilności",
     "added": "2026-07-20"
+  },
+  {
+    "name": "The Moat",
+    "date": "",
+    "status": "pending",
+    "added": "2026-07-21",
+    "url": "https://themoat.hard2beat.vc/",
+    "organizer": "Hard2beat",
+    "description": "⚠ Date not provided in submission — please complete before approving.",
+    "price": "Paid",
+    "tags": [
+      "12897338-5897-4b98-bba9-469515186125"
+    ],
+    "audience": "c1979076-b3ca-43f3-aed0-a330ae18879c,71e6ea00-329b-4017-a920-44b4cbc66efe"
   }
 ]
