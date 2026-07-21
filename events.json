@@ -1863,5 +1863,20 @@
     "status": "rejected",
     "added": "2026-07-21",
     "reject_reason": "Duplicate re-submission — already live as 'THE MOAT' (23.09.2026, Cedet Warszawa, approved 2026-07-20)"
+  },
+  {
+    "name": "Tech Tap Tuesday vol. 19",
+    "date": "",
+    "status": "pending",
+    "added": "2026-07-21",
+    "url": "https://startupwro.meetingapplication.com/event/tech-tap-tuesday5",
+    "organizer": "Startup Wroclaw",
+    "description": "⚠ Date not provided in submission — please complete before approving.",
+    "price": "Paid",
+    "tags": [
+      "Networking",
+      "Meetup"
+    ],
+    "audience": "Founders, Investors, Students, General public, Developers, Operators, Researchers, Corporate"
   }
 ]
