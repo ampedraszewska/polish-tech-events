@@ -1907,5 +1907,19 @@
       "Conference"
     ],
     "audience": "Founders, Researchers, Investors, Corporate, General public, Students, Developers"
+  },
+  {
+    "url": "https://luma.com/c7x5xhlx",
+    "name": "CreativeTech Poland Meetup_03",
+    "description": "CreativeTech Poland Meetups are a series of events exploring the intersection of technology, design, art, and business. They bring together designers, developers, artists, founders, and creators working with AI, creative coding, new media, and digital products. Each meetup focuses on a key theme sha",
+    "date": "2026-08-19",
+    "time": "16:00",
+    "city": "Warszawa",
+    "venue": "Prześwit - Kolektywna Instytucja Kultury",
+    "organizer": "",
+    "language": "EN",
+    "price": "Free",
+    "status": "pending",
+    "added": "2026-07-23"
   }
 ]
