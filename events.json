@@ -1893,5 +1893,19 @@
       "Networking"
     ],
     "audience": "Investors, Founders"
+  },
+  {
+    "name": "AIBA conference 2026",
+    "date": "",
+    "status": "pending",
+    "added": "2026-07-23",
+    "url": "https://aibaconference.com/",
+    "organizer": "Silesian Startup Foundation",
+    "description": "⚠ Date not provided in submission — please complete before approving.",
+    "price": "Paid",
+    "tags": [
+      "Conference"
+    ],
+    "audience": "Founders, Researchers, Investors, Corporate, General public, Students, Developers"
   }
 ]
