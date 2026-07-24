@@ -52,6 +52,15 @@
     "reject_reason": "Duplicate re-submission — already live as 'THE MOAT' (23.09.2026, Cedet Warszawa, approved 2026-07-20)"
   },
   {
+    "name": " XXXIV Forum Ekonomiczne Karpacz",
+    "url": "https://www.forum-ekonomiczne.pl/pl/wydarzenia/xxxiv-forum-ekonomiczne",
+    "date": "",
+    "city": "Karpacz",
+    "status": "rejected",
+    "added": "2026-07-24",
+    "reject_reason": "Duplikat: zgłoszono stary link XXXIV (2025); aktualne XXXV (2026-09-08, Karpacz) już opublikowane."
+  },
+  {
     "name": "Unicorn Ski Cup 2026",
     "date": "2026-02-28",
     "city": "Czarna Góra",
@@ -1574,6 +1583,15 @@
     "organizer": "",
     "status": "approved",
     "added": "2026-07-20"
+  },
+  {
+    "name": "SLOW #40 - Od lokalej firmy do globalnej marki z Patricią Popławską",
+    "url": "https://spotkania-przedsiebiorcow.pl",
+    "date": "2026-07-30",
+    "city": "Wrocław",
+    "status": "rejected",
+    "added": "2026-07-24",
+    "reject_reason": "Duplikat już opublikowanego \"Spotkanie Przedsiębiorców SLOW #40\" (2026-07-30, Wrocław)."
   },
   {
     "name": "Śniadanie CreativeTech Masterclass: Od Pomysłu do Monetyzacji",
