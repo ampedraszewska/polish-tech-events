@@ -1,5 +1,72 @@
 [
   {
+    "name": "AIntern 2026",
+    "date": "",
+    "url": "https://www.qaif.org/events/aintern/aintern-2026",
+    "organizer": "Fundacja Quantum AI",
+    "status": "rejected",
+    "added": "2026-06-12",
+    "reject_reason": "Research programme, not a single dated event"
+  },
+  {
+    "name": "The AI Collective Poland",
+    "date": "",
+    "url": "https://www.aicollective.com/chapters/poland",
+    "organizer": "Wiktor Mijal",
+    "status": "rejected",
+    "added": "2026-06-12",
+    "reject_reason": "Chapter landing page, not a single dated event"
+  },
+  {
+    "name": "Serial networkers Business Mixer - Konferencje w Katowicach, 16.07.2026",
+    "date": "",
+    "url": "https://app.evenea.pl/event/snbm/",
+    "organizer": "Serial networkers",
+    "status": "rejected",
+    "added": "2026-07-16",
+    "reject_reason": "Duplicate submission (name field left blank, resubmitted 75s later) — approved under 'Serial networkers Business Mixer'"
+  },
+  {
+    "name": "Placemaking Week Europe Wrocław 2026",
+    "url": "https://placemaking-europe.eu/pwe/wroclaw-2026/",
+    "organizer": "Placemaking Europe",
+    "status": "rejected",
+    "reject_reason": "Poza zakresem - festiwal urbanistyki, nie tech/startup/biznes",
+    "added": "2026-07-20"
+  },
+  {
+    "name": "Kongres Nowej Mobilności",
+    "url": "https://kongresnowejmobilnosci.pl/",
+    "organizer": "PSPA",
+    "status": "rejected",
+    "reject_reason": "Poza zakresem - kongres polityki mobilności",
+    "added": "2026-07-20"
+  },
+  {
+    "name": "The Moat",
+    "date": "",
+    "url": "https://themoat.hard2beat.vc/",
+    "organizer": "Hard2beat",
+    "status": "rejected",
+    "added": "2026-07-21",
+    "reject_reason": "Duplicate re-submission — already live as 'THE MOAT' (23.09.2026, Cedet Warszawa, approved 2026-07-20)"
+  },
+  {
+    "name": "SLOW #40 - Od lokalej firmy do globalnej marki z Patricią Popławską",
+    "date": "",
+    "status": "pending",
+    "added": "2026-07-23",
+    "url": "https://spotkania-przedsiebiorcow.pl",
+    "organizer": "Spotkania Przedsiębiorców Sp. z o.o.",
+    "description": "⚠ Date not provided in submission — please complete before approving.",
+    "price": "Paid",
+    "tags": [
+      "Meetup",
+      "Networking"
+    ],
+    "audience": "Investors, Founders"
+  },
+  {
     "name": "Unicorn Ski Cup 2026",
     "date": "2026-02-28",
     "city": "Czarna Góra",
@@ -1486,6 +1553,26 @@
     "added": "2026-07-14"
   },
   {
+    "name": "Tech Tap Tuesday vol. 19",
+    "date": "2026-07-28",
+    "time": "18:00",
+    "city": "Wrocław",
+    "venue": "Prosto z Mostu, ul. Pasterska 1",
+    "url": "https://startupwro.meetingapplication.com/event/tech-tap-tuesday5",
+    "description": "Casual after-work networking for the Wrocław startup community - no agenda, no slides, just founders, builders and ecosystem friends over a drink.",
+    "description_pl": "Luźny after-workowy networking wrocławskiej społeczności startupowej - bez agendy i slajdów, tylko founderzy, builderzy i znajomi z ekosystemu przy piwie.",
+    "language": "EN",
+    "tags": [
+      "Meetup",
+      "Networking"
+    ],
+    "audience": "Founders, Developers, Operators, Investors",
+    "organizer": "Startup Wrocław",
+    "price": "Free",
+    "status": "approved",
+    "added": "2026-07-24"
+  },
+  {
     "name": "Spotkanie Przedsiębiorców SLOW #40",
     "date": "2026-07-30",
     "city": "Wrocław",
@@ -1502,6 +1589,26 @@
     "organizer": "",
     "status": "approved",
     "added": "2026-07-20"
+  },
+  {
+    "name": "Śniadanie CreativeTech Masterclass: Od Pomysłu do Monetyzacji",
+    "date": "2026-07-31",
+    "time": "08:30",
+    "city": "Warszawa",
+    "venue": "Prześwit - Kolektywna Instytucja Kultury, Freta 39",
+    "url": "https://luma.com/32imv04f",
+    "description": "Summer breakfast workshop by CreativeTech Poland on validating a product idea before you build it - rapid market sanity-checks in rotating pairs, mapping why great tech ideas fail to monetize, and designing cheap validation experiments. Limited seats.",
+    "description_pl": "Wakacyjne śniadanie warsztatowe CreativeTech Poland o walidacji pomysłu, zanim go zbudujesz - szybki sanity check w rotacyjnych parach, mapowanie, dlaczego świetne technologicznie idee się nie monetyzują, i projektowanie tanich eksperymentów walidacyjnych. Liczba miejsc ograniczona.",
+    "language": "PL",
+    "tags": [
+      "Workshop",
+      "Networking"
+    ],
+    "audience": "Founders, Operators, Developers",
+    "organizer": "CreativeTech Poland",
+    "price": "Free",
+    "status": "approved",
+    "added": "2026-07-24"
   },
   {
     "name": "build:mode by visux - edition 01",
@@ -1542,6 +1649,26 @@
     "price": "Free",
     "status": "approved",
     "added": "2026-07-20"
+  },
+  {
+    "name": "CreativeTech Poland Meetup_03",
+    "date": "2026-08-19",
+    "time": "18:00",
+    "city": "Warszawa",
+    "venue": "Prześwit - Kolektywna Instytucja Kultury, Freta 39",
+    "url": "https://luma.com/c7x5xhlx",
+    "description": "Meetup at the intersection of technology, design, art and business - talks, fireside chats and community networking on AI as co-creator, new media and digital products.",
+    "description_pl": "Meetup na styku technologii, designu, sztuki i biznesu - prelekcje, rozmowy przy kominku i networking o AI jako współtwórcy, nowych mediach i produktach cyfrowych.",
+    "language": "PL",
+    "tags": [
+      "Meetup",
+      "Networking"
+    ],
+    "audience": "Founders, Operators, Developers",
+    "organizer": "CreativeTech Poland",
+    "price": "Free",
+    "status": "approved",
+    "added": "2026-07-24"
   },
   {
     "name": "Pionierzy AI #2 Meetup - Medycyna",
@@ -1679,6 +1806,46 @@
     "added": "2026-07-20"
   },
   {
+    "name": "#4 Spotkanie networkingowe Kobiet w Creative Tech",
+    "date": "2026-09-23",
+    "time": "18:00",
+    "city": "Warszawa",
+    "venue": "Prześwit - Kolektywna Instytucja Kultury, Freta 39",
+    "url": "https://luma.com/o0egel4o",
+    "description": "Women in Creative Tech networking meetup - a space for women working at the intersection of technology and creativity to exchange experience and build valuable connections.",
+    "description_pl": "Women in Creative Tech (Kobiety w Creative Tech) to spotkanie networkingowe dla kobiet działających na styku technologii i kreatywności - przestrzeń do wymiany doświadczeń i nawiązywania wartościowych kontaktów.",
+    "language": "PL",
+    "tags": [
+      "Networking",
+      "Meetup"
+    ],
+    "audience": "Founders, Operators, Developers",
+    "organizer": "CreativeTech Poland",
+    "price": "Free",
+    "status": "approved",
+    "added": "2026-07-24"
+  },
+  {
+    "name": "CreativeTech Poland Meetup_04",
+    "date": "2026-09-30",
+    "time": "18:00",
+    "city": "Warszawa",
+    "venue": "Prześwit - Kolektywna Instytucja Kultury, Freta 39",
+    "url": "https://luma.com/zr8l4wwe",
+    "description": "Meetup at the intersection of technology, design, art and business - talks, fireside chats and community networking on AI as co-creator, new media and digital products.",
+    "description_pl": "Meetup na styku technologii, designu, sztuki i biznesu - prelekcje, rozmowy przy kominku i networking o AI jako współtwórcy, nowych mediach i produktach cyfrowych.",
+    "language": "PL",
+    "tags": [
+      "Meetup",
+      "Networking"
+    ],
+    "audience": "Founders, Operators, Developers",
+    "organizer": "CreativeTech Poland",
+    "price": "Free",
+    "status": "approved",
+    "added": "2026-07-24"
+  },
+  {
     "name": "Kongres MŚP 2026 (II edycja)",
     "date": "2026-10-08",
     "city": "Wrocław",
@@ -1775,6 +1942,24 @@
     "added": "2026-07-16"
   },
   {
+    "name": "AIBA Conference 2026",
+    "date": "2026-10-21",
+    "city": "Katowice",
+    "venue": "Muzeum Śląskie (Silesian Museum)",
+    "url": "https://aibaconference.com/",
+    "description": "Two-day conference (21-22 Oct) on turning AI into business advantage - keynotes, debates and discussions bridging AI innovators and business leaders, at the Silesian Museum in Katowice.",
+    "description_pl": "Dwudniowa konferencja (21-22 października) o przekuwaniu AI w przewagę biznesową - keynote'y, debaty i dyskusje łączące twórców AI z liderami biznesu, w Muzeum Śląskim w Katowicach.",
+    "language": "EN+PL",
+    "tags": [
+      "Conference"
+    ],
+    "audience": "Founders, Developers, Researchers, Investors, Corporate, Students, General public",
+    "organizer": "Silesian Startup Foundation",
+    "price": "Paid",
+    "status": "approved",
+    "added": "2026-07-24"
+  },
+  {
     "name": "Made in Wroclaw 2026",
     "date": "2026-10-27",
     "time": "09:00",
@@ -1813,169 +1998,23 @@
     "added": "2026-07-20"
   },
   {
-    "name": "AIntern 2026",
-    "date": "",
-    "url": "https://www.qaif.org/events/aintern/aintern-2026",
-    "organizer": "Fundacja Quantum AI",
-    "status": "rejected",
-    "added": "2026-06-12",
-    "reject_reason": "Research programme, not a single dated event"
-  },
-  {
-    "name": "The AI Collective Poland",
-    "date": "",
-    "url": "https://www.aicollective.com/chapters/poland",
-    "organizer": "Wiktor Mijal",
-    "status": "rejected",
-    "added": "2026-06-12",
-    "reject_reason": "Chapter landing page, not a single dated event"
-  },
-  {
-    "name": "Serial networkers Business Mixer - Konferencje w Katowicach, 16.07.2026",
-    "date": "",
-    "url": "https://app.evenea.pl/event/snbm/",
-    "organizer": "Serial networkers",
-    "status": "rejected",
-    "added": "2026-07-16",
-    "reject_reason": "Duplicate submission (name field left blank, resubmitted 75s later) — approved under 'Serial networkers Business Mixer'"
-  },
-  {
-    "name": "Placemaking Week Europe Wrocław 2026",
-    "url": "https://placemaking-europe.eu/pwe/wroclaw-2026/",
-    "organizer": "Placemaking Europe",
-    "status": "rejected",
-    "reject_reason": "Poza zakresem - festiwal urbanistyki, nie tech/startup/biznes",
-    "added": "2026-07-20"
-  },
-  {
-    "name": "Kongres Nowej Mobilności",
-    "url": "https://kongresnowejmobilnosci.pl/",
-    "organizer": "PSPA",
-    "status": "rejected",
-    "reject_reason": "Poza zakresem - kongres polityki mobilności",
-    "added": "2026-07-20"
-  },
-  {
-    "name": "The Moat",
-    "date": "",
-    "url": "https://themoat.hard2beat.vc/",
-    "organizer": "Hard2beat",
-    "status": "rejected",
-    "added": "2026-07-21",
-    "reject_reason": "Duplicate re-submission — already live as 'THE MOAT' (23.09.2026, Cedet Warszawa, approved 2026-07-20)"
-  },
-  {
-    "name": "Tech Tap Tuesday vol. 19",
-    "date": "",
-    "status": "pending",
-    "added": "2026-07-21",
-    "url": "https://startupwro.meetingapplication.com/event/tech-tap-tuesday5",
-    "organizer": "Startup Wroclaw",
-    "description": "⚠ Date not provided in submission — please complete before approving.",
-    "price": "Paid",
+    "name": "#5 Spotkanie networkingowe Kobiet w Creative Tech",
+    "date": "2026-11-25",
+    "time": "18:00",
+    "city": "Warszawa",
+    "venue": "Prześwit - Kolektywna Instytucja Kultury, Freta 39",
+    "url": "https://luma.com/8aue6mzl",
+    "description": "Women in Creative Tech networking meetup - a space for women working at the intersection of technology and creativity to exchange experience and build valuable connections.",
+    "description_pl": "Women in Creative Tech (Kobiety w Creative Tech) to spotkanie networkingowe dla kobiet działających na styku technologii i kreatywności - przestrzeń do wymiany doświadczeń i nawiązywania wartościowych kontaktów.",
+    "language": "PL",
     "tags": [
       "Networking",
       "Meetup"
     ],
-    "audience": "Founders, Investors, Students, General public, Developers, Operators, Researchers, Corporate"
-  },
-  {
-    "name": "SLOW #40 - Od lokalej firmy do globalnej marki z Patricią Popławską",
-    "date": "",
-    "status": "pending",
-    "added": "2026-07-23",
-    "url": "https://spotkania-przedsiebiorcow.pl",
-    "organizer": "Spotkania Przedsiębiorców Sp. z o.o.",
-    "description": "⚠ Date not provided in submission — please complete before approving.",
-    "price": "Paid",
-    "tags": [
-      "Meetup",
-      "Networking"
-    ],
-    "audience": "Investors, Founders"
-  },
-  {
-    "name": "AIBA conference 2026",
-    "date": "",
-    "status": "pending",
-    "added": "2026-07-23",
-    "url": "https://aibaconference.com/",
-    "organizer": "Silesian Startup Foundation",
-    "description": "⚠ Date not provided in submission — please complete before approving.",
-    "price": "Paid",
-    "tags": [
-      "Conference"
-    ],
-    "audience": "Founders, Researchers, Investors, Corporate, General public, Students, Developers"
-  },
-  {
-    "url": "https://luma.com/c7x5xhlx",
-    "name": "CreativeTech Poland Meetup_03",
-    "description": "CreativeTech Poland Meetups are a series of events exploring the intersection of technology, design, art, and business. They bring together designers, developers, artists, founders, and creators working with AI, creative coding, new media, and digital products. Each meetup focuses on a key theme sha",
-    "date": "2026-08-19",
-    "time": "16:00",
-    "city": "Warszawa",
-    "venue": "Prześwit - Kolektywna Instytucja Kultury",
-    "organizer": "",
-    "language": "EN",
+    "audience": "Founders, Operators, Developers",
+    "organizer": "CreativeTech Poland",
     "price": "Free",
-    "status": "pending",
-    "added": "2026-07-23"
-  },
-  {
-    "url": "https://luma.com/o0egel4o",
-    "name": "#4 Spotkanie networkingowe Kobiet w Creative Tech",
-    "description": "Women in Creative Tech (Kobiety w Creative Tech) to spotkanie networkingowe dla kobiet działających na styku technologii i kreatywności. To przestrzeń do wymiany doświadczeń, nawiązywania wartościowych kontaktów i inspirowania się historiami innych kobiet z branży. Dołącz, poznaj podobnie myślące os",
-    "date": "2026-09-23",
-    "time": "16:00",
-    "city": "Warszawa",
-    "venue": "Prześwit - Kolektywna Instytucja Kultury",
-    "organizer": "",
-    "language": "EN",
-    "price": "Free",
-    "status": "pending",
-    "added": "2026-07-23"
-  },
-  {
-    "url": "https://luma.com/zr8l4wwe",
-    "name": "CreativeTech Poland Meetup_04",
-    "description": "CreativeTech Poland Meetups are a series of events exploring the intersection of technology, design, art, and business. They bring together designers, developers, artists, founders, and creators working with AI, creative coding, new media, and digital products. Each meetup focuses on a key theme sha",
-    "date": "2026-09-30",
-    "time": "16:00",
-    "city": "Warszawa",
-    "venue": "Prześwit - Kolektywna Instytucja Kultury",
-    "organizer": "",
-    "language": "EN",
-    "price": "Free",
-    "status": "pending",
-    "added": "2026-07-23"
-  },
-  {
-    "url": "https://luma.com/8aue6mzl",
-    "name": "#5 Spotkanie networkingowe Kobiet w Creative Tech",
-    "description": "Women in Creative Tech (Kobiety w Creative Tech) to spotkanie networkingowe dla kobiet działających na styku technologii i kreatywności. To przestrzeń do wymiany doświadczeń, nawiązywania wartościowych kontaktów i inspirowania się historiami innych kobiet z branży. Dołącz, poznaj podobnie myślące os",
-    "date": "2026-11-25",
-    "time": "17:00",
-    "city": "Warszawa",
-    "venue": "Prześwit - Kolektywna Instytucja Kultury",
-    "organizer": "",
-    "language": "EN",
-    "price": "Free",
-    "status": "pending",
-    "added": "2026-07-23"
-  },
-  {
-    "url": "https://luma.com/32imv04f",
-    "name": "Śniadanie CreativeTech Masterclass: Od Pomysłu do Monetyzacji",
-    "description": "Masz w głowie nowy produkt, funkcjonalność lub kierunek rozwoju projektu lub biznesu? Zanim zainwestujesz czas i budżet w realizację, sprawdź, czy rynek w ogóle zechce za to zapłacić. Bez spiny, bez nudnych slajdów – za to w luźnej, warsztatowej i letniej atmosferze. Zapraszamy na kolejne, tym razem",
-    "date": "2026-07-31",
-    "time": "06:30",
-    "city": "Warszawa",
-    "venue": "Prześwit - Kolektywna Instytucja Kultury",
-    "organizer": "",
-    "language": "EN",
-    "price": "Free",
-    "status": "pending",
-    "added": "2026-07-23"
+    "status": "approved",
+    "added": "2026-07-24"
   }
 ]
