@@ -792,11 +792,11 @@
 
     tbody.innerHTML = pending.map(({ ev, i }) => `
       <tr>
-        <td class="event-name-cell" title="${esc(ev.name)}">${esc(ev.name)}</td>
+        <td class="event-name-cell" title="${esc(ev.name)}">${esc(ev.name)}${ev.triage_note ? `<div style="font-size:12px;color:#8d6e63;font-weight:400;white-space:normal;margin-top:2px">${esc(ev.triage_note)}</div>` : ''}</td>
         <td>${ev.date || ''}</td>
         <td>${esc(ev.city || '')}</td>
         <td>${esc(ev.organizer || '')}</td>
-        <td>${esc(ev.added || '')}</td>
+        <td>${esc(ev.submitted || ev.added || '')}</td>
         <td>
           <div class="td-actions">
             <button class="btn btn-success btn-sm" onclick="approveEvent(${i})">Approve</button>
@@ -877,7 +877,8 @@
 
   // ---- ACTIONS: APPROVE / REJECT / DELETE ----
   async function approveEvent(i) {
-    const ev = { ...allEvents[i], status: 'approved' };
+    const { triage_note, ...rest } = allEvents[i];
+    const ev = { ...rest, status: 'approved' };
     await patchEvent(i, ev, 'Approved. Site updates in ~1 minute.');
   }
 
@@ -935,7 +936,11 @@
     if (editingIndex < 0) return;
     const ev = buildEventFromForm('edit');
     if (!ev) return;
-    ev.added = allEvents[editingIndex].added || today();
+    const prev = allEvents[editingIndex];
+    ev.added = prev.added || today();
+    if (prev.submitted) ev.submitted = prev.submitted;
+    if (prev.source) ev.source = prev.source;
+    if (prev.triage_note && ev.status === 'pending') ev.triage_note = prev.triage_note;
     await patchEvent(editingIndex, ev, 'Saved. Site updates in ~1 minute.');
     closeModal();
   }
