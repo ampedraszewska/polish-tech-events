@@ -61,6 +61,207 @@
     "reject_reason": "Duplikat: zgłoszono stary link XXXIV (2025); aktualne XXXV (2026-09-08, Karpacz) już opublikowane."
   },
   {
+    "name": "(untitled submission)",
+    "url": "https://luma.com/32imv04f",
+    "status": "rejected",
+    "reject_reason": "Duplicate of existing entry 'Śniadanie CreativeTech Masterclass: Od Pomysłu do Monetyzacji' (approved in events.json); Tally reconcile resurfaced it. Auto-tombstoned 2026-07-27.",
+    "added": "2026-07-27"
+  },
+  {
+    "name": "(untitled submission)",
+    "url": "https://luma.com/8aue6mzl",
+    "status": "rejected",
+    "reject_reason": "Duplicate of existing entry '#5 Spotkanie networkingowe Kobiet w Creative Tech' (approved in events.json); Tally reconcile resurfaced it. Auto-tombstoned 2026-07-27.",
+    "added": "2026-07-27"
+  },
+  {
+    "name": "(untitled submission)",
+    "url": "https://luma.com/zr8l4wwe",
+    "status": "rejected",
+    "reject_reason": "Duplicate of existing entry 'CreativeTech Poland Meetup_04' (approved in events.json); Tally reconcile resurfaced it. Auto-tombstoned 2026-07-27.",
+    "added": "2026-07-27"
+  },
+  {
+    "name": "(untitled submission)",
+    "url": "https://luma.com/o0egel4o",
+    "status": "rejected",
+    "reject_reason": "Duplicate of existing entry '#4 Spotkanie networkingowe Kobiet w Creative Tech' (approved in events.json); Tally reconcile resurfaced it. Auto-tombstoned 2026-07-27.",
+    "added": "2026-07-27"
+  },
+  {
+    "name": "(untitled submission)",
+    "url": "https://luma.com/c7x5xhlx",
+    "status": "rejected",
+    "reject_reason": "Duplicate of existing entry 'CreativeTech Poland Meetup_03' (approved in events.json); Tally reconcile resurfaced it. Auto-tombstoned 2026-07-27.",
+    "added": "2026-07-27"
+  },
+  {
+    "name": "WROCŁAW BRIDGE – Energy & Industry Dialogue - DISE Energy",
+    "url": "https://dise.org.pl/kongres2026/",
+    "status": "rejected",
+    "reject_reason": "Duplicate of existing entry 'Wrocław Bridge: Energy & Industry Dialogue 2026' (approved in events.json); Tally reconcile resurfaced it. Auto-tombstoned 2026-07-27.",
+    "added": "2026-07-27",
+    "organizer": "Dolnośląski Instytut Studiów Energetycznych"
+  },
+  {
+    "name": "Kongres MŚP",
+    "url": "https://kongresmsp.dolnyslask.pl/",
+    "status": "rejected",
+    "reject_reason": "Duplicate of existing entry 'Kongres MŚP 2026 (II edycja)' (approved in events.json); Tally reconcile resurfaced it. Auto-tombstoned 2026-07-27.",
+    "added": "2026-07-27",
+    "organizer": "DFR"
+  },
+  {
+    "name": "At Work",
+    "url": "https://atwork.org.pl/",
+    "status": "rejected",
+    "reject_reason": "Duplicate of existing entry 'At Work – Workplace Inspiration Day' (approved in events.json); Tally reconcile resurfaced it. Auto-tombstoned 2026-07-27.",
+    "added": "2026-07-27",
+    "organizer": "Zonifero"
+  },
+  {
+    "name": "Spotkanie Przedsiębiorców SLOW #40 - Od lokalej firmy do globalnej marki",
+    "url": "https://app.evenea.pl/event/slow-40/",
+    "status": "rejected",
+    "reject_reason": "Duplicate of existing entry 'Spotkanie Przedsiębiorców SLOW #40' (approved in events.json); Tally reconcile resurfaced it. Auto-tombstoned 2026-07-27.",
+    "added": "2026-07-27",
+    "organizer": "Spotkania Przedsiębiorców SLOW"
+  },
+  {
+    "name": "Quantum Machine Learning Conference",
+    "url": "https://www.qaif.org/events/conferences/quantum-machine-learning-conference-2026",
+    "status": "rejected",
+    "reject_reason": "Duplicate of existing entry 'Quantum Machine Learning Conference 2026' (approved in events.json); Tally reconcile resurfaced it. Auto-tombstoned 2026-07-27.",
+    "added": "2026-07-27",
+    "organizer": "Fundacja Quantum AI"
+  },
+  {
+    "name": "The Founder’s Story Kraków",
+    "url": "https://cloud.google.com/events/the-founders-story-krakow?e=0",
+    "status": "rejected",
+    "reject_reason": "Duplicate of existing entry 'The Founder's Story Kraków' (approved in events.json); Tally reconcile resurfaced it. Auto-tombstoned 2026-07-27.",
+    "added": "2026-07-27",
+    "organizer": "OMGKRK"
+  },
+  {
+    "name": "Demo Day",
+    "url": "https://kms.org.pl/wydarzenie/demo-day/",
+    "status": "rejected",
+    "reject_reason": "Duplicate of existing entry 'Demo Day — KRK InnoTech Starter & Hub Innowacji Małopolska' (approved in events.json); Tally reconcile resurfaced it. Auto-tombstoned 2026-07-27.",
+    "added": "2026-07-27",
+    "organizer": "Fundacja Kraków Miastem Startupów"
+  },
+  {
+    "name": "Zabłocie Morning Pitch",
+    "url": "https://kms.org.pl/wydarzenie/zablocie-morning-pitch-2/",
+    "status": "rejected",
+    "reject_reason": "Duplicate of existing entry 'Zabłocie Morning Pitch (2026-05-28)' (approved in events.json); Tally reconcile resurfaced it. Auto-tombstoned 2026-07-27.",
+    "added": "2026-07-27",
+    "organizer": "Fundacja Kraków Miastem Startupów"
+  },
+  {
+    "name": "OpenCoffeeKraków",
+    "url": "https://www.meetup.com/pl-pl/opencoffekrakow/",
+    "status": "rejected",
+    "reject_reason": "Duplicate of existing entry 'OpenCoffeeKRK #309' (approved in events.json); Tally reconcile resurfaced it. Auto-tombstoned 2026-07-27.",
+    "added": "2026-07-27",
+    "organizer": "Max Burgess, Vladyslav Muzhylivskyi"
+  },
+  {
+    "name": "Kraków Enterprise Mondays",
+    "url": "https://kms.org.pl/wydarzenie/kem41/",
+    "status": "rejected",
+    "reject_reason": "Duplicate of existing entry 'Kraków Enterprise Mondays #41' (approved in events.json); Tally reconcile resurfaced it. Auto-tombstoned 2026-07-27.",
+    "added": "2026-07-27",
+    "organizer": "Fundacja Kraków Miastem Startupów"
+  },
+  {
+    "name": "Spotkanie networkingowe Kobiet w Creative Tech",
+    "url": "https://luma.com/h0f93ujq",
+    "status": "rejected",
+    "reject_reason": "Duplicate of existing entry '#3 Spotkanie networkingowe Kobiet w Creative Tech' (approved in events.json); Tally reconcile resurfaced it. Auto-tombstoned 2026-07-27.",
+    "added": "2026-07-27",
+    "organizer": "CreativeTech Poland"
+  },
+  {
+    "name": "(untitled submission)",
+    "url": "https://luma.com/nfai-warsaw",
+    "status": "rejected",
+    "reject_reason": "Duplicate of existing entry 'Next Frontier AI — Warsaw' (live in events.json); Tally reconcile resurfaced it. Auto-tombstoned 2026-07-27.",
+    "added": "2026-07-27"
+  },
+  {
+    "name": "(untitled submission)",
+    "url": "https://luma.com/nfai-warsaw",
+    "status": "rejected",
+    "reject_reason": "Duplicate of existing entry 'Next Frontier AI — Warsaw' (live in events.json); Tally reconcile resurfaced it. Auto-tombstoned 2026-07-27.",
+    "added": "2026-07-27"
+  },
+  {
+    "name": "(untitled submission)",
+    "url": "https://luma.com/yxpdz8ib",
+    "status": "rejected",
+    "reject_reason": "Duplicate of existing entry 'Women's (in VC) Day Celebration' (live in events.json); Tally reconcile resurfaced it. Auto-tombstoned 2026-07-27.",
+    "added": "2026-07-27"
+  },
+  {
+    "name": "(untitled submission)",
+    "url": "https://luma.com/yxpdz8ib",
+    "status": "rejected",
+    "reject_reason": "Duplicate of existing entry 'Women's (in VC) Day Celebration' (live in events.json); Tally reconcile resurfaced it. Auto-tombstoned 2026-07-27.",
+    "added": "2026-07-27"
+  },
+  {
+    "name": "(untitled submission)",
+    "url": "https://luma.com/nfai-warsaw",
+    "status": "rejected",
+    "reject_reason": "Duplicate of existing entry 'Next Frontier AI — Warsaw' (live in events.json); Tally reconcile resurfaced it. Auto-tombstoned 2026-07-27.",
+    "added": "2026-07-27"
+  },
+  {
+    "name": "Unicorn Ski",
+    "date": "",
+    "status": "pending",
+    "added": "2026-07-26",
+    "source": "tally-reconcile",
+    "url": "unicornski.org",
+    "organizer": "Michal Rokosz, Aron Nowosad, Magda Przelaskowska",
+    "description": "⚠ Date not in submission — please complete before approving."
+  },
+  {
+    "name": "Vibecoding Games - Mothers' Day Edition",
+    "url": "https://luma.com/wnzfrmzp",
+    "status": "rejected",
+    "reject_reason": "Duplicate of existing entry 'Vibecoding Games – Mother's Day Edition' (approved in events.json); Tally reconcile resurfaced it. Auto-tombstoned 2026-07-27.",
+    "added": "2026-07-27",
+    "organizer": "Ayoub Morghati"
+  },
+  {
+    "name": "Vibecoding Games - Mothers' Day Edition",
+    "url": "https://luma.com/wnzfrmzp",
+    "status": "rejected",
+    "reject_reason": "Duplicate of existing entry 'Vibecoding Games – Mother's Day Edition' (approved in events.json); Tally reconcile resurfaced it. Auto-tombstoned 2026-07-27.",
+    "added": "2026-07-27",
+    "organizer": "Ayoub Morghati"
+  },
+  {
+    "name": "CASSINI Hackathon @ Wrocław",
+    "url": "https://www.cassini.eu/hackathons/poland",
+    "status": "rejected",
+    "reject_reason": "Duplicate of existing entry 'CASSINI Hackathon @ Wroclaw' (live in events.json); Tally reconcile resurfaced it. Auto-tombstoned 2026-07-27.",
+    "added": "2026-07-27",
+    "organizer": "Startup Wroclaw x ChallengeRocket"
+  },
+  {
+    "name": "(untitled submission)",
+    "date": "",
+    "status": "pending",
+    "added": "2026-07-26",
+    "source": "tally-reconcile",
+    "url": "https://luma.com/k3officewarming?tk=bkhS6D",
+    "description": "⚠ Date not in submission — please complete before approving."
+  },
+  {
     "name": "Unicorn Ski Cup 2026",
     "date": "2026-02-28",
     "city": "Czarna Góra",
@@ -1634,6 +1835,25 @@
     "added": "2026-07-07"
   },
   {
+    "name": "Czy kodowanie z AI to wielka ściema?",
+    "date": "2026-08-05",
+    "time": "18:00",
+    "city": "Online",
+    "venue": "Online (webinar)",
+    "url": "https://pragmaticmeet.com/pl/wydarzenia/czy-kodowanie-z-ai-to-wielka-sciema",
+    "description": "A Polish-language webinar debunking myths about AI-assisted coding: the real implementation challenges across project types and how AI integration actually works inside effective development teams.",
+    "description_pl": "Webinar rozprawiający się z mitami o kodowaniu z AI: realne wyzwania wdrożeniowe w różnych typach projektów i jak integracja AI faktycznie działa w skutecznych zespołach developerskich.",
+    "language": "PL",
+    "tags": [
+      "Meetup"
+    ],
+    "audience": "Developers, Founders",
+    "organizer": "Pragmatic Coders",
+    "price": "Paid",
+    "status": "approved",
+    "added": "2026-07-27"
+  },
+  {
     "name": "Velo Ventures #5",
     "date": "2026-08-15",
     "time": "09:00",
@@ -2019,268 +2239,5 @@
     "price": "Free",
     "status": "approved",
     "added": "2026-07-24"
-  },
-  {
-    "name": "(untitled submission)",
-    "date": "",
-    "status": "pending",
-    "added": "2026-07-26",
-    "source": "tally-reconcile",
-    "url": "https://luma.com/32imv04f",
-    "description": "⚠ Date not in submission — please complete before approving."
-  },
-  {
-    "name": "(untitled submission)",
-    "date": "",
-    "status": "pending",
-    "added": "2026-07-26",
-    "source": "tally-reconcile",
-    "url": "https://luma.com/8aue6mzl",
-    "description": "⚠ Date not in submission — please complete before approving."
-  },
-  {
-    "name": "(untitled submission)",
-    "date": "",
-    "status": "pending",
-    "added": "2026-07-26",
-    "source": "tally-reconcile",
-    "url": "https://luma.com/zr8l4wwe",
-    "description": "⚠ Date not in submission — please complete before approving."
-  },
-  {
-    "name": "(untitled submission)",
-    "date": "",
-    "status": "pending",
-    "added": "2026-07-26",
-    "source": "tally-reconcile",
-    "url": "https://luma.com/o0egel4o",
-    "description": "⚠ Date not in submission — please complete before approving."
-  },
-  {
-    "name": "(untitled submission)",
-    "date": "",
-    "status": "pending",
-    "added": "2026-07-26",
-    "source": "tally-reconcile",
-    "url": "https://luma.com/c7x5xhlx",
-    "description": "⚠ Date not in submission — please complete before approving."
-  },
-  {
-    "name": "WROCŁAW BRIDGE – Energy & Industry Dialogue - DISE Energy",
-    "date": "",
-    "status": "pending",
-    "added": "2026-07-26",
-    "source": "tally-reconcile",
-    "url": "https://dise.org.pl/kongres2026/",
-    "organizer": "Dolnośląski Instytut Studiów Energetycznych",
-    "description": "⚠ Date not in submission — please complete before approving."
-  },
-  {
-    "name": "Kongres MŚP",
-    "date": "",
-    "status": "pending",
-    "added": "2026-07-26",
-    "source": "tally-reconcile",
-    "url": "https://kongresmsp.dolnyslask.pl/",
-    "organizer": "DFR",
-    "description": "⚠ Date not in submission — please complete before approving."
-  },
-  {
-    "name": "At Work",
-    "date": "",
-    "status": "pending",
-    "added": "2026-07-26",
-    "source": "tally-reconcile",
-    "url": "https://atwork.org.pl/",
-    "organizer": "Zonifero",
-    "description": "⚠ Date not in submission — please complete before approving."
-  },
-  {
-    "name": "Spotkanie Przedsiębiorców SLOW #40 - Od lokalej firmy do globalnej marki",
-    "date": "",
-    "status": "pending",
-    "added": "2026-07-26",
-    "source": "tally-reconcile",
-    "url": "https://app.evenea.pl/event/slow-40/",
-    "organizer": "Spotkania Przedsiębiorców SLOW",
-    "description": "⚠ Date not in submission — please complete before approving."
-  },
-  {
-    "name": "Quantum Machine Learning Conference",
-    "date": "",
-    "status": "pending",
-    "added": "2026-07-26",
-    "source": "tally-reconcile",
-    "url": "https://www.qaif.org/events/conferences/quantum-machine-learning-conference-2026",
-    "organizer": "Fundacja Quantum AI",
-    "description": "⚠ Date not in submission — please complete before approving."
-  },
-  {
-    "name": "The Founder’s Story Kraków",
-    "date": "",
-    "status": "pending",
-    "added": "2026-07-26",
-    "source": "tally-reconcile",
-    "url": "https://cloud.google.com/events/the-founders-story-krakow?e=0",
-    "organizer": "OMGKRK",
-    "description": "⚠ Date not in submission — please complete before approving."
-  },
-  {
-    "name": "Demo Day",
-    "date": "",
-    "status": "pending",
-    "added": "2026-07-26",
-    "source": "tally-reconcile",
-    "url": "https://kms.org.pl/wydarzenie/demo-day/",
-    "organizer": "Fundacja Kraków Miastem Startupów",
-    "description": "⚠ Date not in submission — please complete before approving."
-  },
-  {
-    "name": "Zabłocie Morning Pitch",
-    "date": "",
-    "status": "pending",
-    "added": "2026-07-26",
-    "source": "tally-reconcile",
-    "url": "https://kms.org.pl/wydarzenie/zablocie-morning-pitch-2/",
-    "organizer": "Fundacja Kraków Miastem Startupów",
-    "description": "⚠ Date not in submission — please complete before approving."
-  },
-  {
-    "name": "OpenCoffeeKraków",
-    "date": "",
-    "status": "pending",
-    "added": "2026-07-26",
-    "source": "tally-reconcile",
-    "url": "https://www.meetup.com/pl-pl/opencoffekrakow/",
-    "organizer": "Max Burgess, Vladyslav Muzhylivskyi",
-    "description": "⚠ Date not in submission — please complete before approving."
-  },
-  {
-    "name": "Kraków Enterprise Mondays",
-    "date": "",
-    "status": "pending",
-    "added": "2026-07-26",
-    "source": "tally-reconcile",
-    "url": "https://kms.org.pl/wydarzenie/kem41/",
-    "organizer": "Fundacja Kraków Miastem Startupów",
-    "description": "⚠ Date not in submission — please complete before approving."
-  },
-  {
-    "name": "Spotkanie networkingowe Kobiet w Creative Tech",
-    "date": "",
-    "status": "pending",
-    "added": "2026-07-26",
-    "source": "tally-reconcile",
-    "url": "https://luma.com/h0f93ujq",
-    "organizer": "CreativeTech Poland",
-    "description": "⚠ Date not in submission — please complete before approving."
-  },
-  {
-    "name": "(untitled submission)",
-    "date": "",
-    "status": "pending",
-    "added": "2026-07-26",
-    "source": "tally-reconcile",
-    "url": "https://luma.com/nfai-warsaw",
-    "description": "⚠ Date not in submission — please complete before approving."
-  },
-  {
-    "name": "(untitled submission)",
-    "date": "",
-    "status": "pending",
-    "added": "2026-07-26",
-    "source": "tally-reconcile",
-    "url": "https://luma.com/nfai-warsaw",
-    "description": "⚠ Date not in submission — please complete before approving."
-  },
-  {
-    "name": "(untitled submission)",
-    "date": "",
-    "status": "pending",
-    "added": "2026-07-26",
-    "source": "tally-reconcile",
-    "url": "https://luma.com/yxpdz8ib",
-    "description": "⚠ Date not in submission — please complete before approving."
-  },
-  {
-    "name": "(untitled submission)",
-    "date": "",
-    "status": "pending",
-    "added": "2026-07-26",
-    "source": "tally-reconcile",
-    "url": "https://luma.com/yxpdz8ib",
-    "description": "⚠ Date not in submission — please complete before approving."
-  },
-  {
-    "name": "(untitled submission)",
-    "date": "",
-    "status": "pending",
-    "added": "2026-07-26",
-    "source": "tally-reconcile",
-    "url": "https://luma.com/nfai-warsaw",
-    "description": "⚠ Date not in submission — please complete before approving."
-  },
-  {
-    "name": "Unicorn Ski",
-    "date": "",
-    "status": "pending",
-    "added": "2026-07-26",
-    "source": "tally-reconcile",
-    "url": "unicornski.org",
-    "organizer": "Michal Rokosz, Aron Nowosad, Magda Przelaskowska",
-    "description": "⚠ Date not in submission — please complete before approving."
-  },
-  {
-    "name": "Vibecoding Games - Mothers' Day Edition",
-    "date": "",
-    "status": "pending",
-    "added": "2026-07-26",
-    "source": "tally-reconcile",
-    "url": "https://luma.com/wnzfrmzp",
-    "organizer": "Ayoub Morghati",
-    "description": "⚠ Date not in submission — please complete before approving."
-  },
-  {
-    "name": "Vibecoding Games - Mothers' Day Edition",
-    "date": "",
-    "status": "pending",
-    "added": "2026-07-26",
-    "source": "tally-reconcile",
-    "url": "https://luma.com/wnzfrmzp",
-    "organizer": "Ayoub Morghati",
-    "description": "⚠ Date not in submission — please complete before approving."
-  },
-  {
-    "name": "CASSINI Hackathon @ Wrocław",
-    "date": "",
-    "status": "pending",
-    "added": "2026-07-26",
-    "source": "tally-reconcile",
-    "url": "https://www.cassini.eu/hackathons/poland",
-    "organizer": "Startup Wroclaw x ChallengeRocket",
-    "description": "⚠ Date not in submission — please complete before approving."
-  },
-  {
-    "name": "(untitled submission)",
-    "date": "",
-    "status": "pending",
-    "added": "2026-07-26",
-    "source": "tally-reconcile",
-    "url": "https://luma.com/k3officewarming?tk=bkhS6D",
-    "description": "⚠ Date not in submission — please complete before approving."
-  },
-  {
-    "name": "Czy kodowanie z AI to wielka ściema?",
-    "date": "",
-    "status": "pending",
-    "added": "2026-07-27",
-    "url": "https://pragmaticmeet.com/pl/wydarzenia/czy-kodowanie-z-ai-to-wielka-sciema",
-    "organizer": "Pragmatic Coders",
-    "description": "⚠ Date not provided in submission — please complete before approving.",
-    "price": "Paid",
-    "tags": [
-      "Meetup"
-    ],
-    "audience": "Developers, Founders"
   }
 ]
