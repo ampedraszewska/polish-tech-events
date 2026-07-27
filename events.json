@@ -1528,6 +1528,45 @@
     "added": "2026-07-24"
   },
   {
+    "name": "Warsaw | Claude Meetup",
+    "date": "2026-07-28",
+    "time": "19:00",
+    "city": "Warszawa",
+    "url": "https://luma.com/claude-ctdl",
+    "description": "Local edition of the global Claude Community meetup series: an evening for people building with Claude to meet, compare notes and keep experimenting. Address shared after registration (host approval required).",
+    "description_pl": "Warszawska edycja globalnej serii spotkań Claude Community: wieczór dla osób budujących z Claude, na wymianę doświadczeń i wspólne eksperymentowanie. Adres podawany po rejestracji (organizator zatwierdza zgłoszenia).",
+    "language": "EN",
+    "tags": [
+      "Meetup",
+      "Networking"
+    ],
+    "audience": "Developers, Founders, Operators",
+    "organizer": "Claude Community Events / Warsaw International",
+    "price": "Free",
+    "status": "approved",
+    "added": "2026-07-27"
+  },
+  {
+    "name": "Warsaw tech expats #2",
+    "date": "2026-07-28",
+    "time": "19:00",
+    "city": "Warszawa",
+    "venue": "Pardon, To Tu, Al. Armii Ludowej 14",
+    "url": "https://luma.com/57gca7ih",
+    "description": "Second edition of an informal after-work meetup for people working in tech in Warsaw or considering moving here. Drinks, almost no agenda, no pitches.",
+    "description_pl": "Druga edycja nieformalnego spotkania po pracy dla osób pracujących w tech w Warszawie lub rozważających przeprowadzkę. Drinki, prawie zero agendy, żadnych pitchy.",
+    "language": "EN",
+    "tags": [
+      "Networking",
+      "Meetup"
+    ],
+    "audience": "Developers, Operators, Founders",
+    "organizer": "Neeraj Goswami, Luke Szyrmer",
+    "price": "Free",
+    "status": "approved",
+    "added": "2026-07-27"
+  },
+  {
     "name": "Spotkanie Przedsiębiorców SLOW #40",
     "date": "2026-07-30",
     "city": "Wrocław",
@@ -1609,6 +1648,25 @@
     ],
     "audience": "Developers, Founders",
     "organizer": "Pragmatic Coders",
+    "price": "Paid",
+    "status": "approved",
+    "added": "2026-07-27"
+  },
+  {
+    "name": "AI-First Product Teams - od planu do działania",
+    "date": "2026-08-11",
+    "time": "10:30",
+    "city": "Warszawa",
+    "venue": "Grupa Pracuj S.A., Prosta 68",
+    "url": "https://luma.com/iv5imlci",
+    "description": "Paid working session for 30 product leaders on rolling out an AI-First model in product teams, run by practitioners from Allegro, Grupa Pracuj, TPay, PayPo, eRecruiter and Tauron. 1,800 PLN net + VAT per person.",
+    "description_pl": "Płatne working session dla 30 liderów produktowych o wdrażaniu modelu AI-First w zespołach produktowych, prowadzone przez praktyków z Allegro, Grupy Pracuj, TPay, PayPo, eRecruiter i Tauronu. 1 800 zł netto + VAT od osoby.",
+    "language": "PL",
+    "tags": [
+      "Workshop"
+    ],
+    "audience": "Operators, Corporate",
+    "organizer": "Product Community (Dawid Szkielka, Grzegorz Kurzyp)",
     "price": "Paid",
     "status": "approved",
     "added": "2026-07-27"

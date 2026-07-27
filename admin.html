@@ -427,6 +427,7 @@
             <thead>
               <tr>
                 <th>Event</th>
+                <th>Submitted URL</th>
                 <th>Date</th>
                 <th>City</th>
                 <th>Organizer</th>
@@ -435,7 +436,7 @@
               </tr>
             </thead>
             <tbody id="pendingTableBody">
-              <tr><td colspan="6" class="empty">Loading…</td></tr>
+              <tr><td colspan="7" class="empty">Loading…</td></tr>
             </tbody>
           </table>
         </div>
@@ -452,6 +453,7 @@
             <thead>
               <tr>
                 <th>Event</th>
+                <th>URL</th>
                 <th>Date</th>
                 <th>City</th>
                 <th>Status</th>
@@ -460,7 +462,7 @@
               </tr>
             </thead>
             <tbody id="allTableBody">
-              <tr><td colspan="6" class="empty">Loading…</td></tr>
+              <tr><td colspan="7" class="empty">Loading…</td></tr>
             </tbody>
           </table>
         </div>
@@ -786,13 +788,14 @@
 
     const tbody = document.getElementById('pendingTableBody');
     if (!pending.length) {
-      tbody.innerHTML = '<tr><td colspan="6" class="empty">No pending submissions.</td></tr>';
+      tbody.innerHTML = '<tr><td colspan="7" class="empty">No pending submissions.</td></tr>';
       return;
     }
 
     tbody.innerHTML = pending.map(({ ev, i }) => `
       <tr>
         <td class="event-name-cell" title="${esc(ev.name)}">${esc(ev.name)}${ev.triage_note ? `<div style="font-size:12px;color:#8d6e63;font-weight:400;white-space:normal;margin-top:2px">${esc(ev.triage_note)}</div>` : ''}</td>
+        <td>${urlCell(ev.url)}</td>
         <td>${ev.date || ''}</td>
         <td>${esc(ev.city || '')}</td>
         <td>${esc(ev.organizer || '')}</td>
@@ -828,13 +831,14 @@
 
     const tbody = document.getElementById('allTableBody');
     if (!filtered.length) {
-      tbody.innerHTML = '<tr><td colspan="6" class="empty">No events found.</td></tr>';
+      tbody.innerHTML = '<tr><td colspan="7" class="empty">No events found.</td></tr>';
       return;
     }
 
     tbody.innerHTML = filtered.map(({ ev, i }) => `
       <tr>
         <td class="event-name-cell" title="${esc(ev.name)}">${esc(ev.name)}</td>
+        <td>${urlCell(ev.url)}</td>
         <td>${ev.date || ''}</td>
         <td>${esc(ev.city || '')}</td>
         <td>${statusPill(ev)}</td>
@@ -1118,6 +1122,16 @@
 
   function esc(str) {
     return String(str || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  }
+
+  // Clickable, shortened link to the URL as submitted (full URL in the tooltip).
+  function urlCell(url) {
+    const raw = String(url || '').trim();
+    if (!raw) return '<span style="color:#b0aab8">–</span>';
+    const href = /^https?:\/\//i.test(raw) ? raw : `https://${raw}`;
+    const short = raw.replace(/^https?:\/\//i, '').replace(/^www\./i, '');
+    const label = short.length > 38 ? `${short.slice(0, 36)}…` : short;
+    return `<a href="${esc(href)}" target="_blank" rel="noopener noreferrer" title="${esc(raw)}" style="color:#4527a0;font-size:0.78rem;word-break:break-all">${esc(label)}</a>`;
   }
 
   let toastTimer;
