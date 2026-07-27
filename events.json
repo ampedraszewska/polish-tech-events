@@ -2268,5 +2268,19 @@
     "source": "tally-reconcile",
     "url": "https://luma.com/k3officewarming?tk=bkhS6D",
     "description": "⚠ Date not in submission — please complete before approving."
+  },
+  {
+    "name": "Czy kodowanie z AI to wielka ściema?",
+    "date": "",
+    "status": "pending",
+    "added": "2026-07-27",
+    "url": "https://pragmaticmeet.com/pl/wydarzenia/czy-kodowanie-z-ai-to-wielka-sciema",
+    "organizer": "Pragmatic Coders",
+    "description": "⚠ Date not provided in submission — please complete before approving.",
+    "price": "Paid",
+    "tags": [
+      "Meetup"
+    ],
+    "audience": "Developers, Founders"
   }
 ]
