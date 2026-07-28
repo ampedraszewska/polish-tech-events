@@ -855,7 +855,7 @@
     "time": "10:00",
     "city": "Kraków",
     "venue": "Klaster Innowacji Społeczno-Gospodarczych, Zabłocie 20.22 (sala 203)",
-    "url": "https://kms.org.pl/wydarzenie/zablocie-morning-pitch-2/",
+    "url": "https://kms.org.pl/wydarzenie/zablocie-morning-pitch/",
     "description": "Cykliczny networking dla twórców i przedsiębiorców (każdy 2. i 4. czwartek miesiąca, 10:00–12:00). Krótka prezentacja gościa, rundy zapoznawcze, kawa. Recurring networking meetup with guest talk + intro rounds + coffee. Nie trzeba zaproszenia.",
     "language": "PL",
     "tags": [
@@ -987,7 +987,7 @@
     "time": "10:00",
     "city": "Kraków",
     "venue": "Klaster Innowacji Społeczno-Gospodarczych, Zabłocie 20.22 (sala 203)",
-    "url": "https://kms.org.pl/wydarzenie/zablocie-morning-pitch-2/",
+    "url": "https://kms.org.pl/wydarzenie/zablocie-morning-pitch/",
     "description": "Cykliczny networking dla twórców i przedsiębiorców (każdy 2. i 4. czwartek miesiąca, 10:00–12:00). Krótka prezentacja gościa, rundy zapoznawcze, kawa. Recurring networking meetup with guest talk + intro rounds + coffee. Nie trzeba zaproszenia.",
     "language": "PL",
     "tags": [
@@ -1232,7 +1232,7 @@
     "time": "10:00",
     "city": "Kraków",
     "venue": "Klaster Innowacji Społeczno-Gospodarczych, Zabłocie 20.22 (sala 203)",
-    "url": "https://kms.org.pl/wydarzenie/zablocie-morning-pitch-2/",
+    "url": "https://kms.org.pl/wydarzenie/zablocie-morning-pitch/",
     "description": "Cykliczny networking dla twórców i przedsiębiorców (każdy 2. i 4. czwartek miesiąca, 10:00–12:00). Krótka prezentacja gościa, rundy zapoznawcze, kawa. Recurring networking meetup with guest talk + intro rounds + coffee. Nie trzeba zaproszenia.",
     "language": "PL",
     "tags": [
@@ -2195,22 +2195,6 @@
     "reject_reason": "Duplicate of existing entry 'Demo Day — KRK InnoTech Starter & Hub Innowacji Małopolska' (approved in events.json); Tally reconcile resurfaced it. Auto-tombstoned 2026-07-27.",
     "added": "2026-07-27",
     "organizer": "Fundacja Kraków Miastem Startupów"
-  },
-  {
-    "name": "Zabłocie Morning Pitch",
-    "url": "https://kms.org.pl/wydarzenie/zablocie-morning-pitch-2/",
-    "status": "rejected",
-    "reject_reason": "Duplicate of existing entry 'Zabłocie Morning Pitch (2026-05-28)' (approved in events.json); Tally reconcile resurfaced it. Auto-tombstoned 2026-07-27.",
-    "added": "2026-07-27",
-    "organizer": "Fundacja Kraków Miastem Startupów"
-  },
-  {
-    "name": "OpenCoffeeKraków",
-    "url": "https://www.meetup.com/pl-pl/opencoffekrakow/",
-    "status": "rejected",
-    "reject_reason": "Duplicate of existing entry 'OpenCoffeeKRK #309' (approved in events.json); Tally reconcile resurfaced it. Auto-tombstoned 2026-07-27.",
-    "added": "2026-07-27",
-    "organizer": "Max Burgess, Vladyslav Muzhylivskyi"
   },
   {
     "name": "Kraków Enterprise Mondays",
