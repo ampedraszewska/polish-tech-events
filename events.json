@@ -75,25 +75,11 @@
   },
   {
     "name": "Kolektyw3 Office Warming Party",
-    "date": "2026-03-12",
-    "time": "18:00",
-    "city": "Warszawa",
-    "venue": "Koszykowa 54, 3. piętro",
     "url": "https://luma.com/k3officewarming?tk=bkhS6D",
-    "description": "Open house of Kolektyw3's new Warsaw HQ: venue tour, music and networking with builders and creatives from the local crypto and tech scene.",
-    "description_pl": "Otwarcie nowej siedziby Kolektyw3 w Warszawie: zwiedzanie przestrzeni, muzyka i networking z builderami i twórcami warszawskiej sceny crypto i tech.",
-    "language": "EN",
-    "tags": [
-      "Networking"
-    ],
-    "audience": "Founders, Developers, General public",
+    "date": "2026-03-12",
     "organizer": "Kolektyw3",
-    "price": "Free",
-    "status": "pending",
-    "added": "2026-07-26",
-    "submitted": "2026-03-07",
-    "source": "tally-reconcile",
-    "triage_note": "Zaległe zgłoszenie z 07.03.2026, event odbył się 12.03.2026 — najpewniej do odrzucenia (Reject), chyba że chcecie zaczekać na kolejny event K3."
+    "status": "rejected",
+    "reject_reason": "Duplikat istniejącego wpisu \"Kolektyw3 Office Warming Party\" (2026-03-12, już na stronie). Zgłoszenie Tally re-import przez parametr ?tk= w URL."
   },
   {
     "name": "SoDA Open: Wroclaw",
