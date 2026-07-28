@@ -1,23 +1,5 @@
 [
   {
-    "name": "Unicorn Ski Cup 2026",
-    "date": "2026-02-28",
-    "city": "Czarna Góra",
-    "venue": "",
-    "url": "https://unicornski.org",
-    "description": "Prestigious event combining competitive skiing with networking among top entrepreneurs, investors, and tech leaders in Poland.",
-    "description_pl": "Prestiżowe wydarzenie łączące sportową rywalizację narciarską z networkingiem wśród czołowych przedsiębiorców, inwestorów i liderów technologii w Polsce.",
-    "language": "PL",
-    "tags": [
-      "Networking"
-    ],
-    "audience": "Founders, Operators, Investors",
-    "organizer": "Michal Rokosz, Aron Nowosad, Magda Przelaskowska",
-    "price": "Paid",
-    "status": "approved",
-    "added": "2026-05-21"
-  },
-  {
     "name": "Imaguru x SheBuilds on Lovable",
     "date": "2026-03-08",
     "time": "12:00",
@@ -2061,10 +2043,9 @@
   {
     "name": "Unicorn Ski Cup 2027",
     "date": "2027-02-27",
-    "city": "Czarna Góra",
-    "venue": "Grapa Ski (do potwierdzenia dla edycji 2027)",
+    "city": "Podhale",
     "url": "https://unicornski.org",
-    "description": "Annual ski and networking weekend for the Polish startup ecosystem: founders, VCs and angels mix pro-style ski races with informal business conversations on the slopes.",
+    "description": "Annual ski and networking weekend for the Polish startup ecosystem: founders, VCs and angels mix ski races with informal business conversations on the slopes.",
     "description_pl": "Coroczny narciarski weekend networkingowy polskiego ekosystemu startupowego: founderzy, fundusze VC i aniołowie biznesu łączą zawody narciarskie z nieformalnymi rozmowami biznesowymi na stoku.",
     "language": "PL",
     "tags": [
@@ -2073,11 +2054,9 @@
     "audience": "Founders, Operators, Investors",
     "organizer": "Michal Rokosz, Aron Nowosad, Magda Przelaskowska",
     "price": "Paid",
-    "status": "pending",
-    "added": "2026-07-26",
-    "submitted": "2026-05-20",
-    "source": "tally-reconcile",
-    "triage_note": "Zgłoszone 20.05.2026 bez daty w formularzu; edycja 2026 (28.02) minęła, ale strona ogłasza edycję 2027: 27.02.2027, Podhale. Proponuję wpis na 2027 — potwierdźcie datę i miejsce przed akceptacją."
+    "status": "approved",
+    "added": "2026-07-28",
+    "submitted": "2026-05-20"
   },
   {
     "name": "AIntern 2026",
