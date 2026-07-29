@@ -2270,5 +2270,27 @@
     "reject_reason": "Duplicate of existing entry 'CASSINI Hackathon @ Wroclaw' (live in events.json); Tally reconcile resurfaced it. Auto-tombstoned 2026-07-27.",
     "added": "2026-07-27",
     "organizer": "Startup Wroclaw x ChallengeRocket"
+  },
+  {
+    "name": "Zabłocie Morning Pitch",
+    "date": "",
+    "status": "pending",
+    "added": "2026-07-29",
+    "submitted": "2026-05-27",
+    "source": "tally-reconcile",
+    "url": "https://kms.org.pl/wydarzenie/zablocie-morning-pitch-2/",
+    "organizer": "Fundacja Kraków Miastem Startupów",
+    "description": "⚠ Date not in submission — please complete before approving."
+  },
+  {
+    "name": "OpenCoffeeKraków",
+    "date": "",
+    "status": "pending",
+    "added": "2026-07-29",
+    "submitted": "2026-05-25",
+    "source": "tally-reconcile",
+    "url": "https://www.meetup.com/pl-pl/opencoffekrakow/",
+    "organizer": "Max Burgess, Vladyslav Muzhylivskyi",
+    "description": "⚠ Date not in submission — please complete before approving."
   }
 ]
