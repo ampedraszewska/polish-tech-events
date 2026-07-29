@@ -2292,5 +2292,22 @@
     "url": "https://www.meetup.com/pl-pl/opencoffekrakow/",
     "organizer": "Max Burgess, Vladyslav Muzhylivskyi",
     "description": "⚠ Date not in submission — please complete before approving."
+  },
+  {
+    "name": "Baltic Summit",
+    "date": "",
+    "status": "pending",
+    "added": "2026-07-29",
+    "submitted": "2026-07-29",
+    "url": "https://BalticSummit.pl",
+    "organizer": "Baltic Power Platform Community",
+    "description": "⚠ Date not provided in submission — please complete before approving.",
+    "price": "Paid",
+    "tags": [
+      "Conference",
+      "Workshop",
+      "Networking"
+    ],
+    "audience": "Developers, Corporate, Students, Investors"
   }
 ]
