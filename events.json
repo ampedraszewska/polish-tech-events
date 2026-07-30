@@ -2448,5 +2448,20 @@
       "Workshop"
     ],
     "audience": "Developers, Students"
+  },
+  {
+    "name": "BLOCKCHAIN HACK WARSAW",
+    "date": "",
+    "status": "pending",
+    "added": "2026-07-30",
+    "submitted": "2026-07-30",
+    "url": "https://luma.com/BlockchainHackWWA",
+    "organizer": "Superteam Poland",
+    "description": "⚠ Date not provided in submission — please complete before approving.",
+    "price": "Paid",
+    "tags": [
+      "Hackathon"
+    ],
+    "audience": "Founders, Developers"
   }
 ]
