@@ -2391,18 +2391,20 @@
   },
   {
     "name": "KURS PROGRAMOWANIA BLOCKCHAIN: KRAKÓW",
-    "date": "",
-    "status": "approved",
-    "added": "2026-07-30",
-    "submitted": "2026-07-30",
+    "date": "2026-08-29",
+    "city": "Kraków",
     "url": "https://luma.com/KursBlockchainKRK2",
     "organizer": "Superteam Poland",
     "description": "⚠ Date not provided in submission — please complete before approving.",
+    "language": "EN",
     "price": "Paid",
     "tags": [
       "Workshop"
     ],
-    "audience": "Developers, Students"
+    "audience": "Developers, Students",
+    "status": "approved",
+    "added": "2026-07-30",
+    "submitted": "2026-07-30"
   },
   {
     "name": "KURS PROGRAMOWANIA BLOCKCHAIN: WROCŁAW",
