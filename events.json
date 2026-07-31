@@ -2466,18 +2466,20 @@
   },
   {
     "name": "BLOCKCHAIN HACK KRAKOW",
-    "date": "",
-    "status": "approved",
-    "added": "2026-07-30",
-    "submitted": "2026-07-30",
+    "date": "2026-10-10",
+    "city": "Kraków",
     "url": "https://luma.com/BlockchainHackKRK",
     "organizer": "Superteam Poland",
     "description": "⚠ Date not provided in submission — please complete before approving.",
+    "language": "EN",
     "price": "Paid",
     "tags": [
       "Hackathon"
     ],
-    "audience": "Founders, Developers"
+    "audience": "Founders, Developers",
+    "status": "approved",
+    "added": "2026-07-30",
+    "submitted": "2026-07-30"
   },
   {
     "name": "PITCH & POLISH WARSAW",
