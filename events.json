@@ -2498,20 +2498,22 @@
   },
   {
     "name": "PITCH & POLISH ONLINE",
-    "date": "",
-    "status": "approved",
-    "added": "2026-07-30",
-    "submitted": "2026-07-30",
+    "date": "2026-10-01",
+    "city": "Online",
     "url": "https://luma.com/PitchPolishOnline",
     "organizer": "Superteam Poland",
     "description": "⚠ Date not provided in submission — please complete before approving.",
+    "language": "EN",
     "price": "Paid",
     "tags": [
       "Meetup",
       "Conference",
       "Networking"
     ],
-    "audience": "Founders, Developers"
+    "audience": "Founders, Developers",
+    "status": "approved",
+    "added": "2026-07-30",
+    "submitted": "2026-07-30"
   },
   {
     "name": "PITCH & POLISH KRAKOW",
