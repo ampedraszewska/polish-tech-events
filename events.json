@@ -2376,18 +2376,20 @@
   },
   {
     "name": "KURS PROGRAMOWANIA BLOCKCHAIN: WARSZAWA",
-    "date": "",
-    "status": "approved",
-    "added": "2026-07-30",
-    "submitted": "2026-07-30",
+    "date": "2026-08-22",
+    "city": "Warszawa",
     "url": "https://luma.com/KursBlockchainWWA2",
     "organizer": "Superteam Poland",
     "description": "⚠ Date not provided in submission — please complete before approving.",
+    "language": "EN",
     "price": "Paid",
     "tags": [
       "Workshop"
     ],
-    "audience": "Students, Developers"
+    "audience": "Students, Developers",
+    "status": "approved",
+    "added": "2026-07-30",
+    "submitted": "2026-07-30"
   },
   {
     "name": "KURS PROGRAMOWANIA BLOCKCHAIN: KRAKÓW",
