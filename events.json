@@ -2360,19 +2360,21 @@
   },
   {
     "name": "NextGen Founders Meetup Gdansk",
-    "date": "",
-    "status": "approved",
-    "added": "2026-07-30",
-    "submitted": "2026-07-30",
+    "date": "2026-09-10",
+    "city": "Gdańsk",
     "url": "https://luma.com/NextGenFoundersGDA",
     "organizer": "Superteam Poland",
     "description": "⚠ Date not provided in submission — please complete before approving.",
+    "language": "EN",
     "price": "Paid",
     "tags": [
       "Meetup",
       "Networking"
     ],
-    "audience": "Founders, Developers"
+    "audience": "Founders, Developers",
+    "status": "approved",
+    "added": "2026-07-30",
+    "submitted": "2026-07-30"
   },
   {
     "name": "KURS PROGRAMOWANIA BLOCKCHAIN: WARSZAWA",
