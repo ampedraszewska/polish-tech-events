@@ -2451,18 +2451,20 @@
   },
   {
     "name": "BLOCKCHAIN HACK WARSAW",
-    "date": "",
-    "status": "approved",
-    "added": "2026-07-30",
-    "submitted": "2026-07-30",
+    "date": "2026-09-26",
+    "city": "Warszawa",
     "url": "https://luma.com/BlockchainHackWWA",
     "organizer": "Superteam Poland",
     "description": "⚠ Date not provided in submission — please complete before approving.",
+    "language": "EN",
     "price": "Paid",
     "tags": [
       "Hackathon"
     ],
-    "audience": "Founders, Developers"
+    "audience": "Founders, Developers",
+    "status": "approved",
+    "added": "2026-07-30",
+    "submitted": "2026-07-30"
   },
   {
     "name": "BLOCKCHAIN HACK KRAKOW",
