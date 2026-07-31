@@ -2328,19 +2328,21 @@
   },
   {
     "name": "NextGen Founders Meetup Krakow",
-    "date": "",
-    "status": "approved",
-    "added": "2026-07-30",
-    "submitted": "2026-07-30",
+    "date": "2026-08-27",
+    "city": "Kraków",
     "url": "https://luma.com/NextGenFoundersKRK",
     "organizer": "Superteam Poland",
     "description": "⚠ Date not provided in submission — please complete before approving.",
+    "language": "EN",
     "price": "Paid",
     "tags": [
       "Meetup",
       "Networking"
     ],
-    "audience": "Founders, Developers"
+    "audience": "Founders, Developers",
+    "status": "approved",
+    "added": "2026-07-30",
+    "submitted": "2026-07-30"
   },
   {
     "name": "NextGen Founders Meetup Wrocław",
