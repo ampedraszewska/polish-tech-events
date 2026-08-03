@@ -2600,18 +2600,20 @@
   },
   {
     "name": "Infoshare",
-    "date": "",
-    "status": "approved",
-    "added": "2026-08-03",
-    "submitted": "2026-08-03",
+    "date": "2027-05-20",
+    "city": "Gdańsk",
     "url": "www.infoshare.pl",
     "organizer": "Infoshare",
     "description": "⚠ Date not provided in submission — please complete before approving.",
+    "language": "EN",
     "price": "Paid",
     "tags": [
       "Conference"
     ],
-    "audience": "Founders, Developers, Investors, Corporate"
+    "audience": "Founders, Developers, Investors, Corporate",
+    "status": "approved",
+    "added": "2026-08-03",
+    "submitted": "2026-08-03"
   },
   {
     "name": "Infoshare Katowice",
