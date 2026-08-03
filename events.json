@@ -2612,5 +2612,21 @@
       "Conference"
     ],
     "audience": "Founders, Developers, Investors, Corporate"
+  },
+  {
+    "name": "Infoshare Katowice",
+    "date": "",
+    "status": "pending",
+    "added": "2026-08-03",
+    "submitted": "2026-08-03",
+    "url": "www.katowice.infoshare.pl",
+    "organizer": "Infoshare",
+    "description": "⚠ Date not provided in submission — please complete before approving.",
+    "price": "Paid",
+    "tags": [
+      "Conference",
+      "Networking"
+    ],
+    "audience": "Founders, Developers, Investors, Corporate"
   }
 ]
