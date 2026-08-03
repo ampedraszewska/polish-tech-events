@@ -2597,5 +2597,20 @@
     "time": "18:00",
     "venue": "Kraków, Województwo małopolskie",
     "description_pl": "Pitch & Polish Your Startup! Kraków, czas przejąć mikrofon. Masz pomysł na startup na Solanie? To Twoja idealna okazja, żeby zapitchować go na żywo, zebrać szczery feedback od ekspertów z ekosystemu i zdobyć bezcenny know-how, który da Ci gigantyczną przewagę na nadchodzącym Warsaw Demo Day i globalnym hackathonie Colosseum. Nie potrzebujesz gotowego produktu ani pełnego zespołu. Po prostu wpadnij z pomysłem, o którym warto pogadać i chęcią do działania. Niezależnie od tego, czy przychodzisz z gotową wizją, czy tylko z energią do tworzenia, to twoja szansa, aby: 💡 Zapitchować swój pomysł na ży"
+  },
+  {
+    "name": "Infoshare",
+    "date": "",
+    "status": "pending",
+    "added": "2026-08-03",
+    "submitted": "2026-08-03",
+    "url": "www.infoshare.pl",
+    "organizer": "Infoshare",
+    "description": "⚠ Date not provided in submission — please complete before approving.",
+    "price": "Paid",
+    "tags": [
+      "Conference"
+    ],
+    "audience": "Founders, Developers, Investors, Corporate"
   }
 ]
