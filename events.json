@@ -2602,9 +2602,9 @@
     "name": "Infoshare",
     "date": "2027-05-20",
     "city": "Gdańsk",
-    "url": "www.infoshare.pl",
+    "url": "https://www.infoshare.pl",
     "organizer": "Infoshare",
-    "description": "⚠ Date not provided in submission — please complete before approving.",
+    "description": "We believe that technology is changing the world and each aspect of our lives. We promote it in hope to inspire people to embrace it and come up with their own innovations Join us in Gdansk. May 20-21, Gdansk.",
     "language": "EN",
     "price": "Paid",
     "tags": [
@@ -2619,9 +2619,9 @@
     "name": "Infoshare Katowice",
     "date": "2026-11-17",
     "city": "Katowice",
-    "url": "www.katowice.infoshare.pl",
+    "url": "https://www.katowice.infoshare.pl",
     "organizer": "Infoshare",
-    "description": "⚠ Date not provided in submission — please complete before approving.",
+    "description": "Infoshare Katowice to konferencja technologiczna łącząca biznes i technologie. Dołącz do nas 24-25 listopada w MCK Katowice.",
     "language": "EN",
     "price": "Paid",
     "tags": [
@@ -2631,6 +2631,7 @@
     "audience": "Founders, Developers, Investors, Corporate",
     "status": "approved",
     "added": "2026-08-03",
-    "submitted": "2026-08-03"
+    "submitted": "2026-08-03",
+    "description_pl": "Infoshare Katowice to konferencja technologiczna łącząca biznes i technologie. Dołącz do nas 24-25 listopada w MCK Katowice."
   }
 ]
