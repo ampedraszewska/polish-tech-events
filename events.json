@@ -2650,5 +2650,23 @@
     "description": "⚠ Date not provided in submission — please complete before approving. Programy wsparcia Krakowskiego Parku Technologicznego dla firm i startupów, wspierające rozwój innowacji i przedsiębiorczości.",
     "language": "PL",
     "description_pl": "Programy wsparcia Krakowskiego Parku Technologicznego dla firm i startupów, wspierające rozwój innowacji i przedsiębiorczości."
+  },
+  {
+    "name": "Ways Startup Awards",
+    "date": "",
+    "status": "pending",
+    "added": "2026-08-06",
+    "submitted": "2026-08-06",
+    "url": "https://www.waysconf.com/ways-startup-awards",
+    "organizer": "WaysConf",
+    "price": "Paid",
+    "tags": [
+      "Conference",
+      "Meetup",
+      "Networking"
+    ],
+    "audience": "Founders",
+    "description": "⚠ Date not provided in submission — please complete before approving. Ways Startup Awards is a competition for early-stage startups. Apply with a simple form, get selected for the final…",
+    "language": "EN"
   }
 ]
