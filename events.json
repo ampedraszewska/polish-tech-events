@@ -2790,5 +2790,16 @@
     "price": "Paid",
     "added": "2026-08-06",
     "status": "approved"
+  },
+  {
+    "name": "Carpathian Drone Summit 2026",
+    "date": "2026-09-30",
+    "city": "Rzeszów",
+    "url": "https://carpathiandrone.pl/",
+    "organizer": "RARR",
+    "language": "PL",
+    "price": "Free",
+    "added": "2026-08-06",
+    "status": "approved"
   }
 ]
