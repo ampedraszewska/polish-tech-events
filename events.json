@@ -2777,5 +2777,18 @@
     "price": "Free",
     "status": "approved",
     "added": "2026-08-06"
+  },
+  {
+    "name": "Open Mercato Hackathon - Agentic Software Engineering",
+    "date": "2026-09-18",
+    "city": "Wrocław",
+    "url": "https://hackon.openmercato.com/",
+    "venue": "Concordia Design Wrocław",
+    "organizer": "Open Mercato",
+    "description_pl": "2,5 dnia budowania przyszłości developmentu",
+    "language": "EN+PL",
+    "price": "Paid",
+    "added": "2026-08-06",
+    "status": "approved"
   }
 ]
