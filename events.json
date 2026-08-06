@@ -2753,5 +2753,18 @@
     "price": "Free",
     "added": "2026-08-06",
     "status": "approved"
+  },
+  {
+    "name": "Demo Day Poland Prize @ Concordia Design Wrocław",
+    "date": "2026-09-03",
+    "city": "Wrocław",
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLSf5PprpEY5V3qXtlW2aPVtI8wBsSjBPf1gUPfl2CV9feHLA7g/viewform",
+    "organizer": "Concordia Design Wrocław",
+    "description": "Join us as we reflect on years at Concordia Design Wrocław defined by driving innovation, scaling tech companies, and building business bridges. The final Demo Day will offer a unique opportunity to meet promising startups from the Poland Prize cohort, highlighting the distinctive focus of this track.",
+    "description_pl": "Mijające lata w Concordia Design Wrocław upłynęły pod znakiem rozwoju innowacji, skalowania spółek technologicznych i budowania mostów biznesowych. Ostatni już Demo Day będzie okazją do poznania obiecujących startupów z rundy Poland Prize, mającej bardzo konkretną specyfikę.",
+    "language": "EN",
+    "price": "Free",
+    "added": "2026-08-06",
+    "status": "approved"
   }
 ]
