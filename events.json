@@ -2692,12 +2692,12 @@
   },
   {
     "name": "HR Tech Talks #5: Mission: PEOPLE - Jak budować organizacje gotowe na ciągłą zmianę?",
-    "date": "",
-    "status": "approved",
-    "added": "2026-08-06",
-    "submitted": "2026-08-06",
+    "date": "2026-09-16",
+    "city": "Katowice",
     "url": "https://app.evenea.pl/event/hrtechtalks-5-2026/",
     "organizer": "Silesian Startup Foundation, What The Nut?!",
+    "description": "⚠ Date not provided in submission — please complete before approving. HR Tech Talks #5 Mission: People Jak budować organizacje gotowe na ciągłą zmianę? Zmiana przestała być projektem. Stała się codziennością. Nowe technologie, sztuczna inteligencja, zmieniające się oczekiwania pracowników, niepewność gospodarcza i",
+    "language": "EN",
     "price": "Paid",
     "tags": [
       "Conference",
@@ -2706,7 +2706,9 @@
       "Meetup"
     ],
     "audience": "Founders, Developers, Corporate, Researchers",
-    "description": "⚠ Date not provided in submission — please complete before approving. HR Tech Talks #5 Mission: People Jak budować organizacje gotowe na ciągłą zmianę? Zmiana przestała być projektem. Stała się codziennością. Nowe technologie, sztuczna inteligencja, zmieniające się oczekiwania pracowników, niepewność gospodarcza i"
+    "status": "approved",
+    "added": "2026-08-06",
+    "submitted": "2026-08-06"
   },
   {
     "name": "SNIP 19: Czy ja też muszę wdrożyć AI w swojej firmie?",
