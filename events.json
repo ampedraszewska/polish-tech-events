@@ -2636,20 +2636,21 @@
   },
   {
     "name": "SpaceBoost powered by Małopolska",
-    "date": "",
-    "status": "approved",
-    "added": "2026-08-06",
-    "submitted": "2026-08-06",
+    "date": "2026-09-18",
+    "city": "Kraków",
     "url": "https://www.kpt.krakow.pl/program-wsparcia/spaceboost/",
     "organizer": "Krakowski Park Technologiczny",
-    "price": "Paid",
+    "description": "⚠ Date not provided in submission — please complete before approving. Programy wsparcia Krakowskiego Parku Technologicznego dla firm i startupów, wspierające rozwój innowacji i przedsiębiorczości.",
+    "description_pl": "Programy wsparcia Krakowskiego Parku Technologicznego dla firm i startupów, wspierające rozwój innowacji i przedsiębiorczości.",
+    "language": "PL",
+    "price": "Free",
     "tags": [
       "Workshop"
     ],
     "audience": "Students, Researchers, Founders",
-    "description": "⚠ Date not provided in submission — please complete before approving. Programy wsparcia Krakowskiego Parku Technologicznego dla firm i startupów, wspierające rozwój innowacji i przedsiębiorczości.",
-    "language": "PL",
-    "description_pl": "Programy wsparcia Krakowskiego Parku Technologicznego dla firm i startupów, wspierające rozwój innowacji i przedsiębiorczości."
+    "status": "approved",
+    "added": "2026-08-06",
+    "submitted": "2026-08-06"
   },
   {
     "name": "Ways Startup Awards",
