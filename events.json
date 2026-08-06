@@ -2673,12 +2673,12 @@
   },
   {
     "name": "HRTT Bifor - Power Yoga dla HR-ów",
-    "date": "",
-    "status": "approved",
-    "added": "2026-08-06",
-    "submitted": "2026-08-06",
+    "date": "2026-08-26",
+    "city": "Chorzów",
     "url": "https://app.evenea.pl/event/hrtechtalks-bifor-yoga/",
     "organizer": "Silesian Startup Foundation, What The Nut?!",
+    "description": "⚠ Date not provided in submission — please complete before approving. HR Tech Talks Bifor: Power Yoga na dachu Planetarium Zarządzasz ludźmi, projektujesz kulturę organizacji albo po prostu jesteś w środku organizacyjnych zmian - i czujesz, że wakacje minęły, zanim zdążyłaś/eś odpocząć? 26 sierpnia zapraszamy na",
+    "language": "EN",
     "price": "Paid",
     "tags": [
       "Meetup",
@@ -2686,7 +2686,9 @@
       "Networking"
     ],
     "audience": "General public, Founders, Developers, Operators, Researchers, Investors, Corporate, Students",
-    "description": "⚠ Date not provided in submission — please complete before approving. HR Tech Talks Bifor: Power Yoga na dachu Planetarium Zarządzasz ludźmi, projektujesz kulturę organizacji albo po prostu jesteś w środku organizacyjnych zmian - i czujesz, że wakacje minęły, zanim zdążyłaś/eś odpocząć? 26 sierpnia zapraszamy na"
+    "status": "approved",
+    "added": "2026-08-06",
+    "submitted": "2026-08-06"
   },
   {
     "name": "HR Tech Talks #5: Mission: PEOPLE - Jak budować organizacje gotowe na ciągłą zmianę?",
