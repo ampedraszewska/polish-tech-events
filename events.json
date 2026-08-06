@@ -2731,12 +2731,12 @@
   },
   {
     "name": "AIBA 2026",
-    "date": "",
-    "status": "approved",
-    "added": "2026-08-06",
-    "submitted": "2026-08-06",
+    "date": "2026-10-21",
+    "city": "Katowice",
     "url": "https://aibaconference.com/",
     "organizer": "Silesian Startup Foundation",
+    "description": "⚠ Date not provided in submission — please complete before approving. The AIBA conference serves as a bridge between AI innovators and business leaders, aligning organizations around AI-driven growth. Let&#039;s Get AI Right | AiBA Conference 2025. Katowice, Poland",
+    "language": "EN",
     "price": "Paid",
     "tags": [
       "Conference",
@@ -2744,8 +2744,9 @@
       "Workshop"
     ],
     "audience": "General public, Corporate, Investors, Operators, Developers, Founders, Researchers, Students",
-    "description": "⚠ Date not provided in submission — please complete before approving. The AIBA conference serves as a bridge between AI innovators and business leaders, aligning organizations around AI-driven growth. Let&#039;s Get AI Right | AiBA Conference 2025. Katowice, Poland",
-    "language": "EN"
+    "status": "approved",
+    "added": "2026-08-06",
+    "submitted": "2026-08-06"
   },
   {
     "name": "Wrocławski Meetup Robotyczny Machinekind #1",
