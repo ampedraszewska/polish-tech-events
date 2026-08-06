@@ -2772,9 +2772,10 @@
     "date": "2026-09-12",
     "city": "Wrocław",
     "url": "https://startupwro.meetingapplication.com/event/startup-wro-smth2806",
+    "organizer": "Startup Wroclaw",
     "language": "EN+PL",
     "price": "Free",
-    "added": "2026-08-06",
-    "status": "approved"
+    "status": "approved",
+    "added": "2026-08-06"
   }
 ]
