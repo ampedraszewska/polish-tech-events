@@ -2738,5 +2738,20 @@
     "audience": "General public, Corporate, Investors, Operators, Developers, Founders, Researchers, Students",
     "description": "⚠ Date not provided in submission — please complete before approving. The AIBA conference serves as a bridge between AI innovators and business leaders, aligning organizations around AI-driven growth. Let&#039;s Get AI Right | AiBA Conference 2025. Katowice, Poland",
     "language": "EN"
+  },
+  {
+    "name": "Wrocławski Meetup Robotyczny Machinekind #1",
+    "date": "2026-08-13",
+    "city": "Wrocław",
+    "url": "https://luma.com/hwzcouo1",
+    "time": "18:00",
+    "venue": "inQUBE Uniwersytecki Inkubator Przedsiębiorczości",
+    "organizer": "Grzegorz, Przemek",
+    "description": "Join us for the very first event of our project and community as we bridge robotics and AI to build a humanoid robot!",
+    "description_pl": "Zapraszamy na pierwsze wydarzenie projektu i zarazem społeczności. Łączymy robotykę i AI budując humanoida!",
+    "language": "EN",
+    "price": "Free",
+    "added": "2026-08-06",
+    "status": "approved"
   }
 ]
