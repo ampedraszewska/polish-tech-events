@@ -2654,21 +2654,22 @@
   },
   {
     "name": "Ways Startup Awards",
-    "date": "",
-    "status": "approved",
-    "added": "2026-08-06",
-    "submitted": "2026-08-06",
+    "date": "2026-09-16",
+    "city": "Kraków",
     "url": "https://www.waysconf.com/ways-startup-awards",
     "organizer": "WaysConf",
-    "price": "Paid",
+    "description": "⚠ Date not provided in submission — please complete before approving. Ways Startup Awards is a competition for early-stage startups. Apply with a simple form, get selected for the final…",
+    "language": "EN",
+    "price": "Free",
     "tags": [
       "Conference",
       "Meetup",
       "Networking"
     ],
     "audience": "Founders",
-    "description": "⚠ Date not provided in submission — please complete before approving. Ways Startup Awards is a competition for early-stage startups. Apply with a simple form, get selected for the final…",
-    "language": "EN"
+    "status": "approved",
+    "added": "2026-08-06",
+    "submitted": "2026-08-06"
   },
   {
     "name": "HRTT Bifor - Power Yoga dla HR-ów",
