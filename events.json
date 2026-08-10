@@ -2087,7 +2087,9 @@
     "language": "EN",
     "price": "Free",
     "status": "approved",
-    "added": "2026-07-20"
+    "added": "2026-07-20",
+    "description": "Największa konferencja i EXPO nowej mobilności w regionie CEE. Poznaj trendy w e-mobility, pojazdy zeroemisyjne oraz smart cities. Dołącz do liderów branży!",
+    "description_pl": "Największa konferencja i EXPO nowej mobilności w regionie CEE. Poznaj trendy w e-mobility, pojazdy zeroemisyjne oraz smart cities. Dołącz do liderów branży!"
   },
   {
     "name": "The Moat",
@@ -2295,7 +2297,8 @@
     "organizer": "Max Burgess, Vladyslav Muzhylivskyi",
     "time": "08:30",
     "venue": "Yolk Workspace & Community, Józefa Sarego 5, Kraków",
-    "city": "Kraków"
+    "city": "Kraków",
+    "description": "☕ Open Coffee Krakow Open Coffee is a friendly, informal networking event for entrepreneurs, professionals, expats, students, and anyone interested in Krakow’s business and startup community. 💡 The Idea Behind Open Coffee We want to help people make useful, real-world connections. Everyone is welcome - and we especially love first-timers! Each participant has 1-2 minutes to introduce themselves. To keep it simple, we use this structure: * Who you are * What you’re working on * What you need * How you can help others Prefer to just listen? That’s completely fine - feel free to observe, meet new"
   },
   {
     "name": "Baltic Summit",
@@ -2805,7 +2808,8 @@
     "language": "EN+PL",
     "price": "Paid",
     "added": "2026-08-06",
-    "status": "approved"
+    "status": "approved",
+    "description": "2,5 dnia budowania przyszłości developmentu"
   },
   {
     "name": "Carpathian Drone Summit 2026",
