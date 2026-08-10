@@ -525,6 +525,13 @@
             </div>
             <div class="form-row">
               <div class="field-group">
+                <label>End date <span style="font-weight:400; color:#9b8fb5;">— only for events running more than one day</span></label>
+                <input type="date" id="add-end-date">
+              </div>
+              <div class="field-group"></div>
+            </div>
+            <div class="form-row">
+              <div class="field-group">
                 <label>City *</label>
                 <input type="text" id="add-city" placeholder="e.g. Warszawa">
               </div>
@@ -555,8 +562,10 @@
               <div class="field-group">
                 <label>Price</label>
                 <select id="add-price">
+                  <option value="">— not set —</option>
                   <option value="Free">Free</option>
                   <option value="Paid">Paid</option>
+                  <option value="Partly paid">Partly paid</option>
                 </select>
               </div>
             </div>
@@ -607,6 +616,13 @@
       </div>
       <div class="form-row">
         <div class="field-group">
+          <label>End date <span style="font-weight:400; color:#9b8fb5;">— only for events running more than one day</span></label>
+          <input type="date" id="edit-end-date">
+        </div>
+        <div class="field-group"></div>
+      </div>
+      <div class="form-row">
+        <div class="field-group">
           <label>City *</label>
           <input type="text" id="edit-city">
         </div>
@@ -641,8 +657,10 @@
         <div class="field-group">
           <label>Price</label>
           <select id="edit-price">
+            <option value="">— not set —</option>
             <option value="Free">Free</option>
             <option value="Paid">Paid</option>
+            <option value="Partly paid">Partly paid</option>
           </select>
         </div>
       </div>
@@ -801,7 +819,7 @@
       <tr>
         <td class="event-name-cell" title="${esc(ev.name)}">${esc(ev.name)}${ev.triage_note ? `<div style="font-size:12px;color:#8d6e63;font-weight:400;white-space:normal;margin-top:2px">${esc(ev.triage_note)}</div>` : ''}</td>
         <td>${urlCell(ev.url)}</td>
-        <td>${ev.date || ''}</td>
+        <td>${dateCell(ev)}</td>
         <td>${esc(ev.city || '')}</td>
         <td>${esc(ev.organizer || '')}</td>
         <td>${esc(ev.submitted || ev.added || '')}</td>
@@ -814,6 +832,15 @@
         </td>
       </tr>
     `).join('');
+  }
+
+  // A multi-day run has to be visible without opening the row, or the end date
+  // is a field nobody remembers exists.
+  function dateCell(ev) {
+    if (!ev.date) return '';
+    if (!ev.end_date || ev.end_date <= ev.date) return ev.date;
+    const sameMonth = ev.end_date.slice(0, 7) === ev.date.slice(0, 7);
+    return `${ev.date} → ${sameMonth ? ev.end_date.slice(8) : ev.end_date}`;
   }
 
   // ---- ALL EVENTS TABLE ----
@@ -844,7 +871,7 @@
       <tr>
         <td class="event-name-cell" title="${esc(ev.name)}">${esc(ev.name)}</td>
         <td>${urlCell(ev.url)}</td>
-        <td>${ev.date || ''}</td>
+        <td>${dateCell(ev)}</td>
         <td>${esc(ev.city || '')}</td>
         <td>${statusPill(ev)}</td>
         <td>${badgePill(ev)}</td>
@@ -920,6 +947,7 @@
     document.getElementById('edit-name').value = ev.name || '';
     document.getElementById('edit-organizer').value = ev.organizer || '';
     document.getElementById('edit-date').value = ev.date || '';
+    document.getElementById('edit-end-date').value = ev.end_date || '';
     document.getElementById('edit-time').value = ev.time || '';
     document.getElementById('edit-city').value = ev.city || '';
     document.getElementById('edit-venue').value = ev.venue || '';
@@ -929,7 +957,7 @@
     wireCharCounts();
     refreshCharCounts('edit');
     document.getElementById('edit-language').value = ev.language || 'EN';
-    document.getElementById('edit-price').value = ev.price || 'Free';
+    document.getElementById('edit-price').value = ev.price || '';
     document.getElementById('edit-tags').value = (ev.tags || []).join(', ');
     document.getElementById('edit-audience').value = ev.audience || '';
     document.getElementById('edit-badge').value = ev.badge || '';
@@ -987,11 +1015,14 @@
       document.getElementById('add-name').value         = ev.name         || '';
       document.getElementById('add-organizer').value    = ev.organizer     || '';
       document.getElementById('add-date').value         = ev.date          || '';
+      document.getElementById('add-end-date').value     = ev.end_date      || '';
       document.getElementById('add-time').value         = ev.time          || '';
       document.getElementById('add-city').value         = ev.city          || '';
       document.getElementById('add-venue').value        = ev.venue         || '';
       document.getElementById('add-description').value  = ev.description   || '';
       document.getElementById('add-description-pl').value = ev.description_pl || '';
+      document.getElementById('add-tags').value         = (ev.tags || []).join(', ');
+      document.getElementById('add-audience').value     = ev.audience      || '';
       wireCharCounts();
       refreshCharCounts('add');
       if (ev.language) document.getElementById('add-language').value = ev.language;
@@ -1000,9 +1031,10 @@
       // Show fields
       document.getElementById('addFormFields').style.display = '';
 
-      // Status: show what was and wasn't found
-      const found    = ['name','date','city','venue','organizer','description'].filter(k => ev[k]);
-      const missing  = ['name','date','city'].filter(k => !ev[k]);
+      // Status: show what was and wasn't found. Price is listed because it is no
+      // longer silently defaulted to Free — an unanswered price stays unanswered,
+      // so it has to be visible here.
+      const missing  = ['name','date','city','price'].filter(k => !ev[k]);
       status.style.color = missing.length ? '#e65100' : '#2e7d32';
       status.textContent = missing.length
         ? `Fetched. Missing: ${missing.join(', ')} — fill in manually.`
@@ -1033,9 +1065,10 @@
     ['name','organizer','city','venue','url','tags','audience','description','description-pl','partner-name']
       .forEach(id => { const el = document.getElementById(`add-${id}`); if (el) el.value = ''; });
     document.getElementById('add-date').value = '';
+    document.getElementById('add-end-date').value = '';
     document.getElementById('add-time').value = '';
     document.getElementById('add-language').value = 'EN';
-    document.getElementById('add-price').value = 'Free';
+    document.getElementById('add-price').value = '';
     document.getElementById('add-badge').value = '';
     document.getElementById('addFormFields').style.display = 'none';
     const status = document.getElementById('fetchStatus');
@@ -1119,12 +1152,20 @@
       url,
     };
     if (g('time')) ev.time = g('time');
+    // Stored only when it is genuinely a later day, so a one-day event never
+    // goes through the multi-day rendering path on the public site.
+    if (g('end-date') && g('end-date') > date) ev.end_date = g('end-date');
     if (g('venue')) ev.venue = g('venue');
     if (g('organizer')) ev.organizer = g('organizer');
     if (g('description')) ev.description = g('description');
     if (g('description-pl')) ev.description_pl = g('description-pl');
     ev.language = g('language') || 'EN';
-    ev.price = g('price') || 'Free';
+    // No `|| 'Free'`. The select had no empty option and defaulted to Free, so
+    // every event saved without anyone looking at the price was published as
+    // free whether or not that was true — the "błędy w wykrywaniu paid/free"
+    // Startup Poland reported on 10.08.2026. Unknown now stays unknown, and the
+    // card simply shows no price pill.
+    if (g('price')) ev.price = g('price');
     const tags = g('tags').split(',').map(t => t.trim()).filter(Boolean);
     if (tags.length) ev.tags = tags;
     if (g('audience')) ev.audience = g('audience');
