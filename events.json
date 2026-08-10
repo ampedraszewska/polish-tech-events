@@ -2299,20 +2299,22 @@
   },
   {
     "name": "Baltic Summit",
-    "date": "",
-    "status": "approved",
-    "added": "2026-07-29",
-    "submitted": "2026-07-29",
+    "date": "2026-09-24",
+    "city": "Gdynia",
     "url": "https://BalticSummit.pl",
     "organizer": "Baltic Power Platform Community",
-    "description": "⚠ Date not provided in submission — please complete before approving.",
+    "description": "The largest Microsoft Power Platform, AI and Business Applications conference in Poland\nThree days of practical sessions, hands‑on workshops, and real conversations with experts from Poland and across the World.\nFor people who automate processes, apply AI, and bridge business with technology.",
+    "language": "EN",
     "price": "Paid",
     "tags": [
       "Conference",
       "Workshop",
       "Networking"
     ],
-    "audience": "Developers, Corporate, Students, Investors"
+    "audience": "Developers, Corporate, Students, Investors",
+    "status": "approved",
+    "added": "2026-07-29",
+    "submitted": "2026-07-29"
   },
   {
     "name": "NextGen Founders Meetup Warszawa",
