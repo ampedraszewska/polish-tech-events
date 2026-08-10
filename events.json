@@ -139,7 +139,6 @@
   {
     "name": "Startup Playbook by Lowercap x Scanway",
     "date": "2026-03-17",
-    "time": "",
     "city": "Wrocław",
     "venue": "inQUBE, Wielka 67",
     "url": "https://startup-playbook-x-scanway.gridaly.com/",
@@ -159,7 +158,6 @@
     "date": "2026-03-17",
     "time": "08:30",
     "city": "Warszawa",
-    "venue": "",
     "url": "https://luma.com/dwa4l043",
     "description": "Morning AI breakfast meetup - practitioners share insights over coffee.",
     "description_pl": "Poranny meetup śniadaniowy o AI - praktycy dzielą się wiedzą przy kawie.",
@@ -176,7 +174,6 @@
   {
     "name": "SNIP: Startups Networking & Innovations Platform",
     "date": "2026-03-18",
-    "time": "",
     "city": "Katowice",
     "venue": "COBU DESIGN, Porcelanowa 23",
     "url": "https://snip.silesianstartups.com/",
@@ -233,7 +230,6 @@
     "date": "2026-03-24",
     "time": "09:00",
     "city": "Warszawa",
-    "venue": "",
     "url": "https://www.vestbee.com/cee-vc-summit",
     "description": "Invitation-only 2-day event for 200+ VC fund managers (GPs) and selected LPs in Central & Eastern Europe.",
     "description_pl": "Dwudniowe wydarzenie tylko na zaproszenie dla ponad 200 zarządzających funduszami VC (GP) i wybranych LP z Europy Środkowo-Wschodniej.",
@@ -250,7 +246,6 @@
   {
     "name": "Big Demo Day: Concordia Design x SWPS",
     "date": "2026-03-25",
-    "time": "",
     "city": "Wrocław",
     "venue": "Concordia Design, wyspa Slodowa 7",
     "url": "https://university.swps.pl/bigdemoday",
@@ -307,7 +302,6 @@
     "date": "2026-03-28",
     "time": "08:00",
     "city": "Warszawa",
-    "venue": "",
     "url": "https://poland.aitinkerers.org/p/google-deepmind-x-ai-tinkerers-hackathon-warsaw",
     "description": "Full-day hackathon co-organized by Google DeepMind and AI Tinkerers Poland.",
     "description_pl": "Całodniowy hackathon współorganizowany przez Google DeepMind i AI Tinkerers Poland.",
@@ -324,7 +318,6 @@
     "name": "Founders Call — Startup Poland",
     "date": "2026-03-31",
     "time": "17:00",
-    "city": "",
     "venue": "Online",
     "url": "https://startuppoland.org/startup-poland-uruchamia-founders-call-cykl-cotygodniowych-spotkan-zaprojektowanych-z-mysla-o-polskich-founderkach-i-founderach/",
     "description": "Weekly online call for Polish founders, hosted by Anna Mazurek (CEO Startup Poland). Small group, candid conversations — no recording, no corporate polish. To join, send a note about yourself and your startup to ania.mazurek@startuppoland.org.",
@@ -362,7 +355,6 @@
     "name": "Founders Call — Startup Poland",
     "date": "2026-04-07",
     "time": "17:00",
-    "city": "",
     "venue": "Online",
     "url": "https://startuppoland.org/startup-poland-uruchamia-founders-call-cykl-cotygodniowych-spotkan-zaprojektowanych-z-mysla-o-polskich-founderkach-i-founderach/",
     "description": "Weekly online call for Polish founders, hosted by Anna Mazurek (CEO Startup Poland). Small group, candid conversations — no recording, no corporate polish. To join, send a note about yourself and your startup to ania.mazurek@startuppoland.org.",
@@ -455,7 +447,6 @@
   {
     "name": "Poznan Startup Contest",
     "date": "2026-04-14",
-    "time": "",
     "city": "Poznań",
     "venue": "Św. Marcin 11",
     "url": "https://hugething.vc/poznan-startup-contest/",
@@ -475,8 +466,6 @@
     "name": "SoDA Conference 2026",
     "date": "2026-04-14",
     "time": "09:00",
-    "city": "",
-    "venue": "",
     "url": "https://conference.sodapl.com/",
     "description": "Annual conference by SoDA (Software Development Association Poland) for IT industry leaders and decision-makers.",
     "description_pl": "Coroczna konferencja SoDA (Software Development Association Poland) dla liderów i decydentów branży IT.",
@@ -511,7 +500,6 @@
     "name": "Founders Call — Startup Poland",
     "date": "2026-04-14",
     "time": "17:00",
-    "city": "",
     "venue": "Online",
     "url": "https://startuppoland.org/startup-poland-uruchamia-founders-call-cykl-cotygodniowych-spotkan-zaprojektowanych-z-mysla-o-polskich-founderkach-i-founderach/",
     "description": "Weekly online call for Polish founders, hosted by Anna Mazurek (CEO Startup Poland). Small group, candid conversations — no recording, no corporate polish. To join, send a note about yourself and your startup to ania.mazurek@startuppoland.org.",
@@ -777,7 +765,6 @@
     "date": "2026-05-27",
     "time": "09:00",
     "city": "Wrocław",
-    "venue": "",
     "url": "https://evolutions.startupwroclaw.pl/",
     "description": "The biggest regional startup event bringing together SMEs, innovators, investors, and tech professionals. Workshops, startup showcase contest, and networking.",
     "description_pl": "Największe regionalne wydarzenie startupowe łączące MŚP, innowatorów, inwestorów i specjalistów IT. Warsztaty, konkurs startupowy i networking.",
@@ -845,7 +832,6 @@
     "audience": "Founders, Investors, Operators",
     "time": "10:00",
     "city": "Warszawa",
-    "venue": "",
     "language": "PL",
     "description_pl": "Pitch Day - wydarzenie, podczas którego wyselekcjonowane startupy z obszaru creative tech zaprezentują swoje projekty. To okazja, aby w jednym miejscu poznać twórców i ich projekty."
   },
@@ -948,7 +934,6 @@
     "date": "2026-06-10",
     "time": "09:00",
     "city": "Warszawa",
-    "venue": "",
     "url": "https://womenintechsummit.pl/",
     "description": "Major summit celebrating and empowering women in technology across Central Europe.",
     "description_pl": "Duży szczyt celebrujący i wzmacniający kobiety w technologii w Europie Środkowej.",
@@ -1042,7 +1027,7 @@
     "date": "2026-06-16",
     "time": "18:00",
     "city": "Rzeszów",
-    "venue": "Rzeszów (TBA)",
+    "venue": "FOSA",
     "url": "https://luma.com/bcrmcy6k",
     "description": "Informal neighbourhood gathering for startups, investors and bankers in Rzeszów - the southeastern edge of Poland.",
     "description_pl": "Niecykliczne spotkanie sąsiedzkie w gronie startupów, inwestorów i bankierów - na krańcach Polski w Rzeszowie.",
@@ -1061,7 +1046,6 @@
     "date": "2026-06-17",
     "time": "09:00",
     "city": "Wrocław",
-    "venue": "",
     "url": "https://abslsummit.com/",
     "description": "\"Know the Unknown\" - exploring how uncertainty unlocks growth, with a focus on talent, technology, and transformation in business services. Keynote by Geoffrey Hinton.",
     "description_pl": "\"Know the Unknown\" - jak niepewność napędza wzrost, z naciskiem na talenty, technologię i transformację w usługach biznesowych. Keynote Geoffrey'a Hintona.",
@@ -1079,7 +1063,6 @@
     "date": "2026-06-17",
     "time": "09:00",
     "city": "Rzeszów",
-    "venue": "",
     "url": "https://carpathianfest.pl/",
     "description": "Regional startup festival in southeastern Poland connecting founders, investors, and the local tech ecosystem.",
     "description_pl": "Regionalny festiwal startupowy w południowo-wschodniej Polsce łączący założycieli, inwestorów i lokalny ekosystem technologiczny.",
@@ -1460,7 +1443,6 @@
     "name": "Founders Call #13 - THINK BIK",
     "date": "2026-07-28",
     "time": "17:00",
-    "city": "",
     "venue": "Online",
     "url": "https://luma.com/8x6m7w9s",
     "description": "Founders Call workshop with Justyna Bik (THINK BIK): a broad look at PR for your brand — strategy and choosing the right tools, trust-building social media, and Media Relations 101. Part of Startup Poland's weekly Founders Call series.",
@@ -1538,7 +1520,6 @@
     "name": "Spotkanie Przedsiębiorców SLOW #40",
     "date": "2026-07-30",
     "city": "Wrocław",
-    "venue": "",
     "url": "https://app.evenea.pl/event/slow-40/",
     "description": "The 40th SLOW entrepreneurs' meetup - networking and knowledge-sharing for the local business community.",
     "description_pl": "40. spotkanie przedsiębiorców SLOW - networking i wymiana wiedzy dla lokalnej społeczności biznesowej.",
@@ -1548,7 +1529,6 @@
       "Networking"
     ],
     "audience": "Founders, Operators",
-    "organizer": "",
     "status": "approved",
     "added": "2026-07-20"
   },
@@ -1700,9 +1680,8 @@
   {
     "name": "PARP Future Camp 2026",
     "date": "2026-08-24",
-    "time": "",
     "city": "Ryn",
-    "venue": "Ryn (TBA)",
+    "venue": "Hotel Zamek Ryn",
     "url": "https://www.parp.gov.pl/component/site/site/parp-future-camp",
     "description": "Two-day summit (24-25 Aug) for young innovators and entrepreneurs — workshops, mentorship and networking with startup founders, technology experts and the support ecosystem.",
     "description_pl": "Dwudniowy zlot (24-25 sierpnia) dla młodych innowatorów i przedsiębiorców — warsztaty, mentoring i networking z founderami, ekspertami technologicznymi i przedstawicielami ekosystemu wsparcia.",
@@ -1740,7 +1719,6 @@
     "name": "XXXV Forum Ekonomiczne w Karpaczu",
     "date": "2026-09-08",
     "city": "Karpacz",
-    "venue": "",
     "url": "https://www.forum-ekonomiczne.pl/",
     "description": "Central Europe's largest socio-economic conference - 6000+ guests from 60 countries, 500+ sessions across politics, business, science and culture, including an AI Forum and Cybersecurity Forum.",
     "description_pl": "Największa konferencja społeczno-gospodarcza Europy Środkowej - ponad 6000 gości z 60 krajów, 500+ wydarzeń z polityki, biznesu, nauki i kultury, w tym Forum AI i Forum Cyberbezpieczeństwa.",
@@ -1896,7 +1874,6 @@
     "date": "2026-10-14",
     "time": "08:30",
     "city": "Wrocław",
-    "venue": "",
     "url": "https://dise.org.pl/kongres2026/",
     "description": "An expert conference building consensus on Poland's energy security and industrial competitiveness - 2026 theme: Energy in Times of Uncertainty.",
     "description_pl": "Ekspercka konferencja budująca konsensus wokół bezpieczeństwa energetycznego i konkurencyjności przemysłu Polski - motyw 2026: Energetyka w czasach niepewności.",
@@ -1931,7 +1908,6 @@
   {
     "name": "Startup Community Summit",
     "date": "2026-10-21",
-    "time": "",
     "city": "Poznań",
     "venue": "Concordia Design, ul. Zwierzyniecka 3",
     "url": "https://www.startupcommunitysummit.com/",
@@ -1972,7 +1948,6 @@
     "date": "2026-10-27",
     "time": "09:00",
     "city": "Wrocław",
-    "venue": "",
     "url": "https://www.made-in-wroclaw.pl/",
     "description": "10th edition combining conference, expo, tech gala & contest, and VC demo day. Business, science, technology, and innovation on one stage.",
     "description_pl": "10. edycja łącząca konferencję, targi, galę technologiczną i konkurs oraz VC demo day. Biznes, nauka, technologia i innowacje na jednej scenie.",
@@ -2303,7 +2278,7 @@
     "time": "08:30",
     "venue": "Yolk Workspace & Community, Józefa Sarego 5, Kraków",
     "city": "Kraków",
-    "description": "☕ Open Coffee Krakow Open Coffee is a friendly, informal networking event for entrepreneurs, professionals, expats, students, and anyone interested in Krakow’s business and startup community. 💡 The Idea Behind Open Coffee We want to help people make useful, real-world connections. Everyone is welcome - and we especially love first-timers! Each participant has 1-2 minutes to introduce themselves. To keep it simple, we use this structure: * Who you are * What you’re working on * What you need * How you can help others Prefer to just listen? That’s completely fine - feel free to observe, meet new"
+    "description": "☕ Open Coffee Krakow Open Coffee is a friendly, informal networking event for entrepreneurs, professionals, expats, students, and anyone interested in Krakow’s business and startup community. 💡 The Idea Behind Open Coffee We want to help people make useful, real-world connections."
   },
   {
     "name": "Baltic Summit",
@@ -2330,7 +2305,7 @@
     "city": "Warszawa",
     "url": "https://luma.com/NextGenFoundersWWA",
     "organizer": "Superteam Poland",
-    "description": "NextGen Founders Meetup Superteam po raz kolejny rusza w trasę po Polsce, tym razem z nowym formatem, który skupia się na branży startupowej i budowaniu globalnych biznesów. 📍EDYCJA WARSZAWA! Nasz cel? Przyspieszyć rozwój innowacji, wspierając powstawanie nowych startupów, łącząc twórców z narzędziami ekosystemu Solany oraz budując silną społeczność przedsiębiorców z globalnymi ambicjami. Dlaczego warto? Nieważne, czy jesteś zupełnym początkującym, czy już od dawna rozwijasz swój biznes i szukasz nowych możliwości technologicznych. To Twoja okazja, by dowiedzieć się, jak budować, skalować i fi",
+    "description": "NextGen Founders Meetup Superteam po raz kolejny rusza w trasę po Polsce, tym razem z nowym formatem, który skupia się na branży startupowej i budowaniu globalnych biznesów. 📍EDYCJA WARSZAWA! Nasz cel?",
     "language": "EN",
     "price": "Free",
     "tags": [
@@ -2343,7 +2318,7 @@
     "submitted": "2026-07-30",
     "time": "18:00",
     "venue": "Warszawa, Polska",
-    "description_pl": "NextGen Founders Meetup Superteam po raz kolejny rusza w trasę po Polsce, tym razem z nowym formatem, który skupia się na branży startupowej i budowaniu globalnych biznesów. 📍EDYCJA WARSZAWA! Nasz cel? Przyspieszyć rozwój innowacji, wspierając powstawanie nowych startupów, łącząc twórców z narzędziami ekosystemu Solany oraz budując silną społeczność przedsiębiorców z globalnymi ambicjami. Dlaczego warto? Nieważne, czy jesteś zupełnym początkującym, czy już od dawna rozwijasz swój biznes i szukasz nowych możliwości technologicznych. To Twoja okazja, by dowiedzieć się, jak budować, skalować i fi"
+    "description_pl": "NextGen Founders Meetup Superteam po raz kolejny rusza w trasę po Polsce, tym razem z nowym formatem, który skupia się na branży startupowej i budowaniu globalnych biznesów. 📍EDYCJA WARSZAWA! Nasz cel?"
   },
   {
     "name": "NextGen Founders Meetup Krakow",
@@ -2351,7 +2326,7 @@
     "city": "Kraków",
     "url": "https://luma.com/NextGenFoundersKRK",
     "organizer": "Superteam Poland",
-    "description": "NextGen Founders Meetup Superteam po raz kolejny rusza w trasę po Polsce, tym razem z nowym formatem, który skupia się na branży startupowej i budowaniu globalnych biznesów. 📍EDYCJA KRAKÓW! Nasz cel? Przyspieszyć rozwój innowacji, wspierając powstawanie nowych startupów, łącząc twórców z narzędziami ekosystemu Solany oraz budując silną społeczność przedsiębiorców z globalnymi ambicjami. Dlaczego warto? Nieważne, czy jesteś zupełnym początkującym, czy już od dawna rozwijasz swój biznes i szukasz nowych możliwości technologicznych. To Twoja okazja, by dowiedzieć się, jak budować, skalować i fina",
+    "description": "NextGen Founders Meetup Superteam po raz kolejny rusza w trasę po Polsce, tym razem z nowym formatem, który skupia się na branży startupowej i budowaniu globalnych biznesów. 📍EDYCJA KRAKÓW! Nasz cel?",
     "language": "EN",
     "price": "Free",
     "tags": [
@@ -2364,7 +2339,7 @@
     "submitted": "2026-07-30",
     "time": "18:00",
     "venue": "Kraków, Województwo małopolskie",
-    "description_pl": "NextGen Founders Meetup Superteam po raz kolejny rusza w trasę po Polsce, tym razem z nowym formatem, który skupia się na branży startupowej i budowaniu globalnych biznesów. 📍EDYCJA KRAKÓW! Nasz cel? Przyspieszyć rozwój innowacji, wspierając powstawanie nowych startupów, łącząc twórców z narzędziami ekosystemu Solany oraz budując silną społeczność przedsiębiorców z globalnymi ambicjami. Dlaczego warto? Nieważne, czy jesteś zupełnym początkującym, czy już od dawna rozwijasz swój biznes i szukasz nowych możliwości technologicznych. To Twoja okazja, by dowiedzieć się, jak budować, skalować i fina"
+    "description_pl": "NextGen Founders Meetup Superteam po raz kolejny rusza w trasę po Polsce, tym razem z nowym formatem, który skupia się na branży startupowej i budowaniu globalnych biznesów. 📍EDYCJA KRAKÓW! Nasz cel?"
   },
   {
     "name": "NextGen Founders Meetup Wrocław",
@@ -2372,7 +2347,7 @@
     "city": "Wrocław",
     "url": "https://luma.com/NextGenFoundersWRO",
     "organizer": "Superteam Poland",
-    "description": "NextGen Founders Meetup Superteam po raz kolejny rusza w trasę po Polsce, tym razem z nowym formatem, który skupia się na branży startupowej i budowaniu globalnych projektów. 📍EDYCJA WROCŁAW! Nasz cel? Przyspieszyć rozwój innowacji, wspierając powstawanie nowych startupów, łącząc twórców z narzędziami ekosystemu Solany oraz budując silną społeczność przedsiębiorców z globalnymi ambicjami. Dlaczego warto? Nieważne, czy jesteś zupełnym początkującym, czy już od dawna rozwijasz swój biznes i szukasz nowych możliwości technologicznych. To Twoja okazja, by dowiedzieć się, jak budować, skalować i fi",
+    "description": "NextGen Founders Meetup Superteam po raz kolejny rusza w trasę po Polsce, tym razem z nowym formatem, który skupia się na branży startupowej i budowaniu globalnych projektów. 📍EDYCJA WROCŁAW! Nasz cel?",
     "language": "EN",
     "price": "Free",
     "tags": [
@@ -2385,7 +2360,7 @@
     "submitted": "2026-07-30",
     "time": "18:00",
     "venue": "Wrocław, Polska",
-    "description_pl": "NextGen Founders Meetup Superteam po raz kolejny rusza w trasę po Polsce, tym razem z nowym formatem, który skupia się na branży startupowej i budowaniu globalnych projektów. 📍EDYCJA WROCŁAW! Nasz cel? Przyspieszyć rozwój innowacji, wspierając powstawanie nowych startupów, łącząc twórców z narzędziami ekosystemu Solany oraz budując silną społeczność przedsiębiorców z globalnymi ambicjami. Dlaczego warto? Nieważne, czy jesteś zupełnym początkującym, czy już od dawna rozwijasz swój biznes i szukasz nowych możliwości technologicznych. To Twoja okazja, by dowiedzieć się, jak budować, skalować i fi"
+    "description_pl": "NextGen Founders Meetup Superteam po raz kolejny rusza w trasę po Polsce, tym razem z nowym formatem, który skupia się na branży startupowej i budowaniu globalnych projektów. 📍EDYCJA WROCŁAW! Nasz cel?"
   },
   {
     "name": "NextGen Founders Meetup Gdansk",
@@ -2393,7 +2368,7 @@
     "city": "Gdańsk",
     "url": "https://luma.com/NextGenFoundersGDA",
     "organizer": "Superteam Poland",
-    "description": "NextGen Founders Meetup Superteam po raz kolejny rusza w trasę po Polsce, tym razem z nowym formatem, który skupia się na branży startupowej i budowaniu globalnych projektów. 📍EDYCJA GDAŃSK! Nasz cel? Przyspieszyć rozwój innowacji, wspierając powstawanie nowych startupów, łącząc twórców z narzędziami ekosystemu Solany oraz budując silną społeczność przedsiębiorców z globalnymi ambicjami. Dlaczego warto? Nieważne, czy jesteś zupełnym początkującym, czy już od dawna rozwijasz swój biznes i szukasz nowych możliwości technologicznych. To Twoja okazja, by dowiedzieć się, jak budować, skalować i fin",
+    "description": "NextGen Founders Meetup Superteam po raz kolejny rusza w trasę po Polsce, tym razem z nowym formatem, który skupia się na branży startupowej i budowaniu globalnych projektów. 📍EDYCJA GDAŃSK! Nasz cel?",
     "language": "EN",
     "price": "Free",
     "tags": [
@@ -2405,7 +2380,7 @@
     "added": "2026-07-30",
     "submitted": "2026-07-30",
     "time": "18:00",
-    "description_pl": "NextGen Founders Meetup Superteam po raz kolejny rusza w trasę po Polsce, tym razem z nowym formatem, który skupia się na branży startupowej i budowaniu globalnych projektów. 📍EDYCJA GDAŃSK! Nasz cel? Przyspieszyć rozwój innowacji, wspierając powstawanie nowych startupów, łącząc twórców z narzędziami ekosystemu Solany oraz budując silną społeczność przedsiębiorców z globalnymi ambicjami. Dlaczego warto? Nieważne, czy jesteś zupełnym początkującym, czy już od dawna rozwijasz swój biznes i szukasz nowych możliwości technologicznych. To Twoja okazja, by dowiedzieć się, jak budować, skalować i fin"
+    "description_pl": "NextGen Founders Meetup Superteam po raz kolejny rusza w trasę po Polsce, tym razem z nowym formatem, który skupia się na branży startupowej i budowaniu globalnych projektów. 📍EDYCJA GDAŃSK! Nasz cel?"
   },
   {
     "name": "KURS PROGRAMOWANIA BLOCKCHAIN: WARSZAWA",
@@ -2413,7 +2388,7 @@
     "city": "Warszawa",
     "url": "https://luma.com/KursBlockchainWWA2",
     "organizer": "Superteam Poland",
-    "description": "KURS PROGRAMOWANIA BLOCKCHAIN Jesteś programistą i zastanawiasz się, jak działają aplikacje na blockchainie? Chcesz w praktyce zbudować swój pierwszy działający projekt? Ten kurs jest dla Ciebie! Nasz cel? Pomóc Ci szybko wejść w świat blockchaina, zdobyć doświadczenie w tworzeniu działających projektów w ekosystemie Solana i pokazać, jak wykorzystać nowe technologie w realnych aplikacjach Dlaczego warto? 🛠 Stworzysz działający projekt, który możesz od razu pokazać w portfolio 💻 Nauczysz się Rust i podstaw blockchaina w praktyce, krok po kroku 🧑‍🏫 Pracujesz z mentorami, którzy pokażą, jak rozw",
+    "description": "KURS PROGRAMOWANIA BLOCKCHAIN Jesteś programistą i zastanawiasz się, jak działają aplikacje na blockchainie? Chcesz w praktyce zbudować swój pierwszy działający projekt? Ten kurs jest dla Ciebie! Nasz cel?",
     "language": "EN",
     "price": "Free",
     "tags": [
@@ -2424,7 +2399,7 @@
     "added": "2026-07-30",
     "submitted": "2026-07-30",
     "time": "10:00",
-    "description_pl": "KURS PROGRAMOWANIA BLOCKCHAIN Jesteś programistą i zastanawiasz się, jak działają aplikacje na blockchainie? Chcesz w praktyce zbudować swój pierwszy działający projekt? Ten kurs jest dla Ciebie! Nasz cel? Pomóc Ci szybko wejść w świat blockchaina, zdobyć doświadczenie w tworzeniu działających projektów w ekosystemie Solana i pokazać, jak wykorzystać nowe technologie w realnych aplikacjach Dlaczego warto? 🛠 Stworzysz działający projekt, który możesz od razu pokazać w portfolio 💻 Nauczysz się Rust i podstaw blockchaina w praktyce, krok po kroku 🧑‍🏫 Pracujesz z mentorami, którzy pokażą, jak rozw"
+    "description_pl": "KURS PROGRAMOWANIA BLOCKCHAIN Jesteś programistą i zastanawiasz się, jak działają aplikacje na blockchainie? Chcesz w praktyce zbudować swój pierwszy działający projekt? Ten kurs jest dla Ciebie! Nasz cel?"
   },
   {
     "name": "KURS PROGRAMOWANIA BLOCKCHAIN: KRAKÓW",
@@ -2432,7 +2407,7 @@
     "city": "Kraków",
     "url": "https://luma.com/KursBlockchainKRK2",
     "organizer": "Superteam Poland",
-    "description": "KURS PROGRAMOWANIA BLOCKCHAIN Jesteś programistą i zastanawiasz się, jak działają aplikacje na blockchainie? Chcesz w praktyce zbudować swój pierwszy działający projekt? Ten kurs jest dla Ciebie! Nasz cel? Pomóc Ci szybko wejść w świat Blockchaina, zdobyć doświadczenie w tworzeniu działających projektów w ekosystemie Solana i pokazać, jak wykorzystać nowe technologie w realnych aplikacjach Dlaczego warto? 🛠 Stworzysz działający projekt, który możesz od razu pokazać w portfolio 💻 Nauczysz się Rust i podstaw blockchaina w praktyce, krok po kroku 🧑‍🏫 Pracujesz z mentorami, którzy pokażą, jak rozw",
+    "description": "KURS PROGRAMOWANIA BLOCKCHAIN Jesteś programistą i zastanawiasz się, jak działają aplikacje na blockchainie? Chcesz w praktyce zbudować swój pierwszy działający projekt? Ten kurs jest dla Ciebie! Nasz cel?",
     "language": "EN",
     "price": "Free",
     "tags": [
@@ -2444,7 +2419,7 @@
     "submitted": "2026-07-30",
     "time": "09:00",
     "venue": "Kraków, Województwo małopolskie",
-    "description_pl": "KURS PROGRAMOWANIA BLOCKCHAIN Jesteś programistą i zastanawiasz się, jak działają aplikacje na blockchainie? Chcesz w praktyce zbudować swój pierwszy działający projekt? Ten kurs jest dla Ciebie! Nasz cel? Pomóc Ci szybko wejść w świat Blockchaina, zdobyć doświadczenie w tworzeniu działających projektów w ekosystemie Solana i pokazać, jak wykorzystać nowe technologie w realnych aplikacjach Dlaczego warto? 🛠 Stworzysz działający projekt, który możesz od razu pokazać w portfolio 💻 Nauczysz się Rust i podstaw blockchaina w praktyce, krok po kroku 🧑‍🏫 Pracujesz z mentorami, którzy pokażą, jak rozw"
+    "description_pl": "KURS PROGRAMOWANIA BLOCKCHAIN Jesteś programistą i zastanawiasz się, jak działają aplikacje na blockchainie? Chcesz w praktyce zbudować swój pierwszy działający projekt? Ten kurs jest dla Ciebie! Nasz cel?"
   },
   {
     "name": "KURS PROGRAMOWANIA BLOCKCHAIN: WROCŁAW",
@@ -2452,7 +2427,7 @@
     "city": "Wrocław",
     "url": "https://luma.com/KursBlockchainWRO",
     "organizer": "Superteam Poland",
-    "description": "KURS PROGRAMOWANIA BLOCKCHAIN Jesteś programistą i zastanawiasz się, jak działają aplikacje na blockchainie? Chcesz w praktyce zbudować swój pierwszy działający projekt? Ten kurs jest dla Ciebie! Nasz cel? Pomóc Ci szybko wejść w świat blockchaina, zdobyć doświadczenie w tworzeniu działających projektów w ekosystemie Solana i pokazać, jak wykorzystać nowe technologie w realnych aplikacjach Dlaczego warto? 🛠 Stworzysz działający projekt, który możesz od razu pokazać w portfolio 💻 Nauczysz się Rust i podstaw blockchaina w praktyce, krok po kroku 🧑‍🏫 Pracujesz z mentorami, którzy pokażą, jak rozw",
+    "description": "KURS PROGRAMOWANIA BLOCKCHAIN Jesteś programistą i zastanawiasz się, jak działają aplikacje na blockchainie? Chcesz w praktyce zbudować swój pierwszy działający projekt? Ten kurs jest dla Ciebie! Nasz cel?",
     "language": "EN",
     "price": "Free",
     "tags": [
@@ -2464,7 +2439,7 @@
     "submitted": "2026-07-30",
     "time": "09:00",
     "venue": "Wrocław, Polska",
-    "description_pl": "KURS PROGRAMOWANIA BLOCKCHAIN Jesteś programistą i zastanawiasz się, jak działają aplikacje na blockchainie? Chcesz w praktyce zbudować swój pierwszy działający projekt? Ten kurs jest dla Ciebie! Nasz cel? Pomóc Ci szybko wejść w świat blockchaina, zdobyć doświadczenie w tworzeniu działających projektów w ekosystemie Solana i pokazać, jak wykorzystać nowe technologie w realnych aplikacjach Dlaczego warto? 🛠 Stworzysz działający projekt, który możesz od razu pokazać w portfolio 💻 Nauczysz się Rust i podstaw blockchaina w praktyce, krok po kroku 🧑‍🏫 Pracujesz z mentorami, którzy pokażą, jak rozw"
+    "description_pl": "KURS PROGRAMOWANIA BLOCKCHAIN Jesteś programistą i zastanawiasz się, jak działają aplikacje na blockchainie? Chcesz w praktyce zbudować swój pierwszy działający projekt? Ten kurs jest dla Ciebie! Nasz cel?"
   },
   {
     "name": "KURS PROGRAMOWANIA BLOCKCHAIN: GDAŃSK",
@@ -2472,7 +2447,7 @@
     "city": "Gdańsk",
     "url": "https://luma.com/KursBlockchainGDA",
     "organizer": "Superteam Poland",
-    "description": "KURS PROGRAMOWANIA BLOCKCHAIN Jesteś programistą i zastanawiasz się, jak działają aplikacje na blockchainie? Chcesz w praktyce zbudować swój pierwszy działający projekt? Ten kurs jest dla Ciebie! Nasz cel? Pomóc Ci szybko wejść w świat blockchaina, zdobyć doświadczenie w tworzeniu działających projektów w ekosystemie Solana i pokazać, jak wykorzystać nowe technologie w realnych aplikacjach Dlaczego warto? 🛠 Stworzysz działający projekt, który możesz od razu pokazać w portfolio 💻 Nauczysz się Rust i podstaw blockchaina w praktyce, krok po kroku 🧑‍🏫 Pracujesz z mentorami, którzy pokażą, jak rozw",
+    "description": "KURS PROGRAMOWANIA BLOCKCHAIN Jesteś programistą i zastanawiasz się, jak działają aplikacje na blockchainie? Chcesz w praktyce zbudować swój pierwszy działający projekt? Ten kurs jest dla Ciebie! Nasz cel?",
     "language": "EN",
     "price": "Free",
     "tags": [
@@ -2484,7 +2459,7 @@
     "submitted": "2026-07-30",
     "time": "12:00",
     "venue": "Gdańsk, Polska",
-    "description_pl": "KURS PROGRAMOWANIA BLOCKCHAIN Jesteś programistą i zastanawiasz się, jak działają aplikacje na blockchainie? Chcesz w praktyce zbudować swój pierwszy działający projekt? Ten kurs jest dla Ciebie! Nasz cel? Pomóc Ci szybko wejść w świat blockchaina, zdobyć doświadczenie w tworzeniu działających projektów w ekosystemie Solana i pokazać, jak wykorzystać nowe technologie w realnych aplikacjach Dlaczego warto? 🛠 Stworzysz działający projekt, który możesz od razu pokazać w portfolio 💻 Nauczysz się Rust i podstaw blockchaina w praktyce, krok po kroku 🧑‍🏫 Pracujesz z mentorami, którzy pokażą, jak rozw"
+    "description_pl": "KURS PROGRAMOWANIA BLOCKCHAIN Jesteś programistą i zastanawiasz się, jak działają aplikacje na blockchainie? Chcesz w praktyce zbudować swój pierwszy działający projekt? Ten kurs jest dla Ciebie! Nasz cel?"
   },
   {
     "name": "KURS PROGRAMOWANIA BLOCKCHAIN: ONLINE",
@@ -2492,7 +2467,7 @@
     "city": "Online",
     "url": "https://luma.com/KursBlockchainONLINE",
     "organizer": "Superteam Poland",
-    "description": "KURS PROGRAMOWANIA BLOCKCHAIN Jesteś programistą i zastanawiasz się, jak działają aplikacje na blockchainie? Chcesz w praktyce zbudować swój pierwszy działający projekt? Ten kurs jest dla Ciebie! Nasz cel? Pomóc Ci szybko wejść w świat blockchaina, zdobyć doświadczenie w tworzeniu działających projektów w ekosystemie Solana i pokazać, jak wykorzystać nowe technologie w realnych aplikacjach Dlaczego warto? 🛠 Stworzysz działający projekt, który możesz od razu pokazać w portfolio 💻 Nauczysz się Rust i podstaw blockchaina w praktyce, krok po kroku 🧑‍🏫 Pracujesz z mentorami, którzy pokażą, jak rozw",
+    "description": "KURS PROGRAMOWANIA BLOCKCHAIN Jesteś programistą i zastanawiasz się, jak działają aplikacje na blockchainie? Chcesz w praktyce zbudować swój pierwszy działający projekt? Ten kurs jest dla Ciebie! Nasz cel?",
     "language": "EN",
     "price": "Free",
     "tags": [
@@ -2504,7 +2479,7 @@
     "submitted": "2026-07-30",
     "time": "12:00",
     "venue": "Online Event",
-    "description_pl": "KURS PROGRAMOWANIA BLOCKCHAIN Jesteś programistą i zastanawiasz się, jak działają aplikacje na blockchainie? Chcesz w praktyce zbudować swój pierwszy działający projekt? Ten kurs jest dla Ciebie! Nasz cel? Pomóc Ci szybko wejść w świat blockchaina, zdobyć doświadczenie w tworzeniu działających projektów w ekosystemie Solana i pokazać, jak wykorzystać nowe technologie w realnych aplikacjach Dlaczego warto? 🛠 Stworzysz działający projekt, który możesz od razu pokazać w portfolio 💻 Nauczysz się Rust i podstaw blockchaina w praktyce, krok po kroku 🧑‍🏫 Pracujesz z mentorami, którzy pokażą, jak rozw"
+    "description_pl": "KURS PROGRAMOWANIA BLOCKCHAIN Jesteś programistą i zastanawiasz się, jak działają aplikacje na blockchainie? Chcesz w praktyce zbudować swój pierwszy działający projekt? Ten kurs jest dla Ciebie! Nasz cel?"
   },
   {
     "name": "BLOCKCHAIN HACK WARSAW",
@@ -2512,7 +2487,7 @@
     "city": "Warszawa",
     "url": "https://luma.com/BlockchainHackWWA",
     "organizer": "Superteam Poland",
-    "description": "BLOCKCHAIN HACK WARSAW Dwa dni, które zmienią Twój pomysł w działający projekt! Zapraszamy deweloperów, designerów i builderów na weekend intensywnego kodowania na Solanie. Wpadnij ze swoją ideą, dopracuj ją pod okiem doświadczonych mentorów, zaprezentuj przed jury i zgarnij nagrody z puli $3 000. Nasz cel? Szybko budować, pewnie pitchować i zyskać potężny head start przed Colosseum Hackathonem. Szukasz zespołu lub pomysłu? Dołącz do naszego Telegrama, aby znaleźć ekipę, wspólnie brainstormować i być na bieżąco. Co na Ciebie czeka? 🏆 Nagrody z puli $3 000 🛠️ Mentorzy dostępni na miejscu przez",
+    "description": "BLOCKCHAIN HACK WARSAW Dwa dni, które zmienią Twój pomysł w działający projekt! Zapraszamy deweloperów, designerów i builderów na weekend intensywnego kodowania na Solanie. Wpadnij ze swoją ideą, dopracuj ją pod okiem doświadczonych mentorów, zaprezentuj przed jury i zgarnij nagrody z puli $3 000.",
     "language": "EN",
     "price": "Free",
     "tags": [
@@ -2523,7 +2498,7 @@
     "added": "2026-07-30",
     "submitted": "2026-07-30",
     "time": "10:00",
-    "description_pl": "BLOCKCHAIN HACK WARSAW Dwa dni, które zmienią Twój pomysł w działający projekt! Zapraszamy deweloperów, designerów i builderów na weekend intensywnego kodowania na Solanie. Wpadnij ze swoją ideą, dopracuj ją pod okiem doświadczonych mentorów, zaprezentuj przed jury i zgarnij nagrody z puli $3 000. Nasz cel? Szybko budować, pewnie pitchować i zyskać potężny head start przed Colosseum Hackathonem. Szukasz zespołu lub pomysłu? Dołącz do naszego Telegrama, aby znaleźć ekipę, wspólnie brainstormować i być na bieżąco. Co na Ciebie czeka? 🏆 Nagrody z puli $3 000 🛠️ Mentorzy dostępni na miejscu przez "
+    "description_pl": "BLOCKCHAIN HACK WARSAW Dwa dni, które zmienią Twój pomysł w działający projekt! Zapraszamy deweloperów, designerów i builderów na weekend intensywnego kodowania na Solanie. Wpadnij ze swoją ideą, dopracuj ją pod okiem doświadczonych mentorów, zaprezentuj przed jury i zgarnij nagrody z puli $3 000."
   },
   {
     "name": "BLOCKCHAIN HACK KRAKOW",
@@ -2531,7 +2506,7 @@
     "city": "Kraków",
     "url": "https://luma.com/BlockchainHackKRK",
     "organizer": "Superteam Poland",
-    "description": "BLOCKCHAIN HACK KRAKOW Dwa dni, które zmienią Twój pomysł w działający projekt! Zapraszamy deweloperów, designerów i builderów na weekend intensywnego kodowania na Solanie. Wpadnij ze swoją ideą, dopracuj ją pod okiem doświadczonych mentorów, zaprezentuj przed jury i zgarnij nagrody z puli $3 000. Nasz cel? Szybko budować, pewnie pitchować i zyskać potężny head start przed Colosseum Hackathonem. Szukasz zespołu lub pomysłu? Dołącz do naszego Telegrama, aby znaleźć ekipę, wspólnie brainstormować i być na bieżąco. Co na Ciebie czeka? 🏆 Nagrody z puli $3 000 🛠️ Mentorzy dostępni na miejscu przez",
+    "description": "BLOCKCHAIN HACK KRAKOW Dwa dni, które zmienią Twój pomysł w działający projekt! Zapraszamy deweloperów, designerów i builderów na weekend intensywnego kodowania na Solanie. Wpadnij ze swoją ideą, dopracuj ją pod okiem doświadczonych mentorów, zaprezentuj przed jury i zgarnij nagrody z puli $3 000.",
     "language": "EN",
     "price": "Free",
     "tags": [
@@ -2543,7 +2518,7 @@
     "submitted": "2026-07-30",
     "time": "09:00",
     "venue": "Kraków, Województwo małopolskie",
-    "description_pl": "BLOCKCHAIN HACK KRAKOW Dwa dni, które zmienią Twój pomysł w działający projekt! Zapraszamy deweloperów, designerów i builderów na weekend intensywnego kodowania na Solanie. Wpadnij ze swoją ideą, dopracuj ją pod okiem doświadczonych mentorów, zaprezentuj przed jury i zgarnij nagrody z puli $3 000. Nasz cel? Szybko budować, pewnie pitchować i zyskać potężny head start przed Colosseum Hackathonem. Szukasz zespołu lub pomysłu? Dołącz do naszego Telegrama, aby znaleźć ekipę, wspólnie brainstormować i być na bieżąco. Co na Ciebie czeka? 🏆 Nagrody z puli $3 000 🛠️ Mentorzy dostępni na miejscu przez "
+    "description_pl": "BLOCKCHAIN HACK KRAKOW Dwa dni, które zmienią Twój pomysł w działający projekt! Zapraszamy deweloperów, designerów i builderów na weekend intensywnego kodowania na Solanie. Wpadnij ze swoją ideą, dopracuj ją pod okiem doświadczonych mentorów, zaprezentuj przed jury i zgarnij nagrody z puli $3 000."
   },
   {
     "name": "PITCH & POLISH WARSAW",
@@ -2551,7 +2526,7 @@
     "city": "Warszawa",
     "url": "https://luma.com/PitchPolishWWA",
     "organizer": "Superteam Poland",
-    "description": "Pitch & Polish Your Startup! Warszawa, czas przejąć mikrofon. Masz pomysł na startup na Solanie? To Twoja idealna okazja, żeby zapitchować go na żywo, zebrać szczery feedback od ekspertów z ekosystemu i zdobyć bezcenny know-how, który da Ci gigantyczną przewagę na nadchodzącym Warsaw Demo Day i globalnym hackathonie Colosseum. Nie potrzebujesz gotowego produktu ani pełnego zespołu. Po prostu wpadnij z pomysłem, o którym warto pogadać i chęcią do działania. Niezależnie od tego, czy przychodzisz z gotową wizją, czy tylko z energią do tworzenia, to twoja szansa, aby: 💡 Zapitchować swój pomysł na",
+    "description": "Pitch & Polish Your Startup! Warszawa, czas przejąć mikrofon. Masz pomysł na startup na Solanie? To Twoja idealna okazja, żeby zapitchować go na żywo, zebrać szczery feedback od ekspertów z ekosystemu i zdobyć bezcenny know-how, który da Ci gigantyczną przewagę na nadchodzącym Warsaw Demo Day i",
     "language": "EN",
     "price": "Free",
     "tags": [
@@ -2564,7 +2539,7 @@
     "added": "2026-07-30",
     "submitted": "2026-07-30",
     "time": "18:00",
-    "description_pl": "Pitch & Polish Your Startup! Warszawa, czas przejąć mikrofon. Masz pomysł na startup na Solanie? To Twoja idealna okazja, żeby zapitchować go na żywo, zebrać szczery feedback od ekspertów z ekosystemu i zdobyć bezcenny know-how, który da Ci gigantyczną przewagę na nadchodzącym Warsaw Demo Day i globalnym hackathonie Colosseum. Nie potrzebujesz gotowego produktu ani pełnego zespołu. Po prostu wpadnij z pomysłem, o którym warto pogadać i chęcią do działania. Niezależnie od tego, czy przychodzisz z gotową wizją, czy tylko z energią do tworzenia, to twoja szansa, aby: 💡 Zapitchować swój pomysł na "
+    "description_pl": "Pitch & Polish Your Startup! Warszawa, czas przejąć mikrofon. Masz pomysł na startup na Solanie? To Twoja idealna okazja, żeby zapitchować go na żywo, zebrać szczery feedback od ekspertów z ekosystemu i zdobyć bezcenny know-how, który da Ci gigantyczną przewagę na nadchodzącym Warsaw Demo Day i"
   },
   {
     "name": "PITCH & POLISH ONLINE",
@@ -2572,7 +2547,7 @@
     "city": "Online",
     "url": "https://luma.com/PitchPolishOnline",
     "organizer": "Superteam Poland",
-    "description": "Pitch & Polish Your Startup! Przejmij mikrofon juz teraz! Masz pomysł na startup na Solanie? To Twoja idealna okazja, żeby zapitchować go online, zebrać szczery feedback od ekspertów z ekosystemu i zdobyć bezcenny know-how, który da Ci gigantyczną przewagę na Demo Day i globalnym hackathonie Colosseum. Nie potrzebujesz gotowego produktu ani pełnego zespołu. Po prostu wpadnij z pomysłem, o którym warto pogadać i chęcią do działania. Niezależnie od tego, czy przychodzisz z gotową wizją, czy tylko z energią do tworzenia, to twoja szansa, aby: 💡 Zapitchować swój pomysł i zgarnąć konkretny, eksperc",
+    "description": "Pitch & Polish Your Startup! Przejmij mikrofon juz teraz! Masz pomysł na startup na Solanie? To Twoja idealna okazja, żeby zapitchować go online, zebrać szczery feedback od ekspertów z ekosystemu i zdobyć bezcenny know-how, który da Ci gigantyczną przewagę na Demo Day i globalnym hackathonie",
     "language": "EN",
     "price": "Free",
     "tags": [
@@ -2586,7 +2561,7 @@
     "submitted": "2026-07-30",
     "time": "18:00",
     "venue": "Online Event",
-    "description_pl": "Pitch & Polish Your Startup! Przejmij mikrofon juz teraz! Masz pomysł na startup na Solanie? To Twoja idealna okazja, żeby zapitchować go online, zebrać szczery feedback od ekspertów z ekosystemu i zdobyć bezcenny know-how, który da Ci gigantyczną przewagę na Demo Day i globalnym hackathonie Colosseum. Nie potrzebujesz gotowego produktu ani pełnego zespołu. Po prostu wpadnij z pomysłem, o którym warto pogadać i chęcią do działania. Niezależnie od tego, czy przychodzisz z gotową wizją, czy tylko z energią do tworzenia, to twoja szansa, aby: 💡 Zapitchować swój pomysł i zgarnąć konkretny, eksperc"
+    "description_pl": "Pitch & Polish Your Startup! Przejmij mikrofon juz teraz! Masz pomysł na startup na Solanie? To Twoja idealna okazja, żeby zapitchować go online, zebrać szczery feedback od ekspertów z ekosystemu i zdobyć bezcenny know-how, który da Ci gigantyczną przewagę na Demo Day i globalnym hackathonie"
   },
   {
     "name": "PITCH & POLISH KRAKOW",
@@ -2594,7 +2569,7 @@
     "city": "Kraków",
     "url": "https://luma.com/PitchPolishKRK",
     "organizer": "Superteam Poland",
-    "description": "Pitch & Polish Your Startup! Kraków, czas przejąć mikrofon. Masz pomysł na startup na Solanie? To Twoja idealna okazja, żeby zapitchować go na żywo, zebrać szczery feedback od ekspertów z ekosystemu i zdobyć bezcenny know-how, który da Ci gigantyczną przewagę na nadchodzącym Warsaw Demo Day i globalnym hackathonie Colosseum. Nie potrzebujesz gotowego produktu ani pełnego zespołu. Po prostu wpadnij z pomysłem, o którym warto pogadać i chęcią do działania. Niezależnie od tego, czy przychodzisz z gotową wizją, czy tylko z energią do tworzenia, to twoja szansa, aby: 💡 Zapitchować swój pomysł na ży",
+    "description": "Pitch & Polish Your Startup! Kraków, czas przejąć mikrofon. Masz pomysł na startup na Solanie? To Twoja idealna okazja, żeby zapitchować go na żywo, zebrać szczery feedback od ekspertów z ekosystemu i zdobyć bezcenny know-how, który da Ci gigantyczną przewagę na nadchodzącym Warsaw Demo Day i",
     "language": "EN",
     "price": "Free",
     "tags": [
@@ -2608,7 +2583,7 @@
     "submitted": "2026-07-30",
     "time": "18:00",
     "venue": "Kraków, Województwo małopolskie",
-    "description_pl": "Pitch & Polish Your Startup! Kraków, czas przejąć mikrofon. Masz pomysł na startup na Solanie? To Twoja idealna okazja, żeby zapitchować go na żywo, zebrać szczery feedback od ekspertów z ekosystemu i zdobyć bezcenny know-how, który da Ci gigantyczną przewagę na nadchodzącym Warsaw Demo Day i globalnym hackathonie Colosseum. Nie potrzebujesz gotowego produktu ani pełnego zespołu. Po prostu wpadnij z pomysłem, o którym warto pogadać i chęcią do działania. Niezależnie od tego, czy przychodzisz z gotową wizją, czy tylko z energią do tworzenia, to twoja szansa, aby: 💡 Zapitchować swój pomysł na ży"
+    "description_pl": "Pitch & Polish Your Startup! Kraków, czas przejąć mikrofon. Masz pomysł na startup na Solanie? To Twoja idealna okazja, żeby zapitchować go na żywo, zebrać szczery feedback od ekspertów z ekosystemu i zdobyć bezcenny know-how, który da Ci gigantyczną przewagę na nadchodzącym Warsaw Demo Day i"
   },
   {
     "name": "Infoshare",
@@ -2727,7 +2702,6 @@
   {
     "name": "SNIP 19: Czy ja też muszę wdrożyć AI w swojej firmie?",
     "date": "2026-09-09",
-    "city": "TBA",
     "url": "https://app.evenea.pl/event/snip-19-2026/",
     "organizer": "Silesian Startup Foundation",
     "description": "SNIP 19: Czy ja też muszę wdrożyć AI w swojej firmie? 📍 Miejsce: TBA 📅 09 września 2026 r. ⏰ 10:00-13:30 SNIP ( Startups Networking & Innovations Platform) to wydarzenie łączące środowiska startupowe, biznesowe, przemysłowe i",
@@ -2784,7 +2758,7 @@
     "city": "Wrocław",
     "url": "https://docs.google.com/forms/d/e/1FAIpQLSf5PprpEY5V3qXtlW2aPVtI8wBsSjBPf1gUPfl2CV9feHLA7g/viewform",
     "organizer": "Concordia Design Wrocław",
-    "description": "Join us as we reflect on years at Concordia Design Wrocław defined by driving innovation, scaling tech companies, and building business bridges. The final Demo Day will offer a unique opportunity to meet promising startups from the Poland Prize cohort, highlighting the distinctive focus of this track.",
+    "description": "Join us as we reflect on years at Concordia Design Wrocław defined by driving innovation, scaling tech companies, and building business bridges. The final Demo Day will offer a unique opportunity to meet promising startups from the Poland Prize cohort, highlighting the distinctive focus of this",
     "description_pl": "Mijające lata w Concordia Design Wrocław upłynęły pod znakiem rozwoju innowacji, skalowania spółek technologicznych i budowania mostów biznesowych. Ostatni już Demo Day będzie okazją do poznania obiecujących startupów z rundy Poland Prize, mającej bardzo konkretną specyfikę.",
     "language": "EN",
     "price": "Free",
