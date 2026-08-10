@@ -825,7 +825,15 @@ function renderCard(ev) {
 
   const tags = (ev.tags || []).map(tag => `<span class="tag">${tv(tag)}</span>`).join('');
   const time = ev.time || '';
-  const desc = (currentLang === 'pl' && ev.description_pl) ? ev.description_pl : ev.description;
+  // Never show a review note to visitors. The worker strips these on write, but
+  // this page is the last line of defence: between 31.07 and 02.08.2026, and
+  // again from 06.08, published events carried "Date not provided in
+  // submission" as their public description.
+  const stripReviewNote = s => (s || '').replace(
+    /⚠\s*Date not (?:provided in submission|in submission|exposed on event page)\s*—\s*please complete before approving\.\s*/,
+    '').trim();
+  const desc = stripReviewNote(
+    (currentLang === 'pl' && ev.description_pl) ? ev.description_pl : ev.description);
   const price = ev.price ? tv(ev.price) : '';
   const audience = ev.audience
     ? ev.audience.split(', ').map(a => tv(a)).join(', ')
