@@ -1642,20 +1642,19 @@
   {
     "name": "Velo Ventures #5",
     "date": "2026-08-15",
-    "time": "09:00",
     "city": "Wrocław",
-    "venue": "",
     "url": "https://startupwro.meetingapplication.com/event/startup-wro-smth2806",
+    "time": "09:00",
+    "organizer": "Startup Wro",
     "description": "A casual group bike ride for the Wrocław startup community - networking on wheels with founders, builders and ecosystem friends.",
     "description_pl": "Luźny wspólny przejazd rowerowy dla wrocławskiej społeczności startupowej - networking w ruchu z founderami, builderami i znajomymi z ekosystemu.",
     "language": "EN",
+    "price": "Free",
     "tags": [
       "Meetup",
       "Networking"
     ],
     "audience": "Founders, Operators",
-    "organizer": "Startup Wro",
-    "price": "Free",
     "status": "approved",
     "added": "2026-07-20"
   },
