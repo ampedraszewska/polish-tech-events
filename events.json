@@ -241,7 +241,8 @@
     "audience": "Investors",
     "organizer": "Vestbee",
     "price": "Paid",
-    "added": "2026-03-07"
+    "added": "2026-03-07",
+    "end_date": "2026-03-25"
   },
   {
     "name": "Big Demo Day: Concordia Design x SWPS",
@@ -1706,7 +1707,8 @@
     "organizer": "PARP",
     "price": "Free",
     "status": "approved",
-    "added": "2026-06-29"
+    "added": "2026-06-29",
+    "end_date": "2026-08-25"
   },
   {
     "name": "At Work – Workplace Inspiration Day",
@@ -1952,7 +1954,8 @@
     "organizer": "Silesian Startup Foundation",
     "price": "Paid",
     "status": "approved",
-    "added": "2026-07-24"
+    "added": "2026-07-24",
+    "end_date": "2026-10-22"
   },
   {
     "name": "Made in Wroclaw 2026",
@@ -2311,7 +2314,9 @@
     "status": "approved",
     "added": "2026-07-29",
     "submitted": "2026-07-29",
-    "description_pl": "Największa w Polsce konferencja o Microsoft Power Platform, AI i aplikacjach biznesowych. Trzy dni praktycznych sesji, warsztatów i rozmów z ekspertami z Polski i zagranicy, dla osób automatyzujących procesy i łączących biznes z technologią."
+    "description_pl": "Największa w Polsce konferencja o Microsoft Power Platform, AI i aplikacjach biznesowych. Trzy dni praktycznych sesji, warsztatów i rozmów z ekspertami z Polski i zagranicy, dla osób automatyzujących procesy i łączących biznes z technologią.",
+    "end_date": "2026-09-26",
+    "venue": "Pomorski Park Naukowo-Technologiczny"
   },
   {
     "name": "NextGen Founders Meetup Warszawa",
