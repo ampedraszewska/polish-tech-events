@@ -2277,14 +2277,19 @@
   },
   {
     "name": "Zabłocie Morning Pitch",
-    "date": "",
+    "date": "2026-08-28",
     "status": "approved",
     "added": "2026-07-29",
     "submitted": "2026-05-27",
     "source": "tally-reconcile",
-    "url": "https://kms.org.pl/wydarzenie/zablocie-morning-pitch-2/",
+    "url": "https://kms.org.pl/wydarzenie/zablocie-morning-pitch/",
     "organizer": "Fundacja Kraków Miastem Startupów",
-    "description": "⚠ Date not in submission — please complete before approving."
+    "description": "Morning meetup series at the Entrepreneurship Incubator: a short pitch from an invited guest, questions and discussion, then networking over coffee. On 28 August the guest is Krzysztof Wizner, who builds mobile apps and MVPs.",
+    "time": "10:00",
+    "city": "Kraków",
+    "venue": "Klaster Innowacji Społeczno-Gospodarczych Zabłocie 20.22",
+    "description_pl": "Cykl porannych spotkań w Inkubatorze Przedsiębiorczości: krótki pitch zaproszonego gościa, pytania i dyskusja, potem networking przy kawie. 28 sierpnia gościem jest Krzysztof Wizner, twórca aplikacji mobilnych i MVP.",
+    "language": "PL"
   },
   {
     "name": "OpenCoffeeKraków",
@@ -2754,7 +2759,7 @@
       "Workshop"
     ],
     "audience": "General public, Corporate, Investors, Operators, Developers, Founders, Researchers, Students",
-    "status": "approved",
+    "status": "rejected",
     "added": "2026-08-06",
     "submitted": "2026-08-06"
   },
