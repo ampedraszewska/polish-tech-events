@@ -376,7 +376,10 @@
 
     /* ---- EMPTY STATE ---- */
     .empty { text-align: center; padding: 3rem; color: #9b8fb5; font-size: 0.8125rem; }
-  </style>
+    .char-count { font-size: 12px; margin-top: 4px; color: #6b7280; }
+  .char-count.over { color: #c62828; font-weight: 600; }
+  textarea.over { border-color: #c62828; }
+</style>
 </head>
 <body>
 
@@ -533,10 +536,12 @@
             <div class="field-group">
               <label>Description (EN)</label>
               <textarea id="add-description" placeholder="Short description in English…"></textarea>
+              <div class="char-count" id="add-description-count"></div>
             </div>
             <div class="field-group">
               <label>Description (PL)</label>
               <textarea id="add-description-pl" placeholder="Krótki opis po polsku…"></textarea>
+              <div class="char-count" id="add-description-pl-count"></div>
             </div>
             <div class="form-row">
               <div class="field-group">
@@ -617,10 +622,12 @@
       <div class="field-group">
         <label>Description (EN)</label>
         <textarea id="edit-description"></textarea>
+        <div class="char-count" id="edit-description-count"></div>
       </div>
       <div class="field-group">
         <label>Description (PL)</label>
         <textarea id="edit-description-pl"></textarea>
+        <div class="char-count" id="edit-description-pl-count"></div>
       </div>
       <div class="form-row">
         <div class="field-group">
@@ -919,6 +926,8 @@
     document.getElementById('edit-url').value = ev.url || '';
     document.getElementById('edit-description').value = ev.description || '';
     document.getElementById('edit-description-pl').value = ev.description_pl || '';
+    wireCharCounts();
+    refreshCharCounts('edit');
     document.getElementById('edit-language').value = ev.language || 'EN';
     document.getElementById('edit-price').value = ev.price || 'Free';
     document.getElementById('edit-tags').value = (ev.tags || []).join(', ');
@@ -983,6 +992,8 @@
       document.getElementById('add-venue').value        = ev.venue         || '';
       document.getElementById('add-description').value  = ev.description   || '';
       document.getElementById('add-description-pl').value = ev.description_pl || '';
+      wireCharCounts();
+      refreshCharCounts('add');
       if (ev.language) document.getElementById('add-language').value = ev.language;
       if (ev.price)    document.getElementById('add-price').value    = ev.price;
 
@@ -1030,9 +1041,60 @@
     const status = document.getElementById('fetchStatus');
     status.style.display = 'none';
     status.textContent = '';
+    refreshCharCounts('add');
   }
 
   // ---- FORM BUILDER ----
+  // ---- DESCRIPTION LENGTH ----
+  // Same 300 as admin-worker.js:MAX_DESCRIPTION and fetch_url_meta.py, so a
+  // hand-written description cannot be longer than one the scraper would produce.
+  // Change it in all three or not at all. Before this, an over-long description
+  // was accepted here and then rendered in full on the card.
+  const MAX_DESCRIPTION = 300;
+  const DESCRIPTION_FIELDS = ['description', 'description-pl'];
+
+  function updateCharCount(prefix, field) {
+    const ta = document.getElementById(`${prefix}-${field}`);
+    const out = document.getElementById(`${prefix}-${field}-count`);
+    if (!ta || !out) return;
+    const n = ta.value.trim().length;
+    const over = n - MAX_DESCRIPTION;
+    out.textContent = over > 0
+      ? `${n}/${MAX_DESCRIPTION} znaków — za długi o ${over}`
+      : `${n}/${MAX_DESCRIPTION} znaków`;
+    out.classList.toggle('over', over > 0);
+    ta.classList.toggle('over', over > 0);
+  }
+
+  function wireCharCounts() {
+    for (const prefix of ['add', 'edit']) {
+      for (const field of DESCRIPTION_FIELDS) {
+        const ta = document.getElementById(`${prefix}-${field}`);
+        if (!ta || ta.dataset.counted) continue;
+        ta.dataset.counted = '1';
+        ta.addEventListener('input', () => updateCharCount(prefix, field));
+      }
+    }
+  }
+
+  function refreshCharCounts(prefix) {
+    for (const field of DESCRIPTION_FIELDS) updateCharCount(prefix, field);
+  }
+
+  // Returns an error string, or '' when both descriptions fit.
+  function descriptionLengthError(prefix) {
+    const problems = [];
+    for (const field of DESCRIPTION_FIELDS) {
+      const ta = document.getElementById(`${prefix}-${field}`);
+      if (!ta) continue;
+      const over = ta.value.trim().length - MAX_DESCRIPTION;
+      if (over > 0) {
+        problems.push(`${field === 'description' ? 'Opis EN' : 'Opis PL'} za długi o ${over} zn.`);
+      }
+    }
+    return problems.join(' ');
+  }
+
   function buildEventFromForm(prefix) {
     const g = id => document.getElementById(`${prefix}-${id}`)?.value?.trim() || '';
     const name = g('name');
@@ -1041,6 +1103,12 @@
     const url = g('url');
     if (!name || !date || !city || !url) {
       showToast('Name, date, city, and URL are required.', true);
+      return null;
+    }
+    const tooLong = descriptionLengthError(prefix);
+    if (tooLong) {
+      showToast(`${tooLong} Limit to ${MAX_DESCRIPTION} znaków — skróć przed zapisem.`, true);
+      refreshCharCounts(prefix);
       return null;
     }
     const badge = g('badge');
