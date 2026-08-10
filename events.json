@@ -758,7 +758,8 @@
     "organizer": "Ayoub Morghati",
     "price": "Free",
     "status": "approved",
-    "added": "2026-05-21"
+    "added": "2026-05-21",
+    "description_pl": "Edycja Vibecoding Games na Dzień Matki. Zbuduj coś wartościowego dla mam, korzystając z narzędzi AI takich jak Lovable. Otwarte dla twórców, programistów, founderów, studentów i projektantów."
   },
   {
     "name": "Evolutions Partner Network Festival",
@@ -842,7 +843,7 @@
     "city": "Kraków",
     "venue": "Klaster Innowacji Społeczno-Gospodarczych, Zabłocie 20.22 (sala 203)",
     "url": "https://kms.org.pl/wydarzenie/zablocie-morning-pitch/",
-    "description": "Cykliczny networking dla twórców i przedsiębiorców (każdy 2. i 4. czwartek miesiąca, 10:00–12:00). Krótka prezentacja gościa, rundy zapoznawcze, kawa. Recurring networking meetup with guest talk + intro rounds + coffee. Nie trzeba zaproszenia.",
+    "description": "Recurring networking meetup for founders and entrepreneurs (every 2nd and 4th Thursday of the month, 10:00–12:00). Short guest talk, intro rounds, coffee. No invitation needed.",
     "language": "PL",
     "tags": [
       "Meetup",
@@ -852,7 +853,8 @@
     "organizer": "Fundacja Kraków Miastem Startupów",
     "price": "Free",
     "status": "approved",
-    "added": "2026-05-27"
+    "added": "2026-05-27",
+    "description_pl": "Cykliczny networking dla twórców i przedsiębiorców (każdy 2. i 4. czwartek miesiąca, 10:00–12:00). Krótka prezentacja gościa, rundy zapoznawcze, kawa. Nie trzeba zaproszenia."
   },
   {
     "name": "StartupyPoSąsiedzku - Warszawa #4",
@@ -898,7 +900,7 @@
     "city": "Kraków",
     "venue": "Business Link, Kraków city center (address upon registration)",
     "url": "https://luma.com/aic-po-6-1",
-    "description": "Evening exploring how to move AI prototypes into trusted, real-world products — keynotes on AI product development and panel on adoption, responsibility, organisational readiness. Wieczór o przejściu prototypów AI do zaufanych produktów.",
+    "description": "Evening exploring how to move AI prototypes into trusted, real-world products — keynotes on AI product development and a panel on adoption, responsibility and organisational readiness.",
     "language": "EN",
     "tags": [
       "Meetup",
@@ -908,7 +910,8 @@
     "organizer": "The AI Collective Poland (Wiktor Mijal)",
     "price": "Free",
     "status": "approved",
-    "added": "2026-05-25"
+    "added": "2026-05-25",
+    "description_pl": "Wieczór o przejściu prototypów AI do zaufanych produktów. Keynote'y o budowaniu produktów AI i panel o wdrożeniach, odpowiedzialności i gotowości organizacji."
   },
   {
     "name": "The AI Collective Poland: Humans in AI Week — Edu Breakfast w/ EdTech Dots (Kraków #10)",
@@ -917,7 +920,7 @@
     "city": "Kraków",
     "venue": "Address upon registration",
     "url": "https://luma.com/aic-po-6-2",
-    "description": "Curated breakfast roundtable on how AI is transforming learning in schools, universities and EdTech products — focus on the human perspective. Kameralne śniadanie i konkretna rozmowa o wpływie AI na edukatorów, studentów i organizacje edukacyjne.",
+    "description": "Curated breakfast roundtable on how AI is transforming learning in schools, universities and EdTech products, with a focus on the human perspective.",
     "language": "PL",
     "tags": [
       "Meetup",
@@ -927,7 +930,8 @@
     "organizer": "The AI Collective Poland (Wiktor Mijal)",
     "price": "Free",
     "status": "approved",
-    "added": "2026-05-25"
+    "added": "2026-05-25",
+    "description_pl": "Kameralne śniadanie i konkretna rozmowa o wpływie AI na edukatorów, studentów i organizacje edukacyjne — w szkołach, na uczelniach i w produktach EdTech."
   },
   {
     "name": "Perspektywy Women in Tech Summit 2026",
@@ -964,7 +968,8 @@
     "organizer": "Max Burgess, Vladyslav Muzhylivskyi",
     "price": "Free",
     "status": "approved",
-    "added": "2026-05-25"
+    "added": "2026-05-25",
+    "description_pl": "Poranny networking. Przedsiębiorcy i profesjonaliści przedstawiają się w 1-2 minuty: kim są, czym się zajmują i czego szukają. Część oficjalna kończy się o 9:30, rozmowy trwają do 10:00."
   },
   {
     "name": "Zabłocie Morning Pitch (2026-06-11)",
@@ -973,7 +978,7 @@
     "city": "Kraków",
     "venue": "Klaster Innowacji Społeczno-Gospodarczych, Zabłocie 20.22 (sala 203)",
     "url": "https://kms.org.pl/wydarzenie/zablocie-morning-pitch/",
-    "description": "Cykliczny networking dla twórców i przedsiębiorców (każdy 2. i 4. czwartek miesiąca, 10:00–12:00). Krótka prezentacja gościa, rundy zapoznawcze, kawa. Recurring networking meetup with guest talk + intro rounds + coffee. Nie trzeba zaproszenia.",
+    "description": "Recurring networking meetup for founders and entrepreneurs (every 2nd and 4th Thursday of the month, 10:00–12:00). Short guest talk, intro rounds, coffee. No invitation needed.",
     "language": "PL",
     "tags": [
       "Meetup",
@@ -983,7 +988,8 @@
     "organizer": "Fundacja Kraków Miastem Startupów",
     "price": "Free",
     "status": "approved",
-    "added": "2026-05-27"
+    "added": "2026-05-27",
+    "description_pl": "Cykliczny networking dla twórców i przedsiębiorców (każdy 2. i 4. czwartek miesiąca, 10:00–12:00). Krótka prezentacja gościa, rundy zapoznawcze, kawa. Nie trzeba zaproszenia."
   },
   {
     "name": "Cybersec Expo & Forum 2026",
@@ -1001,7 +1007,8 @@
     "audience": "Developers, Corporate",
     "organizer": "Cybersec",
     "price": "Paid",
-    "added": "2026-03-09"
+    "added": "2026-03-09",
+    "end_date": "2026-06-18"
   },
   {
     "name": "Kraków Enterprise Mondays #41",
@@ -1010,7 +1017,7 @@
     "city": "Kraków",
     "venue": "Klaster Innowacji Społeczno-Gospodarczych, Zabłocie 20.22",
     "url": "https://kms.org.pl/wydarzenie/kem41/",
-    "description": "Free networking series for entrepreneurs and founders — inspiring talks, 60-second pitch session, structured networking, afterparty. Bezpłatna seria networkingowa: wykłady, sesja pitchów, afterparty.",
+    "description": "Free networking series for entrepreneurs and founders — inspiring talks, a 60-second pitch session, structured networking and an afterparty.",
     "language": "EN+PL",
     "tags": [
       "Networking",
@@ -1020,7 +1027,8 @@
     "organizer": "Fundacja Kraków Miastem Startupów",
     "price": "Free",
     "status": "approved",
-    "added": "2026-05-25"
+    "added": "2026-05-25",
+    "description_pl": "Bezpłatna seria networkingowa dla przedsiębiorców i founderów: inspirujące wykłady, sesja pitchów po 60 sekund, networking i afterparty."
   },
   {
     "name": "StartupyPoSąsiedzku - Rzeszów #1",
@@ -1196,7 +1204,7 @@
     "city": "Kraków",
     "venue": "Klaster Innowacji Społeczno-Gospodarczych, Zabłocie 20.22",
     "url": "https://kms.org.pl/wydarzenie/demo-day/",
-    "description": "Wielki finał sześciomiesięcznego cyklu akceleracyjnego — 8 zespołów startupowych pitchuje przed jury inwestorów i publicznością, pula nagród 24,000 PLN, głosowanie publiczności. Grand finale of KRK InnoTech Starter & Hub Innowacji Małopolska — 8 startups pitch to investors, 24k PLN prize pool.",
+    "description": "Grand finale of the six-month KRK InnoTech Starter and Hub Innowacji Małopolska programme: 8 startups pitch to a jury of investors and the audience, with a 24,000 PLN prize pool and an audience vote.",
     "language": "EN+PL",
     "tags": [
       "Conference",
@@ -1207,7 +1215,8 @@
     "organizer": "Fundacja Kraków Miastem Startupów",
     "price": "Free",
     "status": "approved",
-    "added": "2026-05-27"
+    "added": "2026-05-27",
+    "description_pl": "Wielki finał sześciomiesięcznego cyklu akceleracyjnego. Osiem zespołów startupowych pitchuje przed jury inwestorów i publicznością, pula nagród 24 000 PLN, głosowanie publiczności."
   },
   {
     "name": "Zabłocie Morning Pitch (2026-06-25)",
@@ -1216,7 +1225,7 @@
     "city": "Kraków",
     "venue": "Klaster Innowacji Społeczno-Gospodarczych, Zabłocie 20.22 (sala 203)",
     "url": "https://kms.org.pl/wydarzenie/zablocie-morning-pitch/",
-    "description": "Cykliczny networking dla twórców i przedsiębiorców (każdy 2. i 4. czwartek miesiąca, 10:00–12:00). Krótka prezentacja gościa, rundy zapoznawcze, kawa. Recurring networking meetup with guest talk + intro rounds + coffee. Nie trzeba zaproszenia.",
+    "description": "Recurring networking meetup for founders and entrepreneurs (every 2nd and 4th Thursday of the month, 10:00–12:00). Short guest talk, intro rounds, coffee. No invitation needed.",
     "language": "PL",
     "tags": [
       "Meetup",
@@ -1226,7 +1235,8 @@
     "organizer": "Fundacja Kraków Miastem Startupów",
     "price": "Free",
     "status": "approved",
-    "added": "2026-05-27"
+    "added": "2026-05-27",
+    "description_pl": "Cykliczny networking dla twórców i przedsiębiorców (każdy 2. i 4. czwartek miesiąca, 10:00–12:00). Krótka prezentacja gościa, rundy zapoznawcze, kawa. Nie trzeba zaproszenia."
   },
   {
     "name": "The Founder's Story Kraków",
@@ -1319,7 +1329,8 @@
     "audience": "Developers, Founders, Researchers",
     "time": "18:00",
     "city": "Warszawa",
-    "language": "EN"
+    "language": "EN",
+    "description_pl": "Spotkanie społeczności Warsaw.AI, odcinek 31. Prelekcje i networking dla warszawskiej społeczności AI."
   },
   {
     "name": "AI Shift Meetup",
@@ -1959,7 +1970,8 @@
     "audience": "Founders, Investors, Corporate",
     "organizer": "Made in Wroclaw",
     "price": "Paid",
-    "added": "2026-03-09"
+    "added": "2026-03-09",
+    "end_date": "2026-10-28"
   },
   {
     "name": "UPGRADE'26",
@@ -2063,8 +2075,8 @@
     "price": "Free",
     "status": "approved",
     "added": "2026-07-20",
-    "description": "Największa konferencja i EXPO nowej mobilności w regionie CEE. Poznaj trendy w e-mobility, pojazdy zeroemisyjne oraz smart cities. Dołącz do liderów branży!",
-    "description_pl": "Największa konferencja i EXPO nowej mobilności w regionie CEE. Poznaj trendy w e-mobility, pojazdy zeroemisyjne oraz smart cities. Dołącz do liderów branży!"
+    "description": "The largest new-mobility conference and EXPO in the CEE region, covering e-mobility trends, zero-emission vehicles and smart cities.",
+    "description_pl": "Największa konferencja i EXPO nowej mobilności w regionie CEE. Poznaj trendy w e-mobility, pojazdy zeroemisyjne oraz smart cities."
   },
   {
     "name": "The Moat",
@@ -2259,11 +2271,11 @@
     "source": "tally-reconcile",
     "url": "https://kms.org.pl/wydarzenie/zablocie-morning-pitch/",
     "organizer": "Fundacja Kraków Miastem Startupów",
-    "description": "Morning meetup series at the Entrepreneurship Incubator: a short pitch from an invited guest, questions and discussion, then networking over coffee. On 28 August the guest is Krzysztof Wizner, who builds mobile apps and MVPs.",
+    "description": "Recurring networking meetup for founders and entrepreneurs (every 2nd and 4th Thursday of the month, 10:00–12:00). Short guest talk, intro rounds, coffee. No invitation needed.",
     "time": "10:00",
     "city": "Kraków",
     "venue": "Klaster Innowacji Społeczno-Gospodarczych Zabłocie 20.22",
-    "description_pl": "Cykl porannych spotkań w Inkubatorze Przedsiębiorczości: krótki pitch zaproszonego gościa, pytania i dyskusja, potem networking przy kawie. 28 sierpnia gościem jest Krzysztof Wizner, twórca aplikacji mobilnych i MVP.",
+    "description_pl": "Cykliczny networking dla twórców i przedsiębiorców (każdy 2. i 4. czwartek miesiąca, 10:00–12:00). Krótka prezentacja gościa, rundy zapoznawcze, kawa. Nie trzeba zaproszenia.",
     "language": "PL"
   },
   {
@@ -2278,7 +2290,8 @@
     "time": "08:30",
     "venue": "Yolk Workspace & Community, Józefa Sarego 5, Kraków",
     "city": "Kraków",
-    "description": "☕ Open Coffee Krakow Open Coffee is a friendly, informal networking event for entrepreneurs, professionals, expats, students, and anyone interested in Krakow’s business and startup community. 💡 The Idea Behind Open Coffee We want to help people make useful, real-world connections."
+    "description": "Open Coffee is a friendly, informal networking event for entrepreneurs, professionals, expats, students and anyone interested in Kraków's business and startup community. The idea is to help people make useful, real-world connections.",
+    "description_pl": "Open Coffee to nieformalny networking dla przedsiębiorców, profesjonalistów, expatów, studentów i wszystkich zainteresowanych krakowską społecznością biznesową i startupową. Chodzi o realne, przydatne kontakty."
   },
   {
     "name": "Baltic Summit",
@@ -2286,7 +2299,7 @@
     "city": "Gdynia",
     "url": "https://BalticSummit.pl",
     "organizer": "Baltic Power Platform Community",
-    "description": "The largest Microsoft Power Platform, AI and Business Applications conference in Poland\nThree days of practical sessions, hands‑on workshops, and real conversations with experts from Poland and across the World.\nFor people who automate processes, apply AI, and bridge business with technology.",
+    "description": "The largest Microsoft Power Platform, AI and Business Applications conference in Poland. Three days of practical sessions, hands-on workshops and conversations with experts from Poland and abroad, for people who automate processes and bridge business with technology.",
     "language": "EN",
     "price": "Paid",
     "tags": [
@@ -2297,7 +2310,8 @@
     "audience": "Developers, Corporate, Students, Investors",
     "status": "approved",
     "added": "2026-07-29",
-    "submitted": "2026-07-29"
+    "submitted": "2026-07-29",
+    "description_pl": "Największa w Polsce konferencja o Microsoft Power Platform, AI i aplikacjach biznesowych. Trzy dni praktycznych sesji, warsztatów i rozmów z ekspertami z Polski i zagranicy, dla osób automatyzujących procesy i łączących biznes z technologią."
   },
   {
     "name": "NextGen Founders Meetup Warszawa",
@@ -2399,7 +2413,8 @@
     "added": "2026-07-30",
     "submitted": "2026-07-30",
     "time": "10:00",
-    "description_pl": "Praktyczny kurs programowania na blockchainie: budujesz działający projekt do portfolio, uczysz się Rusta i podstaw ekosystemu Solany krok po kroku, pracujesz z mentorami i kończysz z dyplomem ukończenia."
+    "description_pl": "Praktyczny kurs programowania na blockchainie: budujesz działający projekt do portfolio, uczysz się Rusta i podstaw ekosystemu Solany krok po kroku, pracujesz z mentorami i kończysz z dyplomem ukończenia.",
+    "end_date": "2026-08-23"
   },
   {
     "name": "KURS PROGRAMOWANIA BLOCKCHAIN: KRAKÓW",
@@ -2419,7 +2434,8 @@
     "submitted": "2026-07-30",
     "time": "09:00",
     "venue": "Kraków, Województwo małopolskie",
-    "description_pl": "Praktyczny kurs programowania na blockchainie: budujesz działający projekt do portfolio, uczysz się Rusta i podstaw ekosystemu Solany krok po kroku, pracujesz z mentorami i kończysz z dyplomem ukończenia."
+    "description_pl": "Praktyczny kurs programowania na blockchainie: budujesz działający projekt do portfolio, uczysz się Rusta i podstaw ekosystemu Solany krok po kroku, pracujesz z mentorami i kończysz z dyplomem ukończenia.",
+    "end_date": "2026-08-30"
   },
   {
     "name": "KURS PROGRAMOWANIA BLOCKCHAIN: WROCŁAW",
@@ -2439,7 +2455,8 @@
     "submitted": "2026-07-30",
     "time": "09:00",
     "venue": "Wrocław, Polska",
-    "description_pl": "Praktyczny kurs programowania na blockchainie: budujesz działający projekt do portfolio, uczysz się Rusta i podstaw ekosystemu Solany krok po kroku, pracujesz z mentorami i kończysz z dyplomem ukończenia."
+    "description_pl": "Praktyczny kurs programowania na blockchainie: budujesz działający projekt do portfolio, uczysz się Rusta i podstaw ekosystemu Solany krok po kroku, pracujesz z mentorami i kończysz z dyplomem ukończenia.",
+    "end_date": "2026-09-06"
   },
   {
     "name": "KURS PROGRAMOWANIA BLOCKCHAIN: GDAŃSK",
@@ -2459,7 +2476,8 @@
     "submitted": "2026-07-30",
     "time": "12:00",
     "venue": "Gdańsk, Polska",
-    "description_pl": "Praktyczny kurs programowania na blockchainie: budujesz działający projekt do portfolio, uczysz się Rusta i podstaw ekosystemu Solany krok po kroku, pracujesz z mentorami i kończysz z dyplomem ukończenia."
+    "description_pl": "Praktyczny kurs programowania na blockchainie: budujesz działający projekt do portfolio, uczysz się Rusta i podstaw ekosystemu Solany krok po kroku, pracujesz z mentorami i kończysz z dyplomem ukończenia.",
+    "end_date": "2026-09-13"
   },
   {
     "name": "KURS PROGRAMOWANIA BLOCKCHAIN: ONLINE",
@@ -2479,7 +2497,8 @@
     "submitted": "2026-07-30",
     "time": "12:00",
     "venue": "Online Event",
-    "description_pl": "Praktyczny kurs programowania na blockchainie: budujesz działający projekt do portfolio, uczysz się Rusta i podstaw ekosystemu Solany krok po kroku, pracujesz z mentorami i kończysz z dyplomem ukończenia."
+    "description_pl": "Praktyczny kurs programowania na blockchainie: budujesz działający projekt do portfolio, uczysz się Rusta i podstaw ekosystemu Solany krok po kroku, pracujesz z mentorami i kończysz z dyplomem ukończenia.",
+    "end_date": "2026-09-20"
   },
   {
     "name": "BLOCKCHAIN HACK WARSAW",
@@ -2487,7 +2506,7 @@
     "city": "Warszawa",
     "url": "https://luma.com/BlockchainHackWWA",
     "organizer": "Superteam Poland",
-    "description": "BLOCKCHAIN HACK WARSAW Dwa dni, które zmienią Twój pomysł w działający projekt! Zapraszamy deweloperów, designerów i builderów na weekend intensywnego kodowania na Solanie. Wpadnij ze swoją ideą, dopracuj ją pod okiem doświadczonych mentorów, zaprezentuj przed jury i zgarnij nagrody z puli $3 000.",
+    "description": "Two days to turn an idea into a working project: a weekend of intensive Solana coding for developers, designers and builders. Refine your idea with mentors, pitch to the jury and compete for a $3,000 prize pool.",
     "language": "EN",
     "price": "Free",
     "tags": [
@@ -2498,7 +2517,8 @@
     "added": "2026-07-30",
     "submitted": "2026-07-30",
     "time": "10:00",
-    "description_pl": "BLOCKCHAIN HACK WARSAW Dwa dni, które zmienią Twój pomysł w działający projekt! Zapraszamy deweloperów, designerów i builderów na weekend intensywnego kodowania na Solanie. Wpadnij ze swoją ideą, dopracuj ją pod okiem doświadczonych mentorów, zaprezentuj przed jury i zgarnij nagrody z puli $3 000."
+    "description_pl": "Dwa dni, które zmienią Twój pomysł w działający projekt. Weekend intensywnego kodowania na Solanie dla deweloperów, designerów i builderów. Dopracuj pomysł pod okiem mentorów, zaprezentuj przed jury i zgarnij nagrody z puli $3 000.",
+    "end_date": "2026-09-27"
   },
   {
     "name": "BLOCKCHAIN HACK KRAKOW",
@@ -2506,7 +2526,7 @@
     "city": "Kraków",
     "url": "https://luma.com/BlockchainHackKRK",
     "organizer": "Superteam Poland",
-    "description": "BLOCKCHAIN HACK KRAKOW Dwa dni, które zmienią Twój pomysł w działający projekt! Zapraszamy deweloperów, designerów i builderów na weekend intensywnego kodowania na Solanie. Wpadnij ze swoją ideą, dopracuj ją pod okiem doświadczonych mentorów, zaprezentuj przed jury i zgarnij nagrody z puli $3 000.",
+    "description": "Two days to turn an idea into a working project: a weekend of intensive Solana coding for developers, designers and builders. Refine your idea with mentors, pitch to the jury and compete for a $3,000 prize pool.",
     "language": "EN",
     "price": "Free",
     "tags": [
@@ -2518,7 +2538,8 @@
     "submitted": "2026-07-30",
     "time": "09:00",
     "venue": "Kraków, Województwo małopolskie",
-    "description_pl": "BLOCKCHAIN HACK KRAKOW Dwa dni, które zmienią Twój pomysł w działający projekt! Zapraszamy deweloperów, designerów i builderów na weekend intensywnego kodowania na Solanie. Wpadnij ze swoją ideą, dopracuj ją pod okiem doświadczonych mentorów, zaprezentuj przed jury i zgarnij nagrody z puli $3 000."
+    "description_pl": "Dwa dni, które zmienią Twój pomysł w działający projekt. Weekend intensywnego kodowania na Solanie dla deweloperów, designerów i builderów. Dopracuj pomysł pod okiem mentorów, zaprezentuj przed jury i zgarnij nagrody z puli $3 000.",
+    "end_date": "2026-10-11"
   },
   {
     "name": "PITCH & POLISH WARSAW",
@@ -2587,11 +2608,11 @@
   },
   {
     "name": "Infoshare",
-    "date": "2027-05-20",
+    "date": "2027-05-19",
     "city": "Gdańsk",
     "url": "https://www.infoshare.pl",
     "organizer": "Infoshare",
-    "description": "We believe that technology is changing the world and each aspect of our lives. We promote it in hope to inspire people to embrace it and come up with their own innovations Join us in Gdansk. May 20-21, Gdansk.",
+    "description": "Twenty years of Infoshare, the biggest tech event in CEE: trends in AI, R&D and business scaling. 19-20 May 2027 at AmberExpo in Gdańsk.",
     "language": "EN",
     "price": "Paid",
     "tags": [
@@ -2600,7 +2621,10 @@
     "audience": "Founders, Developers, Investors, Corporate",
     "status": "approved",
     "added": "2026-08-03",
-    "submitted": "2026-08-03"
+    "submitted": "2026-08-03",
+    "description_pl": "Dwadzieścia lat Infoshare, największego wydarzenia technologicznego w Europie Środkowo-Wschodniej: trendy w AI, R&D i skalowaniu biznesu. 19-20 maja 2027 w AmberExpo w Gdańsku.",
+    "end_date": "2027-05-20",
+    "venue": "AmberExpo, Gdańsk"
   },
   {
     "name": "Infoshare Katowice",
@@ -2608,7 +2632,7 @@
     "city": "Katowice",
     "url": "https://www.katowice.infoshare.pl",
     "organizer": "Infoshare",
-    "description": "Infoshare Katowice to konferencja technologiczna łącząca biznes i technologie. Dołącz do nas 24-25 listopada w MCK Katowice.",
+    "description": "Infoshare Katowice is a technology conference bringing business and technology together: two days, three stages and 65 talks on growth, AI and R&D. 17-18 November at MCK Katowice.",
     "language": "EN",
     "price": "Paid",
     "tags": [
@@ -2619,7 +2643,8 @@
     "status": "approved",
     "added": "2026-08-03",
     "submitted": "2026-08-03",
-    "description_pl": "Infoshare Katowice to konferencja technologiczna łącząca biznes i technologie. Dołącz do nas 24-25 listopada w MCK Katowice."
+    "description_pl": "Infoshare Katowice to konferencja technologiczna łącząca biznes i technologie: dwa dni, trzy sceny i 65 prelekcji o skalowaniu, AI oraz R&D. 17-18 listopada w MCK Katowice.",
+    "end_date": "2026-11-18"
   },
   {
     "name": "SpaceBoost powered by Małopolska",
@@ -2627,7 +2652,7 @@
     "city": "Kraków",
     "url": "https://www.kpt.krakow.pl/program-wsparcia/spaceboost/",
     "organizer": "Krakowski Park Technologiczny",
-    "description": "Programy wsparcia Krakowskiego Parku Technologicznego dla firm i startupów, wspierające rozwój innowacji i przedsiębiorczości.",
+    "description": "Support programmes run by Kraków Technology Park for companies and startups, backing innovation and entrepreneurship.",
     "description_pl": "Programy wsparcia Krakowskiego Parku Technologicznego dla firm i startupów, wspierające rozwój innowacji i przedsiębiorczości.",
     "language": "PL",
     "price": "Free",
