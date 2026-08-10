@@ -2526,7 +2526,7 @@
     "city": "Warszawa",
     "url": "https://luma.com/PitchPolishWWA",
     "organizer": "Superteam Poland",
-    "description": "Pitch & Polish Your Startup! Warszawa, czas przejąć mikrofon. Masz pomysł na startup na Solanie? To Twoja idealna okazja, żeby zapitchować go na żywo, zebrać szczery feedback od ekspertów z ekosystemu i zdobyć bezcenny know-how, który da Ci gigantyczną przewagę na nadchodzącym Warsaw Demo Day i",
+    "description": "Pitch your Solana startup idea live and collect honest feedback from ecosystem experts. No finished product or full team needed, an idea is enough. Preparation for Warsaw Demo Day and the global Colosseum hackathon.",
     "language": "EN",
     "price": "Free",
     "tags": [
@@ -2539,7 +2539,7 @@
     "added": "2026-07-30",
     "submitted": "2026-07-30",
     "time": "18:00",
-    "description_pl": "Pitch & Polish Your Startup! Warszawa, czas przejąć mikrofon. Masz pomysł na startup na Solanie? To Twoja idealna okazja, żeby zapitchować go na żywo, zebrać szczery feedback od ekspertów z ekosystemu i zdobyć bezcenny know-how, który da Ci gigantyczną przewagę na nadchodzącym Warsaw Demo Day i"
+    "description_pl": "Pitchujesz swój pomysł na startup na Solanie na żywo i zbierasz szczery feedback od ekspertów z ekosystemu. Nie musisz mieć gotowego produktu ani pełnego zespołu, wystarczy pomysł. Przygotowanie przed Warsaw Demo Day i globalnym hackathonem Colosseum."
   },
   {
     "name": "PITCH & POLISH ONLINE",
@@ -2547,7 +2547,7 @@
     "city": "Online",
     "url": "https://luma.com/PitchPolishOnline",
     "organizer": "Superteam Poland",
-    "description": "Pitch & Polish Your Startup! Przejmij mikrofon juz teraz! Masz pomysł na startup na Solanie? To Twoja idealna okazja, żeby zapitchować go online, zebrać szczery feedback od ekspertów z ekosystemu i zdobyć bezcenny know-how, który da Ci gigantyczną przewagę na Demo Day i globalnym hackathonie",
+    "description": "Pitch your Solana startup idea live and collect honest feedback from ecosystem experts. No finished product or full team needed, an idea is enough. Preparation for Warsaw Demo Day and the global Colosseum hackathon.",
     "language": "EN",
     "price": "Free",
     "tags": [
@@ -2561,7 +2561,7 @@
     "submitted": "2026-07-30",
     "time": "18:00",
     "venue": "Online Event",
-    "description_pl": "Pitch & Polish Your Startup! Przejmij mikrofon juz teraz! Masz pomysł na startup na Solanie? To Twoja idealna okazja, żeby zapitchować go online, zebrać szczery feedback od ekspertów z ekosystemu i zdobyć bezcenny know-how, który da Ci gigantyczną przewagę na Demo Day i globalnym hackathonie"
+    "description_pl": "Pitchujesz swój pomysł na startup na Solanie na żywo i zbierasz szczery feedback od ekspertów z ekosystemu. Nie musisz mieć gotowego produktu ani pełnego zespołu, wystarczy pomysł. Przygotowanie przed Warsaw Demo Day i globalnym hackathonem Colosseum."
   },
   {
     "name": "PITCH & POLISH KRAKOW",
@@ -2569,7 +2569,7 @@
     "city": "Kraków",
     "url": "https://luma.com/PitchPolishKRK",
     "organizer": "Superteam Poland",
-    "description": "Pitch & Polish Your Startup! Kraków, czas przejąć mikrofon. Masz pomysł na startup na Solanie? To Twoja idealna okazja, żeby zapitchować go na żywo, zebrać szczery feedback od ekspertów z ekosystemu i zdobyć bezcenny know-how, który da Ci gigantyczną przewagę na nadchodzącym Warsaw Demo Day i",
+    "description": "Pitch your Solana startup idea live and collect honest feedback from ecosystem experts. No finished product or full team needed, an idea is enough. Preparation for Warsaw Demo Day and the global Colosseum hackathon.",
     "language": "EN",
     "price": "Free",
     "tags": [
@@ -2583,7 +2583,7 @@
     "submitted": "2026-07-30",
     "time": "18:00",
     "venue": "Kraków, Województwo małopolskie",
-    "description_pl": "Pitch & Polish Your Startup! Kraków, czas przejąć mikrofon. Masz pomysł na startup na Solanie? To Twoja idealna okazja, żeby zapitchować go na żywo, zebrać szczery feedback od ekspertów z ekosystemu i zdobyć bezcenny know-how, który da Ci gigantyczną przewagę na nadchodzącym Warsaw Demo Day i"
+    "description_pl": "Pitchujesz swój pomysł na startup na Solanie na żywo i zbierasz szczery feedback od ekspertów z ekosystemu. Nie musisz mieć gotowego produktu ani pełnego zespołu, wystarczy pomysł. Przygotowanie przed Warsaw Demo Day i globalnym hackathonem Colosseum."
   },
   {
     "name": "Infoshare",
@@ -2645,7 +2645,7 @@
     "city": "Kraków",
     "url": "https://www.waysconf.com/ways-startup-awards",
     "organizer": "WaysConf",
-    "description": "Ways Startup Awards is a competition for early-stage startups. Apply with a simple form, get selected for the final…",
+    "description": "Ways Startup Awards is a competition for early-stage startups: apply with a short form and get selected for the final.",
     "language": "EN",
     "price": "Free",
     "tags": [
@@ -2656,7 +2656,8 @@
     "audience": "Founders",
     "status": "approved",
     "added": "2026-08-06",
-    "submitted": "2026-08-06"
+    "submitted": "2026-08-06",
+    "description_pl": "Ways Startup Awards to konkurs dla startupów na wczesnym etapie: zgłoszenie przez krótki formularz, a potem kwalifikacja do finału."
   },
   {
     "name": "HRTT Bifor - Power Yoga dla HR-ów",
@@ -2664,7 +2665,7 @@
     "city": "Chorzów",
     "url": "https://app.evenea.pl/event/hrtechtalks-bifor-yoga/",
     "organizer": "Silesian Startup Foundation, What The Nut?!",
-    "description": "HR Tech Talks Bifor: Power Yoga na dachu Planetarium Zarządzasz ludźmi, projektujesz kulturę organizacji albo po prostu jesteś w środku organizacyjnych zmian - i czujesz, że wakacje minęły, zanim zdążyłaś/eś odpocząć? 26 sierpnia zapraszamy na",
+    "description": "Rooftop power yoga at the Planetarium for people who manage teams and shape company culture, and whose summer went by before they got any rest. 26 August.",
     "language": "EN",
     "price": "Paid",
     "tags": [
@@ -2676,7 +2677,7 @@
     "status": "approved",
     "added": "2026-08-06",
     "submitted": "2026-08-06",
-    "description_pl": "HR Tech Talks Bifor: Power Yoga na dachu Planetarium Zarządzasz ludźmi, projektujesz kulturę organizacji albo po prostu jesteś w środku organizacyjnych zmian - i czujesz, że wakacje minęły, zanim zdążyłaś/eś odpocząć? 26 sierpnia zapraszamy na"
+    "description_pl": "Power Yoga na dachu Planetarium dla osób, które zarządzają ludźmi i projektują kulturę organizacji, a wakacje minęły im, zanim zdążyły odpocząć. 26 sierpnia."
   },
   {
     "name": "HR Tech Talks #5: Mission: PEOPLE - Jak budować organizacje gotowe na ciągłą zmianę?",
@@ -2684,7 +2685,7 @@
     "city": "Katowice",
     "url": "https://app.evenea.pl/event/hrtechtalks-5-2026/",
     "organizer": "Silesian Startup Foundation, What The Nut?!",
-    "description": "HR Tech Talks #5 Mission: People Jak budować organizacje gotowe na ciągłą zmianę? Zmiana przestała być projektem. Stała się codziennością. Nowe technologie, sztuczna inteligencja, zmieniające się oczekiwania pracowników, niepewność gospodarcza i",
+    "description": "Fifth edition of HR Tech Talks, on building organisations ready for constant change: new technology, AI, shifting employee expectations and economic uncertainty as the everyday rather than a project.",
     "language": "EN",
     "price": "Paid",
     "tags": [
@@ -2697,14 +2698,14 @@
     "status": "approved",
     "added": "2026-08-06",
     "submitted": "2026-08-06",
-    "description_pl": "HR Tech Talks #5 Mission: People Jak budować organizacje gotowe na ciągłą zmianę? Zmiana przestała być projektem. Stała się codziennością. Nowe technologie, sztuczna inteligencja, zmieniające się oczekiwania pracowników, niepewność gospodarcza i"
+    "description_pl": "Piąta edycja HR Tech Talks o budowaniu organizacji gotowych na ciągłą zmianę: nowe technologie, sztuczna inteligencja, zmieniające się oczekiwania pracowników i niepewność gospodarcza jako codzienność, a nie projekt."
   },
   {
     "name": "SNIP 19: Czy ja też muszę wdrożyć AI w swojej firmie?",
     "date": "2026-09-09",
     "url": "https://app.evenea.pl/event/snip-19-2026/",
     "organizer": "Silesian Startup Foundation",
-    "description": "SNIP 19: Czy ja też muszę wdrożyć AI w swojej firmie? 📍 Miejsce: TBA 📅 09 września 2026 r. ⏰ 10:00-13:30 SNIP ( Startups Networking & Innovations Platform) to wydarzenie łączące środowiska startupowe, biznesowe, przemysłowe i",
+    "description": "SNIP (Startups Networking & Innovations Platform) brings together the startup, business, industrial and technology communities. The nineteenth edition asks whether every company really has to adopt AI. 10:00-13:30.",
     "language": "EN",
     "price": "Free",
     "tags": [
@@ -2716,7 +2717,7 @@
     "status": "approved",
     "added": "2026-08-06",
     "submitted": "2026-08-06",
-    "description_pl": "SNIP 19: Czy ja też muszę wdrożyć AI w swojej firmie? 📍 Miejsce: TBA 📅 09 września 2026 r. ⏰ 10:00-13:30 SNIP ( Startups Networking & Innovations Platform) to wydarzenie łączące środowiska startupowe, biznesowe, przemysłowe i"
+    "description_pl": "SNIP (Startups Networking & Innovations Platform) łączy środowiska startupowe, biznesowe, przemysłowe i technologiczne. Dziewiętnasta edycja odpowiada na pytanie, czy każda firma musi wdrażać AI. Godziny 10:00-13:30."
   },
   {
     "name": "AIBA 2026",
@@ -2758,8 +2759,8 @@
     "city": "Wrocław",
     "url": "https://docs.google.com/forms/d/e/1FAIpQLSf5PprpEY5V3qXtlW2aPVtI8wBsSjBPf1gUPfl2CV9feHLA7g/viewform",
     "organizer": "Concordia Design Wrocław",
-    "description": "Join us as we reflect on years at Concordia Design Wrocław defined by driving innovation, scaling tech companies, and building business bridges. The final Demo Day will offer a unique opportunity to meet promising startups from the Poland Prize cohort, highlighting the distinctive focus of this",
-    "description_pl": "Mijające lata w Concordia Design Wrocław upłynęły pod znakiem rozwoju innowacji, skalowania spółek technologicznych i budowania mostów biznesowych. Ostatni już Demo Day będzie okazją do poznania obiecujących startupów z rundy Poland Prize, mającej bardzo konkretną specyfikę.",
+    "description": "Demo Day of the Poland Prize round at Concordia Design, Wyspa Słodowa 7 in Wrocław, on 3 September at 16:30. Registration through the organiser's form is required.",
+    "description_pl": "Demo Day rundy Poland Prize w Concordia Design, Wyspa Słodowa 7 we Wrocławiu, 3 września o 16:30. Obowiązuje wcześniejsza rejestracja przez formularz organizatora.",
     "language": "EN",
     "price": "Free",
     "added": "2026-08-06",
@@ -2785,12 +2786,12 @@
     "url": "https://hackon.openmercato.com/",
     "venue": "Concordia Design Wrocław",
     "organizer": "Open Mercato",
-    "description_pl": "2,5 dnia budowania przyszłości developmentu",
+    "description_pl": "2,5 dnia budowania przyszłości developmentu.",
     "language": "EN+PL",
     "price": "Paid",
     "added": "2026-08-06",
     "status": "approved",
-    "description": "2,5 dnia budowania przyszłości developmentu"
+    "description": "Two and a half days of building the future of software development."
   },
   {
     "name": "Carpathian Drone Summit 2026",
