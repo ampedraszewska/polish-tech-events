@@ -2644,7 +2644,7 @@
     "city": "Kraków",
     "url": "https://www.kpt.krakow.pl/program-wsparcia/spaceboost/",
     "organizer": "Krakowski Park Technologiczny",
-    "description": "⚠ Date not provided in submission — please complete before approving. Programy wsparcia Krakowskiego Parku Technologicznego dla firm i startupów, wspierające rozwój innowacji i przedsiębiorczości.",
+    "description": "Programy wsparcia Krakowskiego Parku Technologicznego dla firm i startupów, wspierające rozwój innowacji i przedsiębiorczości.",
     "description_pl": "Programy wsparcia Krakowskiego Parku Technologicznego dla firm i startupów, wspierające rozwój innowacji i przedsiębiorczości.",
     "language": "PL",
     "price": "Free",
@@ -2662,7 +2662,7 @@
     "city": "Kraków",
     "url": "https://www.waysconf.com/ways-startup-awards",
     "organizer": "WaysConf",
-    "description": "⚠ Date not provided in submission — please complete before approving. Ways Startup Awards is a competition for early-stage startups. Apply with a simple form, get selected for the final…",
+    "description": "Ways Startup Awards is a competition for early-stage startups. Apply with a simple form, get selected for the final…",
     "language": "EN",
     "price": "Free",
     "tags": [
@@ -2681,7 +2681,7 @@
     "city": "Chorzów",
     "url": "https://app.evenea.pl/event/hrtechtalks-bifor-yoga/",
     "organizer": "Silesian Startup Foundation, What The Nut?!",
-    "description": "⚠ Date not provided in submission — please complete before approving. HR Tech Talks Bifor: Power Yoga na dachu Planetarium Zarządzasz ludźmi, projektujesz kulturę organizacji albo po prostu jesteś w środku organizacyjnych zmian - i czujesz, że wakacje minęły, zanim zdążyłaś/eś odpocząć? 26 sierpnia zapraszamy na",
+    "description": "HR Tech Talks Bifor: Power Yoga na dachu Planetarium Zarządzasz ludźmi, projektujesz kulturę organizacji albo po prostu jesteś w środku organizacyjnych zmian - i czujesz, że wakacje minęły, zanim zdążyłaś/eś odpocząć? 26 sierpnia zapraszamy na",
     "language": "EN",
     "price": "Paid",
     "tags": [
@@ -2692,7 +2692,8 @@
     "audience": "General public, Founders, Developers, Operators, Researchers, Investors, Corporate, Students",
     "status": "approved",
     "added": "2026-08-06",
-    "submitted": "2026-08-06"
+    "submitted": "2026-08-06",
+    "description_pl": "HR Tech Talks Bifor: Power Yoga na dachu Planetarium Zarządzasz ludźmi, projektujesz kulturę organizacji albo po prostu jesteś w środku organizacyjnych zmian - i czujesz, że wakacje minęły, zanim zdążyłaś/eś odpocząć? 26 sierpnia zapraszamy na"
   },
   {
     "name": "HR Tech Talks #5: Mission: PEOPLE - Jak budować organizacje gotowe na ciągłą zmianę?",
@@ -2700,7 +2701,7 @@
     "city": "Katowice",
     "url": "https://app.evenea.pl/event/hrtechtalks-5-2026/",
     "organizer": "Silesian Startup Foundation, What The Nut?!",
-    "description": "⚠ Date not provided in submission — please complete before approving. HR Tech Talks #5 Mission: People Jak budować organizacje gotowe na ciągłą zmianę? Zmiana przestała być projektem. Stała się codziennością. Nowe technologie, sztuczna inteligencja, zmieniające się oczekiwania pracowników, niepewność gospodarcza i",
+    "description": "HR Tech Talks #5 Mission: People Jak budować organizacje gotowe na ciągłą zmianę? Zmiana przestała być projektem. Stała się codziennością. Nowe technologie, sztuczna inteligencja, zmieniające się oczekiwania pracowników, niepewność gospodarcza i",
     "language": "EN",
     "price": "Paid",
     "tags": [
@@ -2712,7 +2713,8 @@
     "audience": "Founders, Developers, Corporate, Researchers",
     "status": "approved",
     "added": "2026-08-06",
-    "submitted": "2026-08-06"
+    "submitted": "2026-08-06",
+    "description_pl": "HR Tech Talks #5 Mission: People Jak budować organizacje gotowe na ciągłą zmianę? Zmiana przestała być projektem. Stała się codziennością. Nowe technologie, sztuczna inteligencja, zmieniające się oczekiwania pracowników, niepewność gospodarcza i"
   },
   {
     "name": "SNIP 19: Czy ja też muszę wdrożyć AI w swojej firmie?",
@@ -2720,7 +2722,7 @@
     "city": "TBA",
     "url": "https://app.evenea.pl/event/snip-19-2026/",
     "organizer": "Silesian Startup Foundation",
-    "description": "⚠ Date not provided in submission — please complete before approving. SNIP 19: Czy ja też muszę wdrożyć AI w swojej firmie? 📍 Miejsce: TBA 📅 09 września 2026 r. ⏰ 10:00-13:30 SNIP ( Startups Networking & Innovations Platform) to wydarzenie łączące środowiska startupowe, biznesowe, przemysłowe i",
+    "description": "SNIP 19: Czy ja też muszę wdrożyć AI w swojej firmie? 📍 Miejsce: TBA 📅 09 września 2026 r. ⏰ 10:00-13:30 SNIP ( Startups Networking & Innovations Platform) to wydarzenie łączące środowiska startupowe, biznesowe, przemysłowe i",
     "language": "EN",
     "price": "Free",
     "tags": [
@@ -2731,7 +2733,8 @@
     "audience": "General public, Students, Corporate, Researchers, Investors, Developers, Founders, Operators",
     "status": "approved",
     "added": "2026-08-06",
-    "submitted": "2026-08-06"
+    "submitted": "2026-08-06",
+    "description_pl": "SNIP 19: Czy ja też muszę wdrożyć AI w swojej firmie? 📍 Miejsce: TBA 📅 09 września 2026 r. ⏰ 10:00-13:30 SNIP ( Startups Networking & Innovations Platform) to wydarzenie łączące środowiska startupowe, biznesowe, przemysłowe i"
   },
   {
     "name": "AIBA 2026",
@@ -2739,7 +2742,7 @@
     "city": "Katowice",
     "url": "https://aibaconference.com/",
     "organizer": "Silesian Startup Foundation",
-    "description": "⚠ Date not provided in submission — please complete before approving. The AIBA conference serves as a bridge between AI innovators and business leaders, aligning organizations around AI-driven growth. Let&#039;s Get AI Right | AiBA Conference 2025. Katowice, Poland",
+    "description": "The AIBA conference serves as a bridge between AI innovators and business leaders, aligning organizations around AI-driven growth. Let&#039;s Get AI Right | AiBA Conference 2025. Katowice, Poland",
     "language": "EN",
     "price": "Paid",
     "tags": [
