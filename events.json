@@ -2845,5 +2845,25 @@
     "description_pl": "Dwadzieścia lat Infoshare, największego wydarzenia technologicznego w Europie Środkowo-Wschodniej: trendy w AI, R&D i skalowaniu biznesu. 19-20 maja 2027 w AmberExpo w Gdańsku.",
     "end_date": "2027-05-20",
     "venue": "AmberExpo, Gdańsk"
+  },
+  {
+    "name": "Upgrade Your Business vol. 73 Komunikacja w dobie promptów",
+    "date": "",
+    "status": "pending",
+    "added": "2026-08-18",
+    "submitted": "2026-08-18",
+    "url": "https://www.startuppodbeskidzie.pl/wydarzenia/komunikacja-w-dobie-promptw/",
+    "organizer": "Fundacja Startup Podbeskidzie",
+    "price": "Paid",
+    "tags": [
+      "Conference",
+      "Meetup",
+      "Networking"
+    ],
+    "audience": "Founders, General public, Students",
+    "enriched": true,
+    "description_pl": "17 września 2026 @ 18:00 - 22:00 - Czego dotyczą prelekcje 🥳Zapraszamy na wrześniowe wydarzenie Upgrade Your Business organizowane w ramach festiwalu BBdays4IT. W świecie, w którym sztuczna inteligencja przyspiesza tworzenie treści, grafik, kampanii i komunikatów, coraz trudniej jest naprawdę się",
+    "language": "PL",
+    "description": "⚠ Date not provided in submission — please complete before approving."
   }
 ]
