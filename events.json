@@ -6,7 +6,11 @@
     "organizer": "Fundacja Quantum AI",
     "status": "rejected",
     "added": "2026-06-12",
-    "reject_reason": "Research programme, not a single dated event"
+    "reject_reason": "Research programme, not a single dated event",
+    "enriched": true,
+    "description": "AIntern 2026",
+    "price": "Free",
+    "language": "EN"
   },
   {
     "name": "The AI Collective Poland",
@@ -15,7 +19,10 @@
     "organizer": "Wiktor Mijal",
     "status": "rejected",
     "added": "2026-06-12",
-    "reject_reason": "Chapter landing page, not a single dated event"
+    "reject_reason": "Chapter landing page, not a single dated event",
+    "enriched": true,
+    "description": "Join The AI Collective's Poland chapter. Connect with local AI enthusiasts, attend events, and be part of a community driving beneficial AI progress in Poland.",
+    "language": "EN"
   },
   {
     "name": "Serial networkers Business Mixer - Konferencje w Katowicach, 16.07.2026",
@@ -24,7 +31,14 @@
     "organizer": "Serial networkers",
     "status": "rejected",
     "added": "2026-07-16",
-    "reject_reason": "Duplicate submission (name field left blank, resubmitted 75s later) — approved under 'Serial networkers Business Mixer'"
+    "reject_reason": "Duplicate submission (name field left blank, resubmitted 75s later) — approved under 'Serial networkers Business Mixer'",
+    "enriched": true,
+    "description_pl": "Robimy spontaniczną, wakacyjną edycję! Będzie dynamicznie, konkretnie i w fajnym klimacie. Jeśli masz dość sztywnych konferencji, nasza formuła zorganizowanego matchmakingu na pewno Ci się spodoba. Gdzie się widzimy? Spotykamy się w przestrzeni",
+    "price": "Paid",
+    "tags": [
+      "Conference",
+      "Networking"
+    ]
   },
   {
     "name": "Placemaking Week Europe Wrocław 2026",
@@ -32,7 +46,10 @@
     "organizer": "Placemaking Europe",
     "status": "rejected",
     "reject_reason": "Poza zakresem - festiwal urbanistyki, nie tech/startup/biznes",
-    "added": "2026-07-20"
+    "added": "2026-07-20",
+    "enriched": true,
+    "description": "PEW arrives in Wrocław –a city where history and future meet, and where the energy of its residents drives every street, square, and public space.",
+    "language": "EN"
   },
   {
     "name": "The Moat",
@@ -41,7 +58,14 @@
     "organizer": "Hard2beat",
     "status": "rejected",
     "added": "2026-07-21",
-    "reject_reason": "Duplicate re-submission — already live as 'THE MOAT' (23.09.2026, Cedet Warszawa, approved 2026-07-20)"
+    "reject_reason": "Duplicate re-submission — already live as 'THE MOAT' (23.09.2026, Cedet Warszawa, approved 2026-07-20)",
+    "enriched": true,
+    "description": "All you need to know about deep tech in Poland. In one day. Pitch contest, matched 1:1 meetings, and investor networking. Invitation only.",
+    "tags": [
+      "Networking"
+    ],
+    "audience": "Investors",
+    "language": "EN"
   },
   {
     "name": " XXXIV Forum Ekonomiczne Karpacz",
@@ -2888,7 +2912,7 @@
   {
     "name": "OMGKRK Summer Jam 2026: SIGNAL",
     "date": "",
-    "status": "pending",
+    "status": "approved",
     "added": "2026-08-18",
     "submitted": "2026-08-18",
     "url": "https://www.omgkrk.com/summer-jam-2026/",
