@@ -2865,5 +2865,24 @@
     "description_pl": "17 września 2026 @ 18:00 - 22:00 - Czego dotyczą prelekcje 🥳Zapraszamy na wrześniowe wydarzenie Upgrade Your Business organizowane w ramach festiwalu BBdays4IT. W świecie, w którym sztuczna inteligencja przyspiesza tworzenie treści, grafik, kampanii i komunikatów, coraz trudniej jest naprawdę się",
     "language": "PL",
     "description": "⚠ Date not provided in submission — please complete before approving."
+  },
+  {
+    "name": "Co zasila biznes v. 1",
+    "date": "",
+    "status": "pending",
+    "added": "2026-08-18",
+    "submitted": "2026-08-18",
+    "url": "https://fb.me/e/4kbVFS33T",
+    "organizer": "Fundacja Startup Podbeskidzie",
+    "price": "Paid",
+    "tags": [
+      "Meetup",
+      "Conference",
+      "Networking"
+    ],
+    "audience": "Founders, Students, Investors",
+    "enriched": true,
+    "description": "⚠ Date not provided in submission — please complete before approving. Event in Bielsko-Biała, Poland by Startup Podbeskidzie and Wojciech Bachta on Friday, August 28 2026",
+    "language": "EN"
   }
 ]
