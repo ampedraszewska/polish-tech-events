@@ -2925,5 +2925,22 @@
     "enriched": true,
     "language": "EN",
     "description": "⚠ Date not provided in submission — please complete before approving."
+  },
+  {
+    "name": "Tech Tap Tuesday vol. 20",
+    "date": "",
+    "status": "pending",
+    "added": "2026-08-18",
+    "submitted": "2026-08-18",
+    "url": "https://startupwro.meetingapplication.com/event/tech-tap-tuesday5",
+    "organizer": "Startup Wroclaw",
+    "price": "Paid",
+    "tags": [
+      "Meetup",
+      "Networking"
+    ],
+    "audience": "Founders, Developers, Operators, Researchers, Investors, Corporate, Students, General public",
+    "enriched": true,
+    "description": "⚠ Date not provided in submission — please complete before approving."
   }
 ]
