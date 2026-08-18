@@ -2884,5 +2884,22 @@
     "enriched": true,
     "description": "⚠ Date not provided in submission — please complete before approving. Event in Bielsko-Biała, Poland by Startup Podbeskidzie and Wojciech Bachta on Friday, August 28 2026",
     "language": "EN"
+  },
+  {
+    "name": "OMGKRK Summer Jam 2026: SIGNAL",
+    "date": "",
+    "status": "pending",
+    "added": "2026-08-18",
+    "submitted": "2026-08-18",
+    "url": "https://www.omgkrk.com/summer-jam-2026/",
+    "organizer": "OMGKRK",
+    "price": "Paid",
+    "tags": [
+      "Networking"
+    ],
+    "audience": "Founders, Operators, Developers, Investors",
+    "enriched": true,
+    "language": "EN",
+    "description": "⚠ Date not provided in submission — please complete before approving."
   }
 ]
