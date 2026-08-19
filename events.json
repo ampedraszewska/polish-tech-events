@@ -2093,7 +2093,6 @@
     "date": "2026-08-25",
     "time": "18:00",
     "city": "Wrocław",
-    "venue": "",
     "url": "https://startupwro.meetingapplication.com/event/tech-tap-tuesday5",
     "description": "Casual after-work networking for the Wrocław startup community - no agenda, no slides, just founders, builders and ecosystem friends over a drink.",
     "description_pl": "Luźny after-workowy networking wrocławskiej społeczności startupowej - bez agendy i slajdów, tylko founderzy, builderzy i znajomi z ekosystemu przy piwie.",
@@ -2946,5 +2945,23 @@
     "description_pl": "Dwadzieścia lat Infoshare, największego wydarzenia technologicznego w Europie Środkowo-Wschodniej: trendy w AI, R&D i skalowaniu biznesu. 19-20 maja 2027 w AmberExpo w Gdańsku.",
     "end_date": "2027-05-20",
     "venue": "AmberExpo, Gdańsk"
+  },
+  {
+    "name": "Z Horyzontem w chmury - program kompetencji cyfrowych dla kobiet",
+    "date": "",
+    "status": "pending",
+    "added": "2026-08-19",
+    "submitted": "2026-08-19",
+    "url": "https://cyfrowaekspertka.horyzontwiedzy.edu.pl/",
+    "organizer": "Stowarzyszenie Rozwoju i Edukacji \"Horyzont Wiedzy\"",
+    "price": "Paid",
+    "tags": [
+      "Workshop"
+    ],
+    "audience": "General public",
+    "enriched": true,
+    "description_pl": "Zostań Cyfrową Ekspertką: bezpłatne szkolenia online z Microsoft Azure dla kobiet. Tryb dzienny, wieczorowy lub weekendowy. Zdobądź certyfikat.",
+    "language": "PL",
+    "description": "⚠ Date not provided in submission — please complete before approving."
   }
 ]
