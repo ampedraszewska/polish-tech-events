@@ -74,35 +74,93 @@
     "city": "Karpacz",
     "status": "rejected",
     "added": "2026-07-24",
-    "reject_reason": "Duplikat: zgłoszono stary link XXXIV (2025); aktualne XXXV (2026-09-08, Karpacz) już opublikowane."
+    "reject_reason": "Duplikat: zgłoszono stary link XXXIV (2025); aktualne XXXV (2026-09-08, Karpacz) już opublikowane.",
+    "enriched": true,
+    "description_pl": "Forum Ekonomiczne – coroczne międzynarodowe spotkanie przedstawicieli kręgów gospodarczych i politycznych regionu Europy Środkowo-Wschodniej odbywające się od 1992 roku w pierwszej połowie września.",
+    "tags": [
+      "Conference",
+      "Meetup"
+    ],
+    "language": "PL"
   },
   {
     "name": "(untitled submission)",
     "url": "https://luma.com/32imv04f",
     "status": "rejected",
     "reject_reason": "Duplicate of existing entry 'Śniadanie CreativeTech Masterclass: Od Pomysłu do Monetyzacji' (approved in events.json); Tally reconcile resurfaced it. Auto-tombstoned 2026-07-27.",
-    "added": "2026-07-27"
+    "added": "2026-07-27",
+    "enriched": true,
+    "date": "2026-07-31",
+    "time": "08:30",
+    "venue": "Prześwit - Kolektywna Instytucja Kultury",
+    "city": "Warszawa",
+    "description_pl": "Masz w głowie nowy produkt, funkcjonalność lub kierunek rozwoju projektu lub biznesu? Zanim zainwestujesz czas i budżet w realizację, sprawdź, czy rynek w ogóle zechce za to zapłacić. Bez spiny, bez nudnych slajdów – za to w luźnej, warsztatowej i letniej atmosferze.",
+    "organizer": "Dream-n-Vision, Dream - n - Vision, CreativeTech Poland",
+    "price": "Free",
+    "tags": [
+      "Workshop"
+    ],
+    "language": "EN"
   },
   {
     "name": "(untitled submission)",
     "url": "https://luma.com/8aue6mzl",
     "status": "rejected",
     "reject_reason": "Duplicate of existing entry '#5 Spotkanie networkingowe Kobiet w Creative Tech' (approved in events.json); Tally reconcile resurfaced it. Auto-tombstoned 2026-07-27.",
-    "added": "2026-07-27"
+    "added": "2026-07-27",
+    "enriched": true,
+    "date": "2026-11-25",
+    "time": "18:00",
+    "venue": "Prześwit - Kolektywna Instytucja Kultury",
+    "city": "Warszawa",
+    "description_pl": "Women in Creative Tech (Kobiety w Creative Tech) to spotkanie networkingowe dla kobiet działających na styku technologii i kreatywności. To przestrzeń do wymiany doświadczeń, nawiązywania wartościowych kontaktów i inspirowania się historiami innych kobiet z branży.",
+    "organizer": "CreativeTech Poland",
+    "price": "Free",
+    "tags": [
+      "Networking",
+      "Meetup"
+    ],
+    "language": "EN"
   },
   {
     "name": "(untitled submission)",
     "url": "https://luma.com/zr8l4wwe",
     "status": "rejected",
     "reject_reason": "Duplicate of existing entry 'CreativeTech Poland Meetup_04' (approved in events.json); Tally reconcile resurfaced it. Auto-tombstoned 2026-07-27.",
-    "added": "2026-07-27"
+    "added": "2026-07-27",
+    "enriched": true,
+    "date": "2026-09-30",
+    "time": "18:00",
+    "venue": "Prześwit - Kolektywna Instytucja Kultury",
+    "city": "Warszawa",
+    "description": "CreativeTech Poland Meetups are a series of events exploring the intersection of technology, design, art, and business. They bring together designers, developers, artists, founders, and creators working with AI, creative coding, new media, and digital products.",
+    "organizer": "CreativeTech Poland",
+    "price": "Free",
+    "tags": [
+      "Meetup"
+    ],
+    "audience": "Founders, Developers",
+    "language": "EN"
   },
   {
     "name": "(untitled submission)",
     "url": "https://luma.com/o0egel4o",
     "status": "rejected",
     "reject_reason": "Duplicate of existing entry '#4 Spotkanie networkingowe Kobiet w Creative Tech' (approved in events.json); Tally reconcile resurfaced it. Auto-tombstoned 2026-07-27.",
-    "added": "2026-07-27"
+    "added": "2026-07-27",
+    "enriched": true,
+    "date": "2026-09-23",
+    "time": "18:00",
+    "venue": "Prześwit - Kolektywna Instytucja Kultury",
+    "city": "Warszawa",
+    "description_pl": "Women in Creative Tech (Kobiety w Creative Tech) to spotkanie networkingowe dla kobiet działających na styku technologii i kreatywności. To przestrzeń do wymiany doświadczeń, nawiązywania wartościowych kontaktów i inspirowania się historiami innych kobiet z branży.",
+    "organizer": "CreativeTech Poland",
+    "price": "Free",
+    "tags": [
+      "Networking",
+      "Meetup"
+    ],
+    "language": "EN"
   },
   {
     "name": "(untitled submission)",
@@ -309,7 +367,7 @@
   {
     "name": "Z Horyzontem w chmury - program kompetencji cyfrowych dla kobiet",
     "date": "",
-    "status": "pending",
+    "status": "rejected",
     "added": "2026-08-19",
     "submitted": "2026-08-19",
     "url": "https://cyfrowaekspertka.horyzontwiedzy.edu.pl/",
