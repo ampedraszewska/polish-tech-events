@@ -3022,5 +3022,20 @@
     "description_pl": "Dwadzieścia lat Infoshare, największego wydarzenia technologicznego w Europie Środkowo-Wschodniej: trendy w AI, R&D i skalowaniu biznesu. 19-20 maja 2027 w AmberExpo w Gdańsku.",
     "end_date": "2027-05-20",
     "venue": "AmberExpo, Gdańsk"
+  },
+  {
+    "name": "BLOCKCHAIN HACK KRAKOW",
+    "date": "",
+    "status": "pending",
+    "added": "2026-09-01",
+    "submitted": "2026-09-01",
+    "url": "https://luma.com/event/evt-fl7UbFv746gIvU6",
+    "organizer": "Superteam Poland",
+    "description": "⚠ Date not provided in submission — please complete before approving.",
+    "price": "Paid",
+    "tags": [
+      "Hackathon"
+    ],
+    "audience": "Founders, Developers, Researchers, Students"
   }
 ]
