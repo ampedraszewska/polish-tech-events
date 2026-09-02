@@ -3091,5 +3091,26 @@
     "enriched": true,
     "description_pl": "🚀 Hospital Innovation Summit & Demo Day - j edno wydarzenie, podczas którego innowacje spotykają się z realnymi potrzebami szpitali. Zapraszamy na Hospital Innovation Summit & Demo Day 2026 - jedno z najważniejszych wydarzeń 5. edycji MCSC",
     "description": "⚠ Date not provided in submission — please complete before approving."
+  },
+  {
+    "name": "Polsko-Niemieckie Forum Innowacji",
+    "date": "2026-09-17",
+    "status": "pending",
+    "added": "2026-09-02",
+    "submitted": "2026-09-02",
+    "url": "https://www.eventbrite.de/e/polish-german-innovation-forum-tickets-1992625937820",
+    "price": "Paid",
+    "tags": [
+      "Conference",
+      "Networking"
+    ],
+    "enriched": true,
+    "time": "10:00",
+    "venue": "PKO Bank Polski",
+    "city": "Warszawa",
+    "description": "The Forum brings together Polish innovators, ranging from corporations to startups, and connects them with German innovation hubs.",
+    "organizer": "de:hub Initiative",
+    "audience": "Founders",
+    "language": "EN"
   }
 ]
