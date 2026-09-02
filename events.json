@@ -2201,6 +2201,29 @@
     "description_pl": "Forum laczy polskich innowatorow, od korporacji po startupy, z niemieckimi hubami innowacji."
   },
   {
+    "name": "Upgrade Your Business vol. 73 Komunikacja w dobie promptów",
+    "date": "2026-09-17",
+    "status": "approved",
+    "added": "2026-08-18",
+    "submitted": "2026-08-18",
+    "url": "https://www.startuppodbeskidzie.pl/wydarzenia/komunikacja-w-dobie-promptw/",
+    "organizer": "Fundacja Startup Podbeskidzie",
+    "price": "Paid",
+    "tags": [
+      "Conference",
+      "Meetup",
+      "Networking"
+    ],
+    "audience": "Founders, General public, Students",
+    "enriched": true,
+    "description_pl": "Wrzesniowa edycja Upgrade Your Business w ramach festiwalu BBdays4IT. O tym, jak wyroznic sie w komunikacji, gdy sztuczna inteligencja przyspiesza tworzenie tresci, grafik i kampanii.",
+    "language": "PL",
+    "description": "The September edition of Upgrade Your Business, part of the BBdays4IT festival: how to stand out in communication now that AI accelerates the production of content, graphics and campaigns.",
+    "time": "18:00",
+    "city": "Bielsko-Biała",
+    "venue": "Centrum Badawczo-Rozwojowe Rekord SI"
+  },
+  {
     "name": "SpaceBoost powered by Małopolska",
     "date": "2026-09-18",
     "city": "Kraków",
@@ -3044,26 +3067,6 @@
     "status": "rejected",
     "reject_reason": "Duplicate of already-approved entry \"Kręgi Eksperckie Startup Founders\" (2026-09-17). Auto-tombstoned by event-triage.",
     "added": "2026-08-12"
-  },
-  {
-    "name": "Upgrade Your Business vol. 73 Komunikacja w dobie promptów",
-    "date": "",
-    "status": "approved",
-    "added": "2026-08-18",
-    "submitted": "2026-08-18",
-    "url": "https://www.startuppodbeskidzie.pl/wydarzenia/komunikacja-w-dobie-promptw/",
-    "organizer": "Fundacja Startup Podbeskidzie",
-    "price": "Paid",
-    "tags": [
-      "Conference",
-      "Meetup",
-      "Networking"
-    ],
-    "audience": "Founders, General public, Students",
-    "enriched": true,
-    "description_pl": "17 września 2026 @ 18:00 - 22:00 - Czego dotyczą prelekcje 🥳Zapraszamy na wrześniowe wydarzenie Upgrade Your Business organizowane w ramach festiwalu BBdays4IT. W świecie, w którym sztuczna inteligencja przyspiesza tworzenie treści, grafik, kampanii i komunikatów, coraz trudniej jest naprawdę się",
-    "language": "PL",
-    "description": "⚠ Date not provided in submission — please complete before approving."
   },
   {
     "name": "Co zasila biznes v. 1",
