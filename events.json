@@ -1542,7 +1542,9 @@
     ],
     "audience": "Founders, Operators",
     "status": "approved",
-    "added": "2026-07-20"
+    "added": "2026-07-20",
+    "price": "Paid",
+    "enriched": true
   },
   {
     "name": "SLOW #40 - Od lokalej firmy do globalnej marki z Patricią Popławską",
@@ -1644,7 +1646,12 @@
     "venue": "Yolk Workspace & Community, Józefa Sarego 5, Kraków",
     "city": "Kraków",
     "description": "Open Coffee is a friendly, informal networking event for entrepreneurs, professionals, expats, students and anyone interested in Kraków's business and startup community. The idea is to help people make useful, real-world connections.",
-    "description_pl": "Open Coffee to nieformalny networking dla przedsiębiorców, profesjonalistów, expatów, studentów i wszystkich zainteresowanych krakowską społecznością biznesową i startupową. Chodzi o realne, przydatne kontakty."
+    "description_pl": "Open Coffee to nieformalny networking dla przedsiębiorców, profesjonalistów, expatów, studentów i wszystkich zainteresowanych krakowską społecznością biznesową i startupową. Chodzi o realne, przydatne kontakty.",
+    "tags": [
+      "Networking"
+    ],
+    "audience": "Founders, Students",
+    "enriched": true
   },
   {
     "name": "AI-First Product Teams - od planu do działania",
@@ -1678,7 +1685,11 @@
     "language": "EN",
     "price": "Free",
     "added": "2026-08-06",
-    "status": "approved"
+    "status": "approved",
+    "tags": [
+      "Meetup"
+    ],
+    "enriched": true
   },
   {
     "name": "Velo Ventures #5",
@@ -1895,7 +1906,9 @@
     "city": "Kraków",
     "venue": "Klaster Innowacji Społeczno-Gospodarczych Zabłocie 20.22",
     "description_pl": "Cykliczny networking dla twórców i przedsiębiorców (każdy 2. i 4. czwartek miesiąca, 10:00–12:00). Krótka prezentacja gościa, rundy zapoznawcze, kawa. Nie trzeba zaproszenia.",
-    "language": "PL"
+    "language": "PL",
+    "audience": "Founders",
+    "enriched": true
   },
   {
     "name": "Co zasila biznes v. 1",
@@ -2004,7 +2017,11 @@
     "language": "EN",
     "price": "Free",
     "added": "2026-08-06",
-    "status": "approved"
+    "status": "approved",
+    "tags": [
+      "Conference"
+    ],
+    "enriched": true
   },
   {
     "name": "KURS PROGRAMOWANIA BLOCKCHAIN: WROCŁAW",
@@ -2101,7 +2118,10 @@
     "organizer": "HELLO GAMEDEV",
     "price": "Paid",
     "status": "approved",
-    "added": "2026-07-20"
+    "added": "2026-07-20",
+    "end_date": "2026-09-13",
+    "time": "10:00",
+    "enriched": true
   },
   {
     "name": "KURS PROGRAMOWANIA BLOCKCHAIN: GDAŃSK",
@@ -2295,7 +2315,12 @@
     "price": "Paid",
     "added": "2026-08-06",
     "status": "approved",
-    "description": "Two and a half days of building the future of software development."
+    "description": "Two and a half days of building the future of software development.",
+    "tags": [
+      "Hackathon"
+    ],
+    "audience": "Developers",
+    "enriched": true
   },
   {
     "name": "KURS PROGRAMOWANIA BLOCKCHAIN: ONLINE",
@@ -2420,7 +2445,11 @@
     "status": "approved",
     "added": "2026-07-20",
     "description": "The largest new-mobility conference and EXPO in the CEE region, covering e-mobility trends, zero-emission vehicles and smart cities.",
-    "description_pl": "Największa konferencja i EXPO nowej mobilności w regionie CEE. Poznaj trendy w e-mobility, pojazdy zeroemisyjne oraz smart cities."
+    "description_pl": "Największa konferencja i EXPO nowej mobilności w regionie CEE. Poznaj trendy w e-mobility, pojazdy zeroemisyjne oraz smart cities.",
+    "tags": [
+      "Conference"
+    ],
+    "enriched": true
   },
   {
     "name": "Baltic Summit",
@@ -2549,7 +2578,11 @@
     "time": "09:00",
     "venue": "ZEN.com EXPO, Jasionka",
     "description": "International summit on unmanned aerial systems and their role in the economy: conference, expert talks, panel discussions, a startup competition and networking, with solutions for industry, logistics, public safety, search and rescue, agriculture, energy and administration.",
-    "description_pl": "Międzynarodowy szczyt poświęcony technologiom bezzałogowym i ich roli w gospodarce: konferencja, prezentacje ekspertów, panele, konkurs dla startupów i networking, z rozwiązaniami dla przemysłu, logistyki, bezpieczeństwa, ratownictwa, rolnictwa, energetyki i administracji."
+    "description_pl": "Międzynarodowy szczyt poświęcony technologiom bezzałogowym i ich roli w gospodarce: konferencja, prezentacje ekspertów, panele, konkurs dla startupów i networking, z rozwiązaniami dla przemysłu, logistyki, bezpieczeństwa, ratownictwa, rolnictwa, energetyki i administracji.",
+    "tags": [
+      "Conference"
+    ],
+    "enriched": true
   },
   {
     "name": "PITCH & POLISH ONLINE",
@@ -2687,7 +2720,9 @@
     "organizer": "Startup Community Poznań",
     "price": "Paid",
     "status": "approved",
-    "added": "2026-07-16"
+    "added": "2026-07-16",
+    "time": "09:00",
+    "enriched": true
   },
   {
     "name": "AIBA Conference 2026",
