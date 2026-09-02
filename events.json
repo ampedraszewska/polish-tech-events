@@ -3112,5 +3112,22 @@
     "organizer": "de:hub Initiative",
     "audience": "Founders",
     "language": "EN"
+  },
+  {
+    "name": "Kongres Nowej Mobilności",
+    "date": "",
+    "status": "pending",
+    "added": "2026-09-02",
+    "submitted": "2026-09-02",
+    "url": "https://kongresnowejmobilnosci.pl/",
+    "organizer": "Polskie Stowarzyszenie Nowej Mobilności",
+    "price": "Paid",
+    "tags": [
+      "Conference"
+    ],
+    "enriched": true,
+    "description_pl": "Największa konferencja i EXPO nowej mobilności w regionie CEE. Poznaj trendy w e-mobility, pojazdy zeroemisyjne oraz smart cities. Dołącz do liderów branży!",
+    "language": "PL",
+    "description": "⚠ Date not provided in submission — please complete before approving."
   }
 ]
