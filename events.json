@@ -3064,18 +3064,16 @@
   },
   {
     "name": "Impact Leading Minds",
-    "date": "",
-    "status": "approved",
-    "added": "2026-09-02",
-    "submitted": "2026-09-02",
+    "date": "2026-09-02",
+    "city": "Warszawa",
     "url": "https://impactleadingminds.com",
+    "language": "EN",
     "price": "Paid",
     "tags": [
       "Conference"
     ],
-    "audience": "",
-    "enriched": true,
-    "language": "EN",
-    "description": "⚠ Date not provided in submission — please complete before approving."
+    "status": "approved",
+    "added": "2026-09-02",
+    "submitted": "2026-09-02"
   }
 ]
