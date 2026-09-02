@@ -3075,5 +3075,21 @@
     "status": "approved",
     "added": "2026-09-02",
     "submitted": "2026-09-02"
+  },
+  {
+    "name": "Hospital Innovation Summit & Demo Day",
+    "date": "",
+    "status": "pending",
+    "added": "2026-09-02",
+    "submitted": "2026-09-02",
+    "url": "https://app.evenea.pl/event/hospital-innovation-summit-2026-mcsc/",
+    "price": "Paid",
+    "tags": [
+      "Meetup",
+      "Networking"
+    ],
+    "enriched": true,
+    "description_pl": "🚀 Hospital Innovation Summit & Demo Day - j edno wydarzenie, podczas którego innowacje spotykają się z realnymi potrzebami szpitali. Zapraszamy na Hospital Innovation Summit & Demo Day 2026 - jedno z najważniejszych wydarzeń 5. edycji MCSC",
+    "description": "⚠ Date not provided in submission — please complete before approving."
   }
 ]
