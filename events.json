@@ -85,85 +85,6 @@
   },
   {
     "name": "(untitled submission)",
-    "url": "https://luma.com/32imv04f",
-    "status": "rejected",
-    "reject_reason": "Duplicate of existing entry 'Śniadanie CreativeTech Masterclass: Od Pomysłu do Monetyzacji' (approved in events.json); Tally reconcile resurfaced it. Auto-tombstoned 2026-07-27.",
-    "added": "2026-07-27",
-    "enriched": true,
-    "date": "2026-07-31",
-    "time": "08:30",
-    "venue": "Prześwit - Kolektywna Instytucja Kultury",
-    "city": "Warszawa",
-    "description_pl": "Masz w głowie nowy produkt, funkcjonalność lub kierunek rozwoju projektu lub biznesu? Zanim zainwestujesz czas i budżet w realizację, sprawdź, czy rynek w ogóle zechce za to zapłacić. Bez spiny, bez nudnych slajdów – za to w luźnej, warsztatowej i letniej atmosferze.",
-    "organizer": "Dream-n-Vision, Dream - n - Vision, CreativeTech Poland",
-    "price": "Free",
-    "tags": [
-      "Workshop"
-    ],
-    "language": "EN"
-  },
-  {
-    "name": "(untitled submission)",
-    "url": "https://luma.com/8aue6mzl",
-    "status": "rejected",
-    "reject_reason": "Duplicate of existing entry '#5 Spotkanie networkingowe Kobiet w Creative Tech' (approved in events.json); Tally reconcile resurfaced it. Auto-tombstoned 2026-07-27.",
-    "added": "2026-07-27",
-    "enriched": true,
-    "date": "2026-11-25",
-    "time": "18:00",
-    "venue": "Prześwit - Kolektywna Instytucja Kultury",
-    "city": "Warszawa",
-    "description_pl": "Women in Creative Tech (Kobiety w Creative Tech) to spotkanie networkingowe dla kobiet działających na styku technologii i kreatywności. To przestrzeń do wymiany doświadczeń, nawiązywania wartościowych kontaktów i inspirowania się historiami innych kobiet z branży.",
-    "organizer": "CreativeTech Poland",
-    "price": "Free",
-    "tags": [
-      "Networking",
-      "Meetup"
-    ],
-    "language": "EN"
-  },
-  {
-    "name": "(untitled submission)",
-    "url": "https://luma.com/zr8l4wwe",
-    "status": "rejected",
-    "reject_reason": "Duplicate of existing entry 'CreativeTech Poland Meetup_04' (approved in events.json); Tally reconcile resurfaced it. Auto-tombstoned 2026-07-27.",
-    "added": "2026-07-27",
-    "enriched": true,
-    "date": "2026-09-30",
-    "time": "18:00",
-    "venue": "Prześwit - Kolektywna Instytucja Kultury",
-    "city": "Warszawa",
-    "description": "CreativeTech Poland Meetups are a series of events exploring the intersection of technology, design, art, and business. They bring together designers, developers, artists, founders, and creators working with AI, creative coding, new media, and digital products.",
-    "organizer": "CreativeTech Poland",
-    "price": "Free",
-    "tags": [
-      "Meetup"
-    ],
-    "audience": "Founders, Developers",
-    "language": "EN"
-  },
-  {
-    "name": "(untitled submission)",
-    "url": "https://luma.com/o0egel4o",
-    "status": "rejected",
-    "reject_reason": "Duplicate of existing entry '#4 Spotkanie networkingowe Kobiet w Creative Tech' (approved in events.json); Tally reconcile resurfaced it. Auto-tombstoned 2026-07-27.",
-    "added": "2026-07-27",
-    "enriched": true,
-    "date": "2026-09-23",
-    "time": "18:00",
-    "venue": "Prześwit - Kolektywna Instytucja Kultury",
-    "city": "Warszawa",
-    "description_pl": "Women in Creative Tech (Kobiety w Creative Tech) to spotkanie networkingowe dla kobiet działających na styku technologii i kreatywności. To przestrzeń do wymiany doświadczeń, nawiązywania wartościowych kontaktów i inspirowania się historiami innych kobiet z branży.",
-    "organizer": "CreativeTech Poland",
-    "price": "Free",
-    "tags": [
-      "Networking",
-      "Meetup"
-    ],
-    "language": "EN"
-  },
-  {
-    "name": "(untitled submission)",
     "url": "https://luma.com/c7x5xhlx",
     "status": "rejected",
     "reject_reason": "Duplicate of existing entry 'CreativeTech Poland Meetup_03' (approved in events.json); Tally reconcile resurfaced it. Auto-tombstoned 2026-07-27.",
@@ -1938,6 +1859,25 @@
     "reject_reason": "Duplikat już opublikowanego \"Spotkanie Przedsiębiorców SLOW #40\" (2026-07-30, Wrocław)."
   },
   {
+    "name": "(untitled submission)",
+    "url": "https://luma.com/32imv04f",
+    "status": "rejected",
+    "reject_reason": "Duplicate of existing entry 'Śniadanie CreativeTech Masterclass: Od Pomysłu do Monetyzacji' (approved in events.json); Tally reconcile resurfaced it. Auto-tombstoned 2026-07-27.",
+    "added": "2026-07-27",
+    "enriched": true,
+    "date": "2026-07-31",
+    "time": "08:30",
+    "venue": "Prześwit - Kolektywna Instytucja Kultury",
+    "city": "Warszawa",
+    "description_pl": "Masz w głowie nowy produkt, funkcjonalność lub kierunek rozwoju projektu lub biznesu? Zanim zainwestujesz czas i budżet w realizację, sprawdź, czy rynek w ogóle zechce za to zapłacić. Bez spiny, bez nudnych slajdów – za to w luźnej, warsztatowej i letniej atmosferze.",
+    "organizer": "Dream-n-Vision, Dream - n - Vision, CreativeTech Poland",
+    "price": "Free",
+    "tags": [
+      "Workshop"
+    ],
+    "language": "EN"
+  },
+  {
     "name": "Śniadanie CreativeTech Masterclass: Od Pomysłu do Monetyzacji",
     "date": "2026-07-31",
     "time": "08:30",
@@ -2561,6 +2501,58 @@
     "end_date": "2026-09-20"
   },
   {
+    "name": "BLOCKCHAIN HACK KRAKOW",
+    "date": "2026-09-19",
+    "city": "Kraków",
+    "url": "https://luma.com/BlockchainHackKRK",
+    "organizer": "Superteam Poland",
+    "description": "Two days to turn an idea into a working project: a weekend of intensive Solana coding for developers, designers and builders. Refine your idea with mentors, pitch to the jury and compete for a $3,000 prize pool.",
+    "language": "EN",
+    "price": "Free",
+    "tags": [
+      "Hackathon"
+    ],
+    "audience": "Founders, Developers",
+    "status": "approved",
+    "added": "2026-07-30",
+    "submitted": "2026-07-30",
+    "time": "09:00",
+    "venue": "Kraków, Województwo małopolskie",
+    "description_pl": "Dwa dni, które zmienią Twój pomysł w działający projekt. Weekend intensywnego kodowania na Solanie dla deweloperów, designerów i builderów. Dopracuj pomysł pod okiem mentorów, zaprezentuj przed jury i zgarnij nagrody z puli $3 000.",
+    "end_date": "2026-09-20"
+  },
+  {
+    "name": "BLOCKCHAIN HACK KRAKOW",
+    "date": "2026-09-19",
+    "city": "Kraków",
+    "url": "https://luma.com/event/evt-fl7UbFv746gIvU6",
+    "organizer": "Superteam Poland",
+    "status": "rejected",
+    "added": "2026-09-01",
+    "submitted": "2026-09-01",
+    "reject_reason": "Duplikat już opublikowanego \"BLOCKCHAIN HACK KRAKOW\" (Superteam Poland, luma.com/BlockchainHackKRK)."
+  },
+  {
+    "name": "(untitled submission)",
+    "url": "https://luma.com/o0egel4o",
+    "status": "rejected",
+    "reject_reason": "Duplicate of existing entry '#4 Spotkanie networkingowe Kobiet w Creative Tech' (approved in events.json); Tally reconcile resurfaced it. Auto-tombstoned 2026-07-27.",
+    "added": "2026-07-27",
+    "enriched": true,
+    "date": "2026-09-23",
+    "time": "18:00",
+    "venue": "Prześwit - Kolektywna Instytucja Kultury",
+    "city": "Warszawa",
+    "description_pl": "Women in Creative Tech (Kobiety w Creative Tech) to spotkanie networkingowe dla kobiet działających na styku technologii i kreatywności. To przestrzeń do wymiany doświadczeń, nawiązywania wartościowych kontaktów i inspirowania się historiami innych kobiet z branży.",
+    "organizer": "CreativeTech Poland",
+    "price": "Free",
+    "tags": [
+      "Networking",
+      "Meetup"
+    ],
+    "language": "EN"
+  },
+  {
     "name": "THE MOAT",
     "date": "2026-09-23",
     "city": "Warszawa",
@@ -2676,6 +2668,37 @@
     "end_date": "2026-09-27"
   },
   {
+    "name": "BLOCKCHAIN HACK WARSAW",
+    "date": "2026-09-26",
+    "city": "Warszawa",
+    "url": "https://luma.com/BlockchainHackWWA",
+    "organizer": "Superteam Poland",
+    "status": "rejected",
+    "added": "2026-09-01",
+    "submitted": "2026-09-01",
+    "reject_reason": "Duplikat już opublikowanego \"BLOCKCHAIN HACK WARSAW\" (Superteam Poland, 2026-09-26)."
+  },
+  {
+    "name": "(untitled submission)",
+    "url": "https://luma.com/zr8l4wwe",
+    "status": "rejected",
+    "reject_reason": "Duplicate of existing entry 'CreativeTech Poland Meetup_04' (approved in events.json); Tally reconcile resurfaced it. Auto-tombstoned 2026-07-27.",
+    "added": "2026-07-27",
+    "enriched": true,
+    "date": "2026-09-30",
+    "time": "18:00",
+    "venue": "Prześwit - Kolektywna Instytucja Kultury",
+    "city": "Warszawa",
+    "description": "CreativeTech Poland Meetups are a series of events exploring the intersection of technology, design, art, and business. They bring together designers, developers, artists, founders, and creators working with AI, creative coding, new media, and digital products.",
+    "organizer": "CreativeTech Poland",
+    "price": "Free",
+    "tags": [
+      "Meetup"
+    ],
+    "audience": "Founders, Developers",
+    "language": "EN"
+  },
+  {
     "name": "CreativeTech Poland Meetup_04",
     "date": "2026-09-30",
     "time": "18:00",
@@ -2772,27 +2795,6 @@
     "time": "18:00",
     "venue": "Kraków, Województwo małopolskie",
     "description_pl": "Pitchujesz swój pomysł na startup na Solanie na żywo i zbierasz szczery feedback od ekspertów z ekosystemu. Nie musisz mieć gotowego produktu ani pełnego zespołu, wystarczy pomysł. Przygotowanie przed Warsaw Demo Day i globalnym hackathonem Colosseum."
-  },
-  {
-    "name": "BLOCKCHAIN HACK KRAKOW",
-    "date": "2026-10-10",
-    "city": "Kraków",
-    "url": "https://luma.com/BlockchainHackKRK",
-    "organizer": "Superteam Poland",
-    "description": "Two days to turn an idea into a working project: a weekend of intensive Solana coding for developers, designers and builders. Refine your idea with mentors, pitch to the jury and compete for a $3,000 prize pool.",
-    "language": "EN",
-    "price": "Free",
-    "tags": [
-      "Hackathon"
-    ],
-    "audience": "Founders, Developers",
-    "status": "approved",
-    "added": "2026-07-30",
-    "submitted": "2026-07-30",
-    "time": "09:00",
-    "venue": "Kraków, Województwo małopolskie",
-    "description_pl": "Dwa dni, które zmienią Twój pomysł w działający projekt. Weekend intensywnego kodowania na Solanie dla deweloperów, designerów i builderów. Dopracuj pomysł pod okiem mentorów, zaprezentuj przed jury i zgarnij nagrody z puli $3 000.",
-    "end_date": "2026-10-11"
   },
   {
     "name": "PitchMeetUp",
@@ -2966,6 +2968,26 @@
     "end_date": "2026-11-18"
   },
   {
+    "name": "(untitled submission)",
+    "url": "https://luma.com/8aue6mzl",
+    "status": "rejected",
+    "reject_reason": "Duplicate of existing entry '#5 Spotkanie networkingowe Kobiet w Creative Tech' (approved in events.json); Tally reconcile resurfaced it. Auto-tombstoned 2026-07-27.",
+    "added": "2026-07-27",
+    "enriched": true,
+    "date": "2026-11-25",
+    "time": "18:00",
+    "venue": "Prześwit - Kolektywna Instytucja Kultury",
+    "city": "Warszawa",
+    "description_pl": "Women in Creative Tech (Kobiety w Creative Tech) to spotkanie networkingowe dla kobiet działających na styku technologii i kreatywności. To przestrzeń do wymiany doświadczeń, nawiązywania wartościowych kontaktów i inspirowania się historiami innych kobiet z branży.",
+    "organizer": "CreativeTech Poland",
+    "price": "Free",
+    "tags": [
+      "Networking",
+      "Meetup"
+    ],
+    "language": "EN"
+  },
+  {
     "name": "#5 Spotkanie networkingowe Kobiet w Creative Tech",
     "date": "2026-11-25",
     "time": "18:00",
@@ -3022,35 +3044,5 @@
     "description_pl": "Dwadzieścia lat Infoshare, największego wydarzenia technologicznego w Europie Środkowo-Wschodniej: trendy w AI, R&D i skalowaniu biznesu. 19-20 maja 2027 w AmberExpo w Gdańsku.",
     "end_date": "2027-05-20",
     "venue": "AmberExpo, Gdańsk"
-  },
-  {
-    "name": "BLOCKCHAIN HACK KRAKOW",
-    "date": "",
-    "status": "pending",
-    "added": "2026-09-01",
-    "submitted": "2026-09-01",
-    "url": "https://luma.com/event/evt-fl7UbFv746gIvU6",
-    "organizer": "Superteam Poland",
-    "description": "⚠ Date not provided in submission — please complete before approving.",
-    "price": "Paid",
-    "tags": [
-      "Hackathon"
-    ],
-    "audience": "Founders, Developers, Researchers, Students"
-  },
-  {
-    "name": "BLOCKCHAIN HACK WARSAW",
-    "date": "",
-    "status": "pending",
-    "added": "2026-09-01",
-    "submitted": "2026-09-01",
-    "url": "https://luma.com/BlockchainHackWWA",
-    "organizer": "Superteam Poland",
-    "description": "⚠ Date not provided in submission — please complete before approving.",
-    "price": "Paid",
-    "tags": [
-      "Hackathon"
-    ],
-    "audience": "Founders, Developers, Operators, Researchers, Students"
   }
 ]
