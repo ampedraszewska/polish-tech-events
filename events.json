@@ -1862,6 +1862,26 @@
     "description_pl": "Meetup Superteam w trasie po Polsce, w formacie skupionym na branży startupowej i budowaniu globalnych biznesów. Celem jest przyspieszenie innowacji: łączenie twórców z narzędziami ekosystemu Solany i budowanie społeczności przedsiębiorców z globalnymi ambicjami."
   },
   {
+    "name": "OMGKRK Summer Jam 2026: SIGNAL",
+    "date": "2026-08-27",
+    "status": "approved",
+    "added": "2026-08-18",
+    "submitted": "2026-08-18",
+    "url": "https://www.omgkrk.com/summer-jam-2026/",
+    "organizer": "OMGKRK",
+    "price": "Free",
+    "tags": [
+      "Networking"
+    ],
+    "audience": "Founders, Operators, Developers, Investors",
+    "enriched": true,
+    "language": "EN",
+    "description": "Krakow tech and startup community networking evening: talks on AI-native founders, product and growth, plus a Startup Kraków initiative announcement, DJ sets, and the Signal matchmaking tool. Free attendance, registration required.",
+    "time": "17:00",
+    "city": "Kraków",
+    "venue": "Wesoła Immersive New Media Art Center, Kopernika 17A"
+  },
+  {
     "name": "Zabłocie Morning Pitch",
     "date": "2026-08-28",
     "status": "approved",
@@ -1876,6 +1896,28 @@
     "venue": "Klaster Innowacji Społeczno-Gospodarczych Zabłocie 20.22",
     "description_pl": "Cykliczny networking dla twórców i przedsiębiorców (każdy 2. i 4. czwartek miesiąca, 10:00–12:00). Krótka prezentacja gościa, rundy zapoznawcze, kawa. Nie trzeba zaproszenia.",
     "language": "PL"
+  },
+  {
+    "name": "Co zasila biznes v. 1",
+    "date": "2026-08-28",
+    "status": "approved",
+    "added": "2026-08-18",
+    "submitted": "2026-08-18",
+    "url": "https://fb.me/e/4kbVFS33T",
+    "organizer": "Fundacja Startup Podbeskidzie",
+    "price": "Free",
+    "tags": [
+      "Meetup",
+      "Conference",
+      "Networking"
+    ],
+    "audience": "Founders, Students, Investors",
+    "enriched": true,
+    "language": "PL",
+    "time": "09:00",
+    "city": "Bielsko-Biała",
+    "venue": "Restauracja BOSCO",
+    "description_pl": "Spotkanie w ramach programu ARIS (Akcelerator Rozwoju Innowacji i Startupów) Fundacji Startup Podbeskidzie: panel dyskusyjny „Co zasila biznes?” z udziałem m.in. Anny Mazurek (CEO Startup Poland), a także śniadanie, kawa i networking. Bezpłatne, wymagana rejestracja."
   },
   {
     "name": "KURS PROGRAMOWANIA BLOCKCHAIN: KRAKÓW",
@@ -3067,42 +3109,6 @@
     "status": "rejected",
     "reject_reason": "Duplicate of already-approved entry \"Kręgi Eksperckie Startup Founders\" (2026-09-17). Auto-tombstoned by event-triage.",
     "added": "2026-08-12"
-  },
-  {
-    "name": "Co zasila biznes v. 1",
-    "date": "",
-    "status": "approved",
-    "added": "2026-08-18",
-    "submitted": "2026-08-18",
-    "url": "https://fb.me/e/4kbVFS33T",
-    "organizer": "Fundacja Startup Podbeskidzie",
-    "price": "Paid",
-    "tags": [
-      "Meetup",
-      "Conference",
-      "Networking"
-    ],
-    "audience": "Founders, Students, Investors",
-    "enriched": true,
-    "description": "⚠ Date not provided in submission — please complete before approving. Event in Bielsko-Biała, Poland by Startup Podbeskidzie and Wojciech Bachta on Friday, August 28 2026",
-    "language": "EN"
-  },
-  {
-    "name": "OMGKRK Summer Jam 2026: SIGNAL",
-    "date": "",
-    "status": "approved",
-    "added": "2026-08-18",
-    "submitted": "2026-08-18",
-    "url": "https://www.omgkrk.com/summer-jam-2026/",
-    "organizer": "OMGKRK",
-    "price": "Paid",
-    "tags": [
-      "Networking"
-    ],
-    "audience": "Founders, Operators, Developers, Investors",
-    "enriched": true,
-    "language": "EN",
-    "description": "⚠ Date not provided in submission — please complete before approving."
   },
   {
     "name": "Z Horyzontem w chmury - program kompetencji cyfrowych dla kobiet",
