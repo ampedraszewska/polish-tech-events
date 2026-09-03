@@ -79,7 +79,14 @@
     "date": "2026-03-12",
     "organizer": "Kolektyw3",
     "status": "rejected",
-    "reject_reason": "Duplikat istniejącego wpisu \"Kolektyw3 Office Warming Party\" (2026-03-12, już na stronie). Zgłoszenie Tally re-import przez parametr ?tk= w URL."
+    "reject_reason": "Duplikat istniejącego wpisu \"Kolektyw3 Office Warming Party\" (2026-03-12, już na stronie). Zgłoszenie Tally re-import przez parametr ?tk= w URL.",
+    "enriched": true,
+    "time": "18:00",
+    "venue": "Koszykowa 54",
+    "city": "Warszawa",
+    "description": "🚀 Kolektyw3: New Space, Same Energy Kolektyw3 has a new HQ, and it wouldn't feel like home without our community there to help us settle in. Join us at Koszykowa 54 for an evening of good music, better company, and a first look at our new creative sanctuary.",
+    "price": "Free",
+    "language": "EN"
   },
   {
     "name": "SoDA Open: Wroclaw",
@@ -170,7 +177,9 @@
     "audience": "Developers, Operators",
     "organizer": "Sniadania AI",
     "price": "Paid",
-    "added": "2026-03-07"
+    "added": "2026-03-07",
+    "enriched": true,
+    "venue": "Warszawa, Województwo mazowieckie"
   },
   {
     "name": "SNIP: Startups Networking & Innovations Platform",
@@ -3178,19 +3187,19 @@
   },
   {
     "name": "TEEMA Technology Park Industry Day",
-    "date": "",
-    "status": "pending",
-    "added": "2026-09-03",
-    "submitted": "2026-09-03",
+    "date": "2026-11-17",
+    "city": "Warszawa",
     "url": "https://teemaindustryday.org/en/",
+    "end_date": "2026-11-18",
+    "language": "EN",
     "price": "Paid",
     "tags": [
       "Conference",
       "Networking"
     ],
     "audience": "Founders, Developers, Operators",
-    "enriched": true,
-    "description": "⚠ Date not provided in submission — please complete before approving. TEEMA 科學園區產業日 波蘭展 在全球地緣政治風險升溫與供應鏈加速重組之際，企業積極布局更具韌性的國際市場，並強化區域製造布局，以分散營運風險並深化產業鏈結。 電電公會推動「TEEMA Technology",
-    "language": "EN"
+    "status": "approved",
+    "added": "2026-09-03",
+    "submitted": "2026-09-03"
   }
 ]
