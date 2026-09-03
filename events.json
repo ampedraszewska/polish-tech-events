@@ -3180,5 +3180,22 @@
     "description_pl": "Największa konferencja i EXPO nowej mobilności w regionie CEE. Poznaj trendy w e-mobility, pojazdy zeroemisyjne oraz smart cities. Dołącz do liderów branży!",
     "language": "PL",
     "reject_reason": "Duplicate of existing entry 'Kongres Nowej Mobilności' (approved 2026-09-23, same URL, added 2026-07-20); the submission carried no date so dedup did not match it. Tombstoned 2026-09-02."
+  },
+  {
+    "name": "TEEMA Technology Park Industry Day",
+    "date": "",
+    "status": "pending",
+    "added": "2026-09-03",
+    "submitted": "2026-09-03",
+    "url": "https://teemaindustryday.org/en/",
+    "price": "Paid",
+    "tags": [
+      "Conference",
+      "Networking"
+    ],
+    "audience": "Founders, Developers, Operators",
+    "enriched": true,
+    "description": "⚠ Date not provided in submission — please complete before approving. TEEMA 科學園區產業日 波蘭展 在全球地緣政治風險升溫與供應鏈加速重組之際，企業積極布局更具韌性的國際市場，並強化區域製造布局，以分散營運風險並深化產業鏈結。 電電公會推動「TEEMA Technology",
+    "language": "EN"
   }
 ]
