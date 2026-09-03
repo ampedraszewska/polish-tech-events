@@ -3201,5 +3201,22 @@
     "status": "approved",
     "added": "2026-09-03",
     "submitted": "2026-09-03"
+  },
+  {
+    "name": "TEK.day Gdańsk 2026",
+    "date": "",
+    "status": "pending",
+    "added": "2026-09-03",
+    "submitted": "2026-09-03",
+    "url": "https://gdansk.tekday.pl/",
+    "price": "Paid",
+    "tags": [
+      "Workshop",
+      "Meetup",
+      "Networking"
+    ],
+    "audience": "",
+    "enriched": true,
+    "description": "⚠ Date not provided in submission — please complete before approving. Targi TEK.day 2026 - to koniecznie trzeba zobaczyć!"
   }
 ]
