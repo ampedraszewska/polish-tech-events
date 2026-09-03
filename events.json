@@ -271,7 +271,8 @@
     "audience": "Founders, Students",
     "organizer": "SWPS University x Concordia Design",
     "price": "Free",
-    "added": "2026-03-09"
+    "added": "2026-03-09",
+    "enriched": true
   },
   {
     "name": "Startup Grind Warsaw: Open Pitch Session - Mar 2026",
@@ -325,7 +326,9 @@
     "audience": "Developers, Researchers",
     "organizer": "AI Tinkerers Poland",
     "price": "Free",
-    "added": "2026-03-07"
+    "added": "2026-03-07",
+    "enriched": true,
+    "venue": "Private venue"
   },
   {
     "name": "Founders Call — Startup Poland",
@@ -343,7 +346,8 @@
     "organizer": "Startup Poland",
     "price": "Free",
     "badge": "recommended",
-    "added": "2026-03-30"
+    "added": "2026-03-30",
+    "enriched": true
   },
   {
     "name": "Sniadania AI Warszawa #45",
@@ -380,7 +384,8 @@
     "organizer": "Startup Poland",
     "price": "Free",
     "badge": "recommended",
-    "added": "2026-03-30"
+    "added": "2026-03-30",
+    "enriched": true
   },
   {
     "name": "Wolves Summit 2026",
@@ -473,7 +478,8 @@
     "audience": "Founders",
     "organizer": "Huge Thing VC",
     "price": "Free",
-    "added": "2026-03-09"
+    "added": "2026-03-09",
+    "enriched": true
   },
   {
     "name": "SoDA Conference 2026",
