@@ -3218,5 +3218,21 @@
     "audience": "",
     "enriched": true,
     "description": "⚠ Date not provided in submission — please complete before approving. Targi TEK.day 2026 - to koniecznie trzeba zobaczyć!"
+  },
+  {
+    "name": "Dolnośląscy Liderzy Biznesu!",
+    "date": "",
+    "status": "pending",
+    "added": "2026-09-03",
+    "submitted": "2026-09-03",
+    "url": "https://liderzybiznesu.dolnyslask.pl/",
+    "price": "Paid",
+    "tags": [
+      "Meetup",
+      "Networking"
+    ],
+    "enriched": true,
+    "language": "PL",
+    "description": "⚠ Date not provided in submission — please complete before approving."
   }
 ]
