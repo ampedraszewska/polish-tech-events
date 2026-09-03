@@ -3234,5 +3234,26 @@
     "enriched": true,
     "language": "PL",
     "description": "⚠ Date not provided in submission — please complete before approving."
+  },
+  {
+    "name": "Startup Community Poznań #50: Szybka walidacja z wykorzystaniem AI",
+    "date": "2026-09-10",
+    "status": "pending",
+    "added": "2026-09-03",
+    "submitted": "2026-09-03",
+    "url": "https://scpoznan.com/pl/wydarzenia/startup-community-pozna-50-szybka-walidacja-z-wykorzystaniem-ai",
+    "price": "Paid",
+    "tags": [
+      "Meetup",
+      "Networking"
+    ],
+    "audience": "Founders, Developers, Corporate",
+    "enriched": true,
+    "time": "17:30",
+    "venue": "eNStudios, Głogowska 216, Poznań",
+    "city": "Poznań",
+    "description_pl": "Maksymilian Małecki, Tech Lead w Insly W IT od 2007. Prowadzi zespół 15 inżynierów na platformie ubezpieczeniowej dla brokerów w Europie i buduje rozwiązania AI przetwarzające 150 tysięcy PDF-ów miesięcznie, zgodnie z RODO i DORA. Wcześniej NordSecurity, Bitnoi.se, ORO Inc i Arena.pl.",
+    "organizer": "Startup Community Poznań",
+    "language": "PL"
   }
 ]
