@@ -2836,7 +2836,10 @@
     "added": "2026-08-03",
     "submitted": "2026-08-03",
     "description_pl": "Infoshare Katowice to konferencja technologiczna łącząca biznes i technologie: dwa dni, trzy sceny i 65 prelekcji o skalowaniu, AI oraz R&D. 17-18 listopada w MCK Katowice.",
-    "end_date": "2026-11-18"
+    "end_date": "2026-11-18",
+    "time": "09:00",
+    "venue": "MCK Katowice",
+    "enriched": true
   },
   {
     "name": "(untitled submission)",
