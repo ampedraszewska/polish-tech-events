@@ -3245,5 +3245,22 @@
     "description_pl": "Maksymilian Małecki, Tech Lead w Insly W IT od 2007. Prowadzi zespół 15 inżynierów na platformie ubezpieczeniowej dla brokerów w Europie i buduje rozwiązania AI przetwarzające 150 tysięcy PDF-ów miesięcznie, zgodnie z RODO i DORA. Wcześniej NordSecurity, Bitnoi.se, ORO Inc i Arena.pl.",
     "organizer": "Startup Community Poznań",
     "language": "PL"
+  },
+  {
+    "name": "Accelerator Forum Poland",
+    "date": "",
+    "status": "pending",
+    "added": "2026-09-03",
+    "submitted": "2026-09-03",
+    "url": "https://www.capgemini.com/pl-pl/aktualnosci/wydarzenia/accelerator-forum-poland/",
+    "price": "Paid",
+    "tags": [
+      "Conference",
+      "Networking"
+    ],
+    "audience": "Developers, Founders, Investors, Corporate",
+    "enriched": true,
+    "description": "⚠ Date not provided in submission — please complete before approving. This first edition of Accelerator Forum Poland will gather senior business leaders to discuss how AI, data, and intelligent operations are reshaping the future of business and driving measurable outcomes at scale.",
+    "language": "PL"
   }
 ]
