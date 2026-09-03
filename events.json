@@ -151,7 +151,8 @@
     "audience": "Founders, Students",
     "organizer": "Lowercap x Scanway",
     "price": "Free",
-    "added": "2026-03-09"
+    "added": "2026-03-09",
+    "enriched": true
   },
   {
     "name": "Sniadania AI Warszawa #44",
@@ -187,7 +188,8 @@
     "audience": "Founders, Investors",
     "organizer": "Silesian Startups",
     "price": "Free",
-    "added": "2026-03-09"
+    "added": "2026-03-09",
+    "enriched": true
   },
   {
     "name": "TEK.day Wroclaw",
@@ -242,7 +244,8 @@
     "organizer": "Vestbee",
     "price": "Paid",
     "added": "2026-03-07",
-    "end_date": "2026-03-25"
+    "end_date": "2026-03-25",
+    "enriched": true
   },
   {
     "name": "Big Demo Day: Concordia Design x SWPS",
@@ -3128,14 +3131,6 @@
     "reject_reason": "Duplicate of existing entry 'Vibecoding Games – Mother's Day Edition' (approved in events.json); Tally reconcile resurfaced it. Auto-tombstoned 2026-07-27.",
     "added": "2026-07-27",
     "organizer": "Ayoub Morghati"
-  },
-  {
-    "name": "CASSINI Hackathon @ Wrocław",
-    "url": "https://www.cassini.eu/hackathons/poland",
-    "status": "rejected",
-    "reject_reason": "Duplicate of existing entry 'CASSINI Hackathon @ Wroclaw' (live in events.json); Tally reconcile resurfaced it. Auto-tombstoned 2026-07-27.",
-    "added": "2026-07-27",
-    "organizer": "Startup Wroclaw x ChallengeRocket"
   },
   {
     "name": "Kręgi Eksperckie Startup Founders",
