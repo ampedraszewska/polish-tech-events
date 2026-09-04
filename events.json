@@ -2120,6 +2120,27 @@
     "description_pl": "Meetup Superteam w trasie po Polsce, w formacie skupionym na branży startupowej i budowaniu globalnych biznesów. Celem jest przyspieszenie innowacji: łączenie twórców z narzędziami ekosystemu Solany i budowanie społeczności przedsiębiorców z globalnymi ambicjami."
   },
   {
+    "name": "Startup Community Poznań #50: Szybka walidacja z wykorzystaniem AI",
+    "date": "2026-09-10",
+    "status": "approved",
+    "added": "2026-09-03",
+    "submitted": "2026-09-03",
+    "url": "https://scpoznan.com/pl/wydarzenia/startup-community-pozna-50-szybka-walidacja-z-wykorzystaniem-ai",
+    "price": "Paid",
+    "tags": [
+      "Meetup",
+      "Networking"
+    ],
+    "audience": "Founders, Developers, Corporate",
+    "enriched": true,
+    "time": "17:30",
+    "venue": "eNStudios, Głogowska 216, Poznań",
+    "city": "Poznań",
+    "description_pl": "Maksymilian Małecki, Tech Lead w Insly W IT od 2007. Prowadzi zespół 15 inżynierów na platformie ubezpieczeniowej dla brokerów w Europie i buduje rozwiązania AI przetwarzające 150 tysięcy PDF-ów miesięcznie, zgodnie z RODO i DORA. Wcześniej NordSecurity, Bitnoi.se, ORO Inc i Arena.pl.",
+    "organizer": "Startup Community Poznań",
+    "language": "PL"
+  },
+  {
     "name": "Hello Game Dev Conference 2026 (HGDC)",
     "date": "2026-09-12",
     "city": "Wrocław",
@@ -2394,6 +2415,27 @@
     "reject_reason": "Duplikat już opublikowanego \"BLOCKCHAIN HACK KRAKOW\" (Superteam Poland, luma.com/BlockchainHackKRK)."
   },
   {
+    "name": "Dolnośląscy Liderzy Biznesu!",
+    "date": "2026-09-22",
+    "time": "",
+    "city": "Złotoryja",
+    "venue": "",
+    "url": "https://liderzybiznesu.dolnyslask.pl/",
+    "description": "Regional meeting for micro, small and medium-sized companies from Lower Silesia, run with the Marshal's Office of the Lower Silesian Voivodeship. Talks, expert panels, networking and an expo zone with business support institutions. Free for participants.",
+    "description_pl": "Spotkanie dla mikro, małych i średnich firm z Dolnego Śląska, organizowane we współpracy z Urzędem Marszałkowskim Województwa Dolnośląskiego. Prelekcje, panele eksperckie, networking i strefa expo z instytucjami otoczenia biznesu. Udział bezpłatny.",
+    "language": "PL",
+    "tags": [
+      "Networking",
+      "Conference"
+    ],
+    "audience": "Founders, Operators, Corporate",
+    "organizer": "Dolnośląscy Liderzy Biznesu / Urząd Marszałkowski Województwa Dolnośląskiego",
+    "price": "Free",
+    "status": "pending",
+    "submitted": "2026-09-03",
+    "triage_note": "Zgłoszony URL to strona całego cyklu (10 spotkań w 2026), nie pojedyncze wydarzenie. Zaproponowana najbliższa instancja z otwartymi zapisami: Złotoryja 22.09. Pozostałe: Karpacz 9.09 (w ramach Forum Ekonomicznego, bez zapisów), Wołów 20.10, Ząbkowice Śląskie 17.11, Oleśnica 30.11 (zapisy wkrótce). Wybierz instancję (lub kilka) i uzupełnij miejsce przed zatwierdzeniem."
+  },
+  {
     "name": "(untitled submission)",
     "url": "https://luma.com/o0egel4o",
     "status": "rejected",
@@ -2513,6 +2555,23 @@
     "description_pl": "Pitchujesz swój pomysł na startup na Solanie na żywo i zbierasz szczery feedback od ekspertów z ekosystemu. Nie musisz mieć gotowego produktu ani pełnego zespołu, wystarczy pomysł. Przygotowanie przed Warsaw Demo Day i globalnym hackathonem Colosseum."
   },
   {
+    "name": "TEK.day Gdańsk 2026",
+    "date": "2026-09-24",
+    "city": "Gdańsk",
+    "url": "https://gdansk.tekday.pl/",
+    "description": "Targi TEK.day 2026 - to koniecznie trzeba zobaczyć!",
+    "language": "EN",
+    "price": "Free",
+    "tags": [
+      "Workshop",
+      "Meetup",
+      "Networking"
+    ],
+    "status": "approved",
+    "added": "2026-09-03",
+    "submitted": "2026-09-03"
+  },
+  {
     "name": "BLOCKCHAIN HACK WARSAW",
     "date": "2026-09-26",
     "city": "Warszawa",
@@ -2542,6 +2601,28 @@
     "added": "2026-09-01",
     "submitted": "2026-09-01",
     "reject_reason": "Duplikat już opublikowanego \"BLOCKCHAIN HACK WARSAW\" (Superteam Poland, 2026-09-26)."
+  },
+  {
+    "name": "Accelerator Forum Poland",
+    "date": "2026-09-29",
+    "status": "approved",
+    "added": "2026-09-03",
+    "submitted": "2026-09-03",
+    "url": "https://www.capgemini.com/pl-pl/aktualnosci/wydarzenia/accelerator-forum-poland/",
+    "price": "Paid",
+    "tags": [
+      "Conference",
+      "Networking"
+    ],
+    "audience": "Corporate, Operators, Founders",
+    "enriched": true,
+    "description": "First edition of Capgemini's Accelerator Forum Poland. Senior business leaders and speakers from Microsoft, SAP, Mastercard and BLIK cover agentic AI, trusted data foundations and next-generation payments, closing with an innovation showcase and evening networking.",
+    "language": "EN",
+    "time": "09:00",
+    "city": "Warszawa",
+    "venue": "",
+    "description_pl": "Pierwsza edycja Accelerator Forum Poland organizowana przez Capgemini. Liderzy biznesu oraz prelegenci z Microsoftu, SAP, Mastercard i BLIK-a rozmawiają o agentic AI, zaufanych fundamentach danych i płatnościach nowej generacji. Na koniec strefa innowacji i networking.",
+    "organizer": "Capgemini Poland"
   },
   {
     "name": "(untitled submission)",
@@ -2842,6 +2923,23 @@
     "enriched": true
   },
   {
+    "name": "TEEMA Technology Park Industry Day",
+    "date": "2026-11-17",
+    "city": "Warszawa",
+    "url": "https://teemaindustryday.org/en/",
+    "end_date": "2026-11-18",
+    "language": "EN",
+    "price": "Paid",
+    "tags": [
+      "Conference",
+      "Networking"
+    ],
+    "audience": "Founders, Developers, Operators",
+    "status": "approved",
+    "added": "2026-09-03",
+    "submitted": "2026-09-03"
+  },
+  {
     "name": "(untitled submission)",
     "url": "https://luma.com/8aue6mzl",
     "status": "rejected",
@@ -2880,6 +2978,27 @@
     "price": "Free",
     "status": "approved",
     "added": "2026-07-24"
+  },
+  {
+    "name": "CASSINI Hackathon @ Wrocław",
+    "date": "2026-11-27",
+    "end_date": "2026-11-29",
+    "time": "",
+    "city": "",
+    "venue": "",
+    "url": "https://www.cassini.eu/hackathons/poland",
+    "description": "Polish edition of the 12th CASSINI Hackathon, EU Space for Peace and Resilience, building on Copernicus, Galileo, EGNOS and IRIS 2 data. Runs across 10 European locations; Blue Dot Solutions hosts the Polish one. Host city not yet announced.",
+    "description_pl": "Polska edycja 12. CASSINI Hackathonu pod hasłem EU Space for Peace and Resilience, oparta na danych z Copernicusa, Galileo, EGNOS i IRIS 2. Wydarzenie odbywa się w 10 lokalizacjach w Europie, polską prowadzi Blue Dot Solutions. Miasto nie zostało jeszcze ogłoszone.",
+    "language": "EN",
+    "tags": [
+      "Hackathon"
+    ],
+    "audience": "Developers, Founders, Students, Researchers",
+    "organizer": "Blue Dot Solutions",
+    "price": "Free",
+    "status": "pending",
+    "submitted": "2026-03-09",
+    "triage_note": "Zgłoszenie dotyczyło 11. edycji (Wrocław, 24-26.04.2026, Startup Wroclaw x ChallengeRocket) – ta już się odbyła i jest w liście. Strona cassini.eu/hackathons/poland to landing całego cyklu, dziś pokazuje „Coming soon”. Następna polska edycja to 12. CASSINI Hackathon 27-29.11.2026, organizator Blue Dot Solutions, miasto jeszcze nieogłoszone. Przed zatwierdzeniem: potwierdź miasto i popraw nazwę. Nie tombstone'ować – to strona cyklu."
   },
   {
     "name": "Unicorn Ski Cup 2027",
@@ -3193,77 +3312,5 @@
     "description_pl": "Największa konferencja i EXPO nowej mobilności w regionie CEE. Poznaj trendy w e-mobility, pojazdy zeroemisyjne oraz smart cities. Dołącz do liderów branży!",
     "language": "PL",
     "reject_reason": "Duplicate of existing entry 'Kongres Nowej Mobilności' (approved 2026-09-23, same URL, added 2026-07-20); the submission carried no date so dedup did not match it. Tombstoned 2026-09-02."
-  },
-  {
-    "name": "TEEMA Technology Park Industry Day",
-    "date": "2026-11-17",
-    "city": "Warszawa",
-    "url": "https://teemaindustryday.org/en/",
-    "end_date": "2026-11-18",
-    "language": "EN",
-    "price": "Paid",
-    "tags": [
-      "Conference",
-      "Networking"
-    ],
-    "audience": "Founders, Developers, Operators",
-    "status": "approved",
-    "added": "2026-09-03",
-    "submitted": "2026-09-03"
-  },
-  {
-    "name": "TEK.day Gdańsk 2026",
-    "date": "2026-09-24",
-    "city": "Gdańsk",
-    "url": "https://gdansk.tekday.pl/",
-    "description": "Targi TEK.day 2026 - to koniecznie trzeba zobaczyć!",
-    "language": "EN",
-    "price": "Free",
-    "tags": [
-      "Workshop",
-      "Meetup",
-      "Networking"
-    ],
-    "status": "approved",
-    "added": "2026-09-03",
-    "submitted": "2026-09-03"
-  },
-  {
-    "name": "Startup Community Poznań #50: Szybka walidacja z wykorzystaniem AI",
-    "date": "2026-09-10",
-    "status": "approved",
-    "added": "2026-09-03",
-    "submitted": "2026-09-03",
-    "url": "https://scpoznan.com/pl/wydarzenia/startup-community-pozna-50-szybka-walidacja-z-wykorzystaniem-ai",
-    "price": "Paid",
-    "tags": [
-      "Meetup",
-      "Networking"
-    ],
-    "audience": "Founders, Developers, Corporate",
-    "enriched": true,
-    "time": "17:30",
-    "venue": "eNStudios, Głogowska 216, Poznań",
-    "city": "Poznań",
-    "description_pl": "Maksymilian Małecki, Tech Lead w Insly W IT od 2007. Prowadzi zespół 15 inżynierów na platformie ubezpieczeniowej dla brokerów w Europie i buduje rozwiązania AI przetwarzające 150 tysięcy PDF-ów miesięcznie, zgodnie z RODO i DORA. Wcześniej NordSecurity, Bitnoi.se, ORO Inc i Arena.pl.",
-    "organizer": "Startup Community Poznań",
-    "language": "PL"
-  },
-  {
-    "name": "Accelerator Forum Poland",
-    "date": "",
-    "status": "pending",
-    "added": "2026-09-03",
-    "submitted": "2026-09-03",
-    "url": "https://www.capgemini.com/pl-pl/aktualnosci/wydarzenia/accelerator-forum-poland/",
-    "price": "Paid",
-    "tags": [
-      "Conference",
-      "Networking"
-    ],
-    "audience": "Developers, Founders, Investors, Corporate",
-    "enriched": true,
-    "description": "⚠ Date not provided in submission — please complete before approving. This first edition of Accelerator Forum Poland will gather senior business leaders to discuss how AI, data, and intelligent operations are reshaping the future of business and driving measurable outcomes at scale.",
-    "language": "PL"
   }
 ]
