@@ -2983,20 +2983,22 @@
     "added": "2026-07-24"
   },
   {
-    "name": "CASSINI Hackathon @ Wrocław",
+    "name": "CASSINI Hackathon @ Gdańsk",
     "date": "2026-11-27",
-    "end_date": "2026-11-29",
+    "city": "Gdańsk",
     "url": "https://www.cassini.eu/hackathons/poland",
-    "description": "Polish edition of the 12th CASSINI Hackathon, EU Space for Peace and Resilience, building on Copernicus, Galileo, EGNOS and IRIS 2 data. Runs across 10 European locations; Blue Dot Solutions hosts the Polish one. Host city not yet announced.",
-    "description_pl": "Polska edycja 12. CASSINI Hackathonu pod hasłem EU Space for Peace and Resilience, oparta na danych z Copernicusa, Galileo, EGNOS i IRIS 2. Wydarzenie odbywa się w 10 lokalizacjach w Europie, polską prowadzi Blue Dot Solutions. Miasto nie zostało jeszcze ogłoszone.",
+    "end_date": "2026-11-29",
+    "organizer": "Blue Dot Solutions",
+    "description": "Polish edition of the 12th CASSINI Hackathon, EU Space for Peace and Resilience, building on Copernicus, Galileo, EGNOS and IRIS 2 data. Runs across 10 European locations; Blue Dot Solutions hosts the Polish one.",
+    "description_pl": "Polska edycja 12. CASSINI Hackathonu pod hasłem EU Space for Peace and Resilience, oparta na danych z Copernicusa, Galileo, EGNOS i IRIS 2. Wydarzenie odbywa się w 10 lokalizacjach w Europie, polską prowadzi Blue Dot Solutions.",
     "language": "EN",
+    "price": "Free",
     "tags": [
       "Hackathon"
     ],
     "audience": "Developers, Founders, Students, Researchers",
-    "organizer": "Blue Dot Solutions",
-    "price": "Free",
     "status": "approved",
+    "added": "2026-09-04",
     "submitted": "2026-03-09"
   },
   {
