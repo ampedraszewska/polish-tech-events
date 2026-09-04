@@ -495,7 +495,8 @@
     "audience": "Corporate, Operators",
     "organizer": "SoDA",
     "price": "Paid",
-    "added": "2026-03-09"
+    "added": "2026-03-09",
+    "enriched": true
   },
   {
     "name": "EFNI Wiosna 2026",
@@ -531,7 +532,8 @@
     "organizer": "Startup Poland",
     "price": "Free",
     "badge": "recommended",
-    "added": "2026-03-30"
+    "added": "2026-03-30",
+    "enriched": true
   },
   {
     "name": "AI Tinkerers Poland - Meetup in Poznań #1",
@@ -796,7 +798,8 @@
     "audience": "Founders, Investors, Corporate",
     "organizer": "Startup Wroclaw",
     "price": "Free",
-    "added": "2026-03-09"
+    "added": "2026-03-09",
+    "enriched": true
   },
   {
     "name": "AI Sync",
@@ -968,7 +971,8 @@
     "audience": "Developers, Founders, Corporate",
     "organizer": "Perspektywy",
     "price": "Paid",
-    "added": "2026-03-09"
+    "added": "2026-03-09",
+    "enriched": true
   },
   {
     "name": "OpenCoffeeKRK #309",
