@@ -3314,20 +3314,20 @@
   },
   {
     "name": "Europejski Kongres Przedsiębiorców",
-    "date": "",
-    "status": "pending",
-    "added": "2026-09-04",
-    "submitted": "2026-09-04",
+    "date": "2026-10-24",
+    "city": "Wrocław",
     "url": "https://lekcjewartemiliony.pl/wydarzenie/europejski-kongres-przedsiebiorcow#agenda",
+    "end_date": "2026-10-25",
+    "description_pl": "EKP 2026 — 2 dni wiedzy, relacji i strategii dla przedsiębiorców. 23–24 października 2026, Terminal Hotel, Wrocław. Kup bilet.",
+    "language": "PL",
     "price": "Paid",
     "tags": [
       "Conference",
       "Networking"
     ],
     "audience": "Corporate, Developers, Investors, Founders",
-    "enriched": true,
-    "description_pl": "EKP 2026 — 2 dni wiedzy, relacji i strategii dla przedsiębiorców. 23–24 października 2026, Terminal Hotel, Wrocław. Kup bilet.",
-    "language": "PL",
-    "description": "⚠ Date not provided in submission — please complete before approving."
+    "status": "approved",
+    "added": "2026-09-04",
+    "submitted": "2026-09-04"
   }
 ]
