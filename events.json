@@ -856,7 +856,9 @@
     "time": "10:00",
     "city": "Warszawa",
     "language": "PL",
-    "description_pl": "Pitch Day - wydarzenie, podczas którego wyselekcjonowane startupy z obszaru creative tech zaprezentują swoje projekty. To okazja, aby w jednym miejscu poznać twórców i ich projekty."
+    "description_pl": "Pitch Day - wydarzenie, podczas którego wyselekcjonowane startupy z obszaru creative tech zaprezentują swoje projekty. To okazja, aby w jednym miejscu poznać twórców i ich projekty.",
+    "enriched": true,
+    "venue": "Warszawa, Poland"
   },
   {
     "name": "Zabłocie Morning Pitch (2026-05-28)",
@@ -1087,7 +1089,8 @@
     "audience": "Corporate, Operators",
     "organizer": "ABSL",
     "price": "Paid",
-    "added": "2026-03-09"
+    "added": "2026-03-09",
+    "enriched": true
   },
   {
     "name": "Carpathian Startup Fest",
@@ -1105,7 +1108,8 @@
     "audience": "Founders, Investors, Students",
     "organizer": "Carpathian Startup Fest",
     "price": "Free",
-    "added": "2026-03-09"
+    "added": "2026-03-09",
+    "enriched": true
   },
   {
     "name": "Premiera Raportu \"Matki jako test rezyliencji rynku pracy\" - Warszawa",
@@ -1114,7 +1118,13 @@
     "organizer": "MamoPracuj.pl",
     "status": "rejected",
     "added": "2026-06-12",
-    "reject_reason": "Not tech-focused enough"
+    "reject_reason": "Not tech-focused enough",
+    "enriched": true,
+    "description": "Premiera Raportu \"Matki jako test rezyliencji rynku pracy\" Fundacji Mamo Pracuj i Infuture Institute",
+    "tags": [
+      "Meetup"
+    ],
+    "language": "EN"
   },
   {
     "name": "AI Tinkerers Poland #8 - Meetup in Warsaw (18th June)",
@@ -1141,7 +1151,13 @@
     "organizer": "MamoPracuj.pl",
     "status": "rejected",
     "added": "2026-06-12",
-    "reject_reason": "Not tech-focused enough"
+    "reject_reason": "Not tech-focused enough",
+    "enriched": true,
+    "description": "Premiera Raportu \"Matki jako test rezyliencji rynku pracy\" Fundacji Mamo Pracuj i Infuture Institute",
+    "tags": [
+      "Meetup"
+    ],
+    "language": "EN"
   },
   {
     "name": "The AI Collective Poland & AGH University | AI in Healthcare: AI in Diagnostics",
@@ -3218,13 +3234,6 @@
     "reject_reason": "Duplicate of existing entry '#3 Spotkanie networkingowe Kobiet w Creative Tech' (approved in events.json); Tally reconcile resurfaced it. Auto-tombstoned 2026-07-27.",
     "added": "2026-07-27",
     "organizer": "CreativeTech Poland"
-  },
-  {
-    "name": "(untitled submission)",
-    "url": "https://luma.com/nfai-warsaw",
-    "status": "rejected",
-    "reject_reason": "Duplicate of existing entry 'Next Frontier AI — Warsaw' (live in events.json); Tally reconcile resurfaced it. Auto-tombstoned 2026-07-27.",
-    "added": "2026-07-27"
   },
   {
     "name": "(untitled submission)",
