@@ -3347,18 +3347,24 @@
   {
     "name": "Poland 2.0 Summit",
     "date": "",
-    "status": "pending",
-    "added": "2026-09-15",
-    "submitted": "2026-09-15",
+    "time": "",
+    "city": "",
+    "venue": "",
     "url": "https://poland20.com/pl",
+    "description": "Two-day conference for Polish students across Europe, run by Fundacja Poland 2.0 Network: talks, hands-on workshops, a technology expo and networking with business leaders, innovators and academics. 12 editions so far; no date or city announced yet for the next one.",
+    "description_pl": "Dwudniowa konferencja dla polskich studentów w Europie, organizowana przez Fundację Poland 2.0 Network: prelekcje, warsztaty, technologiczne expo i networking z liderami biznesu, innowatorami i światem nauki. Dotąd 12 edycji; kolejna nie ma jeszcze ogłoszonej daty ani miasta.",
+    "language": "PL",
     "tags": [
       "Conference",
       "Workshop",
       "Networking"
     ],
     "audience": "Students, Corporate, Developers, Founders",
+    "organizer": "Fundacja Poland 2.0 Network",
+    "status": "pending",
+    "added": "2026-09-15",
+    "submitted": "2026-09-15",
     "enriched": true,
-    "language": "PL",
-    "description": "⚠ Date not provided in submission — please complete before approving."
+    "triage_note": "Wstrzymane: zgłoszony URL to strona organizacji, nie konkretna edycja. Brak daty i miasta w JSON-LD, w treści stron /pl, /en i /en/summit (pusta) oraz w wyszukiwarce. Ostatnia udokumentowana edycja to 10. Summit, Haga 22-23.11.2024, poza Polską. Przed zatwierdzeniem potwierdzić datę, miasto i czy edycja odbywa się w Polsce."
   }
 ]
