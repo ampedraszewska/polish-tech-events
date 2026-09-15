@@ -3343,5 +3343,22 @@
     "venue": "Terminal Hotel",
     "organizer": "Lekcje Warte Miliony",
     "description": "Two-day congress for entrepreneurs at Terminal Hotel in Wroclaw, with 15+ practitioners on growing a company through skills and technology. Includes Startup Friday, an evening gala and networking."
+  },
+  {
+    "name": "Poland 2.0 Summit",
+    "date": "",
+    "status": "pending",
+    "added": "2026-09-15",
+    "submitted": "2026-09-15",
+    "url": "https://poland20.com/pl",
+    "tags": [
+      "Conference",
+      "Workshop",
+      "Networking"
+    ],
+    "audience": "Students, Corporate, Developers, Founders",
+    "enriched": true,
+    "language": "PL",
+    "description": "⚠ Date not provided in submission — please complete before approving."
   }
 ]
