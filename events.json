@@ -3351,8 +3351,8 @@
     "city": "",
     "venue": "",
     "url": "https://poland20.com/pl",
-    "description": "Two-day conference for Polish students across Europe, run by Fundacja Poland 2.0 Network: talks, hands-on workshops, a technology expo and networking with business leaders, innovators and academics. 12 editions so far; no date or city announced yet for the next one.",
-    "description_pl": "Dwudniowa konferencja dla polskich studentów w Europie, organizowana przez Fundację Poland 2.0 Network: prelekcje, warsztaty, technologiczne expo i networking z liderami biznesu, innowatorami i światem nauki. Dotąd 12 edycji; kolejna nie ma jeszcze ogłoszonej daty ani miasta.",
+    "description": "Two-day conference for Polish students across Europe, run by Fundacja Poland 2.0 Network: talks, hands-on workshops, a technology expo and networking with business leaders, innovators and academics. No date or city announced yet for the next edition.",
+    "description_pl": "Dwudniowa konferencja dla polskich studentów w Europie, organizowana przez Fundację Poland 2.0 Network: prelekcje, warsztaty, technologiczne expo i networking z liderami biznesu, innowatorami i światem nauki. Kolejna edycja nie ma jeszcze ogłoszonej daty ani miasta.",
     "language": "PL",
     "tags": [
       "Conference",
@@ -3365,6 +3365,6 @@
     "added": "2026-09-15",
     "submitted": "2026-09-15",
     "enriched": true,
-    "triage_note": "Wstrzymane: zgłoszony URL to strona organizacji, nie konkretna edycja. Brak daty i miasta w JSON-LD oraz w treści /pl, /pl/summit i /en/summit (obie puste) i w wyszukiwarce; /pl/summit/2026 zwraca 404. Ostatnia udokumentowana edycja to 11. Summit, Amsterdam 17-18.10.2025 (wcześniejsza: Haga 2024), a więc poza Polską. Przed zatwierdzeniem potwierdzić datę, miasto i czy kolejna edycja odbywa się w Polsce."
+    "triage_note": "Wstrzymane, ponownie zweryfikowane 16.09.2026: zgłoszony URL to strona organizacji, nie konkretna edycja. Nadal brak daty i miasta. Strony /pl, /pl/summit i /en/summit nie mają obiektu Event w JSON-LD i zawierają tylko treść ogólną (jedyne \"2026\" w kodzie to stopka copyright), /pl/summit/2026 zwraca 404, wyszukiwarka również nic nie podaje. Ostatnia udokumentowana edycja to 11. Summit, Amsterdam 17-18.10.2025 (wcześniejsza: Haga 2024), a więc poza Polską. Przed zatwierdzeniem potwierdzić datę, miasto i czy kolejna edycja odbywa się w Polsce."
   }
 ]
