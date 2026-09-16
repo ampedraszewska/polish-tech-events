@@ -2879,6 +2879,27 @@
     "submitted": "2026-08-06"
   },
   {
+    "name": "Europejski Kongres Przedsiębiorców",
+    "date": "2026-10-23",
+    "city": "Wrocław",
+    "url": "https://lekcjewartemiliony.pl/wydarzenie/europejski-kongres-przedsiebiorcow#agenda",
+    "end_date": "2026-10-24",
+    "description_pl": "EKP 2026 — 2 dni wiedzy, relacji i strategii dla przedsiębiorców. 23–24 października 2026, Terminal Hotel, Wrocław. Kup bilet.",
+    "language": "PL",
+    "price": "Paid",
+    "tags": [
+      "Conference",
+      "Networking"
+    ],
+    "audience": "Corporate, Developers, Investors, Founders",
+    "status": "approved",
+    "added": "2026-09-04",
+    "submitted": "2026-09-04",
+    "venue": "Terminal Hotel",
+    "organizer": "Lekcje Warte Miliony",
+    "description": "Two-day congress for entrepreneurs at Terminal Hotel in Wroclaw, with 15+ practitioners on growing a company through skills and technology. Includes Startup Friday, an evening gala and networking."
+  },
+  {
     "name": "Made in Wroclaw 2026",
     "date": "2026-10-27",
     "time": "09:00",
@@ -3324,27 +3345,6 @@
     "reject_reason": "Duplicate of existing entry 'Kongres Nowej Mobilności' (approved 2026-09-23, same URL, added 2026-07-20); the submission carried no date so dedup did not match it. Tombstoned 2026-09-02."
   },
   {
-    "name": "Europejski Kongres Przedsiębiorców",
-    "date": "2026-10-23",
-    "city": "Wrocław",
-    "url": "https://lekcjewartemiliony.pl/wydarzenie/europejski-kongres-przedsiebiorcow#agenda",
-    "end_date": "2026-10-24",
-    "description_pl": "EKP 2026 — 2 dni wiedzy, relacji i strategii dla przedsiębiorców. 23–24 października 2026, Terminal Hotel, Wrocław. Kup bilet.",
-    "language": "PL",
-    "price": "Paid",
-    "tags": [
-      "Conference",
-      "Networking"
-    ],
-    "audience": "Corporate, Developers, Investors, Founders",
-    "status": "approved",
-    "added": "2026-09-04",
-    "submitted": "2026-09-04",
-    "venue": "Terminal Hotel",
-    "organizer": "Lekcje Warte Miliony",
-    "description": "Two-day congress for entrepreneurs at Terminal Hotel in Wroclaw, with 15+ practitioners on growing a company through skills and technology. Includes Startup Friday, an evening gala and networking."
-  },
-  {
     "name": "Poland 2.0 Summit",
     "date": "",
     "time": "",
@@ -3365,6 +3365,6 @@
     "added": "2026-09-15",
     "submitted": "2026-09-15",
     "enriched": true,
-    "triage_note": "Wstrzymane: zgłoszony URL to strona organizacji, nie konkretna edycja. Brak daty i miasta w JSON-LD, w treści stron /pl, /en i /en/summit (pusta) oraz w wyszukiwarce. Ostatnia udokumentowana edycja to 10. Summit, Haga 22-23.11.2024, poza Polską. Przed zatwierdzeniem potwierdzić datę, miasto i czy edycja odbywa się w Polsce."
+    "triage_note": "Wstrzymane: zgłoszony URL to strona organizacji, nie konkretna edycja. Brak daty i miasta w JSON-LD oraz w treści /pl, /pl/summit i /en/summit (obie puste) i w wyszukiwarce; /pl/summit/2026 zwraca 404. Ostatnia udokumentowana edycja to 11. Summit, Amsterdam 17-18.10.2025 (wcześniejsza: Haga 2024), a więc poza Polską. Przed zatwierdzeniem potwierdzić datę, miasto i czy kolejna edycja odbywa się w Polsce."
   }
 ]
