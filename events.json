@@ -3347,9 +3347,6 @@
   {
     "name": "Poland 2.0 Summit",
     "date": "",
-    "time": "",
-    "city": "",
-    "venue": "",
     "url": "https://poland20.com/pl",
     "description": "Two-day conference for Polish students across Europe, run by Fundacja Poland 2.0 Network: talks, hands-on workshops, a technology expo and networking with business leaders, innovators and academics. No date or city announced yet for the next edition.",
     "description_pl": "Dwudniowa konferencja dla polskich studentów w Europie, organizowana przez Fundację Poland 2.0 Network: prelekcje, warsztaty, technologiczne expo i networking z liderami biznesu, innowatorami i światem nauki. Kolejna edycja nie ma jeszcze ogłoszonej daty ani miasta.",
@@ -3366,5 +3363,22 @@
     "submitted": "2026-09-15",
     "enriched": true,
     "triage_note": "Wstrzymane, ponownie zweryfikowane 16.09.2026: zgłoszony URL to strona organizacji, nie konkretna edycja. Nadal brak daty i miasta. Strony /pl, /pl/summit i /en/summit nie mają obiektu Event w JSON-LD i zawierają tylko treść ogólną (jedyne \"2026\" w kodzie to stopka copyright), /pl/summit/2026 zwraca 404, wyszukiwarka również nic nie podaje. Ostatnia udokumentowana edycja to 11. Summit, Amsterdam 17-18.10.2025 (wcześniejsza: Haga 2024), a więc poza Polską. Przed zatwierdzeniem potwierdzić datę, miasto i czy kolejna edycja odbywa się w Polsce."
+  },
+  {
+    "name": "MobiScale Incubator II Edycja",
+    "date": "",
+    "status": "pending",
+    "added": "2026-09-17",
+    "submitted": "2026-09-17",
+    "url": "https://bednarzventures-mobiscale.pl/demo-day-2026",
+    "tags": [
+      "Conference",
+      "Networking"
+    ],
+    "audience": "Investors, Corporate, Developers, Founders",
+    "enriched": true,
+    "description_pl": "Nowe rozwiązania dla TSL i mobility, pitchingi zespołów, rozmowy z branżą i networking. 29 września 2026 w Warszawie.",
+    "language": "PL",
+    "description": "⚠ Date not provided in submission — please complete before approving."
   }
 ]
