@@ -2642,6 +2642,27 @@
     "organizer": "Capgemini Poland"
   },
   {
+    "name": "MobiScale Demo Day 2026",
+    "date": "2026-09-29",
+    "time": "17:00",
+    "city": "Warszawa",
+    "venue": "Instytut Wzornictwa, Świętojerska 5/7",
+    "url": "https://bednarzventures-mobiscale.pl/demo-day-2026",
+    "description": "Demo Day closing the second edition of the MobiScale incubator for logistics and mobility (TSL): team pitches and prototype demos, a MobilityTech panel with industry leaders and investors, and evening networking. Free entry, limited number of seats.",
+    "description_pl": "Demo Day zamykający drugą edycję inkubatora MobiScale dla logistyki i mobility (TSL): pitche zespołów i pokazy prototypów, panel o MobilityTech z liderami branży i inwestorami oraz wieczorny networking. Wstęp bezpłatny, liczba miejsc ograniczona.",
+    "language": "PL",
+    "tags": [
+      "Conference",
+      "Networking"
+    ],
+    "audience": "Founders, Investors, Corporate, Operators",
+    "organizer": "BEDNARZ Ventures",
+    "price": "Free",
+    "status": "approved",
+    "added": "2026-09-17",
+    "submitted": "2026-09-17"
+  },
+  {
     "name": "(untitled submission)",
     "url": "https://luma.com/zr8l4wwe",
     "status": "rejected",
@@ -2936,6 +2957,27 @@
     "price": "Paid",
     "status": "approved",
     "added": "2026-07-20"
+  },
+  {
+    "name": "Poland 2.0 Summit",
+    "date": "2026-11-06",
+    "end_date": "2026-11-07",
+    "city": "Warszawa",
+    "url": "https://poland20.com/pl",
+    "description": "Two-day conference run by Fundacja Poland 2.0 Network for Polish students and young professionals studying abroad: talks, workshops and networking with leaders from business, technology and innovation. Tickets from 250 PLN.",
+    "description_pl": "Dwudniowa konferencja Fundacji Poland 2.0 Network dla polskich studentów i młodych profesjonalistów studiujących za granicą: prelekcje, warsztaty i networking z liderami biznesu, technologii i innowacji. Bilety od 250 zł.",
+    "language": "PL",
+    "tags": [
+      "Conference",
+      "Workshop",
+      "Networking"
+    ],
+    "audience": "Students, Founders, Corporate",
+    "organizer": "Fundacja Poland 2.0 Network",
+    "price": "Paid",
+    "status": "approved",
+    "added": "2026-09-15",
+    "submitted": "2026-09-15"
   },
   {
     "name": "Infoshare Katowice",
@@ -3343,42 +3385,5 @@
     "description_pl": "Największa konferencja i EXPO nowej mobilności w regionie CEE. Poznaj trendy w e-mobility, pojazdy zeroemisyjne oraz smart cities. Dołącz do liderów branży!",
     "language": "PL",
     "reject_reason": "Duplicate of existing entry 'Kongres Nowej Mobilności' (approved 2026-09-23, same URL, added 2026-07-20); the submission carried no date so dedup did not match it. Tombstoned 2026-09-02."
-  },
-  {
-    "name": "Poland 2.0 Summit",
-    "date": "",
-    "url": "https://poland20.com/pl",
-    "description": "Two-day conference for Polish students across Europe, run by Fundacja Poland 2.0 Network: talks, hands-on workshops, a technology expo and networking with business leaders, innovators and academics. No date or city announced yet for the next edition.",
-    "description_pl": "Dwudniowa konferencja dla polskich studentów w Europie, organizowana przez Fundację Poland 2.0 Network: prelekcje, warsztaty, technologiczne expo i networking z liderami biznesu, innowatorami i światem nauki. Kolejna edycja nie ma jeszcze ogłoszonej daty ani miasta.",
-    "language": "PL",
-    "tags": [
-      "Conference",
-      "Workshop",
-      "Networking"
-    ],
-    "audience": "Students, Corporate, Developers, Founders",
-    "organizer": "Fundacja Poland 2.0 Network",
-    "status": "pending",
-    "added": "2026-09-15",
-    "submitted": "2026-09-15",
-    "enriched": true,
-    "triage_note": "Wstrzymane, ponownie zweryfikowane 16.09.2026: zgłoszony URL to strona organizacji, nie konkretna edycja. Nadal brak daty i miasta. Strony /pl, /pl/summit i /en/summit nie mają obiektu Event w JSON-LD i zawierają tylko treść ogólną (jedyne \"2026\" w kodzie to stopka copyright), /pl/summit/2026 zwraca 404, wyszukiwarka również nic nie podaje. Ostatnia udokumentowana edycja to 11. Summit, Amsterdam 17-18.10.2025 (wcześniejsza: Haga 2024), a więc poza Polską. Przed zatwierdzeniem potwierdzić datę, miasto i czy kolejna edycja odbywa się w Polsce."
-  },
-  {
-    "name": "MobiScale Incubator II Edycja",
-    "date": "",
-    "status": "pending",
-    "added": "2026-09-17",
-    "submitted": "2026-09-17",
-    "url": "https://bednarzventures-mobiscale.pl/demo-day-2026",
-    "tags": [
-      "Conference",
-      "Networking"
-    ],
-    "audience": "Investors, Corporate, Developers, Founders",
-    "enriched": true,
-    "description_pl": "Nowe rozwiązania dla TSL i mobility, pitchingi zespołów, rozmowy z branżą i networking. 29 września 2026 w Warszawie.",
-    "language": "PL",
-    "description": "⚠ Date not provided in submission — please complete before approving."
   }
 ]
