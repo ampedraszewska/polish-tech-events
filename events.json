@@ -3421,5 +3421,26 @@
     "status": "pending",
     "added": "2026-09-21",
     "submitted": "2026-09-21"
+  },
+  {
+    "name": "WAWTech",
+    "date": "2026-11-26",
+    "status": "pending",
+    "added": "2026-09-21",
+    "submitted": "2026-09-21",
+    "url": "https://wawtech.io/",
+    "tags": [
+      "Conference",
+      "Workshop",
+      "Networking"
+    ],
+    "audience": "Founders, Developers, Students, Investors",
+    "enriched": true,
+    "end_date": "2026-11-27",
+    "venue": "Warsaw",
+    "city": "Warsaw",
+    "description": "November 26-27 in Warsaw, WAWTech 2026 — Tech conference in Warsaw for 3000 Engineers",
+    "price": "Paid",
+    "language": "EN"
   }
 ]
