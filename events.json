@@ -3458,5 +3458,23 @@
     "description_pl": "Konferencja dla prawników i właścicieli kancelarii na temat AI, automatyzacji i technologii, które pomagają pracować szybciej i bezpieczniej.",
     "language": "PL",
     "description": "⚠ Date not provided in submission — please complete before approving."
+  },
+  {
+    "name": "The Hack Summit",
+    "date": "",
+    "status": "pending",
+    "added": "2026-09-21",
+    "submitted": "2026-09-21",
+    "url": "https://thehacksummit.com/",
+    "tags": [
+      "Conference",
+      "Networking",
+      "Meetup"
+    ],
+    "audience": "Founders, Developers, Researchers, Students, General public",
+    "enriched": true,
+    "price": "Paid",
+    "language": "PL",
+    "description": "⚠ Date not provided in submission — please complete before approving."
   }
 ]
