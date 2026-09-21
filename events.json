@@ -3476,5 +3476,24 @@
     "price": "Paid",
     "language": "PL",
     "description": "⚠ Date not provided in submission — please complete before approving."
+  },
+  {
+    "name": "Space Arena",
+    "date": "",
+    "status": "pending",
+    "added": "2026-09-21",
+    "submitted": "2026-09-21",
+    "url": "https://www.kpt.krakow.pl/space-arena/",
+    "organizer": "Krakowski Park Technologiczny",
+    "price": "Paid",
+    "tags": [
+      "Workshop",
+      "Conference"
+    ],
+    "audience": "Founders, Students",
+    "enriched": true,
+    "description_pl": "Krakowski Park Technologiczny wspiera rozwój przedsiębiorczości i innowacji, oferując programy wsparcia dla firm, startupów i inwestorów.",
+    "language": "PL",
+    "description": "⚠ Date not provided in submission — please complete before approving."
   }
 ]
