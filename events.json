@@ -3442,5 +3442,21 @@
     "description": "November 26-27 in Warsaw, WAWTech 2026 — Tech conference in Warsaw for 3000 Engineers",
     "price": "Paid",
     "language": "EN"
+  },
+  {
+    "name": "Konferencja Legal Tech",
+    "date": "",
+    "status": "pending",
+    "added": "2026-09-21",
+    "submitted": "2026-09-21",
+    "url": "https://legalisland.pl/",
+    "tags": [
+      "Conference"
+    ],
+    "audience": "Corporate",
+    "enriched": true,
+    "description_pl": "Konferencja dla prawników i właścicieli kancelarii na temat AI, automatyzacji i technologii, które pomagają pracować szybciej i bezpieczniej.",
+    "language": "PL",
+    "description": "⚠ Date not provided in submission — please complete before approving."
   }
 ]
