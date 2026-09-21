@@ -2454,6 +2454,24 @@
     "triage_note": "Zgłoszony URL to strona całego cyklu (10 spotkań w 2026), nie pojedyncze wydarzenie. Zaproponowana najbliższa instancja z otwartymi zapisami: Złotoryja 22.09. Pozostałe: Karpacz 9.09 (w ramach Forum Ekonomicznego, bez zapisów), Wołów 20.10, Ząbkowice Śląskie 17.11, Oleśnica 30.11 (zapisy wkrótce). Wybierz instancję (lub kilka) i uzupełnij miejsce przed zatwierdzeniem."
   },
   {
+    "name": "Konferencja Legal Tech",
+    "date": "2026-09-22",
+    "time": "09:00",
+    "city": "Bydgoszcz",
+    "venue": "Młyny Rothera, Mennica 10",
+    "url": "https://legalisland.pl/",
+    "description": "Legal Island, a legal tech conference in Bydgoszcz for lawyers and law firm owners, covering AI, automation, case management systems and tools that make legal work faster and safer.",
+    "description_pl": "Legal Island, konferencja legal tech w Bydgoszczy dla prawników i właścicieli kancelarii, o sztucznej inteligencji, automatyzacji, systemach do zarządzania sprawami i narzędziach, które pomagają pracować szybciej i bezpieczniej.",
+    "language": "PL",
+    "tags": [
+      "Conference"
+    ],
+    "audience": "Corporate",
+    "status": "approved",
+    "added": "2026-09-21",
+    "submitted": "2026-09-21"
+  },
+  {
     "name": "(untitled submission)",
     "url": "https://luma.com/o0egel4o",
     "status": "rejected",
@@ -2528,6 +2546,29 @@
       "Conference"
     ],
     "enriched": true
+  },
+  {
+    "name": "FutureBiz Summit",
+    "date": "2026-09-23",
+    "end_date": "2026-09-24",
+    "time": "09:30",
+    "city": "Kraków",
+    "venue": "Centrum Konferencyjne Fabryczna 13",
+    "url": "https://futurebizsummit.pl/",
+    "organizer": "PubliCity Media Group",
+    "description": "Two-day business congress in Kraków bringing together entrepreneurs, company leaders and experts from across the Polish economy, with panel discussions, power speeches, workshops and networking.",
+    "description_pl": "Dwudniowy kongres biznesowy w Krakowie, który gromadzi przedsiębiorców, liderów firm i ekspertów polskiej gospodarki. W programie panele dyskusyjne, wystąpienia, warsztaty i networking.",
+    "language": "PL",
+    "tags": [
+      "Conference",
+      "Workshop",
+      "Networking"
+    ],
+    "audience": "Founders, Developers, Researchers, Investors, Corporate, Students",
+    "price": "Paid",
+    "status": "approved",
+    "added": "2026-09-21",
+    "submitted": "2026-09-21"
   },
   {
     "name": "Baltic Summit",
@@ -2900,6 +2941,27 @@
     "submitted": "2026-08-06"
   },
   {
+    "name": "Space Arena",
+    "date": "2026-10-21",
+    "city": "Kraków",
+    "venue": "Krakowski Park Technologiczny, ul. Podole 60",
+    "url": "https://www.kpt.krakow.pl/space-arena/",
+    "organizer": "Krakowski Park Technologiczny",
+    "description": "Space Arena is a pitching competition for space and deep tech startups run by Krakow Technology Park. The final takes place on 21 October 2026 during the Space Connect Summit, with 5-minute pitches and 5 minutes of jury questions. Applications close 27 September 2026.",
+    "description_pl": "Space Arena to konkurs pitchingowy dla startupów kosmicznych i deep-tech organizowany przez Krakowski Park Technologiczny. Finał odbywa się 21 października 2026 podczas Space Connect Summit: 5 minut prezentacji i 5 minut pytań Kapituły. Nabór trwa do 27 września 2026.",
+    "language": "PL",
+    "tags": [
+      "Conference",
+      "Workshop"
+    ],
+    "audience": "Founders, Investors, Students",
+    "price": "Paid",
+    "status": "pending",
+    "added": "2026-09-21",
+    "submitted": "2026-09-21",
+    "triage_note": "Wstrzymane: to konkurs pitchingowy z naborem (rekrutacja do 27.09.2026), a nie otwarte wydarzenie. Data i miejsce finału potwierdzone na stronie KPT (21.10.2026, KPT ul. Podole 60, podczas Space Connect Summit). Do decyzji: czy publikujemy nabór do konkursu, czy raczej samą konferencję Space Connect Summit."
+  },
+  {
     "name": "Europejski Kongres Przedsiębiorców",
     "date": "2026-10-23",
     "city": "Wrocław",
@@ -2957,6 +3019,27 @@
     "price": "Paid",
     "status": "approved",
     "added": "2026-07-20"
+  },
+  {
+    "name": "The Hack Summit",
+    "date": "2026-11-05",
+    "end_date": "2026-11-06",
+    "time": "09:30",
+    "city": "Warszawa",
+    "venue": "5.11 online, 6.11 PGE Narodowy, al. ks. J. Poniatowskiego 1",
+    "url": "https://thehacksummit.com/",
+    "description": "Poland's largest cybersecurity conference: an online day followed by an onsite day at PGE Narodowy in Warsaw, with 150+ talks across 15+ tracks and a free CyberSec Expo floor.",
+    "description_pl": "Największa konferencja cyberbezpieczeństwa w Polsce: dzień online i dzień stacjonarny na PGE Narodowym w Warszawie, ponad 150 prelekcji w kilkunastu ścieżkach oraz bezpłatna strefa CyberSec Expo.",
+    "language": "PL",
+    "tags": [
+      "Conference",
+      "Networking"
+    ],
+    "audience": "Founders, Developers, Researchers, Students, General public",
+    "price": "Partly paid",
+    "status": "approved",
+    "added": "2026-09-21",
+    "submitted": "2026-09-21"
   },
   {
     "name": "Poland 2.0 Summit",
@@ -3062,6 +3145,34 @@
     "added": "2026-07-24"
   },
   {
+    "name": "WAWTech 2026 — Tech conference in Warsaw for 3000 Engineers",
+    "url": "https://wawtech.io/",
+    "date": "2026-11-26",
+    "organizer": "WAWTech",
+    "status": "rejected",
+    "reject_reason": "Duplikat istniejącego wpisu \"WAWTech\" (2026-11-26, wawtech.io) - to samo wydarzenie zgłoszone dwukrotnie pod dwiema nazwami."
+  },
+  {
+    "name": "WAWTech",
+    "date": "2026-11-26",
+    "end_date": "2026-11-27",
+    "city": "Warszawa",
+    "venue": "Warszawa",
+    "url": "https://wawtech.io/",
+    "description": "Two-day tech conference in Warsaw for around 3000 engineers, with talks across software, infrastructure and engineering practice.",
+    "description_pl": "Dwudniowa konferencja technologiczna w Warszawie dla około 3000 inżynierów, z prelekcjami o programowaniu, infrastrukturze i praktyce inżynierskiej.",
+    "language": "EN",
+    "tags": [
+      "Conference",
+      "Networking"
+    ],
+    "audience": "Founders, Developers, Students, Investors",
+    "price": "Paid",
+    "status": "approved",
+    "added": "2026-09-21",
+    "submitted": "2026-09-21"
+  },
+  {
     "name": "CASSINI Hackathon @ Gdańsk",
     "date": "2026-11-27",
     "city": "Gdańsk",
@@ -3117,6 +3228,27 @@
     "description_pl": "Dwadzieścia lat Infoshare, największego wydarzenia technologicznego w Europie Środkowo-Wschodniej: trendy w AI, R&D i skalowaniu biznesu. 19-20 maja 2027 w AmberExpo w Gdańsku.",
     "end_date": "2027-05-20",
     "venue": "AmberExpo, Gdańsk"
+  },
+  {
+    "name": "Carpathian Startup Fest",
+    "date": "2027-06-09",
+    "end_date": "2027-06-10",
+    "city": "",
+    "venue": "",
+    "url": "https://www.linkedin.com/posts/carpathian-startup-fest_carpathianstartupfest-csf27-savethedate-activity-7507726837154807808-atvR/",
+    "organizer": "Carpathian Startup Fest",
+    "description": "Save the date for the 7th edition of Carpathian Startup Fest, announced for 9-10 June 2027: two days of meetings between startups, investors and business. Venue and city not yet announced; earlier editions were held in Jasionka near Rzeszów.",
+    "description_pl": "Save the date dla 7. edycji Carpathian Startup Fest, zapowiedzianej na 9-10 czerwca 2027: dwa dni spotkań startupów, inwestorów i biznesu. Miejsce i miasto nie zostały jeszcze ogłoszone, poprzednie edycje odbywały się w Jasionce pod Rzeszowem.",
+    "language": "PL",
+    "tags": [
+      "Conference",
+      "Networking"
+    ],
+    "audience": "Founders, Investors",
+    "status": "pending",
+    "added": "2026-09-21",
+    "submitted": "2026-09-21",
+    "triage_note": "Wstrzymane: zgłoszony URL to post save-the-date na LinkedInie, nie strona wydarzenia, a organizator nie podał jeszcze miasta ani miejsca 7. edycji (carpathianfest.pl pokazuje wciąż edycję 2026). Data 9-10.06.2027 pochodzi z tego posta. Do uzupełnienia miasto i docelowy link przed publikacją."
   },
   {
     "name": "AIntern 2026",
@@ -3385,131 +3517,5 @@
     "description_pl": "Największa konferencja i EXPO nowej mobilności w regionie CEE. Poznaj trendy w e-mobility, pojazdy zeroemisyjne oraz smart cities. Dołącz do liderów branży!",
     "language": "PL",
     "reject_reason": "Duplicate of existing entry 'Kongres Nowej Mobilności' (approved 2026-09-23, same URL, added 2026-07-20); the submission carried no date so dedup did not match it. Tombstoned 2026-09-02."
-  },
-  {
-    "name": "FutureBiz Summit",
-    "date": "",
-    "status": "pending",
-    "added": "2026-09-21",
-    "submitted": "2026-09-21",
-    "url": "https://futurebizsummit.pl/",
-    "price": "Paid",
-    "tags": [
-      "Conference",
-      "Workshop",
-      "Networking"
-    ],
-    "audience": "Founders, Developers, Researchers, Investors, Corporate, Students",
-    "enriched": true,
-    "language": "PL",
-    "description": "⚠ Date not provided in submission — please complete before approving."
-  },
-  {
-    "url": "https://wawtech.io/",
-    "name": "WAWTech 2026 — Tech conference in Warsaw for 3000 Engineers",
-    "description": "November 26-27 in Warsaw, WAWTech 2026 — Tech conference in Warsaw for 3000 Engineers",
-    "date": "2026-11-26",
-    "end_date": "2026-11-27",
-    "city": "Warsaw",
-    "venue": "Warsaw",
-    "language": "EN",
-    "price": "Paid",
-    "tags": [
-      "Conference"
-    ],
-    "audience": "Developers",
-    "status": "pending",
-    "added": "2026-09-21",
-    "submitted": "2026-09-21"
-  },
-  {
-    "name": "WAWTech",
-    "date": "2026-11-26",
-    "status": "pending",
-    "added": "2026-09-21",
-    "submitted": "2026-09-21",
-    "url": "https://wawtech.io/",
-    "tags": [
-      "Conference",
-      "Workshop",
-      "Networking"
-    ],
-    "audience": "Founders, Developers, Students, Investors",
-    "enriched": true,
-    "end_date": "2026-11-27",
-    "venue": "Warsaw",
-    "city": "Warsaw",
-    "description": "November 26-27 in Warsaw, WAWTech 2026 — Tech conference in Warsaw for 3000 Engineers",
-    "price": "Paid",
-    "language": "EN"
-  },
-  {
-    "name": "Konferencja Legal Tech",
-    "date": "",
-    "status": "pending",
-    "added": "2026-09-21",
-    "submitted": "2026-09-21",
-    "url": "https://legalisland.pl/",
-    "tags": [
-      "Conference"
-    ],
-    "audience": "Corporate",
-    "enriched": true,
-    "description_pl": "Konferencja dla prawników i właścicieli kancelarii na temat AI, automatyzacji i technologii, które pomagają pracować szybciej i bezpieczniej.",
-    "language": "PL",
-    "description": "⚠ Date not provided in submission — please complete before approving."
-  },
-  {
-    "name": "The Hack Summit",
-    "date": "",
-    "status": "pending",
-    "added": "2026-09-21",
-    "submitted": "2026-09-21",
-    "url": "https://thehacksummit.com/",
-    "tags": [
-      "Conference",
-      "Networking",
-      "Meetup"
-    ],
-    "audience": "Founders, Developers, Researchers, Students, General public",
-    "enriched": true,
-    "price": "Paid",
-    "language": "PL",
-    "description": "⚠ Date not provided in submission — please complete before approving."
-  },
-  {
-    "name": "Space Arena",
-    "date": "",
-    "status": "pending",
-    "added": "2026-09-21",
-    "submitted": "2026-09-21",
-    "url": "https://www.kpt.krakow.pl/space-arena/",
-    "organizer": "Krakowski Park Technologiczny",
-    "price": "Paid",
-    "tags": [
-      "Workshop",
-      "Conference"
-    ],
-    "audience": "Founders, Students",
-    "enriched": true,
-    "description_pl": "Krakowski Park Technologiczny wspiera rozwój przedsiębiorczości i innowacji, oferując programy wsparcia dla firm, startupów i inwestorów.",
-    "language": "PL",
-    "description": "⚠ Date not provided in submission — please complete before approving."
-  },
-  {
-    "name": "Carpathian Startup Fest",
-    "date": "",
-    "status": "pending",
-    "added": "2026-09-21",
-    "submitted": "2026-09-21",
-    "url": "https://www.linkedin.com/posts/carpathian-startup-fest_carpathianstartupfest-csf27-savethedate-activity-7507726837154807808-atvR/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAAcgDucBSnqOw6w5jfo0lta-STOFM5hPZ_8",
-    "tags": [
-      "Conference"
-    ],
-    "enriched": true,
-    "description_pl": "🚀 SAVE THE DATE! Carpathian Startup Fest wraca z 7. edycją! 📅 9–10 czerwca 2027 Przed nami kolejne dwa dni spotkań startupów, inwestorów, biznesu i ludzi, którzy zamieniają pomysły w konkretne działania. Zapiszcie datę w kalendarzu.",
-    "audience": "Founders, Investors",
-    "language": "PL",
-    "description": "⚠ Date not provided in submission — please complete before approving."
   }
 ]
