@@ -3266,7 +3266,9 @@
     "status": "pending",
     "added": "2026-09-21",
     "submitted": "2026-09-21",
-    "triage_note": "Wstrzymane: zgłoszony URL to post save-the-date na LinkedInie, nie strona wydarzenia, a organizator nadal nie podał miasta ani miejsca 7. edycji. Sprawdzone ponownie 22.09.2026: carpathianfest.pl wciąż pokazuje edycję 2026, wyszukiwanie nie znalazło ogłoszenia lokalizacji. Data 9-10.06.2027 pochodzi wyłącznie z tego posta. Do uzupełnienia miasto i docelowy link przed publikacją."
+    "triage_note": "Wstrzymane: zgłoszony URL to post save-the-date na LinkedInie, nie strona wydarzenia, a organizator nadal nie podał miasta ani miejsca 7. edycji. Sprawdzone ponownie 22.09.2026: carpathianfest.pl wciąż pokazuje edycję 2026, wyszukiwanie nie znalazło ogłoszenia lokalizacji. Data 9-10.06.2027 pochodzi wyłącznie z tego posta. Do uzupełnienia miasto i docelowy link przed publikacją.",
+    "price": "Free",
+    "enriched": true
   },
   {
     "name": "AIntern 2026",
