@@ -2704,6 +2704,26 @@
     "submitted": "2026-09-17"
   },
   {
+    "name": "CEE Digital Summit 2026",
+    "date": "2026-09-29",
+    "time": "12:00",
+    "city": "Warszawa",
+    "venue": "Pałac Kultury i Nauki, plac Defilad 1 (IV piętro)",
+    "url": "https://www.ceedigitalsummit.com/",
+    "description": "The flagship annual conference of the CEE Digital Coalition and the largest gathering of digital-policy stakeholders in the region. Panels on regional connectivity, EU rulebook simplification, AI adoption and cybersecurity, plus the CEE Digital Trident award.",
+    "description_pl": "Doroczna konferencja CEE Digital Coalition i największe w regionie spotkanie środowiska polityki cyfrowej. Panele o łączności regionu, upraszczaniu unijnych przepisów, wdrażaniu AI i cyberbezpieczeństwie, a także wręczenie nagrody CEE Digital Trident.",
+    "language": "EN",
+    "tags": [
+      "Conference",
+      "Policy"
+    ],
+    "audience": "Corporate, Operators, Researchers",
+    "organizer": "CEE Digital Coalition",
+    "price": "Free",
+    "status": "approved",
+    "added": "2026-09-22"
+  },
+  {
     "name": "(untitled submission)",
     "url": "https://luma.com/zr8l4wwe",
     "status": "rejected",
@@ -3537,21 +3557,5 @@
     "description_pl": "Największa konferencja i EXPO nowej mobilności w regionie CEE. Poznaj trendy w e-mobility, pojazdy zeroemisyjne oraz smart cities. Dołącz do liderów branży!",
     "language": "PL",
     "reject_reason": "Duplicate of existing entry 'Kongres Nowej Mobilności' (approved 2026-09-23, same URL, added 2026-07-20); the submission carried no date so dedup did not match it. Tombstoned 2026-09-02."
-  },
-  {
-    "name": "CEE Digital Summit",
-    "date": "",
-    "status": "pending",
-    "added": "2026-09-22",
-    "submitted": "2026-09-22",
-    "url": "https://www.ceedigitalsummit.com/",
-    "tags": [
-      "Conference",
-      "Networking"
-    ],
-    "audience": "Developers, Researchers, Investors, Founders, Operators",
-    "enriched": true,
-    "description": "⚠ Date not provided in submission — please complete before approving. The third regional gathering dedicated to exploring and shaping the digital course of Central Eastern Europe and discussing challenges ahead of the digital economy of our region will take place on October 13th in Warsaw, Poland",
-    "language": "EN"
   }
 ]
