@@ -3233,8 +3233,6 @@
     "name": "Carpathian Startup Fest",
     "date": "2027-06-09",
     "end_date": "2027-06-10",
-    "city": "",
-    "venue": "",
     "url": "https://www.linkedin.com/posts/carpathian-startup-fest_carpathianstartupfest-csf27-savethedate-activity-7507726837154807808-atvR/",
     "organizer": "Carpathian Startup Fest",
     "description": "Save the date for the 7th edition of Carpathian Startup Fest, announced for 9-10 June 2027: two days of meetings between startups, investors and business. Venue and city not yet announced; earlier editions were held in Jasionka near Rzeszów.",
@@ -3517,5 +3515,22 @@
     "description_pl": "Największa konferencja i EXPO nowej mobilności w regionie CEE. Poznaj trendy w e-mobility, pojazdy zeroemisyjne oraz smart cities. Dołącz do liderów branży!",
     "language": "PL",
     "reject_reason": "Duplicate of existing entry 'Kongres Nowej Mobilności' (approved 2026-09-23, same URL, added 2026-07-20); the submission carried no date so dedup did not match it. Tombstoned 2026-09-02."
+  },
+  {
+    "name": "Warsztat Corporate & VC Readiness dla twórców technologii i zespołów B2B",
+    "date": "",
+    "status": "pending",
+    "added": "2026-09-22",
+    "submitted": "2026-09-22",
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLScpH7-68PTryc80rTQqnu2smpw1wp9WCOqeOFaGzyBcjnv-Ng/viewform?usp=sharing&ouid=104091091950818674547",
+    "organizer": "Huge Thing",
+    "price": "Paid",
+    "tags": [
+      "Workshop"
+    ],
+    "audience": "Founders, Researchers, Students",
+    "enriched": true,
+    "description_pl": "Zapraszamy twórców technologii, liderów projektów oraz zespoły rozwijające rozwiązania B2B na zamknięty, kameralny warsztat poświęcony budowaniu gotowości na współpracę z dużym biznesem oraz funduszami inwestycyjnymi.",
+    "description": "⚠ Date not provided in submission — please complete before approving."
   }
 ]
