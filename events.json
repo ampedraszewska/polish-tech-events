@@ -2826,6 +2826,27 @@
     "description_pl": "Pitchujesz swój pomysł na startup na Solanie na żywo i zbierasz szczery feedback od ekspertów z ekosystemu. Nie musisz mieć gotowego produktu ani pełnego zespołu, wystarczy pomysł. Przygotowanie przed Warsaw Demo Day i globalnym hackathonem Colosseum."
   },
   {
+    "name": "Warsztat Corporate & VC Readiness dla twórców technologii i zespołów B2B",
+    "date": "2026-10-09",
+    "status": "pending",
+    "added": "2026-09-22",
+    "submitted": "2026-09-22",
+    "url": "https://docs.google.com/forms/d/e/1FAIpQLScpH7-68PTryc80rTQqnu2smpw1wp9WCOqeOFaGzyBcjnv-Ng/viewform?usp=sharing&ouid=104091091950818674547",
+    "organizer": "Huge Thing",
+    "price": "Paid",
+    "tags": [
+      "Workshop"
+    ],
+    "audience": "Founders, Researchers",
+    "description_pl": "Zamknięty warsztat Huge Thing o gotowości na współpracę z korporacjami i funduszami VC. Prowadzą Marcin Fejfer (SpeedUp VC, S20 Fund) i Magda Jagiełło-Dobrowolska (Huge Thing). Dwie godziny przy wspólnym stole, maksymalnie 8 miejsc, rekrutacja przez formularz.",
+    "description": "A closed Huge Thing workshop on getting B2B tech teams ready to work with corporates and VC funds. Led by Marcin Fejfer (SpeedUp VC, S20 Fund) and Magda Jagiełło-Dobrowolska (Huge Thing). Two hours around one table, 8 seats, entry by application form.",
+    "time": "13:00",
+    "city": "Poznań",
+    "venue": "Poczta Workspace",
+    "language": "PL",
+    "triage_note": "Wstrzymane: wydarzenie zamknięte, maksymalnie 8 miejsc, wstęp po weryfikacji profilu projektu, a zgłoszony URL to formularz rekrutacyjny Google, nie strona wydarzenia. Data, godzina i miejsce (9.10.2026, 13:00-15:00, Poczta Workspace, Poznań) odczytane z treści formularza. Cena \"Paid\" pochodzi ze zgłoszenia, formularz jej nie podaje. Do decyzji: czy publikujemy wydarzenie z limitem 8 miejsc i linkiem do formularza."
+  },
+  {
     "name": "PitchMeetUp",
     "date": "2026-10-14",
     "time": "09:00",
@@ -2952,14 +2973,13 @@
     "language": "PL",
     "tags": [
       "Conference",
-      "Workshop"
+      "Networking"
     ],
     "audience": "Founders, Investors, Students",
-    "price": "Paid",
     "status": "pending",
     "added": "2026-09-21",
     "submitted": "2026-09-21",
-    "triage_note": "Wstrzymane: to konkurs pitchingowy z naborem (rekrutacja do 27.09.2026), a nie otwarte wydarzenie. Data i miejsce finału potwierdzone na stronie KPT (21.10.2026, KPT ul. Podole 60, podczas Space Connect Summit). Do decyzji: czy publikujemy nabór do konkursu, czy raczej samą konferencję Space Connect Summit."
+    "triage_note": "Wstrzymane: to konkurs pitchingowy z naborem (rekrutacja do 27.09.2026), a nie otwarte wydarzenie. Data i miejsce finału potwierdzone na stronie KPT (21.10.2026, KPT ul. Podole 60, podczas Space Connect Summit). Strona nie podaje ceny, pole zostawione puste. Do decyzji: czy publikujemy nabór do konkursu, czy raczej samą konferencję Space Connect Summit."
   },
   {
     "name": "Europejski Kongres Przedsiębiorców",
@@ -3246,7 +3266,9 @@
     "status": "pending",
     "added": "2026-09-21",
     "submitted": "2026-09-21",
-    "triage_note": "Wstrzymane: zgłoszony URL to post save-the-date na LinkedInie, nie strona wydarzenia, a organizator nie podał jeszcze miasta ani miejsca 7. edycji (carpathianfest.pl pokazuje wciąż edycję 2026). Data 9-10.06.2027 pochodzi z tego posta. Do uzupełnienia miasto i docelowy link przed publikacją."
+    "triage_note": "Wstrzymane: zgłoszony URL to post save-the-date na LinkedInie, nie strona wydarzenia, a organizator nadal nie podał miasta ani miejsca 7. edycji. Sprawdzone ponownie 22.09.2026: carpathianfest.pl wciąż pokazuje edycję 2026, wyszukiwanie nie znalazło ogłoszenia lokalizacji. Data 9-10.06.2027 pochodzi wyłącznie z tego posta. Do uzupełnienia miasto i docelowy link przed publikacją.",
+    "city": "",
+    "venue": ""
   },
   {
     "name": "AIntern 2026",
@@ -3515,22 +3537,5 @@
     "description_pl": "Największa konferencja i EXPO nowej mobilności w regionie CEE. Poznaj trendy w e-mobility, pojazdy zeroemisyjne oraz smart cities. Dołącz do liderów branży!",
     "language": "PL",
     "reject_reason": "Duplicate of existing entry 'Kongres Nowej Mobilności' (approved 2026-09-23, same URL, added 2026-07-20); the submission carried no date so dedup did not match it. Tombstoned 2026-09-02."
-  },
-  {
-    "name": "Warsztat Corporate & VC Readiness dla twórców technologii i zespołów B2B",
-    "date": "",
-    "status": "pending",
-    "added": "2026-09-22",
-    "submitted": "2026-09-22",
-    "url": "https://docs.google.com/forms/d/e/1FAIpQLScpH7-68PTryc80rTQqnu2smpw1wp9WCOqeOFaGzyBcjnv-Ng/viewform?usp=sharing&ouid=104091091950818674547",
-    "organizer": "Huge Thing",
-    "price": "Paid",
-    "tags": [
-      "Workshop"
-    ],
-    "audience": "Founders, Researchers, Students",
-    "enriched": true,
-    "description_pl": "Zapraszamy twórców technologii, liderów projektów oraz zespoły rozwijające rozwiązania B2B na zamknięty, kameralny warsztat poświęcony budowaniu gotowości na współpracę z dużym biznesem oraz funduszami inwestycyjnymi.",
-    "description": "⚠ Date not provided in submission — please complete before approving."
   }
 ]
