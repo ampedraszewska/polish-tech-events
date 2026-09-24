@@ -1312,7 +1312,8 @@
     "organizer": "Fundacja Quantum AI",
     "price": "Free",
     "status": "approved",
-    "added": "2026-06-21"
+    "added": "2026-06-21",
+    "enriched": true
   },
   {
     "name": "MD Fellowship Demo Day",
@@ -1369,7 +1370,8 @@
     "time": "18:00",
     "city": "Warszawa",
     "language": "EN",
-    "description_pl": "Spotkanie społeczności Warsaw.AI, odcinek 31. Prelekcje i networking dla warszawskiej społeczności AI."
+    "description_pl": "Spotkanie społeczności Warsaw.AI, odcinek 31. Prelekcje i networking dla warszawskiej społeczności AI.",
+    "enriched": true
   },
   {
     "name": "AI Shift Meetup",
@@ -1591,7 +1593,15 @@
     "city": "Wrocław",
     "status": "rejected",
     "added": "2026-07-24",
-    "reject_reason": "Duplikat już opublikowanego \"Spotkanie Przedsiębiorców SLOW #40\" (2026-07-30, Wrocław)."
+    "reject_reason": "Duplikat już opublikowanego \"Spotkanie Przedsiębiorców SLOW #40\" (2026-07-30, Wrocław).",
+    "enriched": true,
+    "description": "Cykliczne spotkania przedsiębiorców we Wrocławiu. Networking bez presji sprzedażowej, wywiad z gościem specjalnym i katering w cenie biletu. Ostatni czwartek miesiąca.",
+    "price": "Paid",
+    "tags": [
+      "Networking"
+    ],
+    "audience": "Founders",
+    "language": "PL"
   },
   {
     "name": "(untitled submission)",
@@ -3283,10 +3293,9 @@
       "Networking"
     ],
     "audience": "Founders, Investors",
-    "status": "pending",
+    "status": "approved",
     "added": "2026-09-21",
     "submitted": "2026-09-21",
-    "triage_note": "Wstrzymane: zgłoszony URL to post save-the-date na LinkedInie, nie strona wydarzenia, a organizator nadal nie podał miasta ani miejsca 7. edycji. Sprawdzone ponownie 22.09.2026: carpathianfest.pl wciąż pokazuje edycję 2026, wyszukiwanie nie znalazło ogłoszenia lokalizacji. Data 9-10.06.2027 pochodzi wyłącznie z tego posta. Do uzupełnienia miasto i docelowy link przed publikacją.",
     "price": "Free",
     "enriched": true
   },
