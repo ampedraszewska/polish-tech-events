@@ -3570,16 +3570,20 @@
   },
   {
     "name": "AI × Voices #1",
-    "date": "",
+    "date": "2026-10-06",
     "status": "pending",
     "added": "2026-09-24",
     "submitted": "2026-09-24",
     "url": "https://luma.com/nu5jvdsm?utm_source=spevents&utm_campaign=voices-01",
-    "organizer": "AI × Verse",
-    "description": "⚠ Date not provided in submission — please complete before approving.",
-    "price": "Paid",
+    "organizer": "aixv, Maciej Caputa, Michał Ksiądzyna",
+    "price": "Free",
     "tags": [
       "Meetup"
-    ]
+    ],
+    "time": "18:00",
+    "venue": "HEVRE",
+    "city": "Kraków",
+    "description_pl": "English below. AI × Voices to comiesięczne spotkanie o sztucznej inteligencji w Krakowie. Edycja #1 otwiera cykl. Prelekcje osób, które zbudowały coś z AI: w firmie, w produkcie, w badaniach albo po godzinach. Wstęp bezpłatny. Miejsce: Hevre, Meiselsa 18, sala na 1. piętrze.",
+    "enriched": true
   }
 ]
