@@ -3282,22 +3282,23 @@
   {
     "name": "Carpathian Startup Fest",
     "date": "2027-06-09",
-    "end_date": "2027-06-10",
+    "city": "Rzeszów",
     "url": "https://www.linkedin.com/posts/carpathian-startup-fest_carpathianstartupfest-csf27-savethedate-activity-7507726837154807808-atvR/",
+    "end_date": "2027-06-10",
     "organizer": "Carpathian Startup Fest",
     "description": "Save the date for the 7th edition of Carpathian Startup Fest, announced for 9-10 June 2027: two days of meetings between startups, investors and business. Venue and city not yet announced; earlier editions were held in Jasionka near Rzeszów.",
     "description_pl": "Save the date dla 7. edycji Carpathian Startup Fest, zapowiedzianej na 9-10 czerwca 2027: dwa dni spotkań startupów, inwestorów i biznesu. Miejsce i miasto nie zostały jeszcze ogłoszone, poprzednie edycje odbywały się w Jasionce pod Rzeszowem.",
     "language": "PL",
+    "price": "Free",
     "tags": [
       "Conference",
       "Networking"
     ],
     "audience": "Founders, Investors",
+    "badge": "recommended",
     "status": "approved",
     "added": "2026-09-21",
-    "submitted": "2026-09-21",
-    "price": "Free",
-    "enriched": true
+    "submitted": "2026-09-21"
   },
   {
     "name": "AIntern 2026",
