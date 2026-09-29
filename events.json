@@ -2888,13 +2888,13 @@
       "Workshop"
     ],
     "audience": "Founders, Researchers",
-    "description_pl": "Zamknięty warsztat Huge Thing o gotowości na współpracę z korporacjami i funduszami VC. Prowadzą Marcin Fejfer (SpeedUp VC, S20 Fund) i Magda Jagiełło-Dobrowolska (Huge Thing). Kameralna formuła, maksymalnie 8 miejsc, rekrutacja przez formularz.",
-    "description": "A closed Huge Thing workshop on getting B2B tech teams ready to work with corporates and VC funds. Led by Marcin Fejfer (SpeedUp VC, S20 Fund) and Magda Jagiełło-Dobrowolska (Huge Thing). Small-group format, 8 seats, entry by application form.",
+    "description_pl": "Zamknięty warsztat Huge Thing o gotowości na współpracę z korporacjami i funduszami VC. Dwie godziny (13:00-15:00) przy wspólnym stole. Prowadzą Marcin Fejfer (SpeedUp VC, S20 Fund) i Magda Jagieło-Dobrowolska (Huge Thing). Maksymalnie 8 miejsc, rekrutacja przez formularz.",
+    "description": "A closed two-hour Huge Thing workshop (13:00-15:00) on getting B2B tech teams ready to work with corporates and VC funds. Led by Marcin Fejfer (SpeedUp VC, S20 Fund) and Magda Jagieło-Dobrowolska (Huge Thing). Eight seats, entry by application form.",
     "time": "13:00",
     "city": "Poznań",
     "venue": "Poczta Workspace",
     "language": "PL",
-    "triage_note": "Wstrzymane: wydarzenie zamknięte, maksymalnie 8 miejsc, wstęp po weryfikacji profilu projektu i kolejności zgłoszeń, a zgłoszony URL to formularz rekrutacyjny Google, nie strona wydarzenia. Data, godzina początku i miejsce (9.10.2026, 13:00, Poczta Workspace, Poznań) z treści formularza; godzina zakończenia niepotwierdzona, do sprawdzenia przed publikacją. Cena \"Paid\" pochodzi ze zgłoszenia, formularz jej nie podaje. Do decyzji: czy publikujemy wydarzenie z limitem 8 miejsc i linkiem do formularza."
+    "triage_note": "Wstrzymane: wydarzenie zamknięte, maksymalnie 8 osób, o wejściu decyduje weryfikacja profilu projektu i kolejność zgłoszeń, a zgłoszony URL to formularz rekrutacyjny Google, nie strona wydarzenia. Data, godziny i miejsce (9.10.2026, 13:00-15:00, Poczta Workspace, Poznań) potwierdzone w treści formularza 29.09. Cena \"Paid\" pochodzi wyłącznie ze zgłoszenia Tally, formularz jej nie podaje. Nazwisko prowadzącej zapisane tak, jak podaje formularz (Jagieło-Dobrowolska), warto potwierdzić u organizatora. Do decyzji: czy publikujemy wydarzenie z limitem 8 miejsc i linkiem do formularza."
   },
   {
     "name": "PitchMeetUp",
@@ -3029,7 +3029,7 @@
     "status": "pending",
     "added": "2026-09-21",
     "submitted": "2026-09-21",
-    "triage_note": "Wstrzymane: to konkurs pitchingowy z naborem, a nie otwarte wydarzenie. Nabór przedłużony do 7.10.2026 (strona KPT, weryfikacja 29.09; wcześniejsza notatka mówiła o 27.09 i była już nieaktualna). Na scenę wchodzi do 6 zespołów. Data i miejsce finału potwierdzone na stronie KPT (21.10.2026, KPT ul. Podole 60, podczas Space Connect Summit). Strona nie podaje ceny wstępu dla publiczności, pole zostawione puste. Do decyzji: czy publikujemy nabór do konkursu, czy raczej samą konferencję Space Connect Summit."
+    "triage_note": "Wstrzymane: to konkurs pitchingowy z naborem, a nie otwarte wydarzenie. Nabór do 7.10.2026, finał 21.10.2026 w KPT (ul. Podole 60) podczas konferencji Space Connect Summit, potwierdzone na stronie KPT 29.09. Uwaga: strona podaje dwie różne liczby miejsc na scenie (\"do 6\" w podsumowaniu i \"maksymalnie 8\" w opisie rekrutacji), dlatego liczba nie wchodzi do opisu publicznego. Strona nie podaje ceny wstępu dla publiczności, pole zostawione puste. Do decyzji: czy publikujemy nabór do konkursu, czy raczej samą konferencję Space Connect Summit."
   },
   {
     "name": "Europejski Kongres Przedsiębiorców",
