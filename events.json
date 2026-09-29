@@ -2888,13 +2888,13 @@
       "Workshop"
     ],
     "audience": "Founders, Researchers",
-    "description_pl": "Zamknięty warsztat Huge Thing o gotowości na współpracę z korporacjami i funduszami VC. Prowadzą Marcin Fejfer (SpeedUp VC, S20 Fund) i Magda Jagiełło-Dobrowolska (Huge Thing). Dwie godziny przy wspólnym stole, maksymalnie 8 miejsc, rekrutacja przez formularz.",
-    "description": "A closed Huge Thing workshop on getting B2B tech teams ready to work with corporates and VC funds. Led by Marcin Fejfer (SpeedUp VC, S20 Fund) and Magda Jagiełło-Dobrowolska (Huge Thing). Two hours around one table, 8 seats, entry by application form.",
+    "description_pl": "Zamknięty warsztat Huge Thing o gotowości na współpracę z korporacjami i funduszami VC. Prowadzą Marcin Fejfer (SpeedUp VC, S20 Fund) i Magda Jagiełło-Dobrowolska (Huge Thing). Kameralna formuła, maksymalnie 8 miejsc, rekrutacja przez formularz.",
+    "description": "A closed Huge Thing workshop on getting B2B tech teams ready to work with corporates and VC funds. Led by Marcin Fejfer (SpeedUp VC, S20 Fund) and Magda Jagiełło-Dobrowolska (Huge Thing). Small-group format, 8 seats, entry by application form.",
     "time": "13:00",
     "city": "Poznań",
     "venue": "Poczta Workspace",
     "language": "PL",
-    "triage_note": "Wstrzymane: wydarzenie zamknięte, maksymalnie 8 miejsc, wstęp po weryfikacji profilu projektu, a zgłoszony URL to formularz rekrutacyjny Google, nie strona wydarzenia. Data, godzina i miejsce (9.10.2026, 13:00-15:00, Poczta Workspace, Poznań) odczytane z treści formularza. Cena \"Paid\" pochodzi ze zgłoszenia, formularz jej nie podaje. Do decyzji: czy publikujemy wydarzenie z limitem 8 miejsc i linkiem do formularza."
+    "triage_note": "Wstrzymane: wydarzenie zamknięte, maksymalnie 8 miejsc, wstęp po weryfikacji profilu projektu i kolejności zgłoszeń, a zgłoszony URL to formularz rekrutacyjny Google, nie strona wydarzenia. Data, godzina początku i miejsce (9.10.2026, 13:00, Poczta Workspace, Poznań) z treści formularza; godzina zakończenia niepotwierdzona, do sprawdzenia przed publikacją. Cena \"Paid\" pochodzi ze zgłoszenia, formularz jej nie podaje. Do decyzji: czy publikujemy wydarzenie z limitem 8 miejsc i linkiem do formularza."
   },
   {
     "name": "PitchMeetUp",
@@ -3018,8 +3018,8 @@
     "venue": "Krakowski Park Technologiczny, ul. Podole 60",
     "url": "https://www.kpt.krakow.pl/space-arena/",
     "organizer": "Krakowski Park Technologiczny",
-    "description": "Space Arena is a pitching competition for space and deep tech startups run by Krakow Technology Park. The final takes place on 21 October 2026 during the Space Connect Summit, with 5-minute pitches and 5 minutes of jury questions. Applications close 27 September 2026.",
-    "description_pl": "Space Arena to konkurs pitchingowy dla startupów kosmicznych i deep-tech organizowany przez Krakowski Park Technologiczny. Finał odbywa się 21 października 2026 podczas Space Connect Summit: 5 minut prezentacji i 5 minut pytań Kapituły. Nabór trwa do 27 września 2026.",
+    "description": "Space Arena is a pitching competition for space and deep tech startups run by Krakow Technology Park. The final takes place on 21 October 2026 during the Space Connect Summit, with 5-minute pitches and 5 minutes of jury questions. Applications close 7 October 2026.",
+    "description_pl": "Space Arena to konkurs pitchingowy dla startupów kosmicznych i deep-tech organizowany przez Krakowski Park Technologiczny. Finał odbywa się 21 października 2026 podczas Space Connect Summit: 5 minut prezentacji i 5 minut pytań Kapituły. Nabór trwa do 7 października 2026.",
     "language": "PL",
     "tags": [
       "Conference",
@@ -3029,7 +3029,7 @@
     "status": "pending",
     "added": "2026-09-21",
     "submitted": "2026-09-21",
-    "triage_note": "Wstrzymane: to konkurs pitchingowy z naborem (rekrutacja do 27.09.2026), a nie otwarte wydarzenie. Data i miejsce finału potwierdzone na stronie KPT (21.10.2026, KPT ul. Podole 60, podczas Space Connect Summit). Strona nie podaje ceny, pole zostawione puste. Do decyzji: czy publikujemy nabór do konkursu, czy raczej samą konferencję Space Connect Summit."
+    "triage_note": "Wstrzymane: to konkurs pitchingowy z naborem, a nie otwarte wydarzenie. Nabór przedłużony do 7.10.2026 (strona KPT, weryfikacja 29.09; wcześniejsza notatka mówiła o 27.09 i była już nieaktualna). Na scenę wchodzi do 6 zespołów. Data i miejsce finału potwierdzone na stronie KPT (21.10.2026, KPT ul. Podole 60, podczas Space Connect Summit). Strona nie podaje ceny wstępu dla publiczności, pole zostawione puste. Do decyzji: czy publikujemy nabór do konkursu, czy raczej samą konferencję Space Connect Summit."
   },
   {
     "name": "Europejski Kongres Przedsiębiorców",
