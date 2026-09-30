@@ -3649,5 +3649,22 @@
       "Networking"
     ],
     "audience": "Founders, Developers, Researchers, Investors, Students, General public"
+  },
+  {
+    "name": "Crypto World's Fair Hackathon",
+    "date": "",
+    "status": "pending",
+    "added": "2026-09-30",
+    "submitted": "2026-09-30",
+    "url": "https://colosseum.com/",
+    "organizer": "Colosseum",
+    "price": "Paid",
+    "tags": [
+      "Hackathon"
+    ],
+    "audience": "Founders, Developers, Students",
+    "enriched": true,
+    "description": "⚠ Date not provided in submission — please complete before approving. Colosseum combines global crypto hackathons, a founder accelerator, and a venture fund to help ambitious startups launch and grow.",
+    "language": "EN"
   }
 ]
