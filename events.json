@@ -3621,34 +3621,41 @@
   },
   {
     "name": "SOLANA BUILD STATION WARSAW",
-    "date": "",
+    "date": "2026-10-06",
     "status": "pending",
     "added": "2026-09-30",
     "submitted": "2026-09-30",
     "url": "https://luma.com/StplBuildStation",
     "organizer": "Superteam Poland",
-    "description": "⚠ Date not provided in submission — please complete before approving.",
-    "price": "Paid",
+    "price": "Free",
     "tags": [
       "Hackathon"
     ],
-    "audience": "Students, Founders, Developers, Researchers, General public"
+    "audience": "Students, Founders, Developers, Researchers, General public",
+    "end_date": "2026-10-13",
+    "time": "12:00",
+    "city": "Warszawa",
+    "description_pl": "SUPERTEAM POLAND BUILD STATION Już w Październiku 2026 roku w Warszawie powstanie 8-dniowa przestrzeń dla twórców z ekosystemu Solana. To idealne miejsce, aby przygotować się do Colosseum Hackathon - największego konkursu dla startupów na tej platformie.",
+    "enriched": true
   },
   {
     "name": "WARSAW DEMO DAY",
-    "date": "",
+    "date": "2026-10-13",
     "status": "pending",
     "added": "2026-09-30",
     "submitted": "2026-09-30",
     "url": "https://luma.com/stpldemoday",
     "organizer": "Superteam Poland",
-    "description": "⚠ Date not provided in submission — please complete before approving.",
-    "price": "Paid",
+    "price": "Free",
     "tags": [
       "Hackathon",
       "Networking"
     ],
-    "audience": "Founders, Developers, Researchers, Investors, Students, General public"
+    "audience": "Founders, Developers, Researchers, Investors, Students, General public",
+    "time": "18:00",
+    "city": "Warszawa",
+    "description_pl": "COLOSSEUM HACKATHON: DEMO DAY! Dołącz do wielkiego finału Hackathonu Colosseum w Polsce- Demo Day! To tutaj najlepsi z najlepszych zaprezentują swoje projekty przed publicznością i panelem ekspertów, walcząc o część puli nagród wynoszącej $5,000.",
+    "enriched": true
   },
   {
     "name": "Crypto World's Fair Hackathon",
