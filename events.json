@@ -2505,6 +2505,27 @@
     "description_pl": "Luźny wspólny przejazd rowerowy dla społeczności startupowej: miasto i okolice, ruch, świeże powietrze i networking w jednym. Bez agendy i paneli, po prostu jazda i rozmowy z founderami, builderami i ludźmi z ekosystemu."
   },
   {
+    "name": "Crypto World's Fair Hackathon",
+    "date": "2026-09-14",
+    "end_date": "2026-10-12",
+    "time": "",
+    "city": "Online",
+    "venue": "",
+    "url": "https://colosseum.com/worldsfair",
+    "description": "Colosseum's global online hackathon for crypto startups across all blockchain ecosystems, running 14 September to 12 October 2026, with over $800,000 in prizes, $2.5M in venture funding and a place in Colosseum's accelerator for the winners.",
+    "description_pl": "Globalny hackathon online organizowany przez Colosseum dla startupów kryptowalutowych ze wszystkich ekosystemów blockchain, od 14 września do 12 października 2026. Pula nagród przekracza 800 000 USD, do tego 2,5 mln USD finansowania i miejsce w akceleratorze Colosseum dla zwycięzców.",
+    "language": "EN",
+    "tags": [
+      "Hackathon"
+    ],
+    "audience": "Founders, Developers, Students",
+    "organizer": "Colosseum",
+    "status": "pending",
+    "added": "2026-09-30",
+    "submitted": "2026-09-30",
+    "triage_note": "Wstrzymane: to globalny hackathon online organizowany przez Colosseum (USA), nie przez polską społeczność technologiczną, więc nie spełnia kryterium lokalizacji (miasto w Polsce albo Online dla wydarzeń polskiej społeczności). Zgłoszony URL to strona główna Colosseum; właściwa strona wydarzenia to colosseum.com/worldsfair i tam potwierdzone daty 14.09-12.10.2026 (weryfikacja 30.09). Cena zostawiona pusta, strona nie podaje opłaty wstępu, \"Paid\" pochodzi tylko ze zgłoszenia Tally. Polskie wydarzenia towarzyszące temu hackathonowi (Warsaw Build Station, Warsaw Demo Day) są zgłoszone osobno. Do decyzji: czy w ogóle listujemy globalne hackathony online."
+  },
+  {
     "name": "Hospital Innovation Summit & Demo Day",
     "date": "2026-09-15",
     "status": "approved",
@@ -3134,6 +3155,29 @@
     "submitted": "2026-09-24"
   },
   {
+    "name": "SOLANA BUILD STATION WARSAW",
+    "date": "2026-10-06",
+    "end_date": "2026-10-13",
+    "time": "12:00",
+    "city": "Warszawa",
+    "venue": "The Shire, Zebra Tower, Mokotowska 1, 12. piętro",
+    "url": "https://luma.com/StplBuildStation",
+    "description": "An 8-day space in Warsaw for Solana builders preparing for the Colosseum Hackathon: mentoring on code, product and pitch deck, local prize tracks and a closing Demo Day. Open 24/7. Access is limited to Colosseum builders, Superteam Poland members and speakers.",
+    "description_pl": "Ośmiodniowa przestrzeń w Warszawie dla twórców z ekosystemu Solana przygotowujących się do Colosseum Hackathon: mentoring w obszarze kodu, produktu i pitch decka, lokalne ścieżki nagród oraz Demo Day. Otwarte 24/7. Dostęp: builderzy Colosseum, członkowie Superteam Poland i prelegenci.",
+    "language": "EN+PL",
+    "tags": [
+      "Hackathon",
+      "Networking"
+    ],
+    "audience": "Founders, Developers, Students",
+    "organizer": "Superteam Poland",
+    "price": "Free",
+    "status": "pending",
+    "added": "2026-09-30",
+    "submitted": "2026-09-30",
+    "triage_note": "Wstrzymane: dostęp ściśle ograniczony do builderów Colosseum, członków Superteam Poland i prelegentów, wymagany osobny formularz zgłoszeniowy, więc to nie jest wydarzenie otwarte. Data 6-13.10.2026, start 12:00, The Shire w Zebra Tower (Mokotowska 1, 12. piętro) potwierdzone w danych strukturalnych i treści strony Luma 30.09. Cena Free ze strony Luma nadpisuje \"Paid\" ze zgłoszenia Tally. Uwaga: angielska wersja opisu na stronie podaje \"In May 2026\" (nieaktualna kopia z poprzedniej edycji), polska wersja i dane strukturalne zgodnie wskazują październik 2026. Publiczny finał tego samego cyklu (WARSAW DEMO DAY, 13.10) został opublikowany. Do decyzji: czy listujemy przestrzeń z dostępem warunkowym."
+  },
+  {
     "name": "Kongres MŚP 2026 (II edycja)",
     "date": "2026-10-08",
     "city": "Wrocław",
@@ -3194,6 +3238,27 @@
     "venue": "Poczta Workspace",
     "language": "PL",
     "triage_note": "Wstrzymane: wydarzenie zamknięte, maksymalnie 8 osób, o wejściu decyduje weryfikacja profilu projektu i kolejność zgłoszeń, a zgłoszony URL to formularz rekrutacyjny Google, nie strona wydarzenia. Data, godziny i miejsce (9.10.2026, 13:00-15:00, Poczta Workspace, Poznań) potwierdzone w treści formularza 29.09. Cena \"Paid\" pochodzi wyłącznie ze zgłoszenia Tally, formularz jej nie podaje. Nazwisko prowadzącej zapisane tak, jak podaje formularz (Jagieło-Dobrowolska), warto potwierdzić u organizatora. Do decyzji: czy publikujemy wydarzenie z limitem 8 miejsc i linkiem do formularza."
+  },
+  {
+    "name": "WARSAW DEMO DAY",
+    "date": "2026-10-13",
+    "time": "18:00",
+    "city": "Warszawa",
+    "venue": "The Shire, Zebra Tower, Mokotowska 1, 12. piętro",
+    "url": "https://luma.com/stpldemoday",
+    "description": "The grand finale of the Colosseum Hackathon in Poland: Polish teams pitch their Solana projects to a live audience, investors and a jury, competing for a share of a $5,000 prize pool. Pitches run 3 minutes, in English, with jury Q&A.",
+    "description_pl": "Wielki finał Hackathonu Colosseum w Polsce. Polskie zespoły prezentują swoje projekty na Solanie przed publicznością, inwestorami i jury, walcząc o część puli nagród 5000 USD. Prezentacje trwają 3 minuty, po angielsku, z sesją pytań jury.",
+    "language": "EN+PL",
+    "tags": [
+      "Hackathon",
+      "Networking"
+    ],
+    "audience": "Founders, Developers, Investors, Students, General public",
+    "organizer": "Superteam Poland",
+    "price": "Free",
+    "status": "approved",
+    "added": "2026-09-30",
+    "submitted": "2026-09-30"
   },
   {
     "name": "PitchMeetUp",
@@ -3618,60 +3683,5 @@
     "status": "approved",
     "added": "2026-09-21",
     "submitted": "2026-09-21"
-  },
-  {
-    "name": "SOLANA BUILD STATION WARSAW",
-    "date": "2026-10-06",
-    "status": "pending",
-    "added": "2026-09-30",
-    "submitted": "2026-09-30",
-    "url": "https://luma.com/StplBuildStation",
-    "organizer": "Superteam Poland",
-    "price": "Free",
-    "tags": [
-      "Hackathon"
-    ],
-    "audience": "Students, Founders, Developers, Researchers, General public",
-    "end_date": "2026-10-13",
-    "time": "12:00",
-    "city": "Warszawa",
-    "description_pl": "SUPERTEAM POLAND BUILD STATION Już w Październiku 2026 roku w Warszawie powstanie 8-dniowa przestrzeń dla twórców z ekosystemu Solana. To idealne miejsce, aby przygotować się do Colosseum Hackathon - największego konkursu dla startupów na tej platformie.",
-    "enriched": true
-  },
-  {
-    "name": "WARSAW DEMO DAY",
-    "date": "2026-10-13",
-    "status": "pending",
-    "added": "2026-09-30",
-    "submitted": "2026-09-30",
-    "url": "https://luma.com/stpldemoday",
-    "organizer": "Superteam Poland",
-    "price": "Free",
-    "tags": [
-      "Hackathon",
-      "Networking"
-    ],
-    "audience": "Founders, Developers, Researchers, Investors, Students, General public",
-    "time": "18:00",
-    "city": "Warszawa",
-    "description_pl": "COLOSSEUM HACKATHON: DEMO DAY! Dołącz do wielkiego finału Hackathonu Colosseum w Polsce- Demo Day! To tutaj najlepsi z najlepszych zaprezentują swoje projekty przed publicznością i panelem ekspertów, walcząc o część puli nagród wynoszącej $5,000.",
-    "enriched": true
-  },
-  {
-    "name": "Crypto World's Fair Hackathon",
-    "date": "",
-    "status": "pending",
-    "added": "2026-09-30",
-    "submitted": "2026-09-30",
-    "url": "https://colosseum.com/",
-    "organizer": "Colosseum",
-    "price": "Paid",
-    "tags": [
-      "Hackathon"
-    ],
-    "audience": "Founders, Developers, Students",
-    "enriched": true,
-    "description": "⚠ Date not provided in submission — please complete before approving. Colosseum combines global crypto hackathons, a founder accelerator, and a venture fund to help ambitious startups launch and grow.",
-    "language": "EN"
   }
 ]
