@@ -3633,5 +3633,21 @@
       "Hackathon"
     ],
     "audience": "Students, Founders, Developers, Researchers, General public"
+  },
+  {
+    "name": "WARSAW DEMO DAY",
+    "date": "",
+    "status": "pending",
+    "added": "2026-09-30",
+    "submitted": "2026-09-30",
+    "url": "https://luma.com/stpldemoday",
+    "organizer": "Superteam Poland",
+    "description": "⚠ Date not provided in submission — please complete before approving.",
+    "price": "Paid",
+    "tags": [
+      "Hackathon",
+      "Networking"
+    ],
+    "audience": "Founders, Developers, Researchers, Investors, Students, General public"
   }
 ]
