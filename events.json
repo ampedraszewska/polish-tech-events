@@ -3618,5 +3618,20 @@
     "status": "approved",
     "added": "2026-09-21",
     "submitted": "2026-09-21"
+  },
+  {
+    "name": "SOLANA BUILD STATION WARSAW",
+    "date": "",
+    "status": "pending",
+    "added": "2026-09-30",
+    "submitted": "2026-09-30",
+    "url": "https://luma.com/StplBuildStation",
+    "organizer": "Superteam Poland",
+    "description": "⚠ Date not provided in submission — please complete before approving.",
+    "price": "Paid",
+    "tags": [
+      "Hackathon"
+    ],
+    "audience": "Students, Founders, Developers, Researchers, General public"
   }
 ]
