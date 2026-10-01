@@ -3163,7 +3163,7 @@
     "venue": "The Shire, Zebra Tower, Mokotowska 1, 12. piętro",
     "url": "https://luma.com/StplBuildStation",
     "description": "An 8-day space in Warsaw for Solana builders preparing for the Colosseum Hackathon: mentoring on code, product and pitch deck, local prize tracks and a closing Demo Day. Open 24/7. Access is limited to Colosseum builders, Superteam Poland members and speakers.",
-    "description_pl": "Ośmiodniowa przestrzeń w Warszawie dla twórców z ekosystemu Solana przygotowujących się do Colosseum Hackathon: mentoring w obszarze kodu, produktu i pitch decka, lokalne ścieżki nagród oraz Demo Day. Otwarte 24/7. Dostęp: builderzy Colosseum, członkowie Superteam Poland i prelegenci.",
+    "description_pl": "SUPERTEAM POLAND BUILD STATION Już w Październiku 2026 roku w Warszawie powstanie 8-dniowa przestrzeń dla twórców z ekosystemu Solana. To idealne miejsce, aby przygotować się do Colosseum Hackathon - największego konkursu dla startupów na tej platformie.",
     "language": "EN+PL",
     "tags": [
       "Hackathon",
@@ -3175,7 +3175,8 @@
     "status": "pending",
     "added": "2026-09-30",
     "submitted": "2026-09-30",
-    "triage_note": "Wstrzymane: dostęp ściśle ograniczony do builderów Colosseum, członków Superteam Poland i prelegentów, wymagany osobny formularz zgłoszeniowy, więc to nie jest wydarzenie otwarte. Data 6-13.10.2026, start 12:00, The Shire w Zebra Tower (Mokotowska 1, 12. piętro) potwierdzone w danych strukturalnych i treści strony Luma 30.09. Cena Free ze strony Luma nadpisuje \"Paid\" ze zgłoszenia Tally. Uwaga: angielska wersja opisu na stronie podaje \"In May 2026\" (nieaktualna kopia z poprzedniej edycji), polska wersja i dane strukturalne zgodnie wskazują październik 2026. Publiczny finał tego samego cyklu (WARSAW DEMO DAY, 13.10) został opublikowany. Do decyzji: czy listujemy przestrzeń z dostępem warunkowym."
+    "triage_note": "Wstrzymane: dostęp ściśle ograniczony do builderów Colosseum, członków Superteam Poland i prelegentów, wymagany osobny formularz zgłoszeniowy, więc to nie jest wydarzenie otwarte. Data 6-13.10.2026, start 12:00, The Shire w Zebra Tower (Mokotowska 1, 12. piętro) potwierdzone w danych strukturalnych i treści strony Luma 30.09. Cena Free ze strony Luma nadpisuje \"Paid\" ze zgłoszenia Tally. Uwaga: angielska wersja opisu na stronie podaje \"In May 2026\" (nieaktualna kopia z poprzedniej edycji), polska wersja i dane strukturalne zgodnie wskazują październik 2026. Publiczny finał tego samego cyklu (WARSAW DEMO DAY, 13.10) został opublikowany. Do decyzji: czy listujemy przestrzeń z dostępem warunkowym.",
+    "enriched": true
   },
   {
     "name": "Kongres MŚP 2026 (II edycja)",
