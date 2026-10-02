@@ -3701,5 +3701,22 @@
     "description_pl": "Poznański Park Naukowo-Technologiczny zaprasza na nadchodzące wydarzenie organizowane wspólnie z funduszem Pomerangels Tech Ventures. Spotkanie dedykowane",
     "language": "PL",
     "description": "⚠ Date not provided in submission — please complete before approving."
+  },
+  {
+    "name": "Warsztat Corporate & VC Readiness",
+    "date": "",
+    "status": "pending",
+    "added": "2026-10-02",
+    "submitted": "2026-10-02",
+    "url": "https://forms.gle/NzdbDYy9Mr48oW8h6",
+    "organizer": "Huge Thing",
+    "price": "Paid",
+    "tags": [
+      "Workshop"
+    ],
+    "audience": "Founders, Students",
+    "enriched": true,
+    "description_pl": "Zapraszamy twórców technologii, liderów projektów oraz zespoły rozwijające rozwiązania B2B na zamknięty, kameralny warsztat poświęcony budowaniu gotowości na współpracę z dużym biznesem oraz funduszami inwestycyjnymi.",
+    "description": "⚠ Date not provided in submission — please complete before approving."
   }
 ]
