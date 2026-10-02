@@ -2508,9 +2508,7 @@
     "name": "Crypto World's Fair Hackathon",
     "date": "2026-09-14",
     "end_date": "2026-10-12",
-    "time": "",
     "city": "Online",
-    "venue": "",
     "url": "https://colosseum.com/worldsfair",
     "description": "Colosseum's global online hackathon for crypto startups across all blockchain ecosystems, running 14 September to 12 October 2026, with over $800,000 in prizes, $2.5M in venture funding and a place in Colosseum's accelerator for the winners.",
     "description_pl": "Globalny hackathon online organizowany przez Colosseum dla startupów kryptowalutowych ze wszystkich ekosystemów blockchain, od 14 września do 12 października 2026. Pula nagród przekracza 800 000 USD, do tego 2,5 mln USD finansowania i miejsce w akceleratorze Colosseum dla zwycięzców.",
@@ -3684,5 +3682,24 @@
     "status": "approved",
     "added": "2026-09-21",
     "submitted": "2026-09-21"
+  },
+  {
+    "name": "Kiedy i jak szukać inwestora? Warsztaty PPNT i Pomerangels Tech Ventures",
+    "date": "",
+    "status": "pending",
+    "added": "2026-10-02",
+    "submitted": "2026-10-02",
+    "url": "https://ppnt.poznan.pl/kiedy-i-jak-szukac-inwestora-warsztaty-ppnt-i-pomerangels-tech-ventures/",
+    "organizer": "Poznański Park Naukowo-Technologiczny oraz Pomerangels Tech Ventures",
+    "price": "Paid",
+    "tags": [
+      "Workshop",
+      "Meetup"
+    ],
+    "audience": "Founders, Developers",
+    "enriched": true,
+    "description_pl": "Poznański Park Naukowo-Technologiczny zaprasza na nadchodzące wydarzenie organizowane wspólnie z funduszem Pomerangels Tech Ventures. Spotkanie dedykowane",
+    "language": "PL",
+    "description": "⚠ Date not provided in submission — please complete before approving."
   }
 ]
