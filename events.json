@@ -3710,5 +3710,21 @@
     "reject_reason": "Duplicate of \"MobiScale Demo Day 2026\" - same URL and same Tally submission (29.09.2026, Instytut Wzornictwa, Warszawa), already published.",
     "added": "2026-09-30",
     "submitted": "2026-09-17"
+  },
+  {
+    "name": "AI × Voices #1",
+    "date": "",
+    "status": "pending",
+    "added": "2026-10-02",
+    "submitted": "2026-10-02",
+    "url": "https://luma.com/nu5jvdsm",
+    "organizer": "AI × Voices (Maciej Caputa i Michał Ksiądzyna)",
+    "description": "⚠ Date not provided in submission — please complete before approving.",
+    "price": "Paid",
+    "tags": [
+      "Conference",
+      "Meetup"
+    ],
+    "audience": "Developers, Founders, Researchers"
   }
 ]
