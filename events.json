@@ -2958,27 +2958,17 @@
     "city": "Poznań",
     "venue": "Poczta Workspace",
     "language": "PL",
-    "triage_note": "Wstrzymane: warsztat zamknięty, maksymalnie 8 osób, o wejściu decyduje weryfikacja profilu projektu i kolejność zgłoszeń, a zgłoszony URL to formularz rekrutacyjny Google, nie strona wydarzenia. Data, godziny i miejsce (9.10.2026, 13:00-15:00, Poczta Workspace, Poznań) potwierdzone w treści formularza 02.10. Cena \"Paid\" pochodzi wyłącznie ze zgłoszenia Tally, formularz jej nie podaje. Uwaga: ten sam warsztat przyszedł drugim zgłoszeniem przez skrócony link forms.gle/NzdbDYy9Mr48oW8h6 - przy decyzji warto potraktować oba razem. Do decyzji: czy publikujemy wydarzenie z limitem 8 miejsc i linkiem do formularza."
+    "triage_note": "Wstrzymane: warsztat zamknięty, maksymalnie 8 osób, o wejściu decyduje weryfikacja profilu projektu i kolejność zgłoszeń, a zgłoszony URL to formularz rekrutacyjny Google, nie strona wydarzenia. Data, godziny i miejsce (9.10.2026, 13:00-15:00, Poczta Workspace, Poznań) potwierdzone w treści formularza 02.10. Cena \"Paid\" pochodzi wyłącznie ze zgłoszenia Tally, formularz jej nie podaje. Drugie zgłoszenie tego samego warsztatu (skrócony link forms.gle/NzdbDYy9Mr48oW8h6) zostało już automatycznie odrzucone jako duplikat 02.10, więc ta pozycja jest jedyna do decyzji. Do decyzji: czy publikujemy wydarzenie z limitem 8 miejsc i linkiem do formularza."
   },
   {
     "name": "Warsztat Corporate & VC Readiness",
     "date": "2026-10-09",
-    "time": "13:00",
-    "city": "Poznań",
-    "venue": "Poczta Workspace",
     "url": "https://forms.gle/NzdbDYy9Mr48oW8h6",
-    "description": "A closed two-hour Huge Thing workshop (13:00-15:00) on getting B2B tech teams ready to work with corporates and VC funds. Led by Marcin Fejfer (SpeedUp VC, S20 Fund) and Magda Jagieło-Dobrowolska (Huge Thing). Eight seats, entry by application form.",
-    "description_pl": "Zamknięty warsztat Huge Thing o gotowości na współpracę z korporacjami i funduszami VC. Dwie godziny (13:00-15:00) przy wspólnym stole. Prowadzą Marcin Fejfer (SpeedUp VC, S20 Fund) i Magda Jagieło-Dobrowolska (Huge Thing). Maksymalnie 8 miejsc, rekrutacja przez formularz.",
-    "language": "PL",
-    "tags": [
-      "Workshop"
-    ],
-    "audience": "Founders, Researchers",
     "organizer": "Huge Thing",
-    "status": "pending",
+    "status": "rejected",
+    "reject_reason": "Duplicate of \"Warsztat Corporate & VC Readiness dla twórców technologii i zespołów B2B\" - forms.gle/NzdbDYy9Mr48oW8h6 resolves (HTTP 302) to the identical Google Form docs.google.com/forms/d/e/1FAIpQLScpH7-68PTryc80rTQqnu2smpw1wp9WCOqeOFaGzyBcjnv-Ng/viewform, same workshop, same date 2026-10-09. Tombstoned 2026-10-02 so the Tally sync stops re-importing it; the other entry stays pending for review.",
     "added": "2026-10-02",
-    "submitted": "2026-10-02",
-    "triage_note": "Wstrzymane: to drugie zgłoszenie tego samego warsztatu Huge Thing, który jest już w kolejce pod adresem docs.google.com/forms/d/e/1FAIpQLScpH7-68P... (wpis \"Warsztat Corporate & VC Readiness dla twórców technologii i zespołów B2B\"). Opis pobrany z tego skróconego linku jest identyczny słowo w słowo z opisem tamtego formularza. Nie wystawiam tombstone'u automatycznie, bo forms.gle nie rozwija się bez JS, więc nie mam twardego potwierdzenia, że to ten sam formularz, a nazwa \"Warsztat Corporate & VC Readiness\" jest ogólna i tombstone po nazwie zablokowałby kolejną edycję. Dane z formularza: 9.10.2026, 13:00-15:00, Poczta Workspace, Poznań, maksymalnie 8 miejsc, warsztat zamknięty. Do zrobienia: odrzucić jedno z dwóch zgłoszeń ręcznie w panelu."
+    "submitted": "2026-10-02"
   },
   {
     "name": "WARSAW DEMO DAY",
