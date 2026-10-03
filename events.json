@@ -1756,7 +1756,8 @@
     ],
     "audience": "Founders, Operators",
     "status": "approved",
-    "added": "2026-07-20"
+    "added": "2026-07-20",
+    "enriched": true
   },
   {
     "name": "CreativeTech Poland Meetup_03",
@@ -1857,7 +1858,8 @@
     "price": "Free",
     "status": "approved",
     "added": "2026-06-29",
-    "end_date": "2026-08-25"
+    "end_date": "2026-08-25",
+    "enriched": true
   },
   {
     "name": "Tech Tap Tuesday vol. 20",
@@ -3356,9 +3358,9 @@
     "submitted": "2026-09-21"
   },
   {
-    "name": "CASSINI Hackathon @ Gdańsk",
+    "name": "CASSINI Hackathon",
     "date": "2026-11-27",
-    "city": "Gdańsk",
+    "city": "Warszawa",
     "url": "https://www.cassini.eu/hackathons/poland",
     "end_date": "2026-11-29",
     "organizer": "Blue Dot Solutions",
