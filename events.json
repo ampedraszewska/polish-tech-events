@@ -2901,6 +2901,28 @@
     "enriched": true
   },
   {
+    "name": "AI × Voices #1",
+    "date": "2026-10-06",
+    "time": "18:00",
+    "city": "Kraków",
+    "venue": "Hevre, ul. Meiselsa 18",
+    "url": "https://luma.com/nu5jvdsm",
+    "description": "AI × Voices is a monthly Kraków meetup about artificial intelligence, and edition #1 opens the series. Talks by people who built something with AI: at a company, in a product, in research or after hours. Free entry at Hevre, ul. Meiselsa 18, first-floor room.",
+    "description_pl": "AI × Voices to comiesięczne krakowskie spotkanie o sztucznej inteligencji, a edycja #1 otwiera cykl. Prelekcje osób, które zbudowały coś z AI: w firmie, w produkcie, w badaniach albo po godzinach. Wstęp bezpłatny, Hevre, ul. Meiselsa 18, sala na 1. piętrze.",
+    "language": "PL",
+    "tags": [
+      "Meetup"
+    ],
+    "audience": "Founders, Developers, Researchers",
+    "organizer": "aixv, Maciej Caputa, Michał Ksiądzyna",
+    "price": "Free",
+    "status": "rejected",
+    "reject_reason": "Duplicate of already-approved entry \"AI × Voices #1\" (2026-10-06, Kraków), the same Luma event. The approved entry stores the slug with tracking parameters (luma.com/nu5jvdsm?utm_source=spevents&utm_campaign=voices-01), so this bare-slug submission did not match on url and the submission carried no date, so it did not match on url+date either. Tombstoned 2026-10-04 so the Tally sync stops re-importing it.",
+    "enriched": true,
+    "added": "2026-10-02",
+    "submitted": "2026-10-02"
+  },
+  {
     "name": "Kongres MŚP 2026 (II edycja)",
     "date": "2026-10-08",
     "city": "Wrocław",
@@ -3712,21 +3734,5 @@
     "reject_reason": "Duplicate of \"MobiScale Demo Day 2026\" - same URL and same Tally submission (29.09.2026, Instytut Wzornictwa, Warszawa), already published.",
     "added": "2026-09-30",
     "submitted": "2026-09-17"
-  },
-  {
-    "name": "AI × Voices #1",
-    "date": "",
-    "status": "pending",
-    "added": "2026-10-02",
-    "submitted": "2026-10-02",
-    "url": "https://luma.com/nu5jvdsm",
-    "organizer": "AI × Voices (Maciej Caputa i Michał Ksiądzyna)",
-    "description": "⚠ Date not provided in submission — please complete before approving.",
-    "price": "Paid",
-    "tags": [
-      "Conference",
-      "Meetup"
-    ],
-    "audience": "Developers, Founders, Researchers"
   }
 ]
