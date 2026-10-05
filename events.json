@@ -2245,7 +2245,7 @@
     "status": "pending",
     "added": "2026-09-30",
     "submitted": "2026-09-30",
-    "triage_note": "Wstrzymane: to globalny hackathon online organizowany przez Colosseum (USA), nie przez polską społeczność technologiczną, więc nie spełnia kryterium lokalizacji (miasto w Polsce albo Online dla wydarzeń polskiej społeczności). Daty 14.09-12.10.2026 potwierdzone na colosseum.com/worldsfair (weryfikacja 02.10) - hackathon jest w trakcie, start już minął. Cena zostawiona pusta, strona nie podaje opłaty wstępu, \"Paid\" pochodzi tylko ze zgłoszenia Tally. Polskie wydarzenia towarzyszące (Warsaw Build Station, Warsaw Demo Day) są zgłoszone osobno. Do decyzji: czy w ogóle listujemy globalne hackathony online."
+    "triage_note": "Wstrzymane: to globalny hackathon online organizowany przez Colosseum (USA), nie przez polską społeczność technologiczną, więc nie spełnia kryterium lokalizacji (miasto w Polsce albo Online dla wydarzeń polskiej społeczności). Daty 14.09-12.10.2026 potwierdzone na colosseum.com/worldsfair (weryfikacja 02.10) - hackathon jest w trakcie, start już minął. Cena zostawiona pusta, strona nie podaje opłaty wstępu, \"Paid\" pochodzi tylko ze zgłoszenia Tally. Polskie wydarzenia towarzyszące (Warsaw Build Station, Warsaw Demo Day) są zgłoszone osobno. Do decyzji: czy w ogóle listujemy globalne hackathony online. Weryfikacja 05.10.2026: strona nadal podaje zakres 14.09-12.10.2026, bez zmian."
   },
   {
     "name": "Hospital Innovation Summit & Demo Day",
@@ -2773,7 +2773,7 @@
     "status": "pending",
     "added": "2026-09-30",
     "submitted": "2026-09-22",
-    "triage_note": "Wstrzymane: to ta sama konferencja, która jest już opublikowana jako \"CEE Digital Summit 2026\" (29.09.2026, PKiN, ten sam URL). Zgłoszenie wróciło, bo przy zatwierdzaniu zmieniono nazwę i reconcile przestał je dopasowywać. Treść strony potwierdza 29 września 2026 (data \"13 października\" w metadanych OG jest nieaktualna, z wcześniejszej edycji) - wydarzenie już się odbyło. Nie wystawiam tombstone'u automatycznie, bo URL to strona główna dorocznej konferencji, a nazwa \"CEE Digital Summit\" jest ogólna, więc tombstone zablokowałby zgłoszenie edycji 2027; strona nie zapowiada jej jeszcze (stopka wymienia edycje 2021-2025). Do zrobienia: odrzucić to zgłoszenie ręcznie w panelu."
+    "triage_note": "Wstrzymane: to ta sama konferencja, która jest już opublikowana jako \"CEE Digital Summit 2026\" (29.09.2026, PKiN, ten sam URL). Zgłoszenie wróciło, bo przy zatwierdzaniu zmieniono nazwę i reconcile przestał je dopasowywać. Treść strony potwierdza 29 września 2026 (data \"13 października\" w metadanych OG jest nieaktualna, z wcześniejszej edycji) - wydarzenie już się odbyło. Nie wystawiam tombstone'u automatycznie, bo URL to strona główna dorocznej konferencji, a nazwa \"CEE Digital Summit\" jest ogólna, więc tombstone zablokowałby zgłoszenie edycji 2027; strona nie zapowiada jej jeszcze (stopka wymienia edycje 2021-2025). Do zrobienia: odrzucić to zgłoszenie ręcznie w panelu. Weryfikacja 05.10.2026: strona nadal zapowiada wylacznie edycje z 29.09.2026, edycji 2027 nie ogloszono (stopka: 2021-2025), wiec tombstone nadal odpada."
   },
   {
     "name": "(untitled submission)",
@@ -2897,7 +2897,7 @@
     "status": "pending",
     "added": "2026-09-30",
     "submitted": "2026-09-30",
-    "triage_note": "Wstrzymane: dostęp ściśle ograniczony do builderów Colosseum, członków Superteam Poland i prelegentów, rejestracja wymaga zatwierdzenia przez organizatora (\"Registration Approval Required\") oraz osobnego formularza, więc to nie jest wydarzenie otwarte. Daty 6-13.10.2026, kick-off 6.10 o 12:00, demo day 13.10 o 18:00, The Shire w Zebra Tower (Mokotowska 1, 12. piętro) potwierdzone w danych strukturalnych i treści strony Luma 02.10. Cena Free ze strony Luma nadpisuje \"Paid\" ze zgłoszenia Tally. Uwaga: angielska wersja opisu nadal podaje \"In May 2026\" (nieaktualna kopia z poprzedniej edycji), ale blok \"When & where\" i dane strukturalne zgodnie wskazują październik. Publiczny finał tego samego cyklu (WARSAW DEMO DAY, 13.10) jest już opublikowany. Do decyzji: czy listujemy przestrzeń z dostępem warunkowym.",
+    "triage_note": "Wstrzymane: dostęp ściśle ograniczony do builderów Colosseum, członków Superteam Poland i prelegentów, rejestracja wymaga zatwierdzenia przez organizatora (\"Registration Approval Required\") oraz osobnego formularza, więc to nie jest wydarzenie otwarte. Daty 6-13.10.2026, kick-off 6.10 o 12:00, demo day 13.10 o 18:00, The Shire w Zebra Tower (Mokotowska 1, 12. piętro) potwierdzone w danych strukturalnych i treści strony Luma 02.10. Cena Free ze strony Luma nadpisuje \"Paid\" ze zgłoszenia Tally. Uwaga: angielska wersja opisu nadal podaje \"In May 2026\" (nieaktualna kopia z poprzedniej edycji), ale blok \"When & where\" i dane strukturalne zgodnie wskazują październik. Publiczny finał tego samego cyklu (WARSAW DEMO DAY, 13.10) jest już opublikowany. Do decyzji: czy listujemy przestrzeń z dostępem warunkowym. Weryfikacja 05.10.2026: strona Luma powtarza, ze dostep jest ograniczony do builderow Colosseum, czlonkow STPL i prelegentow, i ukrywa dokladny adres do czasu rejestracji.",
     "enriched": true
   },
   {
@@ -2982,7 +2982,7 @@
     "city": "Poznań",
     "venue": "Poczta Workspace",
     "language": "PL",
-    "triage_note": "Wstrzymane: warsztat zamknięty, maksymalnie 8 osób, o wejściu decyduje weryfikacja profilu projektu i kolejność zgłoszeń, a zgłoszony URL to formularz rekrutacyjny Google, nie strona wydarzenia. Data, godziny i miejsce (9.10.2026, 13:00-15:00, Poczta Workspace, Poznań) potwierdzone w treści formularza 02.10. Cena \"Paid\" pochodzi wyłącznie ze zgłoszenia Tally, formularz jej nie podaje. Drugie zgłoszenie tego samego warsztatu (skrócony link forms.gle/NzdbDYy9Mr48oW8h6) zostało już automatycznie odrzucone jako duplikat 02.10, więc ta pozycja jest jedyna do decyzji. Do decyzji: czy publikujemy wydarzenie z limitem 8 miejsc i linkiem do formularza."
+    "triage_note": "Wstrzymane: warsztat zamknięty, maksymalnie 8 osób, o wejściu decyduje weryfikacja profilu projektu i kolejność zgłoszeń, a zgłoszony URL to formularz rekrutacyjny Google, nie strona wydarzenia. Data, godziny i miejsce (9.10.2026, 13:00-15:00, Poczta Workspace, Poznań) potwierdzone w treści formularza 02.10. Cena \"Paid\" pochodzi wyłącznie ze zgłoszenia Tally, formularz jej nie podaje. Drugie zgłoszenie tego samego warsztatu (skrócony link forms.gle/NzdbDYy9Mr48oW8h6) zostało już automatycznie odrzucone jako duplikat 02.10, więc ta pozycja jest jedyna do decyzji. Do decyzji: czy publikujemy wydarzenie z limitem 8 miejsc i linkiem do formularza. Weryfikacja 05.10.2026: formularz nadal opisuje warsztat jako zamkniety i kameralny, bez podanej ceny."
   },
   {
     "name": "Warsztat Corporate & VC Readiness",
