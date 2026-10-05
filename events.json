@@ -3190,6 +3190,28 @@
     "description": "Two-day congress for entrepreneurs at Terminal Hotel in Wroclaw, with 15+ practitioners on growing a company through skills and technology. Includes Startup Friday, an evening gala and networking."
   },
   {
+    "name": "Deep Tech Summit 2026",
+    "date": "2026-10-26",
+    "end_date": "2026-10-27",
+    "time": "10:00",
+    "city": "Warszawa",
+    "venue": "Fabryka Norblina, Żelazna 51/53",
+    "url": "https://deeptechsummit.eu/",
+    "description": "The 5th edition of Poland's deep tech summit at Fabryka Norblina: 75-100 pre-vetted startups picked from over 500 applications, meeting the investors and corporates who back them. Day 1 is Investor Day with 1:1 matchmaking, day 2 brings the Business on Tech and Science to Business stages.",
+    "description_pl": "Piąta edycja warszawskiego szczytu deep tech w Fabryce Norblina: 75-100 wyselekcjonowanych startupów spośród ponad 500 zgłoszeń oraz inwestorzy i korporacje, którzy za nimi stoją. Pierwszy dzień to Investor Day ze spotkaniami 1:1, drugi sceny Business on Tech i Science to Business.",
+    "language": "EN",
+    "tags": [
+      "Conference",
+      "Networking"
+    ],
+    "audience": "Founders, Investors, Corporate, Researchers",
+    "organizer": "Fundacja Polska Innowacyjna",
+    "price": "Paid",
+    "status": "approved",
+    "added": "2026-10-05",
+    "submitted": "2026-10-05"
+  },
+  {
     "name": "Made in Wroclaw 2026",
     "date": "2026-10-27",
     "time": "09:00",
@@ -3734,23 +3756,5 @@
     "reject_reason": "Duplicate of \"MobiScale Demo Day 2026\" - same URL and same Tally submission (29.09.2026, Instytut Wzornictwa, Warszawa), already published.",
     "added": "2026-09-30",
     "submitted": "2026-09-17"
-  },
-  {
-    "name": "Deep Tech Summit 2026",
-    "date": "",
-    "status": "pending",
-    "added": "2026-10-05",
-    "submitted": "2026-10-05",
-    "url": "https://deeptechsummit.eu/",
-    "organizer": "Fundacja Polska Innowacyjna",
-    "price": "Paid",
-    "tags": [
-      "Conference",
-      "Networking"
-    ],
-    "audience": "Founders, Researchers, Investors, Corporate, Students",
-    "enriched": true,
-    "description": "⚠ Date not provided in submission — please complete before approving. 75–100 deep tech startups, filtered from 500+ applications. Two days in Warsaw with the investors and corporates who back them. Oct 26–27, 2026.",
-    "language": "EN"
   }
 ]
