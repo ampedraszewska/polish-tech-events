@@ -3734,5 +3734,23 @@
     "reject_reason": "Duplicate of \"MobiScale Demo Day 2026\" - same URL and same Tally submission (29.09.2026, Instytut Wzornictwa, Warszawa), already published.",
     "added": "2026-09-30",
     "submitted": "2026-09-17"
+  },
+  {
+    "name": "Deep Tech Summit 2026",
+    "date": "",
+    "status": "pending",
+    "added": "2026-10-05",
+    "submitted": "2026-10-05",
+    "url": "https://deeptechsummit.eu/",
+    "organizer": "Fundacja Polska Innowacyjna",
+    "price": "Paid",
+    "tags": [
+      "Conference",
+      "Networking"
+    ],
+    "audience": "Founders, Researchers, Investors, Corporate, Students",
+    "enriched": true,
+    "description": "⚠ Date not provided in submission — please complete before approving. 75–100 deep tech startups, filtered from 500+ applications. Two days in Warsaw with the investors and corporates who back them. Oct 26–27, 2026.",
+    "language": "EN"
   }
 ]
