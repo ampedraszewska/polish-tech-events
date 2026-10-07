@@ -3292,6 +3292,30 @@
     "submitted": "2026-09-15"
   },
   {
+    "name": "ER Champ conference & expo",
+    "date": "2026-11-12",
+    "end_date": "2026-11-13",
+    "time": "14:00",
+    "city": "Wrocław",
+    "venue": "Concordia Design",
+    "url": "https://erchamp.com/2026-conference",
+    "description": "The second annual ER Champ conference and expo for escape room owners, designers and suppliers: two days of industry talks, case studies and a B2B expo at Concordia Design in Wrocław, held ahead of the 10th World Escape Room Championship finals.",
+    "description_pl": "Druga edycja konferencji i expo ER Champ dla właścicieli, twórców i dostawców escape roomów: dwa dni prelekcji branżowych, case studies i targów B2B w Concordia Design we Wrocławiu, przed finałem 10. mistrzostw świata escape roomów.",
+    "language": "EN+PL",
+    "tags": [
+      "Conference",
+      "Networking"
+    ],
+    "audience": "Founders, Operators, Corporate",
+    "organizer": "ER Champ",
+    "price": "Paid",
+    "status": "pending",
+    "added": "2026-10-07",
+    "submitted": "2026-10-07",
+    "enriched": true,
+    "triage_note": "Wstrzymane do decyzji redakcyjnej: to konferencja i targi branży escape roomów (właściciele, twórcy, dostawcy), a nie wydarzenie tech/startup/science ani ogólne forum gospodarcze, więc dopasowanie do profilu strony jest decyzją Ani/Pauliny, nie automatu. Pozostałe kryteria spełnione: termin 12-13.11.2026 i miejsce (Concordia Design, Wrocław) potwierdzone na stronie organizatora (program dnia 1 i 2 oraz news \"Where to stay\", weryfikacja 07.10.2026), wydarzenie przyszłe, otwarte, w Polsce, URL działa, brak duplikatu. Uwaga do ceny: fetch_url_meta odczytał \"5000 ZŁ\", ale to kapitał zakładowy Lockme sp. z o.o. ze stopki polityki prywatności, nie cena biletu. Strona kwoty nie podaje, zostawiam samo \"Paid\" (jest przycisk Buy Tickets). Język EN+PL, bo prelekcje są po angielsku z tłumaczeniem na polski na żywo. Do weryfikacji przed zatwierdzeniem: czy listujemy wertykalne targi branżowe."
+  },
+  {
     "name": "Infoshare Katowice",
     "date": "2026-11-17",
     "city": "Katowice",
@@ -3756,22 +3780,5 @@
     "reject_reason": "Duplicate of \"MobiScale Demo Day 2026\" - same URL and same Tally submission (29.09.2026, Instytut Wzornictwa, Warszawa), already published.",
     "added": "2026-09-30",
     "submitted": "2026-09-17"
-  },
-  {
-    "name": "ER Champ conference & expo",
-    "date": "",
-    "status": "pending",
-    "added": "2026-10-07",
-    "submitted": "2026-10-07",
-    "url": "https://erchamp.com/2026-conference",
-    "tags": [
-      "Conference",
-      "Networking"
-    ],
-    "audience": "Founders, Investors, Corporate",
-    "enriched": true,
-    "description": "⚠ Date not provided in submission — please complete before approving. We’re excited to fill the void of large-scale industry events that have been deeply missed post-pandemic. The escape room market is booming, and the hunger for industry insights and reliable suppliers is stronger than ever.",
-    "price": "Paid",
-    "language": "EN"
   }
 ]
