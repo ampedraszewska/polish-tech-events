@@ -3756,5 +3756,22 @@
     "reject_reason": "Duplicate of \"MobiScale Demo Day 2026\" - same URL and same Tally submission (29.09.2026, Instytut Wzornictwa, Warszawa), already published.",
     "added": "2026-09-30",
     "submitted": "2026-09-17"
+  },
+  {
+    "name": "ER Champ conference & expo",
+    "date": "",
+    "status": "pending",
+    "added": "2026-10-07",
+    "submitted": "2026-10-07",
+    "url": "https://erchamp.com/2026-conference",
+    "tags": [
+      "Conference",
+      "Networking"
+    ],
+    "audience": "Founders, Investors, Corporate",
+    "enriched": true,
+    "description": "⚠ Date not provided in submission — please complete before approving. We’re excited to fill the void of large-scale industry events that have been deeply missed post-pandemic. The escape room market is booming, and the hunger for industry insights and reliable suppliers is stronger than ever.",
+    "price": "Paid",
+    "language": "EN"
   }
 ]
