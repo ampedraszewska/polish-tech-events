@@ -3780,5 +3780,24 @@
     "reject_reason": "Duplicate of \"MobiScale Demo Day 2026\" - same URL and same Tally submission (29.09.2026, Instytut Wzornictwa, Warszawa), already published.",
     "added": "2026-09-30",
     "submitted": "2026-09-17"
+  },
+  {
+    "name": "AI Builders Global Conference 2026",
+    "date": "2026-10-14",
+    "status": "pending",
+    "added": "2026-10-09",
+    "submitted": "2026-10-09",
+    "url": "https://aibuildersnetwork.org/conference",
+    "organizer": "AI Builders Network",
+    "tags": [
+      "Conference"
+    ],
+    "audience": "Founders, Investors",
+    "enriched": true,
+    "end_date": "2026-10-16",
+    "time": "09:00",
+    "description": "Join the AI Builders Global Conference 2026 - a 3-day virtual conference for AI builders, founders, and investors. 200+ sessions across 8 tracks and 47 topics, live workshops, pitch competition, and networking.",
+    "price": "Free",
+    "language": "EN"
   }
 ]
