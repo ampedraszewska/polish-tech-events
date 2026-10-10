@@ -3097,6 +3097,25 @@
     "submitted": "2026-10-02"
   },
   {
+    "name": "AI Tinkerers Poland - Meetup in Warsaw (15th October 2026)",
+    "date": "2026-10-15",
+    "time": "18:00",
+    "city": "Warszawa",
+    "venue": "Marszałkowska 107",
+    "url": "https://poland.aitinkerers.org/p/ai-tinkerers-poland-meetup-in-warsaw-15th-october-2026",
+    "description": "Warsaw meetup of AI Tinkerers for practitioners building with LLMs: live tech demos from TesterArmy, Quesma, Box and others, plus networking. Attendance by application, reviewed by the organizers.",
+    "description_pl": "Warszawski meetup AI Tinkerers dla praktyków budujących na LLM-ach: dema techniczne m.in. TesterArmy, Quesma i Box oraz networking. Udział po zgłoszeniu, które weryfikują organizatorzy.",
+    "language": "EN",
+    "tags": [
+      "Meetup"
+    ],
+    "audience": "Developers, Founders",
+    "organizer": "AI Tinkerers Poland",
+    "price": "Free",
+    "status": "approved",
+    "added": "2026-10-10"
+  },
+  {
     "name": "Cybertrust 2026",
     "date": "2026-10-20",
     "time": "09:00",
