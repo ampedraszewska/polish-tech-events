@@ -2245,7 +2245,7 @@
     "status": "pending",
     "added": "2026-09-30",
     "submitted": "2026-09-30",
-    "triage_note": "Wstrzymane: to globalny hackathon online organizowany przez Colosseum (USA), nie przez polską społeczność technologiczną, więc nie spełnia kryterium lokalizacji (miasto w Polsce albo Online dla wydarzeń polskiej społeczności). Daty 14.09-12.10.2026 potwierdzone na colosseum.com/worldsfair (weryfikacja 02.10) - hackathon jest w trakcie, start już minął. Cena zostawiona pusta, strona nie podaje opłaty wstępu, \"Paid\" pochodzi tylko ze zgłoszenia Tally. Polskie wydarzenia towarzyszące (Warsaw Build Station, Warsaw Demo Day) są zgłoszone osobno. Do decyzji: czy w ogóle listujemy globalne hackathony online. Weryfikacja 06.10.2026: zakres 14.09-12.10.2026 bez zmian (dane Open Graph na stronie). Hackathon trwa i kończy się za 6 dni, więc po 12.10.2026 ta pozycja staje się bezprzedmiotowa."
+    "triage_note": "Wstrzymane: globalny hackathon online organizowany przez Colosseum (USA), nie przez polską społeczność technologiczną, więc nie spełnia kryterium lokalizacji (miasto w Polsce albo Online dla wydarzeń polskiej społeczności). Do decyzji redakcyjnej: czy w ogóle listujemy globalne hackathony online. Zakres 14.09-12.10.2026 potwierdzony ponownie 10.10.2026 w opisie Open Graph na colosseum.com/worldsfair (strona nie udostępnia danych schema.org). Hackathon kończy się za 2 dni, więc po 12.10.2026 pozycja staje się bezprzedmiotowa. Cena zostawiona pusta: strona nie podaje opłaty wstępu, „Paid” pochodzi wyłącznie ze zgłoszenia Tally. Polskie wydarzenia towarzyszące (Solana Build Station, WARSAW DEMO DAY) są zgłoszone osobno."
   },
   {
     "name": "Hospital Innovation Summit & Demo Day",
@@ -2773,7 +2773,7 @@
     "status": "pending",
     "added": "2026-09-30",
     "submitted": "2026-09-22",
-    "triage_note": "Wstrzymane: to ta sama konferencja, która jest już opublikowana jako \"CEE Digital Summit 2026\" (29.09.2026, PKiN, ten sam URL). Zgłoszenie wróciło, bo przy zatwierdzaniu zmieniono nazwę i reconcile przestał je dopasowywać. Treść strony potwierdza 29 września 2026 (data \"13 października\" w metadanych OG jest nieaktualna, z wcześniejszej edycji) - wydarzenie już się odbyło. Nie wystawiam tombstone'u automatycznie, bo URL to strona główna dorocznej konferencji, a nazwa \"CEE Digital Summit\" jest ogólna, więc tombstone zablokowałby zgłoszenie edycji 2027; strona nie zapowiada jej jeszcze (stopka wymienia edycje 2021-2025). Do zrobienia: odrzucić to zgłoszenie ręcznie w panelu. Weryfikacja 06.10.2026: edycji 2027 nadal nie ogłoszono (stopka wymienia 2021-2025), a termin 29.09.2026 już minął, więc zgłoszenie jest bezprzedmiotowe. Do ręcznego odrzucenia w panelu, nie przez tombstone: URL to strona główna dorocznej konferencji, a nazwa jest ogólna, więc tombstone zablokowałby zgłoszenie edycji 2027."
+    "triage_note": "Wstrzymane: to ta sama konferencja, która jest już opublikowana jako „CEE Digital Summit 2026” (29.09.2026, PKiN, ten sam URL). Zgłoszenie wróciło, bo przy zatwierdzaniu zmieniono nazwę i reconcile przestał je dopasowywać. Do zrobienia: odrzucić ręcznie w panelu. NIE przez tombstone, bo URL to strona główna dorocznej konferencji, a nazwa „CEE Digital Summit” jest ogólna, więc tombstone zablokowałby zgłoszenie edycji 2027. Weryfikacja 10.10.2026: strona nadal zapowiada tylko 29 września 2026 (stopka wymienia edycje 2021-2025, edycji 2027 nie ogłoszono), a data „13 października” w metadanych Open Graph jest nieaktualna, z wcześniejszej edycji. Termin minął, zgłoszenie jest bezprzedmiotowe."
   },
   {
     "name": "(untitled submission)",
@@ -2897,7 +2897,7 @@
     "status": "pending",
     "added": "2026-09-30",
     "submitted": "2026-09-30",
-    "triage_note": "Wstrzymane: dostęp ściśle ograniczony do builderów Colosseum, członków Superteam Poland i prelegentów, rejestracja wymaga zatwierdzenia przez organizatora (\"Registration Approval Required\") oraz osobnego formularza, więc to nie jest wydarzenie otwarte. Daty 6-13.10.2026, kick-off 6.10 o 12:00, demo day 13.10 o 18:00, The Shire w Zebra Tower (Mokotowska 1, 12. piętro) potwierdzone w danych strukturalnych i treści strony Luma 02.10. Cena Free ze strony Luma nadpisuje \"Paid\" ze zgłoszenia Tally. Uwaga: angielska wersja opisu nadal podaje \"In May 2026\" (nieaktualna kopia z poprzedniej edycji), ale blok \"When & where\" i dane strukturalne zgodnie wskazują październik. Publiczny finał tego samego cyklu (WARSAW DEMO DAY, 13.10) jest już opublikowany. Do decyzji: czy listujemy przestrzeń z dostępem warunkowym. Weryfikacja 06.10.2026: strona Luma nadal ogranicza dostęp do builderów Colosseum, członków Superteam Poland i prelegentów oraz ukrywa dokładny adres do czasu rejestracji. Wydarzenie zaczyna się dziś i trwa do 13.10.2026, więc decyzja po tej dacie będzie bezprzedmiotowa.",
+    "triage_note": "Wstrzymane: dostęp ściśle ograniczony do builderów Colosseum, członków Superteam Poland i prelegentów, rejestracja wymaga zatwierdzenia przez organizatora („Registration Approval Required”) oraz osobnego formularza, więc to nie jest wydarzenie otwarte. Do decyzji redakcyjnej: czy listujemy przestrzeń z dostępem warunkowym. Weryfikacja 10.10.2026: dane strukturalne strony Luma nadal podają 6-13.10.2026, kick-off 6.10 o 12:00, organizator Superteam Poland, wstęp Free (to nadpisuje „Paid” ze zgłoszenia Tally). Dokładny adres (The Shire, Zebra Tower, Mokotowska 1, 12. piętro) został odczytany z treści strony 02.10, teraz Luma pokazuje tylko „Warszawa, Polska” do czasu rejestracji. Angielska wersja opisu na stronie nadal zawiera nieaktualne „In May 2026” z poprzedniej edycji. Wydarzenie jest w trakcie i kończy się 13.10.2026, więc decyzja po tej dacie będzie bezprzedmiotowa. Publiczny finał tego samego cyklu („WARSAW DEMO DAY”, 13.10) jest już opublikowany.",
     "enriched": true
   },
   {
@@ -2982,7 +2982,7 @@
     "city": "Poznań",
     "venue": "Poczta Workspace",
     "language": "PL",
-    "triage_note": "Wstrzymane: warsztat zamknięty, maksymalnie 8 osób, o wejściu decyduje weryfikacja profilu projektu i kolejność zgłoszeń, a zgłoszony URL to formularz rekrutacyjny Google, nie strona wydarzenia. Data, godziny i miejsce (9.10.2026, 13:00-15:00, Poczta Workspace, Poznań) potwierdzone w treści formularza 02.10. Cena \"Paid\" pochodzi wyłącznie ze zgłoszenia Tally, formularz jej nie podaje. Drugie zgłoszenie tego samego warsztatu (skrócony link forms.gle/NzdbDYy9Mr48oW8h6) zostało już automatycznie odrzucone jako duplikat 02.10, więc ta pozycja jest jedyna do decyzji. Do decyzji: czy publikujemy wydarzenie z limitem 8 miejsc i linkiem do formularza. Weryfikacja 06.10.2026: formularz nadal opisuje warsztat jako zamknięty, maksymalnie 8 miejsc, o wejściu decyduje weryfikacja profilu projektu i kolejność zgłoszeń; ceny nie podaje (\"Paid\" pochodzi wyłącznie ze zgłoszenia Tally). Warsztat jest 9.10.2026, czyli za 3 dni, więc po tej dacie pozycja staje się bezprzedmiotowa."
+    "triage_note": "Wstrzymane: warsztat zamknięty, maksymalnie 8 miejsc, o wejściu decyduje weryfikacja profilu projektu i kolejność zgłoszeń, a zgłoszony URL to formularz rekrutacyjny Google, nie strona wydarzenia. Do decyzji redakcyjnej: czy publikujemy wydarzenie z limitem 8 miejsc i linkiem do formularza. Data, godziny i miejsce (9.10.2026, 13:00-15:00, Poczta Workspace, Poznań) potwierdzone w treści formularza 02.10. Weryfikacja 10.10.2026: formularz nadal działa i nadal opisuje warsztat jako zamknięty i kameralny, ceny nie podaje („Paid” pochodzi wyłącznie ze zgłoszenia Tally). Termin minął wczoraj, zgłoszenie jest bezprzedmiotowe. Drugie zgłoszenie tego samego warsztatu (skrócony link forms.gle/NzdbDYy9Mr48oW8h6) zostało automatycznie odrzucone jako duplikat 02.10."
   },
   {
     "name": "Warsztat Corporate & VC Readiness",
@@ -3051,6 +3051,30 @@
     "organizer": "Dolnośląski Instytut Studiów Energetycznych",
     "status": "approved",
     "added": "2026-07-20"
+  },
+  {
+    "name": "AI Builders Global Conference 2026",
+    "date": "2026-10-14",
+    "status": "pending",
+    "added": "2026-10-09",
+    "submitted": "2026-10-09",
+    "url": "https://aibuildersnetwork.org/conference",
+    "organizer": "AI Builders Network",
+    "tags": [
+      "Conference",
+      "Workshop"
+    ],
+    "audience": "Founders, Developers, Operators, Investors",
+    "enriched": true,
+    "end_date": "2026-10-16",
+    "time": "09:00",
+    "description": "A fully virtual three-day conference for AI builders, founders and investors: 200+ sessions across 8 tracks and 47 topics, hands-on workshops, a startup pitch competition and investor networking. Free Explorer pass alongside paid tiers.",
+    "price": "Partly paid",
+    "language": "EN",
+    "city": "Online",
+    "venue": "",
+    "description_pl": "W pełni zdalna, trzydniowa konferencja dla twórców AI, founderów i inwestorów: ponad 200 sesji w 8 ścieżkach i 47 tematach, warsztaty praktyczne, konkurs pitchów i networking z inwestorami. Darmowa przepustka Explorer obok płatnych poziomów biletów.",
+    "triage_note": "Wstrzymane: wydarzenie w pełni online, globalne, organizowane przez AI Builders Network (USA, strefa US Eastern) wspólnie z Chief in AI Global, Women AI Builders i WomenTech Network, z uczestnikami z ponad 130 krajów. Ani strona, ani komunikaty prasowe nie wskazują żadnego polskiego organizatora, partnera czy społeczności, więc zgłoszenie nie spełnia kryterium lokalizacji (miasto w Polsce albo Online dla wydarzeń polskiej społeczności). Ta sama klasa decyzji co „Crypto World's Fair Hackathon”. Do decyzji redakcyjnej: czy listujemy globalne konferencje online bez polskiego wątku. Weryfikacja 10.10.2026: daty 14-16.10.2026 i start 9:00 czasu ET potwierdzone w danych schema.org na stronie (startDate/endDate) oraz w jej treści („3-day”); komunikat prasowy z lipca mówił o dwóch dniach (14-15), ale strona jest nadrzędna. Cena zmieniona z „Free” na „Partly paid”: schema.org podaje darmową przepustkę Explorer, a sekcja FAQ wymienia obok niej płatne poziomy Student, Builder, Pro Builder i VIP. Opis polski dopisany, bo źródło podaje tylko angielski."
   },
   {
     "name": "Kiedy i jak szukać inwestora? Warsztaty PPNT i Pomerangels Tech Ventures",
@@ -3313,7 +3337,7 @@
     "added": "2026-10-07",
     "submitted": "2026-10-07",
     "enriched": true,
-    "triage_note": "Wstrzymane do decyzji redakcyjnej: to konferencja i targi branży escape roomów (właściciele, twórcy, dostawcy), a nie wydarzenie tech/startup/science ani ogólne forum gospodarcze, więc dopasowanie do profilu strony jest decyzją Ani/Pauliny, nie automatu. Pozostałe kryteria spełnione: termin 12-13.11.2026 i miejsce (Concordia Design, Wrocław) potwierdzone na stronie organizatora (program dnia 1 i 2 oraz news \"Where to stay\", weryfikacja 07.10.2026), wydarzenie przyszłe, otwarte, w Polsce, URL działa, brak duplikatu. Uwaga do ceny: fetch_url_meta odczytał \"5000 ZŁ\", ale to kapitał zakładowy Lockme sp. z o.o. ze stopki polityki prywatności, nie cena biletu. Strona kwoty nie podaje, zostawiam samo \"Paid\" (jest przycisk Buy Tickets). Język EN+PL, bo prelekcje są po angielsku z tłumaczeniem na polski na żywo. Do weryfikacji przed zatwierdzeniem: czy listujemy wertykalne targi branżowe."
+    "triage_note": "Wstrzymane do decyzji redakcyjnej: to konferencja i targi B2B branży escape roomów (właściciele, twórcy, dostawcy), a nie wydarzenie tech/startup/science ani ogólne forum gospodarcze, więc dopasowanie do profilu strony jest decyzją Ani/Pauliny, nie automatu. Pozostałe kryteria spełnione. Weryfikacja 10.10.2026: strona organizatora nadal podaje „12-13.11.2026 WROCŁAW”, pierwsza prelekcja dnia 1 o 14:00; wydarzenie przyszłe, otwarte, w Polsce, URL działa, brak duplikatu. Miejsce (Concordia Design) odczytane z newsa „Where to stay” 07.10, sama strona konferencji nazwy obiektu nie powtarza. Uwaga do ceny: fetch_url_meta czyta „5000 ZŁ”, ale to kapitał zakładowy Lockme sp. z o.o. ze stopki polityki prywatności, nie cena biletu; strona kwoty nie podaje, zostaje samo „Paid” (jest przycisk Buy Tickets). Język EN+PL, bo prelekcje są po angielsku z tłumaczeniem na polski na żywo."
   },
   {
     "name": "Infoshare Katowice",
@@ -3780,24 +3804,5 @@
     "reject_reason": "Duplicate of \"MobiScale Demo Day 2026\" - same URL and same Tally submission (29.09.2026, Instytut Wzornictwa, Warszawa), already published.",
     "added": "2026-09-30",
     "submitted": "2026-09-17"
-  },
-  {
-    "name": "AI Builders Global Conference 2026",
-    "date": "2026-10-14",
-    "status": "pending",
-    "added": "2026-10-09",
-    "submitted": "2026-10-09",
-    "url": "https://aibuildersnetwork.org/conference",
-    "organizer": "AI Builders Network",
-    "tags": [
-      "Conference"
-    ],
-    "audience": "Founders, Investors",
-    "enriched": true,
-    "end_date": "2026-10-16",
-    "time": "09:00",
-    "description": "Join the AI Builders Global Conference 2026 - a 3-day virtual conference for AI builders, founders, and investors. 200+ sessions across 8 tracks and 47 topics, live workshops, pitch competition, and networking.",
-    "price": "Free",
-    "language": "EN"
   }
 ]
