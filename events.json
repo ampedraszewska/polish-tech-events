@@ -2770,10 +2770,11 @@
     ],
     "audience": "Corporate, Operators, Researchers",
     "organizer": "CEE Digital Coalition",
-    "status": "pending",
+    "status": "rejected",
     "added": "2026-09-30",
     "submitted": "2026-09-22",
-    "triage_note": "Wstrzymane: to ta sama konferencja, która jest już opublikowana jako „CEE Digital Summit 2026” (29.09.2026, PKiN, ten sam URL). Zgłoszenie wróciło, bo przy zatwierdzaniu zmieniono nazwę i reconcile przestał je dopasowywać. Do zrobienia: odrzucić ręcznie w panelu. NIE przez tombstone, bo URL to strona główna dorocznej konferencji, a nazwa „CEE Digital Summit” jest ogólna, więc tombstone zablokowałby zgłoszenie edycji 2027. Weryfikacja 10.10.2026: strona nadal zapowiada tylko 29 września 2026 (stopka wymienia edycje 2021-2025, edycji 2027 nie ogłoszono), a data „13 października” w metadanych Open Graph jest nieaktualna, z wcześniejszej edycji. Termin minął, zgłoszenie jest bezprzedmiotowe."
+    "reject_reason": "Duplikat wpisu \"CEE Digital Summit 2026\" (29.09.2026, ten sam URL); zgłoszenie wróciło po zmianie nazwy przy zatwierdzaniu.",
+    "tally_id": "Ar5WJdW"
   },
   {
     "name": "(untitled submission)",

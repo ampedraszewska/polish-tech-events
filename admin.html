@@ -979,6 +979,7 @@
     ev.added = prev.added || today();
     if (prev.submitted) ev.submitted = prev.submitted;
     if (prev.source) ev.source = prev.source;
+    if (prev.tally_id) ev.tally_id = prev.tally_id; // links the entry to its Tally submission; a rename must not drop it
     if (prev.triage_note && ev.status === 'pending') ev.triage_note = prev.triage_note;
     await patchEvent(editingIndex, ev, 'Saved. Site updates in ~1 minute.');
     closeModal();
