@@ -2234,18 +2234,17 @@
     "end_date": "2026-10-12",
     "city": "Online",
     "url": "https://colosseum.com/worldsfair",
-    "description": "Colosseum's global online hackathon for crypto startups across all blockchain ecosystems, running 14 September to 12 October 2026, with over $800,000 in prizes, $2.5M in venture funding and a place in Colosseum's accelerator for the winners.",
-    "description_pl": "Globalny hackathon online organizowany przez Colosseum dla startupów kryptowalutowych ze wszystkich ekosystemów blockchain, od 14 września do 12 października 2026. Pula nagród przekracza 800 000 USD, do tego 2,5 mln USD finansowania i miejsce w akceleratorze Colosseum dla zwycięzców.",
+    "description": "Colosseum's global online hackathon for crypto startups across every blockchain ecosystem, 14 September to 12 October 2026, with $840,000 in prizes and $2.5M in seed funding. Superteam Poland runs a Poland-only side track worth 5,000 USDG, closing with a Warsaw Demo Day.",
+    "description_pl": "Globalny hackathon online Colosseum dla startupów kryptowalutowych ze wszystkich ekosystemów blockchain, od 14 września do 12 października 2026, z pulą 840 000 USD nagród i 2,5 mln USD finansowania. Superteam Poland prowadzi ścieżkę tylko dla Polski (5 000 USDG), a finałem jest Demo Day w Warszawie.",
     "language": "EN",
     "tags": [
       "Hackathon"
     ],
     "audience": "Founders, Developers, Students",
     "organizer": "Colosseum",
-    "status": "pending",
+    "status": "approved",
     "added": "2026-09-30",
-    "submitted": "2026-09-30",
-    "triage_note": "Wstrzymane: globalny hackathon online organizowany przez Colosseum (USA), nie przez polską społeczność technologiczną, więc nie spełnia kryterium lokalizacji (miasto w Polsce albo Online dla wydarzeń polskiej społeczności). Do decyzji redakcyjnej: czy w ogóle listujemy globalne hackathony online. Zakres 14.09-12.10.2026 potwierdzony ponownie 10.10.2026 w opisie Open Graph na colosseum.com/worldsfair (strona nie udostępnia danych schema.org). Hackathon kończy się za 2 dni, więc po 12.10.2026 pozycja staje się bezprzedmiotowa. Cena zostawiona pusta: strona nie podaje opłaty wstępu, „Paid” pochodzi wyłącznie ze zgłoszenia Tally. Polskie wydarzenia towarzyszące (Solana Build Station, WARSAW DEMO DAY) są zgłoszone osobno."
+    "submitted": "2026-09-30"
   },
   {
     "name": "Hospital Innovation Summit & Demo Day",
@@ -2895,10 +2894,9 @@
     "audience": "Founders, Developers, Students",
     "organizer": "Superteam Poland",
     "price": "Free",
-    "status": "pending",
+    "status": "approved",
     "added": "2026-09-30",
     "submitted": "2026-09-30",
-    "triage_note": "Wstrzymane: dostęp ściśle ograniczony do builderów Colosseum, członków Superteam Poland i prelegentów, rejestracja wymaga zatwierdzenia przez organizatora („Registration Approval Required”) oraz osobnego formularza, więc to nie jest wydarzenie otwarte. Do decyzji redakcyjnej: czy listujemy przestrzeń z dostępem warunkowym. Weryfikacja 10.10.2026: dane strukturalne strony Luma nadal podają 6-13.10.2026, kick-off 6.10 o 12:00, organizator Superteam Poland, wstęp Free (to nadpisuje „Paid” ze zgłoszenia Tally). Dokładny adres (The Shire, Zebra Tower, Mokotowska 1, 12. piętro) został odczytany z treści strony 02.10, teraz Luma pokazuje tylko „Warszawa, Polska” do czasu rejestracji. Angielska wersja opisu na stronie nadal zawiera nieaktualne „In May 2026” z poprzedniej edycji. Wydarzenie jest w trakcie i kończy się 13.10.2026, więc decyzja po tej dacie będzie bezprzedmiotowa. Publiczny finał tego samego cyklu („WARSAW DEMO DAY”, 13.10) jest już opublikowany.",
     "enriched": true
   },
   {
@@ -2967,12 +2965,11 @@
   {
     "name": "Warsztat Corporate & VC Readiness dla twórców technologii i zespołów B2B",
     "date": "2026-10-09",
-    "status": "pending",
+    "status": "approved",
     "added": "2026-09-22",
     "submitted": "2026-09-22",
     "url": "https://docs.google.com/forms/d/e/1FAIpQLScpH7-68PTryc80rTQqnu2smpw1wp9WCOqeOFaGzyBcjnv-Ng/viewform?usp=sharing&ouid=104091091950818674547",
     "organizer": "Huge Thing",
-    "price": "Paid",
     "tags": [
       "Workshop"
     ],
@@ -2982,8 +2979,7 @@
     "time": "13:00",
     "city": "Poznań",
     "venue": "Poczta Workspace",
-    "language": "PL",
-    "triage_note": "Wstrzymane: warsztat zamknięty, maksymalnie 8 miejsc, o wejściu decyduje weryfikacja profilu projektu i kolejność zgłoszeń, a zgłoszony URL to formularz rekrutacyjny Google, nie strona wydarzenia. Do decyzji redakcyjnej: czy publikujemy wydarzenie z limitem 8 miejsc i linkiem do formularza. Data, godziny i miejsce (9.10.2026, 13:00-15:00, Poczta Workspace, Poznań) potwierdzone w treści formularza 02.10. Weryfikacja 10.10.2026: formularz nadal działa i nadal opisuje warsztat jako zamknięty i kameralny, ceny nie podaje („Paid” pochodzi wyłącznie ze zgłoszenia Tally). Termin minął wczoraj, zgłoszenie jest bezprzedmiotowe. Drugie zgłoszenie tego samego warsztatu (skrócony link forms.gle/NzdbDYy9Mr48oW8h6) zostało automatycznie odrzucone jako duplikat 02.10."
+    "language": "PL"
   },
   {
     "name": "Warsztat Corporate & VC Readiness",
@@ -3056,7 +3052,7 @@
   {
     "name": "AI Builders Global Conference 2026",
     "date": "2026-10-14",
-    "status": "pending",
+    "status": "rejected",
     "added": "2026-10-09",
     "submitted": "2026-10-09",
     "url": "https://aibuildersnetwork.org/conference",
@@ -3075,7 +3071,7 @@
     "city": "Online",
     "venue": "",
     "description_pl": "W pełni zdalna, trzydniowa konferencja dla twórców AI, founderów i inwestorów: ponad 200 sesji w 8 ścieżkach i 47 tematach, warsztaty praktyczne, konkurs pitchów i networking z inwestorami. Darmowa przepustka Explorer obok płatnych poziomów biletów.",
-    "triage_note": "Wstrzymane: wydarzenie w pełni online, globalne, organizowane przez AI Builders Network (USA, strefa US Eastern) wspólnie z Chief in AI Global, Women AI Builders i WomenTech Network, z uczestnikami z ponad 130 krajów. Ani strona, ani komunikaty prasowe nie wskazują żadnego polskiego organizatora, partnera czy społeczności, więc zgłoszenie nie spełnia kryterium lokalizacji (miasto w Polsce albo Online dla wydarzeń polskiej społeczności). Ta sama klasa decyzji co „Crypto World's Fair Hackathon”. Do decyzji redakcyjnej: czy listujemy globalne konferencje online bez polskiego wątku. Weryfikacja 10.10.2026: daty 14-16.10.2026 i start 9:00 czasu ET potwierdzone w danych schema.org na stronie (startDate/endDate) oraz w jej treści („3-day”); komunikat prasowy z lipca mówił o dwóch dniach (14-15), ale strona jest nadrzędna. Cena zmieniona z „Free” na „Partly paid”: schema.org podaje darmową przepustkę Explorer, a sekcja FAQ wymienia obok niej płatne poziomy Student, Builder, Pro Builder i VIP. Opis polski dopisany, bo źródło podaje tylko angielski."
+    "reject_reason": "Poza zakresem: wydarzenie online bez polskiego organizatora ani partnera (sprawdzono: strona konferencji i jej dane schema.org, podstrony About/Terms/Privacy/Partners/Speakers oraz bundle JS aibuildersnetwork.org - zero wzmianki o Polsce; komunikat prasowy z 15.07.2026; wyszukiwanie organizatora razem z Polską. Organizatorzy: AI Builders Network, Chief in AI Global, Women AI Builders i WomenTech Network, wszystkie globalne. „AI Builders Network” to nie warszawska społeczność „AI Builders”.)"
   },
   {
     "name": "Kiedy i jak szukać inwestora? Warsztaty PPNT i Pomerangels Tech Ventures",
@@ -3357,7 +3353,7 @@
     "added": "2026-10-07",
     "submitted": "2026-10-07",
     "enriched": true,
-    "triage_note": "Wstrzymane do decyzji redakcyjnej: to konferencja i targi B2B branży escape roomów (właściciele, twórcy, dostawcy), a nie wydarzenie tech/startup/science ani ogólne forum gospodarcze, więc dopasowanie do profilu strony jest decyzją Ani/Pauliny, nie automatu. Pozostałe kryteria spełnione. Weryfikacja 10.10.2026: strona organizatora nadal podaje „12-13.11.2026 WROCŁAW”, pierwsza prelekcja dnia 1 o 14:00; wydarzenie przyszłe, otwarte, w Polsce, URL działa, brak duplikatu. Miejsce (Concordia Design) odczytane z newsa „Where to stay” 07.10, sama strona konferencji nazwy obiektu nie powtarza. Uwaga do ceny: fetch_url_meta czyta „5000 ZŁ”, ale to kapitał zakładowy Lockme sp. z o.o. ze stopki polityki prywatności, nie cena biletu; strona kwoty nie podaje, zostaje samo „Paid” (jest przycisk Buy Tickets). Język EN+PL, bo prelekcje są po angielsku z tłumaczeniem na polski na żywo."
+    "triage_note": "Wstrzymane do decyzji redakcyjnej: konferencja i targi B2B branży escape roomów (właściciele, twórcy, dostawcy), a nie wydarzenie tech/startup/science ani forum gospodarcze, więc dopasowanie do profilu strony jest decyzją Ani/Pauliny, nie automatu. Pozostałe kryteria spełnione. Weryfikacja 11.10.2026: strona nadal podaje „12-13.11.2026 WROCŁAW”, wydarzenie przyszłe, otwarte, URL działa, brak duplikatu. Miejsce (Concordia Design) z newsa „Where to stay” (07.10). Cena: fetch_url_meta czyta „5000 ZŁ”, ale to kapitał zakładowy Lockme sp. z o.o. ze stopki polityki prywatności, nie cena biletu - zostaje samo „Paid” (jest przycisk Buy Tickets)."
   },
   {
     "name": "Infoshare Katowice",
