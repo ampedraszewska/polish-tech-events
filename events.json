@@ -3312,6 +3312,89 @@
     "tally_id": "X5vMa84"
   },
   {
+    "name": "Mix & Match(a): Physical AI Gathering",
+    "date": "2026-10-26",
+    "time": "10:00",
+    "city": "Warszawa",
+    "venue": "ff Red & White, Warszawa",
+    "url": "https://luma.com/549uwobf",
+    "description": "Invite-only Japanese-themed morning hosted by ff Red & White for founders building in physical AI and robotics: matcha, Japanese bites and relaxed conversations. Part of Poland Tech Week 2026.",
+    "description_pl": "Poranek w japońskim klimacie dla founderów budujących w obszarze physical AI i robotyki, organizowany przez ff Red & White: matcha, japońskie przekąski i rozmowy. Udział na zaproszenie. Część Poland Tech Week 2026.",
+    "language": "EN",
+    "tags": [
+      "Networking"
+    ],
+    "audience": "Founders",
+    "organizer": "ff Red & White",
+    "price": "Free",
+    "status": "approved",
+    "source": "luma-polandtechweek",
+    "added": "2026-10-12"
+  },
+  {
+    "name": "Go-to-Market for AI-First Startups",
+    "date": "2026-10-26",
+    "time": "14:00",
+    "city": "Warszawa",
+    "venue": "Imaguru Startup HUB, Twarda 14/16",
+    "url": "https://luma.com/sji41ixv",
+    "description": "Evening for founders and investors behind AI-first companies, built around two keynotes: Wonderful (AI-first B2B) and serial entrepreneur Lech Kaniuk (Kepta Legal), plus GOTOSMITH. Part of Poland Tech Week 2026.",
+    "description_pl": "Wieczór dla founderów i inwestorów spółek AI-first z dwoma wystąpieniami: Wonderful (AI-first B2B) oraz Lech Kaniuk (Kepta Legal), a także GOTOSMITH. Część Poland Tech Week 2026.",
+    "language": "EN",
+    "tags": [
+      "Meetup",
+      "Networking"
+    ],
+    "audience": "Founders, Investors",
+    "organizer": "Imaguru Startup HUB",
+    "price": "Free",
+    "status": "approved",
+    "source": "luma-polandtechweek",
+    "added": "2026-10-12"
+  },
+  {
+    "name": "Poland Tech Week Opening",
+    "date": "2026-10-26",
+    "time": "18:00",
+    "city": "Warszawa",
+    "venue": "Google for Startups Campus, Plac Konesera 10",
+    "url": "https://luma.com/lgg2gzxf",
+    "description": "Opening night of Poland Tech Week at Google for Startups Campus Warsaw: three 20-minute panels with founders, investors and builders. Free, curated guest list, limited places.",
+    "description_pl": "Wieczór otwarcia Poland Tech Week w Google for Startups Campus w Warszawie: trzy 20-minutowe panele z founderami, inwestorami i twórcami. Wstęp bezpłatny, lista gości kuratorowana, liczba miejsc ograniczona.",
+    "language": "EN",
+    "tags": [
+      "Conference",
+      "Networking"
+    ],
+    "audience": "Founders, Investors, Operators",
+    "organizer": "Poland Tech Week",
+    "price": "Free",
+    "status": "approved",
+    "source": "luma-polandtechweek",
+    "added": "2026-10-12"
+  },
+  {
+    "name": "Poland Tech Week 2026",
+    "date": "2026-10-26",
+    "end_date": "2026-10-30",
+    "city": "Warszawa",
+    "venue": "Multiple venues across Warsaw",
+    "url": "https://luma.com/polandtechweek",
+    "description": "A week of 30+ independent events across Warsaw for founders, investors, operators and builders: panels, workshops, hackathons, breakfasts and sports. Full calendar on Luma.",
+    "description_pl": "Tydzień ponad 30 niezależnych wydarzeń w Warszawie dla founderów, inwestorów, operatorów i twórców: panele, warsztaty, hackathony, śniadania i sport. Pełny kalendarz na Luma.",
+    "language": "EN+PL",
+    "tags": [
+      "Conference",
+      "Networking"
+    ],
+    "audience": "Founders, Investors, Operators, Developers",
+    "organizer": "Poland Tech Week",
+    "price": "Free",
+    "status": "approved",
+    "source": "luma-polandtechweek",
+    "added": "2026-10-12"
+  },
+  {
     "name": "Made in Wroclaw 2026",
     "date": "2026-10-27",
     "time": "09:00",
@@ -3329,6 +3412,597 @@
     "price": "Paid",
     "added": "2026-03-09",
     "end_date": "2026-10-28"
+  },
+  {
+    "name": "Ladies in Tech: Breakfast & Connect",
+    "date": "2026-10-27",
+    "time": "08:30",
+    "city": "Warszawa",
+    "venue": "Lusso Cafe, Krucza 23",
+    "url": "https://luma.com/7obupj79",
+    "description": "Breakfast for women working in tech: quick intros, then conversations about co-founders, first customers, funding and mentoring. Part of Poland Tech Week 2026.",
+    "description_pl": "Śniadanie dla kobiet pracujących w tech: krótkie przedstawienie się, a potem rozmowy o szukaniu co-foundera, pierwszych klientach, finansowaniu i mentoringu. Część Poland Tech Week 2026.",
+    "language": "EN",
+    "tags": [
+      "Networking"
+    ],
+    "audience": "Founders, Operators",
+    "organizer": "Inês Boska, Divyanshi Dhouni",
+    "price": "Free",
+    "status": "approved",
+    "source": "luma-polandtechweek",
+    "added": "2026-10-12"
+  },
+  {
+    "name": "Orbit Padel Tournament",
+    "date": "2026-10-27",
+    "time": "09:00",
+    "city": "Warszawa",
+    "venue": "Warsaw Padel Club, Annopol 3",
+    "url": "https://luma.com/ncogr5h6",
+    "description": "Friendly Americano-format padel tournament for founders, investors and friends of the startup ecosystem, hosted by Orbit Capital. Part of Poland Tech Week 2026.",
+    "description_pl": "Towarzyski turniej padla w formacie Americano dla founderów, inwestorów i przyjaciół ekosystemu startupowego, organizowany przez Orbit Capital. Część Poland Tech Week 2026.",
+    "language": "EN",
+    "tags": [
+      "Networking"
+    ],
+    "audience": "Founders, Investors",
+    "organizer": "Orbit Capital",
+    "price": "Free",
+    "status": "approved",
+    "source": "luma-polandtechweek",
+    "added": "2026-10-12"
+  },
+  {
+    "name": "Balnord x Project A: The Pitch Table",
+    "date": "2026-10-27",
+    "time": "12:00",
+    "city": "Warszawa",
+    "venue": "TBA (Warsaw)",
+    "url": "https://luma.com/gzxatgro",
+    "description": "Eight selected deep tech, dual-use and security founders get a 15-minute slot each with three investors from Balnord and Project A. Application via pre-matching form. Part of Poland Tech Week 2026.",
+    "description_pl": "Osiem wybranych zespołów z obszaru deep tech, dual-use i bezpieczeństwa dostaje po 15 minut rozmowy z trzema inwestorami z Balnord i Project A. Udział po zgłoszeniu przez formularz. Część Poland Tech Week 2026.",
+    "language": "EN",
+    "tags": [
+      "Networking"
+    ],
+    "audience": "Founders, Investors",
+    "organizer": "Balnord, Project A",
+    "price": "Free",
+    "status": "approved",
+    "source": "luma-polandtechweek",
+    "added": "2026-10-12"
+  },
+  {
+    "name": "Securing AI: A Conversation with Cyber Leaders",
+    "date": "2026-10-27",
+    "time": "16:00",
+    "city": "Warszawa",
+    "venue": "Skyfall Warsaw, Rondo Daszyńskiego 1",
+    "url": "https://luma.com/f8hdkp5q",
+    "description": "Evolution Equity Partners brings CISOs, AI builders, founders and investors together at Skyfall to discuss securing AI agents: credentials, infrastructure access and audit trails. Part of Poland Tech Week 2026.",
+    "description_pl": "Evolution Equity Partners zaprasza CISO, twórców AI, founderów i inwestorów do Skyfall na rozmowę o bezpieczeństwie agentów AI: uprawnieniach, dostępie do infrastruktury i ścieżkach audytu. Część Poland Tech Week 2026.",
+    "language": "EN",
+    "tags": [
+      "Meetup",
+      "Networking"
+    ],
+    "audience": "Founders, Investors, Corporate",
+    "organizer": "Evolution Equity Partners",
+    "price": "Free",
+    "status": "approved",
+    "source": "luma-polandtechweek",
+    "added": "2026-10-12"
+  },
+  {
+    "name": "Founders for Founders: The AI Growth Playbook",
+    "date": "2026-10-27",
+    "time": "17:00",
+    "city": "Warszawa",
+    "venue": "Rotunda, Warszawa",
+    "url": "https://luma.com/0wt37d21",
+    "description": "Founders show other founders how they use AI in marketing and sales: which tools and processes deliver results and what did not work. Part of Poland Tech Week 2026.",
+    "description_pl": "Founderzy pokazują innym founderom, jak wykorzystują AI w marketingu i sprzedaży: które narzędzia i procesy dają wyniki, a co się nie sprawdziło. Część Poland Tech Week 2026.",
+    "language": "EN",
+    "tags": [
+      "Meetup"
+    ],
+    "audience": "Founders",
+    "organizer": "Przemek Jurgiel-Zyla, Artur Banach, Marcin Kurek",
+    "price": "Free",
+    "status": "approved",
+    "source": "luma-polandtechweek",
+    "added": "2026-10-12"
+  },
+  {
+    "name": "Product Build Day",
+    "date": "2026-10-27",
+    "time": "17:00",
+    "city": "Warszawa",
+    "venue": "Imaguru Startup HUB, Twarda 14/16",
+    "url": "https://luma.com/qkgnf1u4",
+    "description": "Free three-hour evening with Lovable and Imaguru: get a real product challenge, design a cheap test, build a working product, test it with AI users and pitch what you learned. Part of Poland Tech Week 2026.",
+    "description_pl": "Bezpłatny, trzygodzinny wieczór z Lovable i Imaguru: dostajesz realne wyzwanie produktowe, projektujesz tani test, budujesz działający produkt, testujesz go z użytkownikami AI i prezentujesz wnioski. Część Poland Tech Week 2026.",
+    "language": "EN",
+    "tags": [
+      "Workshop",
+      "Hackathon"
+    ],
+    "audience": "Founders, Developers, Operators",
+    "organizer": "Imaguru Startup HUB, Lovable",
+    "price": "Free",
+    "status": "approved",
+    "source": "luma-polandtechweek",
+    "added": "2026-10-12"
+  },
+  {
+    "name": "AI Builders Warsaw - Oct 27",
+    "date": "2026-10-27",
+    "time": "18:00",
+    "city": "Warszawa",
+    "venue": "Just Join IT, Marszałkowska 107",
+    "url": "https://luma.com/waw-oct27",
+    "description": "Informal meetup for people building with AI: demos of AI dev tools, agent frameworks, RAG and coding agents, plus plenty of networking. Some LLM knowledge required. Part of Poland Tech Week 2026.",
+    "description_pl": "Nieformalny meetup dla osób budujących z AI: dema narzędzi deweloperskich, frameworków agentowych, RAG i agentów kodujących oraz dużo czasu na networking. Wymagana podstawowa znajomość LLM. Część Poland Tech Week 2026.",
+    "language": "EN",
+    "tags": [
+      "Meetup"
+    ],
+    "audience": "Developers, Founders",
+    "organizer": "AI Builders",
+    "price": "Free",
+    "status": "approved",
+    "source": "luma-polandtechweek",
+    "added": "2026-10-12"
+  },
+  {
+    "name": "Run & Raise Vol. 2: PROfounders PTW Run + Breakfast",
+    "date": "2026-10-28",
+    "time": "08:30",
+    "city": "Warszawa",
+    "venue": "Warsaw (location shared with guests)",
+    "url": "https://luma.com/01rxd7rq",
+    "description": "Easy 5K social run for software founders and operators hosted by PROfounders Capital, followed by breakfast at a nearby bakery. Capped at 20 people. Part of Poland Tech Week 2026.",
+    "description_pl": "Spokojny, towarzyski bieg na 5 km dla founderów i operatorów spółek software'owych, organizowany przez PROfounders Capital, a po nim śniadanie w pobliskiej piekarni. Limit 20 osób. Część Poland Tech Week 2026.",
+    "language": "EN",
+    "tags": [
+      "Networking"
+    ],
+    "audience": "Founders, Operators",
+    "organizer": "PROfounders Capital",
+    "price": "Free",
+    "status": "approved",
+    "source": "luma-polandtechweek",
+    "added": "2026-10-12"
+  },
+  {
+    "name": "Wiki+Ctrl+Delete: Wikipedia Under Attack",
+    "date": "2026-10-28",
+    "time": "09:00",
+    "city": "Warszawa",
+    "venue": "Lublin Union Square, Pl. Unii Lubelskiej 1",
+    "url": "https://luma.com/z2qijn0r",
+    "description": "How Wikipedia defends itself against coordinated disinformation, bots, AI-generated content and large-scale AI scraping. Part of Poland Tech Week 2026.",
+    "description_pl": "Jak Wikipedia broni się przed skoordynowaną dezinformacją, botami, treściami generowanymi przez AI i masowym scrapowaniem przez modele AI. Część Poland Tech Week 2026.",
+    "language": "EN",
+    "tags": [
+      "Meetup",
+      "Policy"
+    ],
+    "audience": "General public, Researchers",
+    "organizer": "Maciej Nadzikiewicz",
+    "price": "Free",
+    "status": "approved",
+    "source": "luma-polandtechweek",
+    "added": "2026-10-12"
+  },
+  {
+    "name": "European Dynamism Breakfast",
+    "date": "2026-10-28",
+    "time": "09:00",
+    "city": "Warszawa",
+    "venue": "Pianka 3.0, Koszykowa 55",
+    "url": "https://luma.com/6carqds5",
+    "description": "Breakfast hosted by Montis VC for founders and operators transforming European industry: production, energy and defence. Part of Poland Tech Week 2026.",
+    "description_pl": "Śniadanie organizowane przez Montis VC dla founderów i operatorów, którzy zmieniają europejski przemysł: produkcję, energetykę i obronność. Część Poland Tech Week 2026.",
+    "language": "EN",
+    "tags": [
+      "Networking"
+    ],
+    "audience": "Founders, Operators, Investors",
+    "organizer": "Montis VC",
+    "price": "Free",
+    "status": "approved",
+    "source": "luma-polandtechweek",
+    "added": "2026-10-12"
+  },
+  {
+    "name": "Build Deep: Venture Building Night for Deep Tech Founders",
+    "date": "2026-10-28",
+    "time": "17:00",
+    "city": "Warszawa",
+    "venue": "The Heart Warsaw, Rondo Daszyńskiego 1",
+    "url": "https://luma.com/kjdpeqkq",
+    "description": "Deep tech founders from Poland and abroad (healthcare, defence and dual use, space, energy) share what worked and what did not on the path through incubators, mentoring and venture building. By The Heart, Innovations Hub Foundation and 360 Warsaw. Part of Poland Tech Week 2026.",
+    "description_pl": "Founderzy deep tech z Polski i zagranicy (zdrowie, obronność i dual use, space, energetyka) opowiadają, co zadziałało, a co nie na drodze przez inkubatory, mentoring i venture building. Organizują The Heart, Fundacja Innovations Hub i 360 Warsaw. Część Poland Tech Week 2026.",
+    "language": "EN",
+    "tags": [
+      "Meetup",
+      "Networking"
+    ],
+    "audience": "Founders, Researchers",
+    "organizer": "The Heart, Innovations Hub Foundation, 360 Warsaw",
+    "price": "Free",
+    "status": "approved",
+    "source": "luma-polandtechweek",
+    "added": "2026-10-12"
+  },
+  {
+    "name": "FDE Workshop",
+    "date": "2026-10-28",
+    "time": "17:30",
+    "city": "Warszawa",
+    "venue": "TBA (Warsaw)",
+    "url": "https://luma.com/vtsvysms",
+    "description": "DELTA's first Forward Deployed Engineering workshop in Poland: what the FDE role is, how it differs from AI consulting and why companies hire engineers who work directly with customers. Venue and agenda TBA. Part of Poland Tech Week 2026.",
+    "description_pl": "Pierwszy w Polsce warsztat DELTA o Forward Deployed Engineering: czym jest rola FDE, czym różni się od konsultingu AI i dlaczego firmy zatrudniają inżynierów pracujących bezpośrednio z klientami. Miejsce i agenda do potwierdzenia. Część Poland Tech Week 2026.",
+    "language": "EN",
+    "tags": [
+      "Workshop"
+    ],
+    "audience": "Developers",
+    "organizer": "DELTA",
+    "price": "Free",
+    "status": "approved",
+    "source": "luma-polandtechweek",
+    "added": "2026-10-12"
+  },
+  {
+    "name": "Stop Playing Referee: Ending Priority Wars Between Product & Eng",
+    "date": "2026-10-28",
+    "time": "18:00",
+    "city": "Warszawa",
+    "venue": "Imaguru Startup HUB, Twarda 14/16",
+    "url": "https://luma.com/rp4kf902",
+    "description": "Session for leaders on breaking deadlocks between product, engineering and sales without becoming the referee, and on execution frameworks that keep team autonomy. Part of Poland Tech Week 2026.",
+    "description_pl": "Spotkanie dla liderów o tym, jak rozwiązywać impasy między produktem, inżynierią i sprzedażą bez roli sędziego oraz jakie ramy egzekucji zachowują autonomię zespołu. Część Poland Tech Week 2026.",
+    "language": "EN",
+    "tags": [
+      "Workshop"
+    ],
+    "audience": "Operators, Founders",
+    "organizer": "Imaguru Startup HUB",
+    "price": "Free",
+    "status": "approved",
+    "source": "luma-polandtechweek",
+    "added": "2026-10-12"
+  },
+  {
+    "name": "Founders' Society Meetup",
+    "date": "2026-10-28",
+    "time": "18:00",
+    "city": "Warszawa",
+    "venue": "Warszawa (Wola)",
+    "url": "https://luma.com/FoundersSociety",
+    "description": "Evening of founder stories and Q&A, with speakers from Derpetual and Reflect, followed by networking over pizza and drinks. By Superteam Poland, part of Poland Tech Week 2026.",
+    "description_pl": "Wieczór z historiami founderów i Q&A, z udziałem prelegentów z Derpetual i Reflect, a potem networking przy pizzy i napojach. Organizuje Superteam Poland, w ramach Poland Tech Week 2026.",
+    "language": "PL",
+    "tags": [
+      "Meetup",
+      "Networking"
+    ],
+    "audience": "Founders, Students",
+    "organizer": "Superteam Poland",
+    "price": "Free",
+    "status": "approved",
+    "source": "luma-polandtechweek",
+    "added": "2026-10-12"
+  },
+  {
+    "name": "SLM Builders Night",
+    "date": "2026-10-28",
+    "time": "18:00",
+    "city": "Warszawa",
+    "venue": "TBA (Warsaw)",
+    "url": "https://luma.com/b3yiwna9",
+    "description": "Talk on post-training small language models from production traces, evals and training data, with a live model build, then open demos from builders working with small models. Part of Poland Tech Week 2026.",
+    "description_pl": "Wystąpienie o dotrenowywaniu małych modeli językowych na danych z produkcji, ewaluacjach i danych treningowych, z budową modelu na żywo, a potem otwarte dema osób pracujących z małymi modelami. Część Poland Tech Week 2026.",
+    "language": "EN",
+    "tags": [
+      "Meetup"
+    ],
+    "audience": "Developers, Researchers",
+    "organizer": "Selim Nowicki, NAP",
+    "price": "Free",
+    "status": "approved",
+    "source": "luma-polandtechweek",
+    "added": "2026-10-12"
+  },
+  {
+    "name": "Vibecoder Wednesday #16 (Poland Tech Week Special Edition)",
+    "date": "2026-10-28",
+    "time": "18:00",
+    "city": "Warszawa",
+    "venue": "Kolektyw3, Warszawa",
+    "url": "https://luma.com/8oy6lkgd",
+    "description": "Open demo night for anyone building with AI: no agenda, just a mic, a screen and whatever you vibecoded lately. Part of Poland Tech Week 2026.",
+    "description_pl": "Otwarty wieczór demo dla wszystkich, którzy budują z AI: bez agendy, tylko mikrofon, ekran i to, co ostatnio zvibecodowałeś. Część Poland Tech Week 2026.",
+    "language": "EN",
+    "tags": [
+      "Meetup"
+    ],
+    "audience": "Developers, Founders, General public",
+    "organizer": "Kolektyw3",
+    "price": "Paid",
+    "status": "approved",
+    "source": "luma-polandtechweek",
+    "added": "2026-10-12"
+  },
+  {
+    "name": "Cards on the Table by MOC x THL",
+    "date": "2026-10-28",
+    "time": "19:00",
+    "city": "Warszawa",
+    "venue": "TBA (Warsaw)",
+    "url": "https://luma.com/7nrcg6iq",
+    "description": "Relaxed poker evening for founders and VCs from the Warsaw tech scene, beginners welcome. Only 40 spots. Part of Poland Tech Week 2026.",
+    "description_pl": "Luźny wieczór pokerowy dla founderów i VC z warszawskiej sceny tech, początkujący mile widziani. Tylko 40 miejsc. Część Poland Tech Week 2026.",
+    "language": "EN",
+    "tags": [
+      "Networking"
+    ],
+    "audience": "Founders, Investors",
+    "organizer": "MOC x THL",
+    "price": "Free",
+    "status": "approved",
+    "source": "luma-polandtechweek",
+    "added": "2026-10-12"
+  },
+  {
+    "name": "Future of Warsaw Dinner",
+    "date": "2026-10-28",
+    "time": "19:00",
+    "city": "Warszawa",
+    "venue": "TBA (Warsaw)",
+    "url": "https://luma.com/1loq30ii",
+    "description": "Small dinner hosted by Portfolion and Project A for founders, engineers, operators and people shaping the local tech ecosystem. Part of Poland Tech Week 2026.",
+    "description_pl": "Kameralna kolacja organizowana przez Portfolion i Project A dla founderów, inżynierów, operatorów i osób tworzących lokalny ekosystem tech. Część Poland Tech Week 2026.",
+    "language": "EN",
+    "tags": [
+      "Networking"
+    ],
+    "audience": "Founders, Operators, Investors",
+    "organizer": "Portfolion, Project A",
+    "price": "Free",
+    "status": "approved",
+    "source": "luma-polandtechweek",
+    "added": "2026-10-12"
+  },
+  {
+    "name": "Expanding to the U.S.: What Polish Founders Need to Get Right",
+    "date": "2026-10-29",
+    "time": "10:00",
+    "city": "Warszawa",
+    "venue": "Kondracki Celej, ul. Ks. I. Skorupki 5",
+    "url": "https://luma.com/37j4i0vz",
+    "description": "Kondracki Celej and Sparring on what Polish founders should prepare before U.S. fundraising and market entry, with Polish, European and U.S. legal perspectives on structure and expansion. Part of Poland Tech Week 2026.",
+    "description_pl": "Kondracki Celej i Sparring o tym, co polscy founderzy powinni przygotować przed pozyskaniem kapitału i wejściem na rynek amerykański, z perspektywą prawną z Polski, Europy i USA. Część Poland Tech Week 2026.",
+    "language": "EN",
+    "tags": [
+      "Workshop"
+    ],
+    "audience": "Founders",
+    "organizer": "Kondracki Celej, Sparring",
+    "price": "Free",
+    "status": "approved",
+    "source": "luma-polandtechweek",
+    "added": "2026-10-12"
+  },
+  {
+    "name": "Hard2beat Golf @ Poland Tech Week",
+    "date": "2026-10-29",
+    "time": "14:00",
+    "city": "Warszawa",
+    "venue": "Olimpic Golf Club, Warszawa",
+    "url": "https://luma.com/d3b2xlce",
+    "description": "Two hours on the driving range for founders, investors and operators, no golf experience needed. Hosted by Hard2beat. Part of Poland Tech Week 2026.",
+    "description_pl": "Dwie godziny na driving range dla founderów, inwestorów i operatorów, doświadczenie golfowe niepotrzebne. Organizuje Hard2beat. Część Poland Tech Week 2026.",
+    "language": "EN",
+    "tags": [
+      "Networking"
+    ],
+    "audience": "Founders, Investors, Operators",
+    "organizer": "Hard2beat",
+    "price": "Free",
+    "status": "approved",
+    "source": "luma-polandtechweek",
+    "added": "2026-10-12"
+  },
+  {
+    "name": "Hacker House Launch Night @ Hacker Bloc",
+    "date": "2026-10-29",
+    "time": "17:00",
+    "city": "Warszawa",
+    "venue": "Hacker Bloc, Kosiarzy 21B",
+    "url": "https://luma.com/1rybaq80",
+    "description": "Official launch of Hacker Bloc, a Warsaw hacker house for builders in robotics, hardware and AI: upcoming programme, memberships and desks. Part of Poland Tech Week 2026.",
+    "description_pl": "Oficjalne otwarcie Hacker Bloc, warszawskiego hacker house'u dla osób budujących w robotyce, hardware i AI: program na kolejne miesiące, członkostwa i biurka. Część Poland Tech Week 2026.",
+    "language": "EN",
+    "tags": [
+      "Meetup",
+      "Networking"
+    ],
+    "audience": "Developers, Founders, Students",
+    "organizer": "Hacker Bloc",
+    "price": "Free",
+    "status": "approved",
+    "source": "luma-polandtechweek",
+    "added": "2026-10-12"
+  },
+  {
+    "name": "Operators After Hours",
+    "date": "2026-10-29",
+    "time": "18:00",
+    "city": "Warszawa",
+    "venue": "Imaguru Startup HUB, Twarda 14/16",
+    "url": "https://luma.com/q4witgnn",
+    "description": "Panel on scaling operations and the team behind them, with three real cases from Viktor, OperatorTalent and Vastpoint, followed by networking. Part of Poland Tech Week 2026.",
+    "description_pl": "Panel o skalowaniu operacji i zespołu, oparty na trzech przypadkach: Viktor, OperatorTalent i Vastpoint, a potem networking. Część Poland Tech Week 2026.",
+    "language": "EN",
+    "tags": [
+      "Meetup",
+      "Networking"
+    ],
+    "audience": "Operators, Founders",
+    "organizer": "Imaguru Startup HUB",
+    "price": "Free",
+    "status": "approved",
+    "source": "luma-polandtechweek",
+    "added": "2026-10-12"
+  },
+  {
+    "name": "Thursday Gathering #268 (Poland Tech Week)",
+    "date": "2026-10-29",
+    "time": "18:00",
+    "city": "Warszawa",
+    "venue": "Venture Café Warsaw, Chmielna 73",
+    "url": "https://luma.com/5he7fk1b",
+    "description": "Venture Café Warsaw's free bi-weekly meeting for entrepreneurs, researchers, mentors and investors, this week with sessions related to Poland Tech Week. Registration required.",
+    "description_pl": "Bezpłatne, cotygodniowe spotkanie Venture Café Warsaw dla przedsiębiorców, naukowców, mentorów i inwestorów, w tym tygodniu z sesjami w ramach Poland Tech Week. Wymagana rejestracja.",
+    "language": "EN+PL",
+    "tags": [
+      "Meetup",
+      "Networking"
+    ],
+    "audience": "Founders, Researchers, Investors",
+    "organizer": "Venture Café Warsaw",
+    "price": "Free",
+    "status": "approved",
+    "source": "luma-polandtechweek",
+    "added": "2026-10-12"
+  },
+  {
+    "name": "Power & Aperitivo",
+    "date": "2026-10-29",
+    "time": "18:30",
+    "city": "Warszawa",
+    "venue": "The Heart Legal, Rondo Daszyńskiego 1",
+    "url": "https://luma.com/qzwlrx9f",
+    "description": "Aperitivo for investors, energy companies and technology innovators on opportunities in the energy market and the energy transition in Poland. Part of Poland Tech Week 2026.",
+    "description_pl": "Aperitivo dla inwestorów, firm energetycznych i innowatorów technologicznych o szansach na rynku energii i transformacji energetycznej w Polsce. Część Poland Tech Week 2026.",
+    "language": "EN",
+    "tags": [
+      "Networking"
+    ],
+    "audience": "Investors, Corporate, Founders",
+    "organizer": "The Heart Legal",
+    "price": "Free",
+    "status": "approved",
+    "source": "luma-polandtechweek",
+    "added": "2026-10-12"
+  },
+  {
+    "name": "Made in Warsaw vol. 2",
+    "date": "2026-10-29",
+    "time": "19:00",
+    "city": "Warszawa",
+    "venue": "TBA (Warsaw)",
+    "url": "https://luma.com/qrl8dl7o",
+    "description": "Evening for engineers, researchers, technical founders and STEM students, with talks by Wojciech Kulikowski and Fryderyk Wiatrowski (viktor.com), then networking. Part of Poland Tech Week 2026.",
+    "description_pl": "Wieczór dla inżynierów, naukowców, technicznych founderów oraz studentów matematyki, fizyki i informatyki, z wystąpieniami Wojciecha Kulikowskiego i Fryderyka Wiatrowskiego (viktor.com), a potem networking. Część Poland Tech Week 2026.",
+    "language": "EN",
+    "tags": [
+      "Meetup",
+      "Networking"
+    ],
+    "audience": "Developers, Founders, Students, Researchers",
+    "organizer": "Made in Warsaw",
+    "price": "Free",
+    "status": "approved",
+    "source": "luma-polandtechweek",
+    "added": "2026-10-12"
+  },
+  {
+    "name": "Founders vs Investors",
+    "date": "2026-10-30",
+    "time": "10:30",
+    "city": "Warszawa",
+    "venue": "TBA (Warsaw)",
+    "url": "https://luma.com/ws85qt5x",
+    "description": "90-minute football match between founders and investors, followed by a post-match pint. Part of Poland Tech Week 2026.",
+    "description_pl": "90-minutowy mecz piłkarski founderów z inwestorami, a po nim wspólne piwo. Część Poland Tech Week 2026.",
+    "language": "EN",
+    "tags": [
+      "Networking"
+    ],
+    "audience": "Founders, Investors",
+    "organizer": "Poland Tech Week",
+    "price": "Free",
+    "status": "approved",
+    "source": "luma-polandtechweek",
+    "added": "2026-10-12"
+  },
+  {
+    "name": "Who Survives the SaaS Apocalypse?",
+    "date": "2026-10-30",
+    "time": "12:00",
+    "city": "Warszawa",
+    "venue": "Google for Startups Campus, Plac Konesera 10",
+    "url": "https://luma.com/mlwv8sah",
+    "description": "GTM engineers from the Clay community, outbound operators and teams running AI agents on top of the CRM share real go-to-market workflows. Part of Poland Tech Week 2026.",
+    "description_pl": "Inżynierowie GTM ze społeczności Clay, specjaliści od outboundu i zespoły korzystające z agentów AI w CRM pokazują realne procesy go-to-market. Część Poland Tech Week 2026.",
+    "language": "EN",
+    "tags": [
+      "Conference",
+      "Workshop"
+    ],
+    "audience": "Founders, Operators",
+    "organizer": "Clay Community",
+    "price": "Free",
+    "status": "approved",
+    "source": "luma-polandtechweek",
+    "added": "2026-10-12"
+  },
+  {
+    "name": "START Warsaw x Poland Tech Week Hackathon",
+    "date": "2026-10-30",
+    "time": "18:00",
+    "city": "Warszawa",
+    "venue": "TBA (Warsaw)",
+    "url": "https://luma.com/n3yb17kl",
+    "description": "Builders, founders, designers and engineers work on challenges from partner companies, including Reactive AI, and demo a working prototype. Teams of 3-4 or solo. Registration opening soon. Part of Poland Tech Week 2026.",
+    "description_pl": "Twórcy, founderzy, projektanci i inżynierowie pracują nad wyzwaniami firm partnerskich, m.in. Reactive AI, i prezentują działający prototyp. Zespoły 3-4 osobowe lub zgłoszenia indywidualne. Rejestracja wkrótce. Część Poland Tech Week 2026.",
+    "language": "EN",
+    "tags": [
+      "Hackathon"
+    ],
+    "audience": "Developers, Founders, Students",
+    "organizer": "START Warsaw",
+    "price": "Free",
+    "status": "approved",
+    "source": "luma-polandtechweek",
+    "added": "2026-10-12",
+    "end_date": "2026-10-31"
+  },
+  {
+    "name": "Startup Founders Stars",
+    "date": "2026-10-30",
+    "time": "16:00",
+    "city": "Warszawa",
+    "venue": "Polish Army Stadium, Łazienkowska 3",
+    "url": "https://www.startupstars.pl/event/10",
+    "description": "Startup Stars event for founders at the Polish Army Stadium in Warsaw, listed on the Poland Tech Week 2026 calendar.",
+    "description_pl": "Wydarzenie Startup Stars dla founderów na Stadionie Wojska Polskiego w Warszawie, w kalendarzu Poland Tech Week 2026.",
+    "language": "PL",
+    "tags": [
+      "Networking"
+    ],
+    "audience": "Founders",
+    "organizer": "Startup Stars",
+    "price": "Free",
+    "status": "approved",
+    "source": "luma-polandtechweek",
+    "added": "2026-10-12"
   },
   {
     "name": "UPGRADE'26",
