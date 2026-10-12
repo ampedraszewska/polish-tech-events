@@ -3427,7 +3427,7 @@
       "Networking"
     ],
     "audience": "Founders, Operators",
-    "organizer": "Inês Boska, Divyanshi Dhouni",
+    "organizer": "Ladies in Tech",
     "price": "Free",
     "status": "approved",
     "source": "luma-polandtechweek",
@@ -3501,14 +3501,14 @@
     "city": "Warszawa",
     "venue": "Rotunda, Warszawa",
     "url": "https://luma.com/0wt37d21",
-    "description": "Founders show other founders how they use AI in marketing and sales: which tools and processes deliver results and what did not work. Part of Poland Tech Week 2026.",
-    "description_pl": "Founderzy pokazują innym founderom, jak wykorzystują AI w marketingu i sprzedaży: które narzędzia i procesy dają wyniki, a co się nie sprawdziło. Część Poland Tech Week 2026.",
+    "description": "Founders show other founders how they use AI in marketing and sales: which tools and processes deliver results and what did not work Co-hosted by Movens Capital, Market One Capital and Endeavor Poland. Part of Poland Tech Week 2026.",
+    "description_pl": "Founderzy pokazują innym founderom, jak wykorzystują AI w marketingu i sprzedaży: które narzędzia i procesy dają wyniki, a co się nie sprawdziło. Współorganizatorzy: Movens Capital, Market One Capital i Endeavor Poland. Część Poland Tech Week 2026.",
     "language": "EN",
     "tags": [
       "Meetup"
     ],
     "audience": "Founders",
-    "organizer": "Przemek Jurgiel-Zyla, Artur Banach, Marcin Kurek",
+    "organizer": "Movens Capital, Market One Capital, Endeavor Poland",
     "price": "Free",
     "status": "approved",
     "source": "luma-polandtechweek",
@@ -3590,7 +3590,7 @@
       "Policy"
     ],
     "audience": "General public, Researchers",
-    "organizer": "Maciej Nadzikiewicz",
+    "organizer": "Future For Poland",
     "price": "Free",
     "status": "approved",
     "source": "luma-polandtechweek",
@@ -3712,7 +3712,7 @@
       "Meetup"
     ],
     "audience": "Developers, Researchers",
-    "organizer": "Selim Nowicki, NAP",
+    "organizer": "NAP, distil labs",
     "price": "Free",
     "status": "approved",
     "source": "luma-polandtechweek",
@@ -3753,26 +3753,6 @@
     ],
     "audience": "Founders, Investors",
     "organizer": "MOC x THL",
-    "price": "Free",
-    "status": "approved",
-    "source": "luma-polandtechweek",
-    "added": "2026-10-12"
-  },
-  {
-    "name": "Future of Warsaw Dinner",
-    "date": "2026-10-28",
-    "time": "19:00",
-    "city": "Warszawa",
-    "venue": "TBA (Warsaw)",
-    "url": "https://luma.com/1loq30ii",
-    "description": "Small dinner hosted by Portfolion and Project A for founders, engineers, operators and people shaping the local tech ecosystem. Part of Poland Tech Week 2026.",
-    "description_pl": "Kameralna kolacja organizowana przez Portfolion i Project A dla founderów, inżynierów, operatorów i osób tworzących lokalny ekosystem tech. Część Poland Tech Week 2026.",
-    "language": "EN",
-    "tags": [
-      "Networking"
-    ],
-    "audience": "Founders, Operators, Investors",
-    "organizer": "Portfolion, Project A",
     "price": "Free",
     "status": "approved",
     "source": "luma-polandtechweek",
@@ -3858,7 +3838,8 @@
     "price": "Free",
     "status": "approved",
     "source": "luma-polandtechweek",
-    "added": "2026-10-12"
+    "added": "2026-10-12",
+    "badge": "recommended"
   },
   {
     "name": "Thursday Gathering #268 (Poland Tech Week)",
@@ -3916,7 +3897,7 @@
       "Networking"
     ],
     "audience": "Developers, Founders, Students, Researchers",
-    "organizer": "Made in Warsaw",
+    "organizer": "KAYA",
     "price": "Free",
     "status": "approved",
     "source": "luma-polandtechweek",
@@ -3957,7 +3938,7 @@
       "Workshop"
     ],
     "audience": "Founders, Operators",
-    "organizer": "Clay Community",
+    "organizer": "Dealme",
     "price": "Free",
     "status": "approved",
     "source": "luma-polandtechweek",
