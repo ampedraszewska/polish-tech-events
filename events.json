@@ -858,7 +858,8 @@
     "language": "PL",
     "description_pl": "Pitch Day - wydarzenie, podczas którego wyselekcjonowane startupy z obszaru creative tech zaprezentują swoje projekty. To okazja, aby w jednym miejscu poznać twórców i ich projekty.",
     "enriched": true,
-    "venue": "Warszawa, Poland"
+    "venue": "Warszawa, Poland",
+    "tally_id": "o9yy0LM"
   },
   {
     "name": "Zabłocie Morning Pitch (2026-05-28)",
@@ -1124,7 +1125,8 @@
     "tags": [
       "Meetup"
     ],
-    "language": "EN"
+    "language": "EN",
+    "tally_id": "Vpl2QqN"
   },
   {
     "name": "AI Tinkerers Poland #8 - Meetup in Warsaw (18th June)",
@@ -1157,7 +1159,8 @@
     "tags": [
       "Meetup"
     ],
-    "language": "EN"
+    "language": "EN",
+    "tally_id": "zEzPyBM"
   },
   {
     "name": "The AI Collective Poland & AGH University | AI in Healthcare: AI in Diagnostics",
@@ -1313,7 +1316,8 @@
     "price": "Free",
     "status": "approved",
     "added": "2026-06-21",
-    "enriched": true
+    "enriched": true,
+    "tally_id": "PRl8l2b"
   },
   {
     "name": "MD Fellowship Demo Day",
@@ -1371,7 +1375,8 @@
     "city": "Warszawa",
     "language": "EN",
     "description_pl": "Spotkanie społeczności Warsaw.AI, odcinek 31. Prelekcje i networking dla warszawskiej społeczności AI.",
-    "enriched": true
+    "enriched": true,
+    "tally_id": "VpVo8Ma"
   },
   {
     "name": "AI Shift Meetup",
@@ -1469,7 +1474,8 @@
     "organizer": "Serial networkers",
     "price": "Paid",
     "status": "approved",
-    "added": "2026-07-16"
+    "added": "2026-07-16",
+    "tally_id": "M1rD42M"
   },
   {
     "name": "CreativeTech Poland Meetup_02",
@@ -1527,7 +1533,8 @@
     "organizer": "Startup Wrocław",
     "price": "Free",
     "status": "approved",
-    "added": "2026-07-24"
+    "added": "2026-07-24",
+    "tally_id": "KpPjQgX"
   },
   {
     "name": "Warsaw | Claude Meetup",
@@ -1601,7 +1608,8 @@
       "Networking"
     ],
     "audience": "Founders",
-    "language": "PL"
+    "language": "PL",
+    "tally_id": "OQ8lQXa"
   },
   {
     "name": "(untitled submission)",
@@ -1679,7 +1687,8 @@
     "organizer": "Pragmatic Coders",
     "price": "Paid",
     "status": "approved",
-    "added": "2026-07-27"
+    "added": "2026-07-27",
+    "tally_id": "1WGO2xb"
   },
   {
     "name": "OpenCoffeeKraków",
@@ -1699,7 +1708,8 @@
       "Networking"
     ],
     "audience": "Founders, Students",
-    "enriched": true
+    "enriched": true,
+    "tally_id": "Kp64jzz"
   },
   {
     "name": "AI-First Product Teams - od planu do działania",
@@ -1757,7 +1767,8 @@
     "audience": "Founders, Operators",
     "status": "approved",
     "added": "2026-07-20",
-    "enriched": true
+    "enriched": true,
+    "tally_id": "Qox86YY"
   },
   {
     "name": "CreativeTech Poland Meetup_03",
@@ -1796,7 +1807,8 @@
     "organizer": "Pionierzy AI & Personit",
     "price": "Free",
     "status": "approved",
-    "added": "2026-07-16"
+    "added": "2026-07-16",
+    "tally_id": "DqX7GvR"
   },
   {
     "name": "NextGen Founders Meetup Warszawa",
@@ -1817,7 +1829,8 @@
     "submitted": "2026-07-30",
     "time": "18:00",
     "venue": "Warszawa, Polska",
-    "description_pl": "Meetup Superteam w trasie po Polsce, w formacie skupionym na branży startupowej i budowaniu globalnych biznesów. Celem jest przyspieszenie innowacji: łączenie twórców z narzędziami ekosystemu Solany i budowanie społeczności przedsiębiorców z globalnymi ambicjami."
+    "description_pl": "Meetup Superteam w trasie po Polsce, w formacie skupionym na branży startupowej i budowaniu globalnych biznesów. Celem jest przyspieszenie innowacji: łączenie twórców z narzędziami ekosystemu Solany i budowanie społeczności przedsiębiorców z globalnymi ambicjami.",
+    "tally_id": "X51LkqV"
   },
   {
     "name": "KURS PROGRAMOWANIA BLOCKCHAIN: WARSZAWA",
@@ -1837,7 +1850,8 @@
     "submitted": "2026-07-30",
     "time": "10:00",
     "description_pl": "Praktyczny kurs programowania na blockchainie: budujesz działający projekt do portfolio, uczysz się Rusta i podstaw ekosystemu Solany krok po kroku, pracujesz z mentorami i kończysz z dyplomem ukończenia.",
-    "end_date": "2026-08-23"
+    "end_date": "2026-08-23",
+    "tally_id": "RWvx6d4"
   },
   {
     "name": "PARP Future Camp 2026",
@@ -1879,7 +1893,8 @@
     "price": "Free",
     "status": "approved",
     "submitted": "2026-08-18",
-    "added": "2026-08-18"
+    "added": "2026-08-18",
+    "tally_id": "NqRQaRO"
   },
   {
     "name": "HRTT Bifor - Power Yoga dla HR-ów",
@@ -1899,7 +1914,8 @@
     "status": "approved",
     "added": "2026-08-06",
     "submitted": "2026-08-06",
-    "description_pl": "Power Yoga na dachu Planetarium dla osób, które zarządzają ludźmi i projektują kulturę organizacji, a wakacje minęły im, zanim zdążyły odpocząć. 26 sierpnia."
+    "description_pl": "Power Yoga na dachu Planetarium dla osób, które zarządzają ludźmi i projektują kulturę organizacji, a wakacje minęły im, zanim zdążyły odpocząć. 26 sierpnia.",
+    "tally_id": "yXjKB88"
   },
   {
     "name": "NextGen Founders Meetup Krakow",
@@ -1920,7 +1936,8 @@
     "submitted": "2026-07-30",
     "time": "18:00",
     "venue": "Kraków, Województwo małopolskie",
-    "description_pl": "Meetup Superteam w trasie po Polsce, w formacie skupionym na branży startupowej i budowaniu globalnych biznesów. Celem jest przyspieszenie innowacji: łączenie twórców z narzędziami ekosystemu Solany i budowanie społeczności przedsiębiorców z globalnymi ambicjami."
+    "description_pl": "Meetup Superteam w trasie po Polsce, w formacie skupionym na branży startupowej i budowaniu globalnych biznesów. Celem jest przyspieszenie innowacji: łączenie twórców z narzędziami ekosystemu Solany i budowanie społeczności przedsiębiorców z globalnymi ambicjami.",
+    "tally_id": "xV4r1z5"
   },
   {
     "name": "OMGKRK Summer Jam 2026: SIGNAL",
@@ -1940,7 +1957,8 @@
     "description": "Krakow tech and startup community networking evening: talks on AI-native founders, product and growth, plus a Startup Kraków initiative announcement, DJ sets, and the Signal matchmaking tool. Free attendance, registration required.",
     "time": "17:00",
     "city": "Kraków",
-    "venue": "Wesoła Immersive New Media Art Center, Kopernika 17A"
+    "venue": "Wesoła Immersive New Media Art Center, Kopernika 17A",
+    "tally_id": "PRGeNd0"
   },
   {
     "name": "Zabłocie Morning Pitch",
@@ -1958,7 +1976,8 @@
     "description_pl": "Cykliczny networking dla twórców i przedsiębiorców (każdy 2. i 4. czwartek miesiąca, 10:00–12:00). Krótka prezentacja gościa, rundy zapoznawcze, kawa. Nie trzeba zaproszenia.",
     "language": "PL",
     "audience": "Founders",
-    "enriched": true
+    "enriched": true,
+    "tally_id": "q5b5Pqd"
   },
   {
     "name": "Co zasila biznes v. 1",
@@ -1980,7 +1999,8 @@
     "time": "09:00",
     "city": "Bielsko-Biała",
     "venue": "Restauracja BOSCO",
-    "description_pl": "Spotkanie w ramach programu ARIS (Akcelerator Rozwoju Innowacji i Startupów) Fundacji Startup Podbeskidzie: panel dyskusyjny „Co zasila biznes?” z udziałem m.in. Anny Mazurek (CEO Startup Poland), a także śniadanie, kawa i networking. Bezpłatne, wymagana rejestracja."
+    "description_pl": "Spotkanie w ramach programu ARIS (Akcelerator Rozwoju Innowacji i Startupów) Fundacji Startup Podbeskidzie: panel dyskusyjny „Co zasila biznes?” z udziałem m.in. Anny Mazurek (CEO Startup Poland), a także śniadanie, kawa i networking. Bezpłatne, wymagana rejestracja.",
+    "tally_id": "Z9ZKQgy"
   },
   {
     "name": "KURS PROGRAMOWANIA BLOCKCHAIN: KRAKÓW",
@@ -2001,7 +2021,8 @@
     "time": "09:00",
     "venue": "Kraków, Województwo małopolskie",
     "description_pl": "Praktyczny kurs programowania na blockchainie: budujesz działający projekt do portfolio, uczysz się Rusta i podstaw ekosystemu Solany krok po kroku, pracujesz z mentorami i kończysz z dyplomem ukończenia.",
-    "end_date": "2026-08-30"
+    "end_date": "2026-08-30",
+    "tally_id": "Qov1aAp"
   },
   {
     "name": "At Work – Workplace Inspiration Day",
@@ -2033,7 +2054,8 @@
     ],
     "status": "approved",
     "added": "2026-09-02",
-    "submitted": "2026-09-02"
+    "submitted": "2026-09-02",
+    "tally_id": "dbR0KJD"
   },
   {
     "name": "NextGen Founders Meetup Wrocław",
@@ -2054,7 +2076,8 @@
     "submitted": "2026-07-30",
     "time": "18:00",
     "venue": "Wrocław, Polska",
-    "description_pl": "Meetup Superteam w trasie po Polsce, w formacie skupionym na branży startupowej i budowaniu globalnych biznesów. Celem jest przyspieszenie innowacji: łączenie twórców z narzędziami ekosystemu Solany i budowanie społeczności przedsiębiorców z globalnymi ambicjami."
+    "description_pl": "Meetup Superteam w trasie po Polsce, w formacie skupionym na branży startupowej i budowaniu globalnych biznesów. Celem jest przyspieszenie innowacji: łączenie twórców z narzędziami ekosystemu Solany i budowanie społeczności przedsiębiorców z globalnymi ambicjami.",
+    "tally_id": "5X8bD0M"
   },
   {
     "name": "Demo Day Poland Prize @ Concordia Design Wrocław",
@@ -2092,7 +2115,8 @@
     "time": "09:00",
     "venue": "Wrocław, Polska",
     "description_pl": "Praktyczny kurs programowania na blockchainie: budujesz działający projekt do portfolio, uczysz się Rusta i podstaw ekosystemu Solany krok po kroku, pracujesz z mentorami i kończysz z dyplomem ukończenia.",
-    "end_date": "2026-09-06"
+    "end_date": "2026-09-06",
+    "tally_id": "xV4rL99"
   },
   {
     "name": "XXXV Forum Ekonomiczne w Karpaczu",
@@ -2129,7 +2153,8 @@
     "status": "approved",
     "added": "2026-08-06",
     "submitted": "2026-08-06",
-    "description_pl": "SNIP (Startups Networking & Innovations Platform) łączy środowiska startupowe, biznesowe, przemysłowe i technologiczne. Dziewiętnasta edycja odpowiada na pytanie, czy każda firma musi wdrażać AI. Godziny 10:00-13:30."
+    "description_pl": "SNIP (Startups Networking & Innovations Platform) łączy środowiska startupowe, biznesowe, przemysłowe i technologiczne. Dziewiętnasta edycja odpowiada na pytanie, czy każda firma musi wdrażać AI. Godziny 10:00-13:30.",
+    "tally_id": "aOKbWg9"
   },
   {
     "name": "NextGen Founders Meetup Gdansk",
@@ -2149,7 +2174,8 @@
     "added": "2026-07-30",
     "submitted": "2026-07-30",
     "time": "18:00",
-    "description_pl": "Meetup Superteam w trasie po Polsce, w formacie skupionym na branży startupowej i budowaniu globalnych biznesów. Celem jest przyspieszenie innowacji: łączenie twórców z narzędziami ekosystemu Solany i budowanie społeczności przedsiębiorców z globalnymi ambicjami."
+    "description_pl": "Meetup Superteam w trasie po Polsce, w formacie skupionym na branży startupowej i budowaniu globalnych biznesów. Celem jest przyspieszenie innowacji: łączenie twórców z narzędziami ekosystemu Solany i budowanie społeczności przedsiębiorców z globalnymi ambicjami.",
+    "tally_id": "bZKqya0"
   },
   {
     "name": "Startup Community Poznań #50: Szybka walidacja z wykorzystaniem AI",
@@ -2170,7 +2196,8 @@
     "city": "Poznań",
     "description_pl": "Maksymilian Małecki, Tech Lead w Insly W IT od 2007. Prowadzi zespół 15 inżynierów na platformie ubezpieczeniowej dla brokerów w Europie i buduje rozwiązania AI przetwarzające 150 tysięcy PDF-ów miesięcznie, zgodnie z RODO i DORA. Wcześniej NordSecurity, Bitnoi.se, ORO Inc i Arena.pl.",
     "organizer": "Startup Community Poznań",
-    "language": "PL"
+    "language": "PL",
+    "tally_id": "q5NWGDO"
   },
   {
     "name": "Hello Game Dev Conference 2026 (HGDC)",
@@ -2192,7 +2219,8 @@
     "added": "2026-07-20",
     "end_date": "2026-09-13",
     "time": "10:00",
-    "enriched": true
+    "enriched": true,
+    "tally_id": "dbZQLez"
   },
   {
     "name": "KURS PROGRAMOWANIA BLOCKCHAIN: GDAŃSK",
@@ -2213,7 +2241,8 @@
     "time": "12:00",
     "venue": "Gdańsk, Polska",
     "description_pl": "Praktyczny kurs programowania na blockchainie: budujesz działający projekt do portfolio, uczysz się Rusta i podstaw ekosystemu Solany krok po kroku, pracujesz z mentorami i kończysz z dyplomem ukończenia.",
-    "end_date": "2026-09-13"
+    "end_date": "2026-09-13",
+    "tally_id": "GeX6jke"
   },
   {
     "name": "Velo Ventures vol. 6",
@@ -2244,7 +2273,8 @@
     "organizer": "Colosseum",
     "status": "approved",
     "added": "2026-09-30",
-    "submitted": "2026-09-30"
+    "submitted": "2026-09-30",
+    "tally_id": "aOgovjE"
   },
   {
     "name": "Hospital Innovation Summit & Demo Day",
@@ -2266,7 +2296,8 @@
     "venue": "Muzeum Gazowni Warszawskiej, ul. Krzyżanowskiego 7",
     "language": "PL",
     "organizer": "MCSC",
-    "audience": "Founders, Corporate, Investors"
+    "audience": "Founders, Corporate, Investors",
+    "tally_id": "la4O2Jo"
   },
   {
     "name": "Ways Startup Awards",
@@ -2286,7 +2317,8 @@
     "status": "approved",
     "added": "2026-08-06",
     "submitted": "2026-08-06",
-    "description_pl": "Ways Startup Awards to konkurs dla startupów na wczesnym etapie: zgłoszenie przez krótki formularz, a potem kwalifikacja do finału."
+    "description_pl": "Ways Startup Awards to konkurs dla startupów na wczesnym etapie: zgłoszenie przez krótki formularz, a potem kwalifikacja do finału.",
+    "tally_id": "Z9v42B0"
   },
   {
     "name": "HR Tech Talks #5: Mission: PEOPLE - Jak budować organizacje gotowe na ciągłą zmianę?",
@@ -2307,7 +2339,8 @@
     "status": "approved",
     "added": "2026-08-06",
     "submitted": "2026-08-06",
-    "description_pl": "Piąta edycja HR Tech Talks o budowaniu organizacji gotowych na ciągłą zmianę: nowe technologie, sztuczna inteligencja, zmieniające się oczekiwania pracowników i niepewność gospodarcza jako codzienność, a nie projekt."
+    "description_pl": "Piąta edycja HR Tech Talks o budowaniu organizacji gotowych na ciągłą zmianę: nowe technologie, sztuczna inteligencja, zmieniające się oczekiwania pracowników i niepewność gospodarcza jako codzienność, a nie projekt.",
+    "tally_id": "aOKbWDX"
   },
   {
     "name": "Kręgi Eksperckie Startup Founders",
@@ -2349,7 +2382,8 @@
     "organizer": "de:hub Initiative",
     "audience": "Founders, Corporate",
     "language": "EN",
-    "description_pl": "Forum laczy polskich innowatorow, od korporacji po startupy, z niemieckimi hubami innowacji."
+    "description_pl": "Forum laczy polskich innowatorow, od korporacji po startupy, z niemieckimi hubami innowacji.",
+    "tally_id": "EqalOZo"
   },
   {
     "name": "Upgrade Your Business vol. 73 Komunikacja w dobie promptów",
@@ -2372,7 +2406,8 @@
     "description": "The September edition of Upgrade Your Business, part of the BBdays4IT festival: how to stand out in communication now that AI accelerates the production of content, graphics and campaigns.",
     "time": "18:00",
     "city": "Bielsko-Biała",
-    "venue": "Centrum Badawczo-Rozwojowe Rekord SI"
+    "venue": "Centrum Badawczo-Rozwojowe Rekord SI",
+    "tally_id": "YjxvVgz"
   },
   {
     "name": "SpaceBoost powered by Małopolska",
@@ -2390,7 +2425,8 @@
     "audience": "Students, Researchers, Founders",
     "status": "approved",
     "added": "2026-08-06",
-    "submitted": "2026-08-06"
+    "submitted": "2026-08-06",
+    "tally_id": "vXE7PqX"
   },
   {
     "name": "Open Mercato Hackathon - Agentic Software Engineering",
@@ -2430,7 +2466,8 @@
     "time": "12:00",
     "venue": "Online Event",
     "description_pl": "Praktyczny kurs programowania na blockchainie: budujesz działający projekt do portfolio, uczysz się Rusta i podstaw ekosystemu Solany krok po kroku, pracujesz z mentorami i kończysz z dyplomem ukończenia.",
-    "end_date": "2026-09-20"
+    "end_date": "2026-09-20",
+    "tally_id": "PRvpWq5"
   },
   {
     "name": "BLOCKCHAIN HACK KRAKOW",
@@ -2451,7 +2488,8 @@
     "time": "09:00",
     "venue": "Kraków, Województwo małopolskie",
     "description_pl": "Dwa dni, które zmienią Twój pomysł w działający projekt. Weekend intensywnego kodowania na Solanie dla deweloperów, designerów i builderów. Dopracuj pomysł pod okiem mentorów, zaprezentuj przed jury i zgarnij nagrody z puli $3 000.",
-    "end_date": "2026-09-20"
+    "end_date": "2026-09-20",
+    "tally_id": "LDv9Bpl"
   },
   {
     "name": "BLOCKCHAIN HACK KRAKOW",
@@ -2462,7 +2500,8 @@
     "status": "rejected",
     "added": "2026-09-01",
     "submitted": "2026-09-01",
-    "reject_reason": "Duplikat już opublikowanego \"BLOCKCHAIN HACK KRAKOW\" (Superteam Poland, luma.com/BlockchainHackKRK)."
+    "reject_reason": "Duplikat już opublikowanego \"BLOCKCHAIN HACK KRAKOW\" (Superteam Poland, luma.com/BlockchainHackKRK).",
+    "tally_id": "dbz5r4q"
   },
   {
     "name": "Dolnośląscy Liderzy Biznesu!",
@@ -2481,7 +2520,8 @@
     "price": "Free",
     "status": "rejected",
     "submitted": "2026-09-03",
-    "triage_note": "Zgłoszony URL to strona całego cyklu (10 spotkań w 2026), nie pojedyncze wydarzenie. Zaproponowana najbliższa instancja z otwartymi zapisami: Złotoryja 22.09. Pozostałe: Karpacz 9.09 (w ramach Forum Ekonomicznego, bez zapisów), Wołów 20.10, Ząbkowice Śląskie 17.11, Oleśnica 30.11 (zapisy wkrótce). Wybierz instancję (lub kilka) i uzupełnij miejsce przed zatwierdzeniem."
+    "triage_note": "Zgłoszony URL to strona całego cyklu (10 spotkań w 2026), nie pojedyncze wydarzenie. Zaproponowana najbliższa instancja z otwartymi zapisami: Złotoryja 22.09. Pozostałe: Karpacz 9.09 (w ramach Forum Ekonomicznego, bez zapisów), Wołów 20.10, Ząbkowice Śląskie 17.11, Oleśnica 30.11 (zapisy wkrótce). Wybierz instancję (lub kilka) i uzupełnij miejsce przed zatwierdzeniem.",
+    "tally_id": "RWrYxxp"
   },
   {
     "name": "Konferencja Legal Tech",
@@ -2499,7 +2539,8 @@
     "audience": "Corporate",
     "status": "approved",
     "added": "2026-09-21",
-    "submitted": "2026-09-21"
+    "submitted": "2026-09-21",
+    "tally_id": "1W5l4Kl"
   },
   {
     "name": "(untitled submission)",
@@ -2538,7 +2579,8 @@
     "organizer": "Hard2beat",
     "price": "Free",
     "status": "approved",
-    "added": "2026-07-20"
+    "added": "2026-07-20",
+    "tally_id": "5Xl8BBb"
   },
   {
     "name": "#4 Spotkanie networkingowe Kobiet w Creative Tech",
@@ -2598,7 +2640,8 @@
     "price": "Paid",
     "status": "approved",
     "added": "2026-09-21",
-    "submitted": "2026-09-21"
+    "submitted": "2026-09-21",
+    "tally_id": "o9QyeKM"
   },
   {
     "name": "Baltic Summit",
@@ -2620,7 +2663,8 @@
     "submitted": "2026-07-29",
     "description_pl": "Największa w Polsce konferencja o Microsoft Power Platform, AI i aplikacjach biznesowych. Trzy dni praktycznych sesji, warsztatów i rozmów z ekspertami z Polski i zagranicy, dla osób automatyzujących procesy i łączących biznes z technologią.",
     "end_date": "2026-09-26",
-    "venue": "Pomorski Park Naukowo-Technologiczny"
+    "venue": "Pomorski Park Naukowo-Technologiczny",
+    "tally_id": "Nq8KYdb"
   },
   {
     "name": "PITCH & POLISH WARSAW",
@@ -2641,7 +2685,8 @@
     "added": "2026-07-30",
     "submitted": "2026-07-30",
     "time": "18:00",
-    "description_pl": "Pitchujesz swój pomysł na startup na Solanie na żywo i zbierasz szczery feedback od ekspertów z ekosystemu. Nie musisz mieć gotowego produktu ani pełnego zespołu, wystarczy pomysł. Przygotowanie przed Warsaw Demo Day i globalnym hackathonem Colosseum."
+    "description_pl": "Pitchujesz swój pomysł na startup na Solanie na żywo i zbierasz szczery feedback od ekspertów z ekosystemu. Nie musisz mieć gotowego produktu ani pełnego zespołu, wystarczy pomysł. Przygotowanie przed Warsaw Demo Day i globalnym hackathonem Colosseum.",
+    "tally_id": "rDG5Rrv"
   },
   {
     "name": "TEK.day Gdańsk 2026",
@@ -2658,7 +2703,8 @@
     ],
     "status": "approved",
     "added": "2026-09-03",
-    "submitted": "2026-09-03"
+    "submitted": "2026-09-03",
+    "tally_id": "rDqLD1X"
   },
   {
     "name": "BLOCKCHAIN HACK WARSAW",
@@ -2710,7 +2756,8 @@
     "time": "09:00",
     "city": "Warszawa",
     "description_pl": "Pierwsza edycja Accelerator Forum Poland organizowana przez Capgemini. Liderzy biznesu oraz prelegenci z Microsoftu, SAP, Mastercard i BLIK-a rozmawiają o agentic AI, zaufanych fundamentach danych i płatnościach nowej generacji. Na koniec strefa innowacji i networking.",
-    "organizer": "Capgemini Poland"
+    "organizer": "Capgemini Poland",
+    "tally_id": "o9x79ZV"
   },
   {
     "name": "MobiScale Demo Day 2026",
@@ -2854,7 +2901,8 @@
     "submitted": "2026-07-30",
     "time": "18:00",
     "venue": "Online Event",
-    "description_pl": "Pitchujesz swój pomysł na startup na Solanie na żywo i zbierasz szczery feedback od ekspertów z ekosystemu. Nie musisz mieć gotowego produktu ani pełnego zespołu, wystarczy pomysł. Przygotowanie przed Warsaw Demo Day i globalnym hackathonem Colosseum."
+    "description_pl": "Pitchujesz swój pomysł na startup na Solanie na żywo i zbierasz szczery feedback od ekspertów z ekosystemu. Nie musisz mieć gotowego produktu ani pełnego zespołu, wystarczy pomysł. Przygotowanie przed Warsaw Demo Day i globalnym hackathonem Colosseum.",
+    "tally_id": "peRrXZE"
   },
   {
     "name": "AI × Voices #1",
@@ -2897,7 +2945,8 @@
     "status": "approved",
     "added": "2026-09-30",
     "submitted": "2026-09-30",
-    "enriched": true
+    "enriched": true,
+    "tally_id": "aOgoaWy"
   },
   {
     "name": "AI × Voices #1",
@@ -2960,7 +3009,8 @@
     "submitted": "2026-07-30",
     "time": "18:00",
     "venue": "Kraków, Województwo małopolskie",
-    "description_pl": "Pitchujesz swój pomysł na startup na Solanie na żywo i zbierasz szczery feedback od ekspertów z ekosystemu. Nie musisz mieć gotowego produktu ani pełnego zespołu, wystarczy pomysł. Przygotowanie przed Warsaw Demo Day i globalnym hackathonem Colosseum."
+    "description_pl": "Pitchujesz swój pomysł na startup na Solanie na żywo i zbierasz szczery feedback od ekspertów z ekosystemu. Nie musisz mieć gotowego produktu ani pełnego zespołu, wystarczy pomysł. Przygotowanie przed Warsaw Demo Day i globalnym hackathonem Colosseum.",
+    "tally_id": "NqMrvNO"
   },
   {
     "name": "Warsztat Corporate & VC Readiness dla twórców technologii i zespołów B2B",
@@ -2979,7 +3029,8 @@
     "time": "13:00",
     "city": "Poznań",
     "venue": "Poczta Workspace",
-    "language": "PL"
+    "language": "PL",
+    "tally_id": "q5eEpWY"
   },
   {
     "name": "Warsztat Corporate & VC Readiness",
@@ -2989,7 +3040,8 @@
     "status": "rejected",
     "reject_reason": "Duplicate of \"Warsztat Corporate & VC Readiness dla twórców technologii i zespołów B2B\" - forms.gle/NzdbDYy9Mr48oW8h6 resolves (HTTP 302) to the identical Google Form docs.google.com/forms/d/e/1FAIpQLScpH7-68PTryc80rTQqnu2smpw1wp9WCOqeOFaGzyBcjnv-Ng/viewform, same workshop, same date 2026-10-09. Tombstoned 2026-10-02 so the Tally sync stops re-importing it; the other entry stays pending for review.",
     "added": "2026-10-02",
-    "submitted": "2026-10-02"
+    "submitted": "2026-10-02",
+    "tally_id": "zEopDLE"
   },
   {
     "name": "WARSAW DEMO DAY",
@@ -3010,7 +3062,8 @@
     "price": "Free",
     "status": "approved",
     "added": "2026-09-30",
-    "submitted": "2026-09-30"
+    "submitted": "2026-09-30",
+    "tally_id": "J1xYMzR"
   },
   {
     "name": "PitchMeetUp",
@@ -3069,9 +3122,9 @@
     "price": "Partly paid",
     "language": "EN",
     "city": "Online",
-    "venue": "",
     "description_pl": "W pełni zdalna, trzydniowa konferencja dla twórców AI, founderów i inwestorów: ponad 200 sesji w 8 ścieżkach i 47 tematach, warsztaty praktyczne, konkurs pitchów i networking z inwestorami. Darmowa przepustka Explorer obok płatnych poziomów biletów.",
-    "reject_reason": "Poza zakresem: wydarzenie online bez polskiego organizatora ani partnera (sprawdzono: strona konferencji i jej dane schema.org, podstrony About/Terms/Privacy/Partners/Speakers oraz bundle JS aibuildersnetwork.org - zero wzmianki o Polsce; komunikat prasowy z 15.07.2026; wyszukiwanie organizatora razem z Polską. Organizatorzy: AI Builders Network, Chief in AI Global, Women AI Builders i WomenTech Network, wszystkie globalne. „AI Builders Network” to nie warszawska społeczność „AI Builders”.)"
+    "reject_reason": "Poza zakresem: wydarzenie online bez polskiego organizatora ani partnera (sprawdzono: strona konferencji i jej dane schema.org, podstrony About/Terms/Privacy/Partners/Speakers oraz bundle JS aibuildersnetwork.org - zero wzmianki o Polsce; komunikat prasowy z 15.07.2026; wyszukiwanie organizatora razem z Polską. Organizatorzy: AI Builders Network, Chief in AI Global, Women AI Builders i WomenTech Network, wszystkie globalne. „AI Builders Network” to nie warszawska społeczność „AI Builders”.)",
+    "tally_id": "YjXPDlq"
   },
   {
     "name": "Kiedy i jak szukać inwestora? Warsztaty PPNT i Pomerangels Tech Ventures",
@@ -3090,7 +3143,8 @@
     "organizer": "Poznański Park Naukowo-Technologiczny oraz Pomerangels Tech Ventures",
     "status": "approved",
     "added": "2026-10-02",
-    "submitted": "2026-10-02"
+    "submitted": "2026-10-02",
+    "tally_id": "db15RGV"
   },
   {
     "name": "AI Tinkerers Poland - Meetup in Warsaw (15th October 2026)",
@@ -3149,7 +3203,8 @@
     "status": "approved",
     "added": "2026-07-16",
     "time": "09:00",
-    "enriched": true
+    "enriched": true,
+    "tally_id": "Z9GozeV"
   },
   {
     "name": "AIBA Conference 2026",
@@ -3168,7 +3223,8 @@
     "price": "Paid",
     "status": "approved",
     "added": "2026-07-24",
-    "end_date": "2026-10-22"
+    "end_date": "2026-10-22",
+    "tally_id": "Kp8xG0D"
   },
   {
     "name": "AIBA 2026",
@@ -3187,7 +3243,8 @@
     "audience": "General public, Corporate, Investors, Operators, Developers, Founders, Researchers, Students",
     "status": "rejected",
     "added": "2026-08-06",
-    "submitted": "2026-08-06"
+    "submitted": "2026-08-06",
+    "tally_id": "je5dKd4"
   },
   {
     "name": "Space Arena",
@@ -3206,7 +3263,8 @@
     "organizer": "Krakowski Park Technologiczny",
     "status": "approved",
     "added": "2026-09-21",
-    "submitted": "2026-09-21"
+    "submitted": "2026-09-21",
+    "tally_id": "4ad2K45"
   },
   {
     "name": "Europejski Kongres Przedsiębiorców",
@@ -3227,7 +3285,8 @@
     "submitted": "2026-09-04",
     "venue": "Terminal Hotel",
     "organizer": "Lekcje Warte Miliony",
-    "description": "Two-day congress for entrepreneurs at Terminal Hotel in Wroclaw, with 15+ practitioners on growing a company through skills and technology. Includes Startup Friday, an evening gala and networking."
+    "description": "Two-day congress for entrepreneurs at Terminal Hotel in Wroclaw, with 15+ practitioners on growing a company through skills and technology. Includes Startup Friday, an evening gala and networking.",
+    "tally_id": "J1BWY7R"
   },
   {
     "name": "Deep Tech Summit 2026",
@@ -3249,7 +3308,8 @@
     "price": "Paid",
     "status": "approved",
     "added": "2026-10-05",
-    "submitted": "2026-10-05"
+    "submitted": "2026-10-05",
+    "tally_id": "X5vMa84"
   },
   {
     "name": "Made in Wroclaw 2026",
@@ -3287,7 +3347,8 @@
     "organizer": "IRCORNER",
     "price": "Paid",
     "status": "approved",
-    "added": "2026-07-20"
+    "added": "2026-07-20",
+    "tally_id": "9N6pqj5"
   },
   {
     "name": "The Hack Summit",
@@ -3308,7 +3369,8 @@
     "price": "Partly paid",
     "status": "approved",
     "added": "2026-09-21",
-    "submitted": "2026-09-21"
+    "submitted": "2026-09-21",
+    "tally_id": "WJdNDVQ"
   },
   {
     "name": "Poland 2.0 Summit",
@@ -3329,7 +3391,8 @@
     "price": "Paid",
     "status": "approved",
     "added": "2026-09-15",
-    "submitted": "2026-09-15"
+    "submitted": "2026-09-15",
+    "tally_id": "rDpLjQo"
   },
   {
     "name": "ER Champ conference & expo",
@@ -3353,7 +3416,8 @@
     "added": "2026-10-07",
     "submitted": "2026-10-07",
     "enriched": true,
-    "triage_note": "Wstrzymane do decyzji redakcyjnej: konferencja i targi B2B branży escape roomów (właściciele, twórcy, dostawcy), a nie wydarzenie tech/startup/science ani forum gospodarcze, więc dopasowanie do profilu strony jest decyzją Ani/Pauliny, nie automatu. Pozostałe kryteria spełnione. Weryfikacja 11.10.2026: strona nadal podaje „12-13.11.2026 WROCŁAW”, wydarzenie przyszłe, otwarte, URL działa, brak duplikatu. Miejsce (Concordia Design) z newsa „Where to stay” (07.10). Cena: fetch_url_meta czyta „5000 ZŁ”, ale to kapitał zakładowy Lockme sp. z o.o. ze stopki polityki prywatności, nie cena biletu - zostaje samo „Paid” (jest przycisk Buy Tickets)."
+    "triage_note": "Wstrzymane do decyzji redakcyjnej: konferencja i targi B2B branży escape roomów (właściciele, twórcy, dostawcy), a nie wydarzenie tech/startup/science ani forum gospodarcze, więc dopasowanie do profilu strony jest decyzją Ani/Pauliny, nie automatu. Pozostałe kryteria spełnione. Weryfikacja 11.10.2026: strona nadal podaje „12-13.11.2026 WROCŁAW”, wydarzenie przyszłe, otwarte, URL działa, brak duplikatu. Miejsce (Concordia Design) z newsa „Where to stay” (07.10). Cena: fetch_url_meta czyta „5000 ZŁ”, ale to kapitał zakładowy Lockme sp. z o.o. ze stopki polityki prywatności, nie cena biletu - zostaje samo „Paid” (jest przycisk Buy Tickets).",
+    "tally_id": "e5jlXRQ"
   },
   {
     "name": "Infoshare Katowice",
@@ -3376,7 +3440,8 @@
     "end_date": "2026-11-18",
     "time": "09:00",
     "venue": "MCK Katowice",
-    "enriched": true
+    "enriched": true,
+    "tally_id": "2j1oeWp"
   },
   {
     "name": "TEEMA Technology Park Industry Day",
@@ -3395,7 +3460,8 @@
     "added": "2026-09-03",
     "submitted": "2026-09-03",
     "description": "TEEMA 科學園區產業日 波蘭展 在全球地緣政治風險升溫與供應鏈加速重組之際，企業積極布局更具韌性的國際市場，並強化區域製造布局，以分散營運風險並深化產業鏈結。 電電公會推動「TEEMA Technology",
-    "enriched": true
+    "enriched": true,
+    "tally_id": "yX7vPqW"
   },
   {
     "name": "(untitled submission)",
@@ -3463,7 +3529,8 @@
     "price": "Paid",
     "status": "approved",
     "added": "2026-09-21",
-    "submitted": "2026-09-21"
+    "submitted": "2026-09-21",
+    "tally_id": "Kpy65bM"
   },
   {
     "name": "CASSINI Hackathon",
@@ -3500,7 +3567,8 @@
     "price": "Paid",
     "status": "approved",
     "added": "2026-07-28",
-    "submitted": "2026-05-20"
+    "submitted": "2026-05-20",
+    "tally_id": "aO64ka9"
   },
   {
     "name": "Infoshare",
@@ -3520,7 +3588,8 @@
     "submitted": "2026-08-03",
     "description_pl": "Dwadzieścia lat Infoshare, największego wydarzenia technologicznego w Europie Środkowo-Wschodniej: trendy w AI, R&D i skalowaniu biznesu. 19-20 maja 2027 w AmberExpo w Gdańsku.",
     "end_date": "2027-05-20",
-    "venue": "AmberExpo, Gdańsk"
+    "venue": "AmberExpo, Gdańsk",
+    "tally_id": "5X8VzVN"
   },
   {
     "name": "Carpathian Startup Fest",
@@ -3541,7 +3610,8 @@
     "badge": "recommended",
     "status": "approved",
     "added": "2026-09-21",
-    "submitted": "2026-09-21"
+    "submitted": "2026-09-21",
+    "tally_id": "RWlzLXj"
   },
   {
     "name": "AIntern 2026",
@@ -3554,7 +3624,8 @@
     "enriched": true,
     "description": "AIntern 2026",
     "price": "Free",
-    "language": "EN"
+    "language": "EN",
+    "tally_id": "0Vx6zkQ"
   },
   {
     "name": "The AI Collective Poland",
@@ -3566,7 +3637,8 @@
     "reject_reason": "Chapter landing page, not a single dated event",
     "enriched": true,
     "description": "Join The AI Collective's Poland chapter. Connect with local AI enthusiasts, attend events, and be part of a community driving beneficial AI progress in Poland.",
-    "language": "EN"
+    "language": "EN",
+    "tally_id": "M1b24eX"
   },
   {
     "name": "Serial networkers Business Mixer - Konferencje w Katowicach, 16.07.2026",
@@ -3593,7 +3665,8 @@
     "added": "2026-07-20",
     "enriched": true,
     "description": "PEW arrives in Wrocław –a city where history and future meet, and where the energy of its residents drives every street, square, and public space.",
-    "language": "EN"
+    "language": "EN",
+    "tally_id": "pe0Rx7V"
   },
   {
     "name": "The Moat",
@@ -3609,7 +3682,8 @@
       "Networking"
     ],
     "audience": "Investors",
-    "language": "EN"
+    "language": "EN",
+    "tally_id": "xV0859o"
   },
   {
     "name": " XXXIV Forum Ekonomiczne Karpacz",
@@ -3625,7 +3699,8 @@
       "Conference",
       "Meetup"
     ],
-    "language": "PL"
+    "language": "PL",
+    "tally_id": "Z9GP4De"
   },
   {
     "name": "(untitled submission)",
@@ -3645,7 +3720,8 @@
     "tags": [
       "Conference"
     ],
-    "language": "PL"
+    "language": "PL",
+    "tally_id": "4a1A4zB"
   },
   {
     "name": "Kongres MŚP",
@@ -3654,7 +3730,8 @@
     "reject_reason": "Duplicate of existing entry 'Kongres MŚP 2026 (II edycja)' (approved in events.json); Tally reconcile resurfaced it. Auto-tombstoned 2026-07-27.",
     "added": "2026-07-27",
     "organizer": "DFR",
-    "enriched": true
+    "enriched": true,
+    "tally_id": "Ar6A7xD"
   },
   {
     "name": "At Work",
@@ -3665,7 +3742,8 @@
     "organizer": "Zonifero",
     "enriched": true,
     "description_pl": "Wyjątkowa inicjatywa, której celem jest stworzenie przestrzeni do nieformalnych, ale merytorycznych dyskusji na temat kluczowych zagadnień związanych z nowoczesnym miejscem pracy",
-    "language": "PL"
+    "language": "PL",
+    "tally_id": "OQj8pLA"
   },
   {
     "name": "Spotkanie Przedsiębiorców SLOW #40 - Od lokalej firmy do globalnej marki",
@@ -3681,7 +3759,8 @@
       "Conference",
       "Meetup"
     ],
-    "audience": "Founders, Corporate"
+    "audience": "Founders, Corporate",
+    "tally_id": "GeoY2ZO"
   },
   {
     "name": "Quantum Machine Learning Conference",
@@ -3689,7 +3768,8 @@
     "status": "rejected",
     "reject_reason": "Duplicate of existing entry 'Quantum Machine Learning Conference 2026' (approved in events.json); Tally reconcile resurfaced it. Auto-tombstoned 2026-07-27.",
     "added": "2026-07-27",
-    "organizer": "Fundacja Quantum AI"
+    "organizer": "Fundacja Quantum AI",
+    "tally_id": "1WER21W"
   },
   {
     "name": "The Founder’s Story Kraków",
@@ -3697,7 +3777,8 @@
     "status": "rejected",
     "reject_reason": "Duplicate of existing entry 'The Founder's Story Kraków' (approved in events.json); Tally reconcile resurfaced it. Auto-tombstoned 2026-07-27.",
     "added": "2026-07-27",
-    "organizer": "OMGKRK"
+    "organizer": "OMGKRK",
+    "tally_id": "xVQOMkG"
   },
   {
     "name": "Demo Day",
@@ -3705,7 +3786,8 @@
     "status": "rejected",
     "reject_reason": "Duplicate of existing entry 'Demo Day — KRK InnoTech Starter & Hub Innowacji Małopolska' (approved in events.json); Tally reconcile resurfaced it. Auto-tombstoned 2026-07-27.",
     "added": "2026-07-27",
-    "organizer": "Fundacja Kraków Miastem Startupów"
+    "organizer": "Fundacja Kraków Miastem Startupów",
+    "tally_id": "YjZjrad"
   },
   {
     "name": "Kraków Enterprise Mondays",
@@ -3713,7 +3795,8 @@
     "status": "rejected",
     "reject_reason": "Duplicate of existing entry 'Kraków Enterprise Mondays #41' (approved in events.json); Tally reconcile resurfaced it. Auto-tombstoned 2026-07-27.",
     "added": "2026-07-27",
-    "organizer": "Fundacja Kraków Miastem Startupów"
+    "organizer": "Fundacja Kraków Miastem Startupów",
+    "tally_id": "EqXGGAL"
   },
   {
     "name": "Spotkanie networkingowe Kobiet w Creative Tech",
@@ -3721,7 +3804,8 @@
     "status": "rejected",
     "reject_reason": "Duplicate of existing entry '#3 Spotkanie networkingowe Kobiet w Creative Tech' (approved in events.json); Tally reconcile resurfaced it. Auto-tombstoned 2026-07-27.",
     "added": "2026-07-27",
-    "organizer": "CreativeTech Poland"
+    "organizer": "CreativeTech Poland",
+    "tally_id": "4a88PP5"
   },
   {
     "name": "(untitled submission)",
@@ -3792,7 +3876,8 @@
     "language": "PL",
     "description": "Become a Digital Expert: free online Microsoft Azure training for women. Daytime, evening or weekend tracks. Earn a certificate.",
     "city": "Online",
-    "triage_note": "Held: ongoing multi-cohort training program (no single event date, online only), not one dated event. Verify a concrete cohort start date on the 'Grupy/Terminy' page before approving; borderline scope (digital-skills course, not a startup/tech event)."
+    "triage_note": "Held: ongoing multi-cohort training program (no single event date, online only), not one dated event. Verify a concrete cohort start date on the 'Grupy/Terminy' page before approving; borderline scope (digital-skills course, not a startup/tech event).",
+    "tally_id": "Kpa9OBK"
   },
   {
     "name": "Kongres Nowej Mobilności",
@@ -3819,6 +3904,7 @@
     "status": "rejected",
     "reject_reason": "Duplicate of \"MobiScale Demo Day 2026\" - same URL and same Tally submission (29.09.2026, Instytut Wzornictwa, Warszawa), already published.",
     "added": "2026-09-30",
-    "submitted": "2026-09-17"
+    "submitted": "2026-09-17",
+    "tally_id": "8NWVbVz"
   }
 ]
