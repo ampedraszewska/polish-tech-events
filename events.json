@@ -4065,13 +4065,13 @@
       "Networking"
     ],
     "audience": "Founders, Operators, Corporate",
-    "organizer": "ER Champ",
+    "organizer": "Lockme (ER Champ)",
     "price": "Paid",
     "status": "pending",
     "added": "2026-10-07",
     "submitted": "2026-10-07",
     "enriched": true,
-    "triage_note": "Wstrzymane do decyzji redakcyjnej: konferencja i targi B2B branży escape roomów (właściciele, twórcy, dostawcy), a nie wydarzenie tech/startup/science ani forum gospodarcze, więc dopasowanie do profilu strony jest decyzją Ani/Pauliny, nie automatu. Pozostałe kryteria spełnione. Weryfikacja 11.10.2026: strona nadal podaje „12-13.11.2026 WROCŁAW”, wydarzenie przyszłe, otwarte, URL działa, brak duplikatu. Miejsce (Concordia Design) z newsa „Where to stay” (07.10). Cena: fetch_url_meta czyta „5000 ZŁ”, ale to kapitał zakładowy Lockme sp. z o.o. ze stopki polityki prywatności, nie cena biletu - zostaje samo „Paid” (jest przycisk Buy Tickets).",
+    "triage_note": "Wstrzymane do decyzji redakcyjnej: konferencja i targi B2B branży escape roomów (właściciele, twórcy, dostawcy), a nie wydarzenie tech/startup/science ani forum gospodarcze, więc dopasowanie do profilu strony jest decyzją Ani/Pauliny, nie automatu. Pozostałe kryteria spełnione. Weryfikacja 13.10.2026: strona konferencji nadal podaje „12-13.11.2026 WROCŁAW”, strona główna potwierdza miejsce (Concordia Design; finał mistrzostw 14.11 w Zamku Leśnica), wydarzenie przyszłe, otwarte, URL działa (HTTP 200), brak duplikatu. Organizator wg sekcji „Organizer” na stronie: Lockme sp. z o.o. Cena: fetch_url_meta czyta „5000 ZŁ”, ale to kapitał zakładowy Lockme sp. z o.o. ze stopki polityki prywatności, nie cena biletu - zostaje samo „Paid” (jest przycisk Buy Tickets).",
     "tally_id": "e5jlXRQ"
   },
   {
