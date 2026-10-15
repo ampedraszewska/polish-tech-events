@@ -3883,6 +3883,28 @@
     "added": "2026-10-12"
   },
   {
+    "name": "From Lab to Market: how investors & accelerators evaluate projects",
+    "date": "2026-10-29",
+    "time": "13:00",
+    "city": "Warszawa",
+    "venue": "Forum MedTech (AstraZeneca), ul. Postępu 14",
+    "url": "https://fromlabtomarket.webeam.io/",
+    "description": "Half-day Investment & Startup meetup on how investors, tech transfer offices and accelerators decide whether a biotech or healthcare project is ready for capital: a lightning panel, five World Cafe roundtables and networking. Free to attend, limited seats, registration required.",
+    "description_pl": "Półdniowy meetup inwestycyjno-startupowy o tym, jak inwestorzy, centra transferu technologii i akceleratory oceniają, czy projekt biotech albo healthcare jest gotowy na kapitał: panel, pięć stolików w formacie World Cafe i networking. Wstęp bezpłatny, liczba miejsc ograniczona, wymagana rejestracja.",
+    "language": "EN",
+    "tags": [
+      "Meetup",
+      "Networking"
+    ],
+    "audience": "Founders, Investors, Researchers, Operators, Corporate",
+    "organizer": "WeBeam",
+    "price": "Free",
+    "status": "approved",
+    "added": "2026-10-15",
+    "submitted": "2026-10-14",
+    "tally_id": "J1bb49z"
+  },
+  {
     "name": "Founders vs Investors",
     "date": "2026-10-30",
     "time": "10:30",
@@ -4165,6 +4187,28 @@
     "added": "2026-09-21",
     "submitted": "2026-09-21",
     "tally_id": "Kpy65bM"
+  },
+  {
+    "name": "Life Science Open Space 2026",
+    "date": "2026-11-26",
+    "end_date": "2026-11-27",
+    "city": "Kraków",
+    "venue": "Manggha Museum of Japanese Art and Technology",
+    "url": "https://lsos.info/",
+    "description": "Two-day life science forum in Krakow connecting researchers, clinicians, startup founders, industry and investors from Central and Eastern Europe. Six sessions lead from health challenges through translation and business development to a startup and investor scene. Free, registration required.",
+    "description_pl": "Dwudniowe forum life science w Krakowie, które łączy naukowców, klinicystów, founderów startupów, przemysł i inwestorów z Europy Środkowo-Wschodniej. Sześć sesji prowadzi od wyzwań zdrowotnych przez komercjalizację do sceny startupowej i inwestorskiej. Wstęp bezpłatny, wymagana rejestracja.",
+    "language": "EN",
+    "tags": [
+      "Conference",
+      "Networking"
+    ],
+    "audience": "Researchers, Founders, Investors, Corporate",
+    "organizer": "Fundacja Klaster LifeScience Kraków",
+    "price": "Free",
+    "status": "approved",
+    "added": "2026-10-15",
+    "submitted": "2026-10-15",
+    "tally_id": "QopGBXY"
   },
   {
     "name": "CASSINI Hackathon",
@@ -4540,43 +4584,5 @@
     "added": "2026-09-30",
     "submitted": "2026-09-17",
     "tally_id": "8NWVbVz"
-  },
-  {
-    "name": "From Lab to Market: how investors & accelerators evaluate projects",
-    "date": "",
-    "status": "pending",
-    "added": "2026-10-14",
-    "submitted": "2026-10-14",
-    "url": "https://fromlabtomarket.webeam.io/",
-    "organizer": "WeBeam + Forum MedTech Astra Zeneca",
-    "price": "Paid",
-    "tags": [
-      "Meetup",
-      "Networking",
-      "Conference"
-    ],
-    "audience": "Founders, Operators, Investors, Students, Researchers, Corporate",
-    "enriched": true,
-    "description": "⚠ Date not provided in submission — please complete before approving. From Lab to Market: how to evaluate biotech and healthcare projects. Investment & Startup meetup, 29.10.2026 at Forum AstraZeneca, Warsaw.",
-    "language": "EN",
-    "tally_id": "J1bb49z"
-  },
-  {
-    "name": "Life Science Open Space",
-    "date": "",
-    "status": "pending",
-    "added": "2026-10-15",
-    "submitted": "2026-10-15",
-    "url": "https://lsos.info/",
-    "price": "Paid",
-    "tags": [
-      "Conference",
-      "Networking"
-    ],
-    "audience": "Researchers, Corporate, Founders, Investors",
-    "enriched": true,
-    "description": "⚠ Date not provided in submission — please complete before approving. Innovations do not emerge in isolation - they happen through collaboration across science, business, healthcare, investment and policy.",
-    "language": "EN",
-    "tally_id": "QopGBXY"
   }
 ]
