@@ -4560,5 +4560,23 @@
     "description": "⚠ Date not provided in submission — please complete before approving. From Lab to Market: how to evaluate biotech and healthcare projects. Investment & Startup meetup, 29.10.2026 at Forum AstraZeneca, Warsaw.",
     "language": "EN",
     "tally_id": "J1bb49z"
+  },
+  {
+    "name": "Life Science Open Space",
+    "date": "",
+    "status": "pending",
+    "added": "2026-10-15",
+    "submitted": "2026-10-15",
+    "url": "https://lsos.info/",
+    "price": "Paid",
+    "tags": [
+      "Conference",
+      "Networking"
+    ],
+    "audience": "Researchers, Corporate, Founders, Investors",
+    "enriched": true,
+    "description": "⚠ Date not provided in submission — please complete before approving. Innovations do not emerge in isolation - they happen through collaboration across science, business, healthcare, investment and policy.",
+    "language": "EN",
+    "tally_id": "QopGBXY"
   }
 ]
