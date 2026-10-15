@@ -4007,6 +4007,28 @@
     "tally_id": "9N6pqj5"
   },
   {
+    "name": "Founders Connect 7 | Vertical x AI: jak zbudować i wykorzystać przewagę domenową",
+    "date": "2026-11-04",
+    "time": "17:00",
+    "city": "Warszawa",
+    "venue": "Centralny Dom Technologii, Krucza 50",
+    "url": "https://luma.com/s6pfu6vf",
+    "description": "Seventh edition of Founders Connect: fireside chats and a panel on building domain advantage in vertical AI startups, with Adam Janczewski (Jutro Medical) and Lech Kaniuk (Kepta), plus networking and 1:1 meetings with Tar Heel Capital Pathfinder investors. Registration subject to host approval.",
+    "description_pl": "Siódma edycja Founders Connect: fireside chaty i panel o budowaniu przewagi domenowej w startupach wertykalnych w erze AI, z Adamem Janczewskim (Jutro Medical) i Lechem Kaniukiem (Kepta), plus networking i spotkania 1:1 z inwestorami Tar Heel Capital Pathfinder. Rejestrację zatwierdza organizator.",
+    "language": "PL",
+    "tags": [
+      "Conference",
+      "Networking"
+    ],
+    "audience": "Founders",
+    "organizer": "Tar Heel Capital Pathfinder",
+    "price": "Free",
+    "status": "approved",
+    "added": "2026-10-15",
+    "submitted": "2026-10-15",
+    "tally_id": "WJXyyJR"
+  },
+  {
     "name": "The Hack Summit",
     "date": "2026-11-05",
     "end_date": "2026-11-06",
@@ -4584,26 +4606,5 @@
     "added": "2026-09-30",
     "submitted": "2026-09-17",
     "tally_id": "8NWVbVz"
-  },
-  {
-    "name": "Founders Connect 7 | Vertical x AI: jak zbudować i wykorzystać przewagę domenową",
-    "date": "2026-11-04",
-    "status": "pending",
-    "added": "2026-10-15",
-    "submitted": "2026-10-15",
-    "url": "https://www.foundersconnect.pl",
-    "organizer": "Tar Heel Capital Pathfinder",
-    "price": "Paid",
-    "tags": [
-      "Conference",
-      "Networking"
-    ],
-    "audience": "Founders",
-    "tally_id": "WJXyyJR",
-    "time": "17:00",
-    "venue": "Centralny Dom Technologii",
-    "city": "Warszawa",
-    "description_pl": "Vertical x AI: jak zbudować i wykorzystać przewagę domenową AI wyrównało zasady gry. Każdy startup ma dziś dostęp do tych samych modeli, tych samych narzędzi, tej samej infrastruktury. Jeśli technologia nie jest wyróżnikiem, to co nim jest? Podczas siódmej edycji Founders Connect porozmawiamy m.in.",
-    "enriched": true
   }
 ]
