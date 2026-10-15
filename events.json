@@ -4587,19 +4587,23 @@
   },
   {
     "name": "Founders Connect 7 | Vertical x AI: jak zbudować i wykorzystać przewagę domenową",
-    "date": "",
+    "date": "2026-11-04",
     "status": "pending",
     "added": "2026-10-15",
     "submitted": "2026-10-15",
     "url": "https://www.foundersconnect.pl",
     "organizer": "Tar Heel Capital Pathfinder",
-    "description": "⚠ Date not provided in submission — please complete before approving.",
     "price": "Paid",
     "tags": [
       "Conference",
       "Networking"
     ],
     "audience": "Founders",
-    "tally_id": "WJXyyJR"
+    "tally_id": "WJXyyJR",
+    "time": "17:00",
+    "venue": "Centralny Dom Technologii",
+    "city": "Warszawa",
+    "description_pl": "Vertical x AI: jak zbudować i wykorzystać przewagę domenową AI wyrównało zasady gry. Każdy startup ma dziś dostęp do tych samych modeli, tych samych narzędzi, tej samej infrastruktury. Jeśli technologia nie jest wyróżnikiem, to co nim jest? Podczas siódmej edycji Founders Connect porozmawiamy m.in.",
+    "enriched": true
   }
 ]
