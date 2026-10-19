@@ -3267,6 +3267,26 @@
     "tally_id": "4ad2K45"
   },
   {
+    "name": "Jak w 30 dni zabezpieczyć dostęp uprzywilejowany i spać spokojnie?",
+    "date": "2026-10-22",
+    "time": "10:30",
+    "city": "Online",
+    "venue": "Online (webinar)",
+    "url": "https://safesqr.com/webinary/jak-w-30-dni-zabezpieczyc-dostep-uprzywilejowany-i-spac-spokojnie/",
+    "description": "A free Safesqr and Fudo Security webinar on privileged access control ahead of the new UKSC/NIS2 duties: recording and cutting off admin and third-party vendor sessions with Fudo PAM, auto-generating auditor reports, and a 30-day deployment case study.",
+    "description_pl": "Bezpłatny webinar Safesqr i Fudo Security o kontroli dostępu uprzywilejowanego przed nowymi obowiązkami UKSC/NIS2: nagrywanie i przerywanie sesji administratorów oraz firm zewnętrznych na Fudo PAM, automatyczne raporty dla audytora i case study wdrożenia w 30 dni.",
+    "language": "PL",
+    "tags": [
+      "Meetup"
+    ],
+    "audience": "Developers, Operators, Corporate",
+    "organizer": "Safesqr",
+    "price": "Free",
+    "status": "approved",
+    "added": "2026-10-16",
+    "tally_id": "aO15kM9"
+  },
+  {
     "name": "Europejski Kongres Przedsiębiorców",
     "date": "2026-10-23",
     "city": "Wrocław",
@@ -3554,6 +3574,25 @@
     "status": "approved",
     "source": "luma-polandtechweek",
     "added": "2026-10-12"
+  },
+  {
+    "name": "CrowdStrike Falcon w praktyce: pełna ochrona stacji i tożsamości przy ograniczonym zaangażowaniu IT",
+    "date": "2026-10-27",
+    "time": "10:00",
+    "city": "Online",
+    "venue": "Online (webinar)",
+    "url": "https://safesqr.com/webinary/crowdstrike-falcon-w-praktyce-pelna-ochrona-stacji-i-tozsamosci-przy-ograniczonym-zaangazowaniu-it/",
+    "description": "A Safesqr and iIT Distribution webinar on automating incident response with CrowdStrike Falcon: a live multi-stage attack demo using MITRE ATT&CK techniques, Falcon EDR analysis with Charlotte AI, automatic device isolation via Falcon Fusion SOAR, and UKSC/NIS2 reporting.",
+    "description_pl": "Webinar Safesqr i iIT Distribution o automatyzacji reakcji na incydenty z CrowdStrike Falcon: symulacja wieloetapowego ataku na żywo (techniki MITRE ATT&CK), analiza w Falcon EDR ze wsparciem Charlotte AI, automatyczna izolacja urządzenia przez Falcon Fusion SOAR i zgłoszenia UKSC/NIS2.",
+    "language": "PL",
+    "tags": [
+      "Meetup"
+    ],
+    "audience": "Developers, Operators, Corporate",
+    "organizer": "Safesqr",
+    "status": "approved",
+    "added": "2026-10-16",
+    "tally_id": "Yjb0eqW"
   },
   {
     "name": "Run & Raise Vol. 2: PROfounders PTW Run + Breakfast",
@@ -4608,55 +4647,13 @@
     "tally_id": "8NWVbVz"
   },
   {
-    "name": "CrowdStrike Falcon w praktyce: pełna ochrona stacji i tożsamości przy ograniczonym zaangażowaniu IT",
-    "date": "",
-    "status": "pending",
-    "added": "2026-10-16",
-    "submitted": "2026-10-16",
-    "url": "https://safesqr.com/webinary/crowdstrike-falcon-w-praktyce-pelna-ochrona-stacji-i-tozsamosci-przy-ograniczonym-zaangazowaniu-it/",
-    "organizer": "Safesqr.",
-    "price": "Paid",
-    "tags": [
-      "Meetup"
-    ],
-    "enriched": true,
-    "description_pl": "Zapraszamy na webinar dot. ochrony stacji i tożsamości, organizowany przez Safesqr we współpracy z iIT Distrubution: 27 października, godz. 10:00",
-    "language": "PL",
-    "description": "⚠ Date not provided in submission — please complete before approving.",
-    "tally_id": "Yjb0eqW"
-  },
-  {
-    "name": "Jak w 30 dni zabezpieczyć dostęp uprzywilejowany i spać spokojnie?",
-    "date": "",
-    "status": "pending",
-    "added": "2026-10-16",
-    "submitted": "2026-10-16",
-    "url": "https://safesqr.com/webinary/jak-w-30-dni-zabezpieczyc-dostep-uprzywilejowany-i-spac-spokojnie/",
-    "organizer": "Safesqr.",
-    "price": "Paid",
-    "tags": [
-      "Meetup"
-    ],
-    "enriched": true,
-    "description_pl": "Zapraszamy na bezpłatny webinar dot. zabezpieczania dostępu uprzywilejowanego organizowany przez Safesqr we współpracy z Fudo Security: 22 października, godz. 10:30",
-    "language": "PL",
-    "description": "⚠ Date not provided in submission — please complete before approving.",
-    "tally_id": "aO15kM9"
-  },
-  {
     "name": "Founders Connect 7 | Vertical x AI: jak zbudować i wykorzystać przewagę domenową",
-    "date": "",
-    "status": "pending",
-    "added": "2026-10-18",
-    "submitted": "2026-10-18",
     "url": "https://www.foundersconnect.pl",
     "organizer": "Tar Heel Capital Pathfinder",
-    "description": "⚠ Date not provided in submission — please complete before approving.",
-    "price": "Paid",
-    "tags": [
-      "Conference"
-    ],
-    "audience": "Founders",
+    "status": "rejected",
+    "reject_reason": "Duplikat istniejącego wpisu: \"Founders Connect 7 | Vertical x AI: jak zbudować i wykorzystać przewagę domenową\" (04.11.2026, Warszawa, https://luma.com/s6pfu6vf) jest już opublikowany jako approved. To zgłoszenie podaje stronę serii (foundersconnect.pl), która przekierowuje na tę samą edycję.",
+    "added": "2026-10-18",
+    "submitted": "2026-10-18",
     "tally_id": "LDjEVoz"
   }
 ]
