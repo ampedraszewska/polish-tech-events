@@ -4291,6 +4291,29 @@
     "submitted": "2026-03-09"
   },
   {
+    "name": "CAMentrepreneurs Poland",
+    "date": "2027-02-18",
+    "status": "approved",
+    "added": "2026-10-20",
+    "submitted": "2026-10-20",
+    "url": "https://luma.com/qf9zhd8w",
+    "organizer": "CAMentrepreneurs",
+    "price": "Free",
+    "tags": [
+      "Meetup",
+      "Networking"
+    ],
+    "audience": "Founders, Investors",
+    "tally_id": "1WYyQkb",
+    "description": "Launch of CAMentrepreneurs Poland, the Cambridge alumni entrepreneurship network, in Warsaw: 1-minute intros, keynotes by founders Guy Pinsent (Less Mess) and John Lynch (Lynka), then curated networking. Open to entrepreneurs and investors; free, registration via Luma.",
+    "enriched": true,
+    "time": "18:00",
+    "city": "Warszawa",
+    "venue": "",
+    "description_pl": "Inauguracja CAMentrepreneurs Poland, sieci przedsiębiorczości absolwentów Cambridge, w Warszawie: jednominutowe przedstawienia, wystąpienia założycieli Guya Pinsenta (Less Mess) i Johna Lyncha (Lynka) oraz moderowany networking. Wstęp wolny, zapisy przez Lumę.",
+    "language": "EN"
+  },
+  {
     "name": "Unicorn Ski Cup 2027",
     "date": "2027-02-27",
     "city": "Podhale",
@@ -4308,6 +4331,29 @@
     "added": "2026-07-28",
     "submitted": "2026-05-20",
     "tally_id": "aO64ka9"
+  },
+  {
+    "name": "XIX Europejski Kongres Gospodarczy",
+    "date": "2027-04-19",
+    "status": "approved",
+    "added": "2026-10-20",
+    "submitted": "2026-10-20",
+    "url": "https://www.eecpoland.eu/pl/",
+    "tags": [
+      "Conference",
+      "Networking"
+    ],
+    "enriched": true,
+    "description": "The 19th European Economic Congress, Central Europe's largest business event: three days of debate on the future of the Polish and European economy at the International Congress Centre and Spodek in Katowice, with corporate boards, government and EU institutions.",
+    "language": "PL",
+    "tally_id": "BEYVY54",
+    "end_date": "2027-04-21",
+    "time": "09:00",
+    "city": "Katowice",
+    "venue": "Międzynarodowe Centrum Kongresowe & Spodek",
+    "description_pl": "XIX Europejski Kongres Gospodarczy, największe wydarzenie biznesowe Europy Centralnej: trzy dni debat o przyszłości polskiej i europejskiej gospodarki w Międzynarodowym Centrum Kongresowym i Spodku w Katowicach, z udziałem zarządów firm, rządu, samorządów i instytucji UE.",
+    "audience": "Founders, Investors, Operators, Corporate",
+    "organizer": "Grupa PTWP"
   },
   {
     "name": "Infoshare",
@@ -4655,38 +4701,5 @@
     "added": "2026-10-18",
     "submitted": "2026-10-18",
     "tally_id": "LDjEVoz"
-  },
-  {
-    "name": "CAMentrepreneurs Poland",
-    "date": "",
-    "status": "pending",
-    "added": "2026-10-20",
-    "submitted": "2026-10-20",
-    "url": "https://luma.com/qf9zhd8w",
-    "organizer": "CAMentrepreneurs",
-    "price": "Paid",
-    "tags": [
-      "Networking"
-    ],
-    "audience": "Founders, Investors",
-    "tally_id": "1WYyQkb",
-    "description": "⚠ Date not provided in submission — please complete before approving. CAMentrepreneurs is re-launching in Poland Are you an entrepreneur, founder or investor who studied at Cambridge, Oxford, or elsewhere? Join us for the launch…",
-    "enriched": true
-  },
-  {
-    "name": "XIX Europejski Kongres Gospodarczy",
-    "date": "",
-    "status": "pending",
-    "added": "2026-10-20",
-    "submitted": "2026-10-20",
-    "url": "https://www.eecpoland.eu/pl/",
-    "tags": [
-      "Conference",
-      "Networking"
-    ],
-    "enriched": true,
-    "description": "⚠ Date not provided in submission — please complete before approving. Największa impreza biznesowa Europy Centralnej. EEC to reprezentatywne i otwarte forum debaty o przyszłości europejskiej i polskiej gospodarki.",
-    "language": "PL",
-    "tally_id": "BEYVY54"
   }
 ]
