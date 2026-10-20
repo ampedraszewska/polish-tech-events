@@ -4671,5 +4671,21 @@
     ],
     "audience": "Founders, Investors",
     "tally_id": "1WYyQkb"
+  },
+  {
+    "name": "XIX Europejski Kongres Gospodarczy",
+    "date": "",
+    "status": "pending",
+    "added": "2026-10-20",
+    "submitted": "2026-10-20",
+    "url": "https://www.eecpoland.eu/pl/",
+    "tags": [
+      "Conference",
+      "Networking"
+    ],
+    "enriched": true,
+    "description": "⚠ Date not provided in submission — please complete before approving. Największa impreza biznesowa Europy Centralnej. EEC to reprezentatywne i otwarte forum debaty o przyszłości europejskiej i polskiej gospodarki.",
+    "language": "PL",
+    "tally_id": "BEYVY54"
   }
 ]
