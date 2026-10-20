@@ -4664,13 +4664,14 @@
     "submitted": "2026-10-20",
     "url": "https://luma.com/qf9zhd8w",
     "organizer": "CAMentrepreneurs",
-    "description": "⚠ Date not provided in submission — please complete before approving.",
     "price": "Paid",
     "tags": [
       "Networking"
     ],
     "audience": "Founders, Investors",
-    "tally_id": "1WYyQkb"
+    "tally_id": "1WYyQkb",
+    "description": "⚠ Date not provided in submission — please complete before approving. CAMentrepreneurs is re-launching in Poland Are you an entrepreneur, founder or investor who studied at Cambridge, Oxford, or elsewhere? Join us for the launch…",
+    "enriched": true
   },
   {
     "name": "XIX Europejski Kongres Gospodarczy",
