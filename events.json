@@ -4309,7 +4309,6 @@
     "enriched": true,
     "time": "18:00",
     "city": "Warszawa",
-    "venue": "",
     "description_pl": "Inauguracja CAMentrepreneurs Poland, sieci przedsiębiorczości absolwentów Cambridge, w Warszawie: jednominutowe przedstawienia, wystąpienia założycieli Guya Pinsenta (Less Mess) i Johna Lyncha (Lynka) oraz moderowany networking. Wstęp wolny, zapisy przez Lumę.",
     "language": "EN"
   },
@@ -4701,5 +4700,22 @@
     "added": "2026-10-18",
     "submitted": "2026-10-18",
     "tally_id": "LDjEVoz"
+  },
+  {
+    "name": "Growth Meetup: What's Next in GTM",
+    "date": "",
+    "status": "pending",
+    "added": "2026-10-22",
+    "submitted": "2026-10-22",
+    "url": "https://luma.com/uxw45b5r?utm_source=startuppoland",
+    "organizer": "Growth Meetup",
+    "description": "⚠ Date not provided in submission — please complete before approving.",
+    "price": "Paid",
+    "tags": [
+      "Meetup",
+      "Networking"
+    ],
+    "audience": "Operators, Founders",
+    "tally_id": "LDxPJO2"
   }
 ]
