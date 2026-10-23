@@ -3415,6 +3415,28 @@
     "added": "2026-10-12"
   },
   {
+    "name": "Growth Meetup: What's Next in GTM",
+    "date": "2026-10-26",
+    "time": "19:00",
+    "city": "Warszawa",
+    "venue": "",
+    "url": "https://luma.com/uxw45b5r?utm_source=startuppoland",
+    "description": "A panel discussion and networking evening on what actually worked in Go-To-Market in 2026, with Maja Voje, Antoni Olendzki and Nazar Mozhovyi. Free, limited to 50 seats, registration subject to host approval; the address is shared with approved guests.",
+    "description_pl": "Panel dyskusyjny i wieczór networkingowy o tym, co naprawdę zadziałało w Go-To-Market w 2026 roku, z Mają Voje, Antonim Olendzkim i Nazarem Mozhovyim. Wstęp wolny, limit 50 miejsc, rejestracja wymaga akceptacji organizatora; adres dostają zatwierdzeni goście.",
+    "language": "EN",
+    "tags": [
+      "Meetup",
+      "Networking"
+    ],
+    "audience": "Founders, Operators",
+    "organizer": "Growth Meetup",
+    "price": "Free",
+    "status": "approved",
+    "added": "2026-10-22",
+    "submitted": "2026-10-22",
+    "tally_id": "LDxPJO2"
+  },
+  {
     "name": "Made in Wroclaw 2026",
     "date": "2026-10-27",
     "time": "09:00",
@@ -4700,22 +4722,5 @@
     "added": "2026-10-18",
     "submitted": "2026-10-18",
     "tally_id": "LDjEVoz"
-  },
-  {
-    "name": "Growth Meetup: What's Next in GTM",
-    "date": "",
-    "status": "pending",
-    "added": "2026-10-22",
-    "submitted": "2026-10-22",
-    "url": "https://luma.com/uxw45b5r?utm_source=startuppoland",
-    "organizer": "Growth Meetup",
-    "description": "⚠ Date not provided in submission — please complete before approving.",
-    "price": "Paid",
-    "tags": [
-      "Meetup",
-      "Networking"
-    ],
-    "audience": "Operators, Founders",
-    "tally_id": "LDxPJO2"
   }
 ]
