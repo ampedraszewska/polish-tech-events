@@ -3419,7 +3419,6 @@
     "date": "2026-10-26",
     "time": "19:00",
     "city": "Warszawa",
-    "venue": "",
     "url": "https://luma.com/uxw45b5r?utm_source=startuppoland",
     "description": "A panel discussion and networking evening on what actually worked in Go-To-Market in 2026, with Maja Voje, Antoni Olendzki and Nazar Mozhovyi. Free, limited to 50 seats, registration subject to host approval; the address is shared with approved guests.",
     "description_pl": "Panel dyskusyjny i wieczór networkingowy o tym, co naprawdę zadziałało w Go-To-Market w 2026 roku, z Mają Voje, Antonim Olendzkim i Nazarem Mozhovyim. Wstęp wolny, limit 50 miejsc, rejestracja wymaga akceptacji organizatora; adres dostają zatwierdzeni goście.",
@@ -4722,5 +4721,23 @@
     "added": "2026-10-18",
     "submitted": "2026-10-18",
     "tally_id": "LDjEVoz"
+  },
+  {
+    "name": "Warsaw.AI - Episode 32",
+    "date": "",
+    "status": "pending",
+    "added": "2026-10-25",
+    "submitted": "2026-10-25",
+    "url": "http://warsaw.ai",
+    "organizer": "Fundacja Quantum AI",
+    "price": "Paid",
+    "tags": [
+      "Meetup"
+    ],
+    "audience": "Researchers, Developers, Students",
+    "enriched": true,
+    "language": "EN",
+    "description": "⚠ Date not provided in submission — please complete before approving.",
+    "tally_id": "8NDM4Vx"
   }
 ]
