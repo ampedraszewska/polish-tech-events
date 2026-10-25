@@ -4111,6 +4111,26 @@
     "tally_id": "WJdNDVQ"
   },
   {
+    "name": "Warsaw.AI - Episode 32",
+    "date": "2026-11-05",
+    "time": "18:00",
+    "city": "Warszawa",
+    "venue": "Allegro, Fabryka Norblina, Żelazna 51/53",
+    "url": "http://warsaw.ai",
+    "description": "Warsaw.AI community meetup, episode 32, hosted by Allegro at Fabryka Norblina: three talks on building knowledge graphs with AI agents, 3D vision for forest mapping and evaluation-driven agentic systems, then networking. Open sign-up via the organizer's form.",
+    "description_pl": "Spotkanie społeczności Warsaw.AI, odcinek 32, u Allegro w Fabryce Norblina: trzy prelekcje o budowie grafów wiedzy z agentami AI, wizji 3D w mapowaniu lasów i systemach agentowych opartych na ewaluacji, a potem networking. Otwarte zapisy przez formularz organizatora.",
+    "language": "EN",
+    "tags": [
+      "Meetup"
+    ],
+    "audience": "Researchers, Developers, Students",
+    "organizer": "Fundacja Quantum AI",
+    "status": "approved",
+    "added": "2026-10-25",
+    "submitted": "2026-10-25",
+    "tally_id": "8NDM4Vx"
+  },
+  {
     "name": "Poland 2.0 Summit",
     "date": "2026-11-06",
     "end_date": "2026-11-07",
@@ -4154,7 +4174,7 @@
     "added": "2026-10-07",
     "submitted": "2026-10-07",
     "enriched": true,
-    "triage_note": "Wstrzymane do decyzji redakcyjnej: konferencja i targi B2B branży escape roomów (właściciele, twórcy, dostawcy), a nie wydarzenie tech/startup/science ani forum gospodarcze, więc dopasowanie do profilu strony jest decyzją Ani/Pauliny, nie automatu. Pozostałe kryteria spełnione. Weryfikacja 13.10.2026: strona konferencji nadal podaje „12-13.11.2026 WROCŁAW”, strona główna potwierdza miejsce (Concordia Design; finał mistrzostw 14.11 w Zamku Leśnica), wydarzenie przyszłe, otwarte, URL działa (HTTP 200), brak duplikatu. Organizator wg sekcji „Organizer” na stronie: Lockme sp. z o.o. Cena: fetch_url_meta czyta „5000 ZŁ”, ale to kapitał zakładowy Lockme sp. z o.o. ze stopki polityki prywatności, nie cena biletu - zostaje samo „Paid” (jest przycisk Buy Tickets).",
+    "triage_note": "Wstrzymane do decyzji redakcyjnej: konferencja i targi B2B branży escape roomów (właściciele, twórcy, dostawcy), a nie wydarzenie tech/startup/science ani forum gospodarcze, więc dopasowanie do profilu strony jest decyzją Ani/Pauliny, nie automatu. Pozostałe kryteria spełnione. Weryfikacja 13.10.2026: strona konferencji nadal podaje „12-13.11.2026 WROCŁAW”, strona główna potwierdza miejsce (Concordia Design; finał mistrzostw 14.11 w Zamku Leśnica), wydarzenie przyszłe, otwarte, URL działa (HTTP 200), brak duplikatu. Organizator wg sekcji „Organizer” na stronie: Lockme sp. z o.o. Cena: fetch_url_meta czyta „5000 ZŁ”, ale to kapitał zakładowy Lockme sp. z o.o. ze stopki polityki prywatności, nie cena biletu - zostaje samo „Paid” (jest przycisk Buy Tickets). Ponowna weryfikacja 25.10.2026: strona konferencji nadal podaje „12-13.11.2026 WROCŁAW”, URL działa (HTTP 200), brak duplikatu, decyzja redakcyjna wciąż po stronie Ani/Pauliny.",
     "tally_id": "e5jlXRQ"
   },
   {
@@ -4721,23 +4741,5 @@
     "added": "2026-10-18",
     "submitted": "2026-10-18",
     "tally_id": "LDjEVoz"
-  },
-  {
-    "name": "Warsaw.AI - Episode 32",
-    "date": "",
-    "status": "pending",
-    "added": "2026-10-25",
-    "submitted": "2026-10-25",
-    "url": "http://warsaw.ai",
-    "organizer": "Fundacja Quantum AI",
-    "price": "Paid",
-    "tags": [
-      "Meetup"
-    ],
-    "audience": "Researchers, Developers, Students",
-    "enriched": true,
-    "language": "EN",
-    "description": "⚠ Date not provided in submission — please complete before approving.",
-    "tally_id": "8NDM4Vx"
   }
 ]
