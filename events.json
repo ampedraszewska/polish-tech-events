@@ -3433,7 +3433,9 @@
     "status": "approved",
     "added": "2026-10-22",
     "submitted": "2026-10-22",
-    "tally_id": "LDxPJO2"
+    "tally_id": "LDxPJO2",
+    "venue": "Towarowa 28",
+    "enriched": true
   },
   {
     "name": "Made in Wroclaw 2026",
