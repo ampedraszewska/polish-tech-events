@@ -4069,6 +4069,28 @@
     "tally_id": "9N6pqj5"
   },
   {
+    "name": "#16 Przegląd Technologiczny FinTech City",
+    "date": "2026-11-03",
+    "status": "approved",
+    "added": "2026-10-26",
+    "submitted": "2026-10-26",
+    "url": "https://biznes.um.warszawa.pl/najblizszy-przeglad",
+    "organizer": "Miasto Stołeczne Warszawa",
+    "price": "Free",
+    "tags": [
+      "Conference",
+      "Networking"
+    ],
+    "audience": "Founders, Investors, Corporate, Researchers, Students",
+    "description": "The City of Warsaw's 16th Technology Review, on AI, open banking, digital payments and new financial services: expert panels plus pitches from five selected startups. Free entry, registration required. Part of Warsaw Finance Week (3-5 Nov 2026).",
+    "tally_id": "1W0zg9p",
+    "time": "09:00",
+    "city": "Warszawa",
+    "venue": "Kampus Innowacji, ul. Chmielna 73",
+    "description_pl": "16. Przegląd Technologiczny m.st. Warszawy o sztucznej inteligencji, otwartej bankowości, cyfrowych płatnościach i nowych usługach finansowych: panele ekspertów i prezentacje pięciu wybranych startupów. Udział bezpłatny, wymagana rejestracja. Część Warsaw Finance Week (3-5.11.2026).",
+    "language": "PL"
+  },
+  {
     "name": "Founders Connect 7 | Vertical x AI: jak zbudować i wykorzystać przewagę domenową",
     "date": "2026-11-04",
     "time": "17:00",
@@ -4743,23 +4765,5 @@
     "added": "2026-10-18",
     "submitted": "2026-10-18",
     "tally_id": "LDjEVoz"
-  },
-  {
-    "name": "#16 Przegląd Technologiczny FinTech City",
-    "date": "",
-    "status": "pending",
-    "added": "2026-10-26",
-    "submitted": "2026-10-26",
-    "url": "https://biznes.um.warszawa.pl/najblizszy-przeglad",
-    "organizer": "Miasto Stołeczne Warszawa",
-    "price": "Paid",
-    "tags": [
-      "Meetup",
-      "Networking"
-    ],
-    "audience": "Founders, Researchers, Investors, Corporate, Students, General public",
-    "enriched": true,
-    "description": "⚠ Date not provided in submission — please complete before approving.",
-    "tally_id": "1W0zg9p"
   }
 ]
