@@ -4743,5 +4743,23 @@
     "added": "2026-10-18",
     "submitted": "2026-10-18",
     "tally_id": "LDjEVoz"
+  },
+  {
+    "name": "#16 Przegląd Technologiczny FinTech City",
+    "date": "",
+    "status": "pending",
+    "added": "2026-10-26",
+    "submitted": "2026-10-26",
+    "url": "https://biznes.um.warszawa.pl/najblizszy-przeglad",
+    "organizer": "Miasto Stołeczne Warszawa",
+    "price": "Paid",
+    "tags": [
+      "Meetup",
+      "Networking"
+    ],
+    "audience": "Founders, Researchers, Investors, Corporate, Students, General public",
+    "enriched": true,
+    "description": "⚠ Date not provided in submission — please complete before approving.",
+    "tally_id": "1W0zg9p"
   }
 ]
