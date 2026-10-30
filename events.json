@@ -4785,5 +4785,24 @@
     "language": "PL",
     "description": "⚠ Date not provided in submission — please complete before approving.",
     "tally_id": "GeOQajp"
+  },
+  {
+    "name": "Investor Salon",
+    "date": "",
+    "status": "pending",
+    "added": "2026-10-30",
+    "submitted": "2026-10-30",
+    "url": "https://www.omgkrk.com/investor-salon-3/",
+    "organizer": "OMGKRK",
+    "price": "Paid",
+    "tags": [
+      "Networking",
+      "Meetup"
+    ],
+    "audience": "Founders, Investors",
+    "enriched": true,
+    "language": "EN",
+    "description": "⚠ Date not provided in submission — please complete before approving.",
+    "tally_id": "VpWqWR6"
   }
 ]
