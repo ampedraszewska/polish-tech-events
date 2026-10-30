@@ -4765,5 +4765,25 @@
     "added": "2026-10-18",
     "submitted": "2026-10-18",
     "tally_id": "LDjEVoz"
+  },
+  {
+    "name": "Space Connect Meetup 07.11.2026",
+    "date": "",
+    "status": "pending",
+    "added": "2026-10-30",
+    "submitted": "2026-10-30",
+    "url": "https://www.kpt.krakow.pl/branza-kosmiczna/space-connect-meetup/",
+    "organizer": "Krakowski Park Technologiczny",
+    "price": "Paid",
+    "tags": [
+      "Meetup",
+      "Networking"
+    ],
+    "audience": "General public, Students, Researchers, Founders",
+    "enriched": true,
+    "description_pl": "Krakowski Park Technologiczny wspiera rozwój przedsiębiorczości i innowacji, oferując programy wsparcia dla firm, startupów i inwestorów.",
+    "language": "PL",
+    "description": "⚠ Date not provided in submission — please complete before approving.",
+    "tally_id": "GeOQajp"
   }
 ]
