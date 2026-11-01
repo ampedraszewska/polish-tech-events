@@ -4179,6 +4179,28 @@
     "tally_id": "rDpLjQo"
   },
   {
+    "name": "Space Connect Meetup 07.11.2026",
+    "date": "2026-11-07",
+    "time": "17:00",
+    "city": "Kraków",
+    "venue": "Hevre, ul. Meiselsa 18",
+    "url": "https://www.kpt.krakow.pl/branza-kosmiczna/space-connect-meetup/",
+    "description": "An open-format evening on the Polish and European space sector, run by ESA Technology Broker Poland at Krakow Technology Park: space technologies, satellite data, deep tech, funding routes for space projects and networking. Registration via the organizer's form.",
+    "description_pl": "Spotkanie o polskim i europejskim sektorze kosmicznym w otwartej formule, prowadzone przez ESA Technology Broker Poland przy Krakowskim Parku Technologicznym: technologie kosmiczne, dane satelitarne, deep tech, finansowanie projektów kosmicznych i networking. Wymagana rejestracja.",
+    "language": "PL",
+    "tags": [
+      "Meetup",
+      "Networking"
+    ],
+    "audience": "Founders, Researchers, Students, General public",
+    "organizer": "ESA Technology Broker Poland / Krakowski Park Technologiczny",
+    "price": "Paid",
+    "status": "approved",
+    "added": "2026-10-30",
+    "submitted": "2026-10-30",
+    "tally_id": "GeOQajp"
+  },
+  {
     "name": "ER Champ conference & expo",
     "date": "2026-11-12",
     "end_date": "2026-11-13",
@@ -4200,7 +4222,7 @@
     "added": "2026-10-07",
     "submitted": "2026-10-07",
     "enriched": true,
-    "triage_note": "Wstrzymane do decyzji redakcyjnej: konferencja i targi B2B branży escape roomów (właściciele, twórcy, dostawcy), a nie wydarzenie tech/startup/science ani forum gospodarcze, więc dopasowanie do profilu strony jest decyzją Ani/Pauliny, nie automatu. Pozostałe kryteria spełnione. Weryfikacja 13.10.2026: strona konferencji nadal podaje „12-13.11.2026 WROCŁAW”, strona główna potwierdza miejsce (Concordia Design; finał mistrzostw 14.11 w Zamku Leśnica), wydarzenie przyszłe, otwarte, URL działa (HTTP 200), brak duplikatu. Organizator wg sekcji „Organizer” na stronie: Lockme sp. z o.o. Cena: fetch_url_meta czyta „5000 ZŁ”, ale to kapitał zakładowy Lockme sp. z o.o. ze stopki polityki prywatności, nie cena biletu - zostaje samo „Paid” (jest przycisk Buy Tickets). Ponowna weryfikacja 25.10.2026: strona konferencji nadal podaje „12-13.11.2026 WROCŁAW”, URL działa (HTTP 200), brak duplikatu, decyzja redakcyjna wciąż po stronie Ani/Pauliny.",
+    "triage_note": "Wstrzymane do decyzji redakcyjnej: konferencja i targi B2B branży escape roomów (właściciele, twórcy, dostawcy), a nie wydarzenie tech/startup/science ani forum gospodarcze, więc dopasowanie do profilu strony jest decyzją Ani/Pauliny, nie automatu. Pozostałe kryteria spełnione i potwierdzone ponownie 01.11.2026: strona podaje „12-13.11.2026 WROCŁAW”, miejsce Concordia Design (afterparty Mixturium, finał mistrzostw świata 14.11), URL działa (HTTP 200), brak duplikatu w events.json. Organizator: Lockme sp. z o.o., Wrocław. Cena: jest przycisk Buy Tickets, ale kwoty nie podano — zostaje samo „Paid” (fetch_url_meta czyta „5000 ZŁ”, to kapitał zakładowy Lockme ze stopki polityki prywatności, nie cena biletu). Wcześniejsze weryfikacje: 13.10, 25.10.2026 — bez zmian.",
     "tally_id": "e5jlXRQ"
   },
   {
@@ -4246,6 +4268,28 @@
     "description": "TEEMA 科學園區產業日 波蘭展 在全球地緣政治風險升溫與供應鏈加速重組之際，企業積極布局更具韌性的國際市場，並強化區域製造布局，以分散營運風險並深化產業鏈結。 電電公會推動「TEEMA Technology",
     "enriched": true,
     "tally_id": "yX7vPqW"
+  },
+  {
+    "name": "Investor Salon",
+    "date": "2026-11-24",
+    "time": "18:00",
+    "city": "Kraków",
+    "venue": "",
+    "url": "https://www.omgkrk.com/investor-salon-3/",
+    "description": "A curated evening for angel and VC investors, founders with traction and ecosystem leaders: first insights from the Krakow Startup Report 2026, a founder-investor conversation, up to eight 5-minute pitches and networking. By approved reservation, requests close 18.11.",
+    "description_pl": "Wieczór dla aniołów biznesu i funduszy VC, founderów z trakcją oraz liderów ekosystemu: pierwsze wnioski z Kraków Startup Report 2026, rozmowa founder-inwestor, do ośmiu pięciominutowych pitchy i networking. Wejście po zatwierdzonej rezerwacji, zgłoszenia do 18.11.",
+    "language": "EN",
+    "tags": [
+      "Networking",
+      "Meetup"
+    ],
+    "audience": "Founders, Investors",
+    "organizer": "Foundation Supporting #OMGKRK",
+    "price": "Paid",
+    "status": "approved",
+    "added": "2026-10-30",
+    "submitted": "2026-10-30",
+    "tally_id": "VpWqWR6"
   },
   {
     "name": "(untitled submission)",
@@ -4767,44 +4811,5 @@
     "added": "2026-10-18",
     "submitted": "2026-10-18",
     "tally_id": "LDjEVoz"
-  },
-  {
-    "name": "Space Connect Meetup 07.11.2026",
-    "date": "",
-    "status": "pending",
-    "added": "2026-10-30",
-    "submitted": "2026-10-30",
-    "url": "https://www.kpt.krakow.pl/branza-kosmiczna/space-connect-meetup/",
-    "organizer": "Krakowski Park Technologiczny",
-    "price": "Paid",
-    "tags": [
-      "Meetup",
-      "Networking"
-    ],
-    "audience": "General public, Students, Researchers, Founders",
-    "enriched": true,
-    "description_pl": "Krakowski Park Technologiczny wspiera rozwój przedsiębiorczości i innowacji, oferując programy wsparcia dla firm, startupów i inwestorów.",
-    "language": "PL",
-    "description": "⚠ Date not provided in submission — please complete before approving.",
-    "tally_id": "GeOQajp"
-  },
-  {
-    "name": "Investor Salon",
-    "date": "",
-    "status": "pending",
-    "added": "2026-10-30",
-    "submitted": "2026-10-30",
-    "url": "https://www.omgkrk.com/investor-salon-3/",
-    "organizer": "OMGKRK",
-    "price": "Paid",
-    "tags": [
-      "Networking",
-      "Meetup"
-    ],
-    "audience": "Founders, Investors",
-    "enriched": true,
-    "language": "EN",
-    "description": "⚠ Date not provided in submission — please complete before approving.",
-    "tally_id": "VpWqWR6"
   }
 ]
