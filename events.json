@@ -3144,7 +3144,9 @@
     "status": "approved",
     "added": "2026-10-02",
     "submitted": "2026-10-02",
-    "tally_id": "db15RGV"
+    "tally_id": "db15RGV",
+    "price": "Free",
+    "enriched": true
   },
   {
     "name": "AI Tinkerers Poland - Meetup in Warsaw (15th October 2026)",
