@@ -4870,5 +4870,23 @@
     "description": "⚠ Date not provided in submission — please complete before approving. INSECON Międzynarodowy Kongres Cyberbezpieczeństwa",
     "language": "PL",
     "tally_id": "o9Lz5ab"
+  },
+  {
+    "name": "Impact",
+    "date": "",
+    "status": "pending",
+    "added": "2026-11-05",
+    "submitted": "2026-11-05",
+    "url": "https://impactcee.com/",
+    "price": "Paid",
+    "tags": [
+      "Conference",
+      "Networking"
+    ],
+    "audience": "Corporate, Investors, Researchers, Developers, Founders",
+    "enriched": true,
+    "description": "⚠ Date not provided in submission — please complete before approving. The most important events on the future of the digital economy for startups, scientists and public officials!",
+    "language": "EN",
+    "tally_id": "J1voW4r"
   }
 ]
