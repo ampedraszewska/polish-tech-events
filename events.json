@@ -4835,5 +4835,23 @@
     "added": "2026-11-05",
     "submitted": "2026-11-05",
     "tally_id": "rDMvWBp"
+  },
+  {
+    "name": "Wolves Summit Warsaw",
+    "date": "",
+    "status": "pending",
+    "added": "2026-11-05",
+    "submitted": "2026-11-05",
+    "url": "https://www.wolvessummit.com/",
+    "price": "Paid",
+    "tags": [
+      "Conference",
+      "Networking"
+    ],
+    "audience": "Investors, Founders, Developers",
+    "enriched": true,
+    "description": "⚠ Date not provided in submission — please complete before approving. The leading CEE event connecting Startup Founders with Investors.",
+    "language": "EN",
+    "tally_id": "yX51jVp"
   }
 ]
