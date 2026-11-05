@@ -1894,7 +1894,8 @@
     "status": "approved",
     "submitted": "2026-08-18",
     "added": "2026-08-18",
-    "tally_id": "NqRQaRO"
+    "tally_id": "NqRQaRO",
+    "enriched": true
   },
   {
     "name": "HRTT Bifor - Power Yoga dla HR-ów",
@@ -1915,7 +1916,8 @@
     "added": "2026-08-06",
     "submitted": "2026-08-06",
     "description_pl": "Power Yoga na dachu Planetarium dla osób, które zarządzają ludźmi i projektują kulturę organizacji, a wakacje minęły im, zanim zdążyły odpocząć. 26 sierpnia.",
-    "tally_id": "yXjKB88"
+    "tally_id": "yXjKB88",
+    "enriched": true
   },
   {
     "name": "NextGen Founders Meetup Krakow",
