@@ -4853,5 +4853,22 @@
     "description": "⚠ Date not provided in submission — please complete before approving. The leading CEE event connecting Startup Founders with Investors.",
     "language": "EN",
     "tally_id": "yX51jVp"
+  },
+  {
+    "name": "IN.SE.CON",
+    "date": "",
+    "status": "pending",
+    "added": "2026-11-05",
+    "submitted": "2026-11-05",
+    "url": "https://insecon.pl/pl/",
+    "tags": [
+      "Conference",
+      "Networking"
+    ],
+    "audience": "Founders, Developers, Researchers, Investors, Corporate",
+    "enriched": true,
+    "description": "⚠ Date not provided in submission — please complete before approving. INSECON Międzynarodowy Kongres Cyberbezpieczeństwa",
+    "language": "PL",
+    "tally_id": "o9Lz5ab"
   }
 ]
