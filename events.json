@@ -4274,7 +4274,6 @@
     "date": "2026-11-24",
     "time": "18:00",
     "city": "Kraków",
-    "venue": "",
     "url": "https://www.omgkrk.com/investor-salon-3/",
     "description": "A curated evening for angel and VC investors, founders with traction and ecosystem leaders: first insights from the Krakow Startup Report 2026, a founder-investor conversation, up to eight 5-minute pitches and networking. By approved reservation, requests close 18.11.",
     "description_pl": "Wieczór dla aniołów biznesu i funduszy VC, founderów z trakcją oraz liderów ekosystemu: pierwsze wnioski z Kraków Startup Report 2026, rozmowa founder-inwestor, do ośmiu pięciominutowych pitchy i networking. Wejście po zatwierdzonej rezerwacji, zgłoszenia do 18.11.",
@@ -4811,5 +4810,27 @@
     "added": "2026-10-18",
     "submitted": "2026-10-18",
     "tally_id": "LDjEVoz"
+  },
+  {
+    "name": "Made in Wroclaw",
+    "date": "",
+    "status": "pending",
+    "added": "2026-11-05",
+    "submitted": "2026-11-05",
+    "url": "https://made-in-wroclaw.pl/",
+    "organizer": "Agencja Rozwoju Aglomeracji Wrocławskiej / Startup Wroclaw",
+    "price": "Paid",
+    "tags": [
+      "Meetup",
+      "Conference",
+      "Workshop",
+      "Networking",
+      "Policy"
+    ],
+    "audience": "Founders, Developers, Operators, Researchers, Investors, Corporate, Students, General public",
+    "enriched": true,
+    "language": "EN",
+    "description": "⚠ Date not provided in submission — please complete before approving.",
+    "tally_id": "rDMvWBp"
   }
 ]
