@@ -4815,13 +4815,13 @@
   },
   {
     "name": "Made in Wroclaw",
-    "date": "",
-    "status": "pending",
-    "added": "2026-11-05",
-    "submitted": "2026-11-05",
+    "date": "2027-10-26",
+    "city": "Wrocław",
     "url": "https://made-in-wroclaw.pl/",
+    "end_date": "2027-10-27",
     "organizer": "Agencja Rozwoju Aglomeracji Wrocławskiej / Startup Wroclaw",
-    "price": "Paid",
+    "language": "EN",
+    "price": "Partly paid",
     "tags": [
       "Meetup",
       "Conference",
@@ -4830,9 +4830,10 @@
       "Policy"
     ],
     "audience": "Founders, Developers, Operators, Researchers, Investors, Corporate, Students, General public",
-    "enriched": true,
-    "language": "EN",
-    "description": "⚠ Date not provided in submission — please complete before approving.",
+    "badge": "recommended",
+    "status": "approved",
+    "added": "2026-11-05",
+    "submitted": "2026-11-05",
     "tally_id": "rDMvWBp"
   }
 ]
