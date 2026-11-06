@@ -4891,19 +4891,23 @@
   },
   {
     "name": "AI That Takes Action: The Rise of AI Agents",
-    "date": "",
+    "date": "2026-11-19",
     "status": "pending",
     "added": "2026-11-05",
     "submitted": "2026-11-05",
     "url": "https://luma.com/wshnnysw",
     "organizer": "Kraków Miastem Startupów",
-    "description": "⚠ Date not provided in submission — please complete before approving.",
-    "price": "Paid",
+    "price": "Free",
     "tags": [
       "Meetup",
       "Networking"
     ],
     "audience": "Developers, Founders",
-    "tally_id": "4aVEG4o"
+    "tally_id": "4aVEG4o",
+    "time": "17:30",
+    "venue": "hub:raum Kraków",
+    "city": "Kraków",
+    "description_pl": "Czy sztuczna inteligencja może robić coś więcej niż odpowiadać na pytania? Podczas wydarzenia przyjrzymy się światu agentów AI – systemów, które potrafią nie tylko analizować informacje, ale również korzystać z narzędzi, wykonywać zadania i realizować złożone procesy.",
+    "enriched": true
   }
 ]
