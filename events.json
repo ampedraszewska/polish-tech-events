@@ -4224,7 +4224,7 @@
     "added": "2026-10-07",
     "submitted": "2026-10-07",
     "enriched": true,
-    "triage_note": "Wstrzymane do decyzji redakcyjnej: konferencja i targi B2B branży escape roomów (właściciele, twórcy, dostawcy), a nie wydarzenie tech/startup/science ani forum gospodarcze, więc dopasowanie do profilu strony jest decyzją Ani/Pauliny, nie automatu. Pozostałe kryteria spełnione i potwierdzone ponownie 01.11.2026: strona podaje „12-13.11.2026 WROCŁAW”, miejsce Concordia Design (afterparty Mixturium, finał mistrzostw świata 14.11), URL działa (HTTP 200), brak duplikatu w events.json. Organizator: Lockme sp. z o.o., Wrocław. Cena: jest przycisk Buy Tickets, ale kwoty nie podano — zostaje samo „Paid” (fetch_url_meta czyta „5000 ZŁ”, to kapitał zakładowy Lockme ze stopki polityki prywatności, nie cena biletu). Wcześniejsze weryfikacje: 13.10, 25.10.2026 — bez zmian.",
+    "triage_note": "Wstrzymane do decyzji redakcyjnej: konferencja i targi B2B branży escape roomów (właściciele, twórcy, dostawcy), a nie wydarzenie tech/startup/science ani forum gospodarcze, więc dopasowanie do profilu strony jest decyzją Ani/Pauliny, nie automatu. Pozostałe kryteria spełnione i potwierdzone ponownie 06.11.2026: strona podaje „12-13.11.2026 WROCŁAW”, miejsce Concordia Design (afterparty Mixturium, finał mistrzostw świata 14.11), URL działa (HTTP 200), brak duplikatu w events.json. Organizator: Lockme sp. z o.o., Wrocław. Cena: jest przycisk Buy Tickets, ale kwoty nie podano — zostaje samo „Paid” (fetch_url_meta czyta „5000 ZŁ”, to kapitał zakładowy Lockme ze stopki polityki prywatności, nie cena biletu). Wcześniejsze weryfikacje: 13.10, 25.10, 01.11.2026 — bez zmian.",
     "tally_id": "e5jlXRQ"
   },
   {
@@ -4270,6 +4270,28 @@
     "description": "TEEMA 科學園區產業日 波蘭展 在全球地緣政治風險升溫與供應鏈加速重組之際，企業積極布局更具韌性的國際市場，並強化區域製造布局，以分散營運風險並深化產業鏈結。 電電公會推動「TEEMA Technology",
     "enriched": true,
     "tally_id": "yX7vPqW"
+  },
+  {
+    "name": "AI That Takes Action: The Rise of AI Agents",
+    "date": "2026-11-19",
+    "time": "17:30",
+    "city": "Kraków",
+    "venue": "hub:raum Kraków, ul. Przemysłowa 12",
+    "url": "https://luma.com/wshnnysw",
+    "description": "A Kraków Miastem Startupów meetup on AI agents: systems that go beyond answering questions to use tools, carry out tasks and run complex processes. Doors 17:30, talks start 18:00. Held in Polish, free entry with open registration.",
+    "description_pl": "Spotkanie Kraków Miastem Startupów o agentach AI: systemach, które nie tylko analizują informacje, ale też korzystają z narzędzi, wykonują zadania i realizują złożone procesy. Rejestracja od 17:30, start o 18:00. Wydarzenie po polsku, wejście bezpłatne.",
+    "language": "PL",
+    "tags": [
+      "Meetup",
+      "Networking"
+    ],
+    "audience": "Developers, Founders",
+    "organizer": "Kraków Miastem Startupów",
+    "price": "Free",
+    "status": "approved",
+    "added": "2026-11-06",
+    "submitted": "2026-11-05",
+    "tally_id": "4aVEG4o"
   },
   {
     "name": "Investor Salon",
@@ -4444,6 +4466,50 @@
     "tally_id": "aO64ka9"
   },
   {
+    "name": "Wolves Summit Warsaw 2027",
+    "date": "2027-04-07",
+    "end_date": "2027-04-08",
+    "city": "Warszawa",
+    "venue": "Novotel Warsaw Centrum",
+    "url": "https://www.wolvessummit.com/warsaw-2027/",
+    "description": "Wolves Summit's annual flagship edition: two days connecting founders with investors across Europe, with 500 companies, 100+ investors, 250+ founders, country and city delegations, a pitch stage and the Ecosystem Awards.",
+    "description_pl": "Flagowa, doroczna edycja Wolves Summit: dwa dni łączenia founderów z inwestorami z całej Europy, 500 spółek, ponad 100 inwestorów i 250 founderów, delegacje krajowe i miejskie, scena pitchowa oraz Ecosystem Awards.",
+    "language": "EN",
+    "tags": [
+      "Conference",
+      "Networking"
+    ],
+    "audience": "Founders, Investors, Corporate",
+    "organizer": "Wolves Summit",
+    "price": "Paid",
+    "status": "approved",
+    "added": "2026-11-06",
+    "submitted": "2026-11-05",
+    "tally_id": "yX51jVp"
+  },
+  {
+    "name": "IN.SE.CON 2027",
+    "date": "2027-04-07",
+    "end_date": "2027-04-08",
+    "city": "Poznań",
+    "venue": "",
+    "url": "https://insecon.pl/pl/",
+    "description": "Fourth edition of the International Congress on Cybersecurity and Breakthrough Technologies, organised by Grupa MTP: two days of debates on state digital resilience, dual-use and space technologies, plus a technical track and small-group workshops.",
+    "description_pl": "Czwarta edycja Międzynarodowego Kongresu Cyberbezpieczeństwa i Technologii Przełomowych organizowanego przez Grupę MTP: dwa dni debat o cyfrowej odporności państwa, technologiach dual-use i kosmicznych, a także ścieżka techniczna i warsztaty w małych grupach.",
+    "language": "PL",
+    "tags": [
+      "Conference",
+      "Networking"
+    ],
+    "audience": "Founders, Developers, Researchers, Investors, Corporate",
+    "organizer": "Grupa MTP",
+    "price": "Paid",
+    "status": "approved",
+    "added": "2026-11-06",
+    "submitted": "2026-11-05",
+    "tally_id": "o9Lz5ab"
+  },
+  {
     "name": "XIX Europejski Kongres Gospodarczy",
     "date": "2027-04-19",
     "status": "approved",
@@ -4465,6 +4531,29 @@
     "description_pl": "XIX Europejski Kongres Gospodarczy, największe wydarzenie biznesowe Europy Centralnej: trzy dni debat o przyszłości polskiej i europejskiej gospodarki w Międzynarodowym Centrum Kongresowym i Spodku w Katowicach, z udziałem zarządów firm, rządu, samorządów i instytucji UE.",
     "audience": "Founders, Investors, Operators, Corporate",
     "organizer": "Grupa PTWP"
+  },
+  {
+    "name": "Impact'27",
+    "date": "2027-05-12",
+    "end_date": "2027-05-13",
+    "city": "Poznań",
+    "venue": "Poznań Congress Center",
+    "url": "https://impactcee.com/impact27/",
+    "description": "The CEE region's flagship congress on the future of the economy, for business, startups, science and public administration: two days, 25 thematic tracks and several hundred speakers at the Poznań Congress Center.",
+    "description_pl": "Najważniejszy w regionie CEE kongres o przyszłości gospodarki, dla biznesu, startupów, nauki i administracji: dwa dni, 25 ścieżek tematycznych i kilkuset prelegentów w Poznań Congress Center.",
+    "language": "EN+PL",
+    "tags": [
+      "Conference",
+      "Policy",
+      "Networking"
+    ],
+    "audience": "Founders, Investors, Corporate, Researchers",
+    "organizer": "Impact",
+    "price": "Paid",
+    "status": "approved",
+    "added": "2026-11-06",
+    "submitted": "2026-11-05",
+    "tally_id": "J1voW4r"
   },
   {
     "name": "Infoshare",
@@ -4508,6 +4597,29 @@
     "added": "2026-09-21",
     "submitted": "2026-09-21",
     "tally_id": "RWlzLXj"
+  },
+  {
+    "name": "Made in Wroclaw",
+    "date": "2027-10-26",
+    "city": "Wrocław",
+    "url": "https://made-in-wroclaw.pl/",
+    "end_date": "2027-10-27",
+    "organizer": "Agencja Rozwoju Aglomeracji Wrocławskiej / Startup Wroclaw",
+    "language": "EN",
+    "price": "Partly paid",
+    "tags": [
+      "Meetup",
+      "Conference",
+      "Workshop",
+      "Networking",
+      "Policy"
+    ],
+    "audience": "Founders, Developers, Operators, Researchers, Investors, Corporate, Students, General public",
+    "badge": "recommended",
+    "status": "approved",
+    "added": "2026-11-05",
+    "submitted": "2026-11-05",
+    "tally_id": "rDMvWBp"
   },
   {
     "name": "AIntern 2026",
@@ -4812,102 +4924,5 @@
     "added": "2026-10-18",
     "submitted": "2026-10-18",
     "tally_id": "LDjEVoz"
-  },
-  {
-    "name": "Made in Wroclaw",
-    "date": "2027-10-26",
-    "city": "Wrocław",
-    "url": "https://made-in-wroclaw.pl/",
-    "end_date": "2027-10-27",
-    "organizer": "Agencja Rozwoju Aglomeracji Wrocławskiej / Startup Wroclaw",
-    "language": "EN",
-    "price": "Partly paid",
-    "tags": [
-      "Meetup",
-      "Conference",
-      "Workshop",
-      "Networking",
-      "Policy"
-    ],
-    "audience": "Founders, Developers, Operators, Researchers, Investors, Corporate, Students, General public",
-    "badge": "recommended",
-    "status": "approved",
-    "added": "2026-11-05",
-    "submitted": "2026-11-05",
-    "tally_id": "rDMvWBp"
-  },
-  {
-    "name": "Wolves Summit Warsaw",
-    "date": "",
-    "status": "pending",
-    "added": "2026-11-05",
-    "submitted": "2026-11-05",
-    "url": "https://www.wolvessummit.com/",
-    "price": "Paid",
-    "tags": [
-      "Conference",
-      "Networking"
-    ],
-    "audience": "Investors, Founders, Developers",
-    "enriched": true,
-    "description": "⚠ Date not provided in submission — please complete before approving. The leading CEE event connecting Startup Founders with Investors.",
-    "language": "EN",
-    "tally_id": "yX51jVp"
-  },
-  {
-    "name": "IN.SE.CON",
-    "date": "",
-    "status": "pending",
-    "added": "2026-11-05",
-    "submitted": "2026-11-05",
-    "url": "https://insecon.pl/pl/",
-    "tags": [
-      "Conference",
-      "Networking"
-    ],
-    "audience": "Founders, Developers, Researchers, Investors, Corporate",
-    "enriched": true,
-    "description": "⚠ Date not provided in submission — please complete before approving. INSECON Międzynarodowy Kongres Cyberbezpieczeństwa",
-    "language": "PL",
-    "tally_id": "o9Lz5ab"
-  },
-  {
-    "name": "Impact",
-    "date": "",
-    "status": "pending",
-    "added": "2026-11-05",
-    "submitted": "2026-11-05",
-    "url": "https://impactcee.com/",
-    "price": "Paid",
-    "tags": [
-      "Conference",
-      "Networking"
-    ],
-    "audience": "Corporate, Investors, Researchers, Developers, Founders",
-    "enriched": true,
-    "description": "⚠ Date not provided in submission — please complete before approving. The most important events on the future of the digital economy for startups, scientists and public officials!",
-    "language": "EN",
-    "tally_id": "J1voW4r"
-  },
-  {
-    "name": "AI That Takes Action: The Rise of AI Agents",
-    "date": "2026-11-19",
-    "status": "pending",
-    "added": "2026-11-05",
-    "submitted": "2026-11-05",
-    "url": "https://luma.com/wshnnysw",
-    "organizer": "Kraków Miastem Startupów",
-    "price": "Free",
-    "tags": [
-      "Meetup",
-      "Networking"
-    ],
-    "audience": "Developers, Founders",
-    "tally_id": "4aVEG4o",
-    "time": "17:30",
-    "venue": "hub:raum Kraków",
-    "city": "Kraków",
-    "description_pl": "Czy sztuczna inteligencja może robić coś więcej niż odpowiadać na pytania? Podczas wydarzenia przyjrzymy się światu agentów AI – systemów, które potrafią nie tylko analizować informacje, ale również korzystać z narzędzi, wykonywać zadania i realizować złożone procesy.",
-    "enriched": true
   }
 ]
