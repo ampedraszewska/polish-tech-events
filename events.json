@@ -4228,6 +4228,48 @@
     "tally_id": "e5jlXRQ"
   },
   {
+    "name": "CMS Conf 2026",
+    "date": "2026-11-12",
+    "end_date": "2026-11-14",
+    "time": "09:00",
+    "city": "Gdynia",
+    "venue": "Pomorski Park Naukowo-Technologiczny, Al. Zwycięstwa 96/98",
+    "url": "https://cmsconf.com/",
+    "organizer": "Openweb s.c.",
+    "language": "EN",
+    "price": "Paid",
+    "tags": [
+      "Conference",
+      "Workshop"
+    ],
+    "audience": "Developers",
+    "description": "Three-day conference for developers and creators of content management systems and web products. Talks by industry practitioners, hands-on workshops and networking.",
+    "description_pl": "Trzydniowa konferencja dla twórców i developerów systemów CMS oraz produktów webowych. Prelekcje praktyków z branży, warsztaty i networking.",
+    "status": "approved",
+    "added": "2026-11-10",
+    "submitted": "2026-11-10"
+  },
+  {
+    "name": "Trójmiasto AI Meetup #2: Agenci poza demo",
+    "date": "2026-11-12",
+    "time": "18:00",
+    "city": "Gdańsk",
+    "venue": "STARTER, ul. Lęborska 3B",
+    "url": "https://www.meetup.com/trojmiasto-ai/events/317059752/",
+    "organizer": "Trójmiasto AI",
+    "language": "PL",
+    "price": "Free",
+    "tags": [
+      "Meetup"
+    ],
+    "audience": "Developers, Founders",
+    "description": "Second edition of the Tricity AI meetup, this time about working with AI agents in practice. Free entry, registration required.",
+    "description_pl": "Druga edycja trójmiejskiego meetupu o AI, tym razem o pracy z agentami AI w praktyce. Wstęp bezpłatny, obowiązuje rejestracja.",
+    "status": "approved",
+    "added": "2026-11-10",
+    "submitted": "2026-11-10"
+  },
+  {
     "name": "Infoshare Katowice",
     "date": "2026-11-17",
     "city": "Katowice",
@@ -4292,6 +4334,26 @@
     "added": "2026-11-06",
     "submitted": "2026-11-05",
     "tally_id": "4aVEG4o"
+  },
+  {
+    "name": "SysOps/DevOps Gdańsk MeetUp #31",
+    "date": "2026-11-19",
+    "time": "18:00",
+    "city": "Gdańsk",
+    "venue": "Hapag-Lloyd Knowledge Center, Al. Grunwaldzka 413 (Neon, 7. piętro)",
+    "url": "https://www.meetup.com/sysopsgd/events/317102569/",
+    "organizer": "SysOps/DevOps Polska Gdańsk",
+    "language": "PL",
+    "price": "Free",
+    "tags": [
+      "Meetup"
+    ],
+    "audience": "Developers, Operators",
+    "description": "Meetup of the Gdańsk SysOps/DevOps community. Two talks with Q&A, including one on AI agents with broad system access, plus networking.",
+    "description_pl": "Spotkanie gdańskiej społeczności SysOps/DevOps. Dwie prelekcje z sesją pytań, w tym jedna o agentach AI z szerokim dostępem do systemów, oraz networking.",
+    "status": "approved",
+    "added": "2026-11-10",
+    "submitted": "2026-11-10"
   },
   {
     "name": "Investor Salon",
@@ -4423,6 +4485,111 @@
     "status": "approved",
     "added": "2026-09-04",
     "submitted": "2026-03-09"
+  },
+  {
+    "name": "AI Salon Gdańsk #2: Specsight, pokazy AI na żywo i otwarta scena",
+    "date": "2026-12-01",
+    "time": "17:30",
+    "city": "Gdańsk",
+    "venue": "STARTER, ul. Lęborska 3B",
+    "url": "https://www.meetup.com/ai-salon-gda%C5%84sk/events/317272269/",
+    "organizer": "AI Salon Gdańsk",
+    "language": "PL",
+    "price": "Free",
+    "tags": [
+      "Meetup",
+      "Networking"
+    ],
+    "audience": "Founders, Developers, Investors",
+    "description": "Second Gdańsk meeting of AI Salon, an international network connecting AI founders, builders and investors. Specsight presentation, live AI demos and an open stage.",
+    "description_pl": "Drugie gdańskie spotkanie AI Salon, międzynarodowej sieci łączącej founderów, twórców i inwestorów AI. Prezentacja Specsight, pokazy AI na żywo i otwarta scena.",
+    "status": "approved",
+    "added": "2026-11-10",
+    "submitted": "2026-11-10"
+  },
+  {
+    "name": "BeSecure CyberSec Konferencja 2026",
+    "date": "2026-12-07",
+    "end_date": "2026-12-08",
+    "time": "09:00",
+    "city": "Gdańsk",
+    "venue": "AmberExpo",
+    "url": "https://besecure.cc/pl/",
+    "organizer": "Fundacja CODE:ME",
+    "language": "PL",
+    "price": "Paid",
+    "tags": [
+      "Conference",
+      "Workshop"
+    ],
+    "audience": "Developers, Operators, Corporate",
+    "description": "Cybersecurity conference for the Baltic Sea region. Day one is the conference at AmberExpo, day two is a workshop day.",
+    "description_pl": "Konferencja o cyberbezpieczeństwie dla regionu Morza Bałtyckiego. Pierwszy dzień to konferencja w AmberExpo, drugi to dzień warsztatowy.",
+    "status": "approved",
+    "added": "2026-11-10",
+    "submitted": "2026-11-10"
+  },
+  {
+    "name": "Investor Meetup | Wiedza, Networking i Rozwój",
+    "date": "2026-12-08",
+    "time": "18:45",
+    "city": "Gdańsk",
+    "venue": "Peron 5, Galeria Metropolia",
+    "url": "https://luma.com/312ftcf2",
+    "organizer": "INVESTORMEETUP.TRICITY, Tamara Kalichava, Michał Winnik",
+    "language": "PL",
+    "price": "Paid",
+    "tags": [
+      "Meetup",
+      "Networking"
+    ],
+    "audience": "Investors, Founders, General public",
+    "description": "Tricity meetup for people interested in investing and business. Practical talks on investing and building relationships, followed by speed networking.",
+    "description_pl": "Trójmiejskie spotkanie dla osób zainteresowanych inwestowaniem i biznesem. Praktyczne wystąpienia o inwestowaniu i budowaniu relacji, a potem speed networking.",
+    "status": "approved",
+    "added": "2026-11-10",
+    "submitted": "2026-11-10"
+  },
+  {
+    "name": "35. spotkanie Data Community Trójmiasto - Gdynia",
+    "date": "2026-12-16",
+    "time": "18:00",
+    "city": "Gdynia",
+    "venue": "DNV, ul. Łużycka 6E",
+    "url": "https://www.meetup.com/data-community-trojmiasto/events/317070841/",
+    "organizer": "Data Community Trójmiasto",
+    "language": "PL",
+    "price": "Free",
+    "tags": [
+      "Meetup"
+    ],
+    "audience": "Developers, Researchers",
+    "description": "35th meeting of the Tricity data community. Free entry, registration via Meetup required.",
+    "description_pl": "35. spotkanie trójmiejskiej społeczności data. Wstęp bezpłatny, obowiązuje rejestracja przez Meetup.",
+    "status": "approved",
+    "added": "2026-11-10",
+    "submitted": "2026-11-10"
+  },
+  {
+    "name": "Investor Meetup | Wiedza, Networking i Rozwój",
+    "date": "2027-01-19",
+    "time": "18:45",
+    "city": "Gdańsk",
+    "venue": "Peron 5, Galeria Metropolia",
+    "url": "https://luma.com/nkw0wn0k",
+    "organizer": "INVESTORMEETUP.TRICITY, Tamara Kalichava, Michał Winnik",
+    "language": "PL",
+    "price": "Paid",
+    "tags": [
+      "Meetup",
+      "Networking"
+    ],
+    "audience": "Investors, Founders, General public",
+    "description": "Tricity meetup for people interested in investing and business. Practical talks on investing and building relationships, followed by speed networking.",
+    "description_pl": "Trójmiejskie spotkanie dla osób zainteresowanych inwestowaniem i biznesem. Praktyczne wystąpienia o inwestowaniu i budowaniu relacji, a potem speed networking.",
+    "status": "approved",
+    "added": "2026-11-10",
+    "submitted": "2026-11-10"
   },
   {
     "name": "CAMentrepreneurs Poland",
