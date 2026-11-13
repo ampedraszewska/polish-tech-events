@@ -4659,7 +4659,6 @@
     "date": "2027-04-07",
     "end_date": "2027-04-08",
     "city": "Poznań",
-    "venue": "",
     "url": "https://insecon.pl/pl/",
     "description": "Fourth edition of the International Congress on Cybersecurity and Breakthrough Technologies, organised by Grupa MTP: two days of debates on state digital resilience, dual-use and space technologies, plus a technical track and small-group workshops.",
     "description_pl": "Czwarta edycja Międzynarodowego Kongresu Cyberbezpieczeństwa i Technologii Przełomowych organizowanego przez Grupę MTP: dwa dni debat o cyfrowej odporności państwa, technologiach dual-use i kosmicznych, a także ścieżka techniczna i warsztaty w małych grupach.",
@@ -5091,5 +5090,23 @@
     "added": "2026-10-18",
     "submitted": "2026-10-18",
     "tally_id": "LDjEVoz"
+  },
+  {
+    "name": "Introduction to Quantum Machine Learning (WQCG, Episode 84)",
+    "date": "",
+    "status": "pending",
+    "added": "2026-11-13",
+    "submitted": "2026-11-13",
+    "url": "https://www.qaif.org/events/warsaw-quantum-computing-group/next-meeting",
+    "organizer": "Fundacja Quantum AI",
+    "price": "Paid",
+    "tags": [
+      "Meetup"
+    ],
+    "audience": "Researchers, Students, Developers, Founders, General public, Investors, Corporate, Operators",
+    "enriched": true,
+    "description": "⚠ Date not provided in submission — please complete before approving. We invite you to an online Episode 84 of the Warsaw Quantum Computing Group meetup! \"Introduction to quantum machine learning\" Paweł Gora 26.11.2026, 18:00 UTC+1",
+    "language": "EN",
+    "tally_id": "o9jWkv5"
   }
 ]
