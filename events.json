@@ -5112,5 +5112,26 @@
     "added": "2026-10-18",
     "submitted": "2026-10-18",
     "tally_id": "LDjEVoz"
+  },
+  {
+    "name": "V4 AI Researchers Meetup (V4AIR)",
+    "date": "2027-04-28",
+    "status": "pending",
+    "added": "2026-11-19",
+    "submitted": "2026-11-19",
+    "url": "https://v4air.eu/?utm_source=startuppoland&utm_medium=listing&utm_campaign=call2027",
+    "organizer": "Charles University, Faculty of Science",
+    "enriched": true,
+    "end_date": "2027-04-30",
+    "venue": "Kostelec Castle",
+    "city": "Kostelec nad Černými lesy",
+    "description": "A free, fully funded three-day meetup at Kostelec Castle near Prague for students and early-career researchers from the V4 region who use AI in any field. Applications close 15 January 2027.",
+    "price": "Free",
+    "tags": [
+      "Meetup"
+    ],
+    "audience": "Students, Researchers",
+    "language": "EN",
+    "tally_id": "Z97baOo"
   }
 ]
