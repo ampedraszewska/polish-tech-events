@@ -4224,7 +4224,7 @@
     "added": "2026-10-07",
     "submitted": "2026-10-07",
     "enriched": true,
-    "triage_note": "Wstrzymane do decyzji redakcyjnej: konferencja i targi B2B branży escape roomów (właściciele, twórcy, dostawcy), a nie wydarzenie tech/startup/science ani forum gospodarcze, więc dopasowanie do profilu strony jest decyzją Ani/Pauliny, nie automatu. Pozostałe kryteria spełnione i potwierdzone ponownie 14.11.2026: URL działa (HTTP 200), brak duplikatu w events.json, strona podaje 12-13.11.2026 Wrocław, miejsce Concordia Design. Wydarzenie już się odbyło (12-13.11), więc po zatwierdzeniu trafi od razu do sekcji wydarzeń minionych - data NIE jest powodem wstrzymania. Organizator: Lockme sp. z o.o., Wrocław. Cena: jest przycisk Buy Tickets, ale kwoty nie podano - zostaje samo Paid (fetch_url_meta czyta 5000 ZŁ, to kapitał zakładowy Lockme ze stopki polityki prywatności, nie cena biletu). Wcześniejsze weryfikacje: 13.10, 25.10, 01.11, 12.11, 13.11.2026 - bez zmian.",
+    "triage_note": "Wstrzymane do decyzji redakcyjnej: konferencja i targi B2B branży escape roomów (właściciele, twórcy, dostawcy), a nie wydarzenie tech/startup/science ani forum gospodarcze, więc dopasowanie do profilu strony jest decyzją Ani/Pauliny, nie automatu. Pozostałe kryteria spełnione i potwierdzone ponownie 24.11.2026: URL działa (HTTP 200), brak duplikatu w events.json, strona podaje 12-13.11.2026 Wrocław, miejsce Concordia Design. Wydarzenie już się odbyło (12-13.11), więc po zatwierdzeniu trafi od razu do sekcji wydarzeń minionych - data NIE jest powodem wstrzymania. Organizator: Lockme sp. z o.o., Wrocław. Cena: jest przycisk Buy Tickets, ale kwoty nie podano - zostaje samo Paid (fetch_url_meta czyta 5000 ZŁ, to kapitał zakładowy Lockme ze stopki polityki prywatności, nie cena biletu). Wcześniejsze weryfikacje: 13.10, 25.10, 01.11, 12.11, 13.11, 14.11.2026 - bez zmian.",
     "tally_id": "e5jlXRQ"
   },
   {
@@ -5120,18 +5120,21 @@
     "added": "2026-11-19",
     "submitted": "2026-11-19",
     "url": "https://v4air.eu/?utm_source=startuppoland&utm_medium=listing&utm_campaign=call2027",
-    "organizer": "Charles University, Faculty of Science",
+    "organizer": "Charles University, Prague + prg.ai",
     "enriched": true,
     "end_date": "2027-04-30",
     "venue": "Kostelec Castle",
     "city": "Kostelec nad Černými lesy",
-    "description": "A free, fully funded three-day meetup at Kostelec Castle near Prague for students and early-career researchers from the V4 region who use AI in any field. Applications close 15 January 2027.",
-    "price": "Free",
+    "description": "Three-day V4AIR meetup at Kostelec Castle near Prague for PhD students and early-career researchers in any field who use AI. Free for applicants from the six partner universities, including Wrocław and Toruń; 120-160 EUR for others. Applications close 15 January 2027.",
+    "price": "Partly paid",
     "tags": [
-      "Meetup"
+      "Meetup",
+      "Networking"
     ],
-    "audience": "Students, Researchers",
+    "audience": "Students, Researchers, Founders, Investors",
     "language": "EN",
-    "tally_id": "Z97baOo"
+    "tally_id": "Z97baOo",
+    "description_pl": "Trzydniowy meetup V4AIR na zamku w Kostelcu nad Czarnymi Lasami pod Pragą dla doktorantów i młodych naukowców z każdej dziedziny, którzy wykorzystują AI. Bezpłatny dla osób z sześciu uczelni partnerskich, w tym z Wrocławia i Torunia; dla pozostałych 120-160 EUR. Zgłoszenia do 15 stycznia 2027.",
+    "triage_note": "Wstrzymane: wydarzenie odbywa się fizycznie w Czechach (zamek Kostelec nad Černými lesy pod Pragą), a nie w polskim mieście ani online, więc wykracza poza kryterium lokalizacji - decyzja o publikacji należy do Ani/Pauliny. Polski pierwiastek jest mocny: dwie polskie uczelnie partnerskie (Uniwersytet Wrocławski i UMK w Toruniu), finansowanie z International Visegrad Fund (grant nr 22610317) współfinansowanego m.in. przez rząd RP, zgłoszenia otwarte dla osób z Polski. Pozostałe kryteria sprawdzone 24.11.2026: URL działa, brak duplikatu w events.json, strona podaje 28-30.04.2027, zamek Kostelec. Cena zmieniona z Free na Partly paid - uczestnicy z uczelni partnerskich (w tym Wrocław i Toruń) nie płacą wpisowego, pozostali 120 EUR (student) / 160 EUR (professional) plus nocleg 40-120 EUR, dojazd na własny koszt. Koordynator: Charles University w Pradze, współorganizator prg.ai. Przed zatwierdzeniem: rozstrzygnąć, czy strona listuje wydarzenia zagraniczne z polskim udziałem."
   }
 ]
