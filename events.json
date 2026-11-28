@@ -5136,5 +5136,22 @@
     "tally_id": "Z97baOo",
     "description_pl": "Trzydniowy meetup V4AIR na zamku w Kostelcu nad Czarnymi Lasami pod Pragą dla doktorantów i młodych naukowców z każdej dziedziny, którzy wykorzystują AI. Bezpłatny dla osób z sześciu uczelni partnerskich, w tym z Wrocławia i Torunia; dla pozostałych 120-160 EUR. Zgłoszenia do 15 stycznia 2027.",
     "triage_note": "Wstrzymane: wydarzenie odbywa się fizycznie w Czechach (zamek Kostelec nad Černými lesy pod Pragą), a nie w polskim mieście ani online, więc wykracza poza kryterium lokalizacji - decyzja o publikacji należy do Ani/Pauliny. Polski pierwiastek jest mocny: dwie polskie uczelnie partnerskie (Uniwersytet Wrocławski i UMK w Toruniu), projekt współfinansowany przez rządy V4, w tym Polski, przez International Visegrad Fund (grant nr 22610317), zgłoszenia otwarte dla osób z Polski. Pozostałe kryteria sprawdzone: URL działa, brak duplikatu, strona i JSON-LD potwierdzają 28-30.04.2027 i zamek Kostelec, język angielski, zgłoszenia do 15.01.2027. Cena to Partly paid, nie Free: osoby z uczelni partnerskich (w tym Wrocław i Toruń) nie płacą wpisowego, pozostali 120 EUR (student) / 160 EUR (professional), nocleg 40-120 EUR za dwie noce, dojazd na własny koszt (potwierdzone na v4air.eu/pricing 27.11.2026). Przed zatwierdzeniem: rozstrzygnąć, czy strona listuje wydarzenia zagraniczne z polskim udziałem."
+  },
+  {
+    "name": "CASSINI Hackathon @ Wrocław",
+    "date": "",
+    "status": "pending",
+    "added": "2026-11-28",
+    "submitted": "2026-03-09",
+    "source": "tally-reconcile",
+    "tally_id": "RGXo5WQ",
+    "url": "https://www.cassini.eu/hackathons/poland",
+    "organizer": "Startup Wroclaw x ChallengeRocket",
+    "enriched": true,
+    "description": "⚠ Date not in submission — please complete before approving. Hack with a purpose at the 12th CASSINI Hackathon in Poland and leverage #EUSpace data to develop innovative solutions related to peace and resilience.",
+    "tags": [
+      "Hackathon"
+    ],
+    "language": "EN"
   }
 ]
